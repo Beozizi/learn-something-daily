@@ -1,0 +1,326 @@
+{
+  "ok": true,
+  "strict": false,
+  "browserSkipped": false,
+  "lint": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 1,
+    "infoCount": 0,
+    "findings": [
+      {
+        "code": "composition_file_too_large",
+        "severity": "warning",
+        "message": "This HTML composition file has 438 lines. Smaller sub-compositions are easier to read, iterate on, and diff.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "E:\\science and technology\\tap\\2026-11-04-vi-sao-cat-hanh-cay-mat\\video\\compositions\\s07.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Split this sub-composition further into smaller .html files, then mount them from the parent with data-composition-src so each file stays small enough to inspect, revise, and validate independently."
+      }
+    ],
+    "filesScanned": 12
+  },
+  "runtime": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": []
+  },
+  "layout": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 4,
+    "findings": [
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 12.12,
+        "selector": "#s02-settle",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": -1613,
+          "top": -334,
+          "right": 2895,
+          "bottom": 2219,
+          "width": 4508,
+          "height": 2553
+        },
+        "containerSelector": "#s02-stage",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1920,
+          "bottom": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        "overflow": {
+          "left": 1613,
+          "right": 975,
+          "top": 334,
+          "bottom": 1139
+        },
+        "dataAttributes": {
+          "data-svg-origin": "960.0000366797827 540.0000201738806"
+        },
+        "sourceFile": "compositions/s02.html",
+        "bbox": {
+          "x": -1613,
+          "y": -334,
+          "width": 4508,
+          "height": 2553
+        },
+        "firstSeen": 12.12,
+        "lastSeen": 12.12,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          12.12
+        ]
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 98.72,
+        "selector": "#s07-lb2",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 1060,
+          "top": 310,
+          "right": 1328,
+          "bottom": 361,
+          "width": 268,
+          "height": 51
+        },
+        "containerSelector": "#s07-cloud > text:nth-of-type(1)",
+        "text": "ENZYME CẮT",
+        "fixHint": "Give each block its own zone, or put data-layout-allow-overlap on the text or on a container inside the scene. A marker on the scene root does not apply.",
+        "dataAttributes": {},
+        "sourceFile": "compositions/s07.html",
+        "bbox": {
+          "x": 1060,
+          "y": 310,
+          "width": 268,
+          "height": 51
+        },
+        "firstSeen": 98.72,
+        "lastSeen": 98.72,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          98.72
+        ]
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 109.08,
+        "selector": "#s07-b",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": 70,
+          "top": -514.14,
+          "right": 1810,
+          "bottom": 1037,
+          "width": 1740,
+          "height": 1551.14
+        },
+        "containerSelector": "#s07-stage",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1920,
+          "bottom": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        "overflow": {
+          "top": 514.14
+        },
+        "dataAttributes": {},
+        "sourceFile": "compositions/s07.html",
+        "bbox": {
+          "x": 70,
+          "y": -514.14,
+          "width": 1740,
+          "height": 1551.14
+        },
+        "firstSeen": 109.08,
+        "lastSeen": 133.32,
+        "occurrences": 2,
+        "heldMs": 0,
+        "times": [
+          109.08,
+          133.32
+        ]
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 157.56,
+        "selector": "#s10-k",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": -491,
+          "top": -94.5,
+          "right": 2155,
+          "bottom": 1404,
+          "width": 2646,
+          "height": 1498.5
+        },
+        "containerSelector": "#s10-stage",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1920,
+          "bottom": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        "overflow": {
+          "left": 491,
+          "right": 235,
+          "top": 94.5,
+          "bottom": 324
+        },
+        "dataAttributes": {},
+        "sourceFile": "compositions/s10.html",
+        "bbox": {
+          "x": -491,
+          "y": -94.5,
+          "width": 2646,
+          "height": 1498.5
+        },
+        "firstSeen": 157.56,
+        "lastSeen": 157.56,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          157.56
+        ]
+      }
+    ],
+    "duration": 218.16,
+    "samples": [
+      12.12,
+      36.36,
+      60.6,
+      84.84,
+      109.08,
+      133.32,
+      157.56,
+      181.8,
+      206.04
+    ],
+    "transitionSamples": [],
+    "transitionSamplesDropped": 0,
+    "tolerance": 2,
+    "totalIssueCount": 4,
+    "truncated": false
+  },
+  "motion": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": false,
+    "samples": 0
+  },
+  "contrast": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": true,
+    "samples": [
+      12.12,
+      60.6,
+      109.08,
+      157.56,
+      206.04
+    ],
+    "checked": 11,
+    "passed": 11
+  },
+  "craft": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 1,
+    "infoCount": 0,
+    "findings": [
+      {
+        "code": "text_below_floor",
+        "severity": "warning",
+        "message": "Type floor is 28 px (2.6% of the 1080 px short side, what a phone can read) and 2 text elements stay under it for 0.5 s or more, the smallest \"S\" at 7 px: set reading text to at least 28 px, or put data-layout-ignore on text that is texture rather than reading; see references/look.md.",
+        "text": "S",
+        "selector": "#s03-m3 > text:nth-of-type(1)",
+        "dataAttributes": {},
+        "sourceFile": "compositions/s03.html",
+        "bbox": {
+          "x": 1183.87,
+          "y": 527.08,
+          "width": 16.32,
+          "height": 30.39
+        },
+        "time": 29.865,
+        "times": [
+          29.865,
+          29.865
+        ],
+        "fontPx": 6.72,
+        "floorPx": 28,
+        "seconds": 0.728,
+        "elements": [
+          {
+            "selector": "#s03-m3 > text:nth-of-type(1)",
+            "text": "S",
+            "fontPx": 6.72,
+            "time": 29.865,
+            "seconds": 0.728
+          },
+          {
+            "selector": "#s03-m2 > text:nth-of-type(1)",
+            "text": "S",
+            "fontPx": 22.34,
+            "time": 29.865,
+            "seconds": 0.728
+          }
+        ]
+      }
+    ],
+    "enabled": true,
+    "step": 0.3640000000000043,
+    "samples": 599
+  },
+  "audio": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": []
+  },
+  "hdr": {
+    "autoPromotion": null,
+    "inspection": "available"
+  },
+  "snapshots": {
+    "enabled": false,
+    "files": [],
+    "times": [],
+    "findingFiles": []
+  }
+}

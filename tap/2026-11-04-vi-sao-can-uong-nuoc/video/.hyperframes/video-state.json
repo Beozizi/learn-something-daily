@@ -1,0 +1,2256 @@
+{
+  "version": 1,
+  "historyId": "3357b27f-3b8c-4e54-bad4-8965698cf7da",
+  "currentRevision": "33da642a-f900-4e22-820d-946b0285b59e",
+  "pendingChanges": false,
+  "files": {
+    "AGENTS.md": {
+      "hash": "3bb22af1d0093dfb5a59d3cc884ee63d4e3b8b535d413a0e22139358339c01a6",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\3b\\3bb22af1d0093dfb5a59d3cc884ee63d4e3b8b535d413a0e22139358339c01a6"
+    },
+    "CLAUDE.md": {
+      "hash": "3bb22af1d0093dfb5a59d3cc884ee63d4e3b8b535d413a0e22139358339c01a6",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\3b\\3bb22af1d0093dfb5a59d3cc884ee63d4e3b8b535d413a0e22139358339c01a6"
+    },
+    "assets/fonts/BeVietnamPro-Black.ttf": {
+      "hash": "dd0ec461782da7f4a58698b431a67c455ced7c09deb9c40d7b47e61975d3ffdb",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\dd\\dd0ec461782da7f4a58698b431a67c455ced7c09deb9c40d7b47e61975d3ffdb"
+    },
+    "assets/fonts/BeVietnamPro-BlackItalic.ttf": {
+      "hash": "d55266c614d1fb013a6661c5cd1d98f31f2e03418d83e90f509b210f452c0cdf",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\d5\\d55266c614d1fb013a6661c5cd1d98f31f2e03418d83e90f509b210f452c0cdf"
+    },
+    "assets/fonts/BeVietnamPro-Bold.ttf": {
+      "hash": "7f738fe5c43c8872807b20e2d30d42163618de8a4daf7f48a939adac32c16847",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\7f\\7f738fe5c43c8872807b20e2d30d42163618de8a4daf7f48a939adac32c16847"
+    },
+    "assets/fonts/BeVietnamPro-BoldItalic.ttf": {
+      "hash": "a2a65bdf9b251beb3d658ae691889d71ce63c0290940c87ca60b449ceb0bdaee",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\a2\\a2a65bdf9b251beb3d658ae691889d71ce63c0290940c87ca60b449ceb0bdaee"
+    },
+    "assets/fonts/BeVietnamPro-ExtraBold.ttf": {
+      "hash": "44dbfa01553d227bec76ba6446c5618870a76a4a3297f41630dde859d0650d02",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\44\\44dbfa01553d227bec76ba6446c5618870a76a4a3297f41630dde859d0650d02"
+    },
+    "assets/fonts/BeVietnamPro-ExtraBoldItalic.ttf": {
+      "hash": "b5544a50b74c3153f7aa68614cfaebbea924869e6d6fdfd4ec80decfdd7ff4cd",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\b5\\b5544a50b74c3153f7aa68614cfaebbea924869e6d6fdfd4ec80decfdd7ff4cd"
+    },
+    "assets/fonts/BeVietnamPro-ExtraLight.ttf": {
+      "hash": "3df1650399fd891967082bd2f78e1d87fe4eb82fc7bdbb7ab94ba8bda848caa1",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\3d\\3df1650399fd891967082bd2f78e1d87fe4eb82fc7bdbb7ab94ba8bda848caa1"
+    },
+    "assets/fonts/BeVietnamPro-ExtraLightItalic.ttf": {
+      "hash": "fc4410f0aa39430463f103463d27be5486c2018d11854f1733dd27be7348b41c",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\fc\\fc4410f0aa39430463f103463d27be5486c2018d11854f1733dd27be7348b41c"
+    },
+    "assets/fonts/BeVietnamPro-Italic.ttf": {
+      "hash": "a33ebb3f68e0e260a7d3874d64259ad309971a2daf969e7ce5f444d70bce535f",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\a3\\a33ebb3f68e0e260a7d3874d64259ad309971a2daf969e7ce5f444d70bce535f"
+    },
+    "assets/fonts/BeVietnamPro-Light.ttf": {
+      "hash": "f0b7143edac3fd99960312706cfa51cbafec28e7afa6d4afbd08a73bb246af13",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\f0\\f0b7143edac3fd99960312706cfa51cbafec28e7afa6d4afbd08a73bb246af13"
+    },
+    "assets/fonts/BeVietnamPro-LightItalic.ttf": {
+      "hash": "baeadf148ee2b6640d7910ebab99b01aaaf5eb009463bdf466ab2b43108389fd",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\ba\\baeadf148ee2b6640d7910ebab99b01aaaf5eb009463bdf466ab2b43108389fd"
+    },
+    "assets/fonts/BeVietnamPro-Medium.ttf": {
+      "hash": "b60832bfa0fcd015158112c64d7e3fdad3b0c6287d1823f85a3103636e845268",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\b6\\b60832bfa0fcd015158112c64d7e3fdad3b0c6287d1823f85a3103636e845268"
+    },
+    "assets/fonts/BeVietnamPro-MediumItalic.ttf": {
+      "hash": "b7d43a5f943048f7d4e49a080052acce1902f1eab07f4160299d84abab8119fa",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\b7\\b7d43a5f943048f7d4e49a080052acce1902f1eab07f4160299d84abab8119fa"
+    },
+    "assets/fonts/BeVietnamPro-Regular.ttf": {
+      "hash": "cd1ef6e9d7db28ad5cdb88a65ccbe693870e60d340b791f349d248342b4fe4c3",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\cd\\cd1ef6e9d7db28ad5cdb88a65ccbe693870e60d340b791f349d248342b4fe4c3"
+    },
+    "assets/fonts/BeVietnamPro-SemiBold.ttf": {
+      "hash": "bd8e27eb02720b9d91e59e4f10a90878643219f25ce6a8d9a4f06a8a88d3bb71",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\bd\\bd8e27eb02720b9d91e59e4f10a90878643219f25ce6a8d9a4f06a8a88d3bb71"
+    },
+    "assets/fonts/BeVietnamPro-SemiBoldItalic.ttf": {
+      "hash": "f7dbf8a63f4b4a6f7d7f1f4f27443495d01475663bb8fe5cb1a6fc6740e82a27",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\f7\\f7dbf8a63f4b4a6f7d7f1f4f27443495d01475663bb8fe5cb1a6fc6740e82a27"
+    },
+    "assets/fonts/BeVietnamPro-Thin.ttf": {
+      "hash": "3ff7cae0bdd4b2087fe24583d1137dc0a6ecfed96c62ee39955992fa1629176c",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\3f\\3ff7cae0bdd4b2087fe24583d1137dc0a6ecfed96c62ee39955992fa1629176c"
+    },
+    "assets/fonts/BeVietnamPro-ThinItalic.ttf": {
+      "hash": "14c50e3d6c8980656681ede48068d12ae645c71b1eaa40ff14267d54a49c5c5a",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\14\\14c50e3d6c8980656681ede48068d12ae645c71b1eaa40ff14267d54a49c5c5a"
+    },
+    "assets/fonts/OFL.txt": {
+      "hash": "6b7f8f73609a25ea78c891e34cf37b06f8a676b7ea986e941e43b009110f2a85",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\6b\\6b7f8f73609a25ea78c891e34cf37b06f8a676b7ea986e941e43b009110f2a85"
+    },
+    "assets/sfx/sfx_001.mp3": {
+      "hash": "6f07549092525229f29116fa25063be41391247ca1c741bcb9686596b155728b",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\6f\\6f07549092525229f29116fa25063be41391247ca1c741bcb9686596b155728b"
+    },
+    "assets/sfx/sfx_002.mp3": {
+      "hash": "c2efd9d902a59bf9ec5019035d7deadd17762136896b6e3cb6dd99ea50997a30",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\c2\\c2efd9d902a59bf9ec5019035d7deadd17762136896b6e3cb6dd99ea50997a30"
+    },
+    "assets/sfx/sfx_003.mp3": {
+      "hash": "0eed6c7af2f5b373ee8869379e6f44937f6378e45ef03d10aeea9a3c67f8a9d6",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\0e\\0eed6c7af2f5b373ee8869379e6f44937f6378e45ef03d10aeea9a3c67f8a9d6"
+    },
+    "assets/sfx/sfx_004.mp3": {
+      "hash": "075e17bdac5c13662a1c9530050e0046f81d4138e00eb3bf30427a7b4404103d",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\07\\075e17bdac5c13662a1c9530050e0046f81d4138e00eb3bf30427a7b4404103d"
+    },
+    "assets/sfx/sfx_005.mp3": {
+      "hash": "373c5f445d02749993fb9186e44484853b3c34deaf87802a00ef057edd276a30",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\37\\373c5f445d02749993fb9186e44484853b3c34deaf87802a00ef057edd276a30"
+    },
+    "assets/sfx/sfx_006.mp3": {
+      "hash": "0a7e94d959a97548211da52edfb60914315a8cae549da98caab53137c7267544",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\0a\\0a7e94d959a97548211da52edfb60914315a8cae549da98caab53137c7267544"
+    },
+    "assets/sfx/sfx_007.mp3": {
+      "hash": "d2f29d49f27dee7d3b25af22ffe5bebc39390cc5d5fb3b3e1c433499c77f3d1d",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\d2\\d2f29d49f27dee7d3b25af22ffe5bebc39390cc5d5fb3b3e1c433499c77f3d1d"
+    },
+    "assets/sfx/sfx_008.mp3": {
+      "hash": "39a2a0ff049c4bae067777d96880ff360a9774f1ae5b553db7d1dfdcfb725d56",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\39\\39a2a0ff049c4bae067777d96880ff360a9774f1ae5b553db7d1dfdcfb725d56"
+    },
+    "assets/sfx/sfx_009.mp3": {
+      "hash": "19ab7193f626ff57fdeef60b45543bac416fcbcec803cfb417abe4b271c1b352",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\19\\19ab7193f626ff57fdeef60b45543bac416fcbcec803cfb417abe4b271c1b352"
+    },
+    "build.py": {
+      "hash": "268efdf1a6b3baabe265a870c751a3e8d80e06c8169026778b2241bf99e01839",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\26\\268efdf1a6b3baabe265a870c751a3e8d80e06c8169026778b2241bf99e01839"
+    },
+    "compositions/s01.html": {
+      "hash": "0ffe78e00f8e2d0ed8c9e1fc0f3a73d9bc59e9a92718c894c0bc0d408c7d2072",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\0f\\0ffe78e00f8e2d0ed8c9e1fc0f3a73d9bc59e9a92718c894c0bc0d408c7d2072"
+    },
+    "compositions/s02.html": {
+      "hash": "0e55b1e160253d6613907dc1b1e01ed30a0445942ea35bb3f43cf6300b34e57a",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\0e\\0e55b1e160253d6613907dc1b1e01ed30a0445942ea35bb3f43cf6300b34e57a"
+    },
+    "compositions/s03.html": {
+      "hash": "9a42183f8c1a80c1972d1fdac437f29550f6e6d997944e58f8b9fd5e20397ca0",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\9a\\9a42183f8c1a80c1972d1fdac437f29550f6e6d997944e58f8b9fd5e20397ca0"
+    },
+    "hyperframes.json": {
+      "hash": "53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\53\\53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50"
+    },
+    "index.html": {
+      "hash": "7963260251507e50bcbd0840bfa25679f6cfffc52a1d95262005cfbffecf530c",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\79\\7963260251507e50bcbd0840bfa25679f6cfffc52a1d95262005cfbffecf530c"
+    },
+    "meta.json": {
+      "hash": "a3073e0a4e8afb4f027d32ee14e61e9efed6c82ca29c983455cf313276bdde11",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\a3\\a3073e0a4e8afb4f027d32ee14e61e9efed6c82ca29c983455cf313276bdde11"
+    },
+    "package.json": {
+      "hash": "11d37b46f8bd7e5000ab69a5deeb112a0ad7aff2dfa55c368e17a5ad870b247d",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\11\\11d37b46f8bd7e5000ab69a5deeb112a0ad7aff2dfa55c368e17a5ad870b247d"
+    },
+    "assets/loi-doc.wav": {
+      "hash": "5367116125da8a46a71f50506df82273c82a3b88813ba153af71930d5e097083",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\53\\5367116125da8a46a71f50506df82273c82a3b88813ba153af71930d5e097083"
+    },
+    "compositions/s04.html": {
+      "hash": "7fc0c412f478907d29282bb253f03c0a6338514ab00b8826deb2ec5132423a09",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\7f\\7fc0c412f478907d29282bb253f03c0a6338514ab00b8826deb2ec5132423a09"
+    },
+    "compositions/s05.html": {
+      "hash": "2f278bd7139cca589f93a5732399dbfd972243cde8dab09544200b35c81dc7d6",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\2f\\2f278bd7139cca589f93a5732399dbfd972243cde8dab09544200b35c81dc7d6"
+    },
+    "compositions/s06.html": {
+      "hash": "ef9e603ae4f8f48c003d4aa7334ad00d935cf4ed867a14f5f0257c3382cff1d5",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\ef\\ef9e603ae4f8f48c003d4aa7334ad00d935cf4ed867a14f5f0257c3382cff1d5"
+    },
+    "compositions/s07.html": {
+      "hash": "3a7186e829576f4297d57e31ebb771fe9a816f16764290bda7b219da5c3c034d",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\3a\\3a7186e829576f4297d57e31ebb771fe9a816f16764290bda7b219da5c3c034d"
+    },
+    "compositions/s08.html": {
+      "hash": "dd1482e139b00c0311f21ce420852813f241b83a654c5ff87f572957dd3f2961",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\dd\\dd1482e139b00c0311f21ce420852813f241b83a654c5ff87f572957dd3f2961"
+    },
+    "compositions/s09.html": {
+      "hash": "e81b5fc3654da38344c1643dedda90a16b4c3ac26d74f7e7db164fa9ef62a134",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\e8\\e81b5fc3654da38344c1643dedda90a16b4c3ac26d74f7e7db164fa9ef62a134"
+    },
+    "compositions/s10.html": {
+      "hash": "d39bdc6cd6db785fea4ac4ef0582351a31ee44ccb64bbff33317d1270dbac728",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\d3\\d39bdc6cd6db785fea4ac4ef0582351a31ee44ccb64bbff33317d1270dbac728"
+    },
+    ".media/manifest.jsonl": {
+      "hash": "969f35a616a959c086c44f4098c0530203b67faadc018b862c2a74fcc4ff5d31",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\96\\969f35a616a959c086c44f4098c0530203b67faadc018b862c2a74fcc4ff5d31"
+    },
+    "assets/bgm/doc.wav": {
+      "hash": "6a618b1977209487703c0ffac6462c251e0916e0557616a56a20d050394ba614",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\6a\\6a618b1977209487703c0ffac6462c251e0916e0557616a56a20d050394ba614"
+    },
+    "assets/bgm/kal.wav": {
+      "hash": "7f3302131c6e04d7c71748a4cb354670cf1381b4eee38c4301466bbc4f0ce443",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\7f\\7f3302131c6e04d7c71748a4cb354670cf1381b4eee38c4301466bbc4f0ce443"
+    },
+    "assets/bgm/lofi.wav": {
+      "hash": "f3e6a89a477b323160cb2bd6bbd394db695684d75a706cb684af1c938012303e",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\f3\\f3e6a89a477b323160cb2bd6bbd394db695684d75a706cb684af1c938012303e"
+    },
+    "assets/bgm/mar.wav": {
+      "hash": "572c70eefa023a0cdda38b86219553582fd648a5eb49bbd24a44c0d8e7ee11c1",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\57\\572c70eefa023a0cdda38b86219553582fd648a5eb49bbd24a44c0d8e7ee11c1"
+    },
+    "assets/bgm/piz.wav": {
+      "hash": "85c1407194e40b4124d47649c9f1581d78c1d259c2832f8c2c83fd0fc51659ca",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\85\\85c1407194e40b4124d47649c9f1581d78c1d259c2832f8c2c83fd0fc51659ca"
+    },
+    "compositions/s11.html": {
+      "hash": "027ecbdbd2e9a96f2d468942ff6e48f85360616a4401a64f70887b0c2ba400b6",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\02\\027ecbdbd2e9a96f2d468942ff6e48f85360616a4401a64f70887b0c2ba400b6"
+    },
+    "compositions/s12.html": {
+      "hash": "615c940a1e377446c3d15e8ac0446d50b5c65eb31030c1439035a511509d5e1f",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\61\\615c940a1e377446c3d15e8ac0446d50b5c65eb31030c1439035a511509d5e1f"
+    },
+    "compositions/s13.html": {
+      "hash": "93a94034ead5a60556b14450837a227b358568f326c39d3a21bf33f9302070fb",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\93\\93a94034ead5a60556b14450837a227b358568f326c39d3a21bf33f9302070fb"
+    },
+    "compositions/s14.html": {
+      "hash": "72a74d42526e99718c1f6bb9b3760a6e09c64c400a545b9252b72fee56ee6668",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\72\\72a74d42526e99718c1f6bb9b3760a6e09c64c400a545b9252b72fee56ee6668"
+    },
+    "compositions/s15.html": {
+      "hash": "a71ab245d2bfdfda81df36f0cfb6c0916f7249a2e9c9bdfef19108d8b2140f74",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\a7\\a71ab245d2bfdfda81df36f0cfb6c0916f7249a2e9c9bdfef19108d8b2140f74"
+    },
+    "compositions/s16.html": {
+      "hash": "062de0e7555cb96e57b793d6871ff7b706426626341c312d0375b30589298c7d",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\06\\062de0e7555cb96e57b793d6871ff7b706426626341c312d0375b30589298c7d"
+    },
+    "compositions/s17.html": {
+      "hash": "05c1d7c9c7aa3c4d8ac494552b3001b30f76d9390765c4a8aa36dc2c7604ed1c",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\05\\05c1d7c9c7aa3c4d8ac494552b3001b30f76d9390765c4a8aa36dc2c7604ed1c"
+    },
+    "compositions/s18.html": {
+      "hash": "e4a58cc0df061fc8bb3353bfe550e158f44c10169305d0bf3614edeec7dd049a",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\e4\\e4a58cc0df061fc8bb3353bfe550e158f44c10169305d0bf3614edeec7dd049a"
+    },
+    "compositions/s19.html": {
+      "hash": "5e0c581978b0e18553a6711400acf2d5ebc8cf4e4a1bd39aabe002168405b72d",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\5e\\5e0c581978b0e18553a6711400acf2d5ebc8cf4e4a1bd39aabe002168405b72d"
+    },
+    "compositions/s20.html": {
+      "hash": "e6c5392038b301b23eefa791ec1e038074f4be376494b3c4685f7328118117d6",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\e6\\e6c5392038b301b23eefa791ec1e038074f4be376494b3c4685f7328118117d6"
+    },
+    "compositions/s21.html": {
+      "hash": "c61533a1a9cd8e92461e3f937dbf61a5956f8ebff348ef6bebace5a7c17071a3",
+      "content": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\c6\\c61533a1a9cd8e92461e3f937dbf61a5956f8ebff348ef6bebace5a7c17071a3"
+    }
+  },
+  "revisions": {
+    "7d52f27b-a0ee-4a5d-82ca-89b220618b12": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1793785938716,
+      "endedAt": 1793785938748,
+      "files": {
+        "build.py": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\ef\\efb9030b2d074a80181ff5680563d596a2f8b216c0934f825fb99ea75bb64ae6",
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\d6\\d6d1cca8809d8ebebd9122c0ccabdbf28f4b1c964cee63233e90557a0927d13d"
+        },
+        "compositions/s01.html": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\c5\\c5980b240499f6f1b1140a38e5c5766cff5d241814107dfaa94f6993eb3b4643",
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\0f\\0ffe78e00f8e2d0ed8c9e1fc0f3a73d9bc59e9a92718c894c0bc0d408c7d2072"
+        },
+        "compositions/s02.html": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\89\\8997770cc947cca11011dbe87b75a04ca64bcf0a43fca2f2339b912c25a89b7b",
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\9f\\9fc32f63a3544e58a2800ee9dcb4f996674497aee5c53ec7f9590579e3987956"
+        },
+        "compositions/s03.html": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\84\\84d9757a1aa9f1c92f030a2b23f3b1f80a92bedf9c8ab8fc152b8fa13f45a1eb",
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\9c\\9cf670c6f00fbdfa31adb1cede26ec60b35f00adde6e2f3fc91e57ce06e3834c"
+        },
+        "compositions/s04.html": {
+          "before": null,
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\b0\\b0a7969651ce3b25e6222c35bcc4de33068d2c443eb256b150fd328720eafcf3"
+        },
+        "compositions/s05.html": {
+          "before": null,
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\5f\\5f1ccf03a557719284d477d4616d0e65caedeb7fed49ff36e6941ef4990625f4"
+        },
+        "compositions/s06.html": {
+          "before": null,
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\6e\\6e8df12926ee2f192dc80379187bbf064922b0cfd68c58b76059daa9d1f92282"
+        },
+        "compositions/s07.html": {
+          "before": null,
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\3a\\3a7186e829576f4297d57e31ebb771fe9a816f16764290bda7b219da5c3c034d"
+        },
+        "compositions/s08.html": {
+          "before": null,
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\dd\\dd1482e139b00c0311f21ce420852813f241b83a654c5ff87f572957dd3f2961"
+        },
+        "compositions/s09.html": {
+          "before": null,
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\89\\8914bb7865b800e1e9e8f9dc9071f692728a19d7d9b546ee86ceab1da60add70"
+        },
+        "compositions/s10.html": {
+          "before": null,
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\37\\37bd6a96f643d5de65858a3e0a9db16b9e6820d8db14d596ab870441aa2b4572"
+        },
+        "index.html": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\39\\392e1e76b90ab9c47deac85377d9347d815aa0006ca1bea2ae2bd4c52e60e309",
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\b5\\b556f004dd39e4dd58a80a18cc0f4f32b2a768bd119b8d6a34aaf2092d79bce0"
+        }
+      }
+    },
+    "aa789116-5854-4c4d-8f70-24d83dbbb227": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1793786253448,
+      "endedAt": 1793786253792,
+      "files": {
+        ".media/manifest.jsonl": {
+          "before": null,
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\96\\969f35a616a959c086c44f4098c0530203b67faadc018b862c2a74fcc4ff5d31"
+        },
+        "assets/bgm/bgm_001.wav": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\85\\85c1407194e40b4124d47649c9f1581d78c1d259c2832f8c2c83fd0fc51659ca",
+          "after": null
+        },
+        "assets/bgm/bgm_002.wav": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\57\\572c70eefa023a0cdda38b86219553582fd648a5eb49bbd24a44c0d8e7ee11c1",
+          "after": null
+        },
+        "assets/bgm/doc.wav": {
+          "before": null,
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\6a\\6a618b1977209487703c0ffac6462c251e0916e0557616a56a20d050394ba614"
+        },
+        "assets/bgm/kal.wav": {
+          "before": null,
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\7f\\7f3302131c6e04d7c71748a4cb354670cf1381b4eee38c4301466bbc4f0ce443"
+        },
+        "assets/bgm/lofi.wav": {
+          "before": null,
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\f3\\f3e6a89a477b323160cb2bd6bbd394db695684d75a706cb684af1c938012303e"
+        },
+        "assets/bgm/mar.wav": {
+          "before": null,
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\57\\572c70eefa023a0cdda38b86219553582fd648a5eb49bbd24a44c0d8e7ee11c1"
+        },
+        "assets/bgm/piz.wav": {
+          "before": null,
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\85\\85c1407194e40b4124d47649c9f1581d78c1d259c2832f8c2c83fd0fc51659ca"
+        },
+        "build.py": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\d6\\d6d1cca8809d8ebebd9122c0ccabdbf28f4b1c964cee63233e90557a0927d13d",
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\75\\75930ff77cf7dbe08f9232e59c8bf366dbf8d7679a7f2989447b25b76e0b0527"
+        },
+        "compositions/s04.html": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\b0\\b0a7969651ce3b25e6222c35bcc4de33068d2c443eb256b150fd328720eafcf3",
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\ee\\ee643e5cf8cd09799a11d57ee7a21cf14234b10986b73bdbb214bb37b1869605"
+        },
+        "compositions/s06.html": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\6e\\6e8df12926ee2f192dc80379187bbf064922b0cfd68c58b76059daa9d1f92282",
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\ef\\ef9e603ae4f8f48c003d4aa7334ad00d935cf4ed867a14f5f0257c3382cff1d5"
+        },
+        "compositions/s09.html": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\89\\8914bb7865b800e1e9e8f9dc9071f692728a19d7d9b546ee86ceab1da60add70",
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\e8\\e81b5fc3654da38344c1643dedda90a16b4c3ac26d74f7e7db164fa9ef62a134"
+        },
+        "compositions/s10.html": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\37\\37bd6a96f643d5de65858a3e0a9db16b9e6820d8db14d596ab870441aa2b4572",
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\2f\\2fbcc811499c0cb91d46d7db82505c5ba897c7a2377a95aed7d3322170eabc04"
+        },
+        "compositions/s11.html": {
+          "before": null,
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\02\\027ecbdbd2e9a96f2d468942ff6e48f85360616a4401a64f70887b0c2ba400b6"
+        },
+        "compositions/s12.html": {
+          "before": null,
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\61\\615c940a1e377446c3d15e8ac0446d50b5c65eb31030c1439035a511509d5e1f"
+        },
+        "compositions/s13.html": {
+          "before": null,
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\7e\\7ea4686d2f08d49832c4db90721a94a1b5221860fe09c08b526656d30a5696b2"
+        },
+        "compositions/s14.html": {
+          "before": null,
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\60\\602eee8dc961ff5d544afe32d109c750e16f6452d0ab98ae035768e50300bdbc"
+        },
+        "compositions/s15.html": {
+          "before": null,
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\0c\\0cd105c845d8d642009b20c9e08d1a0d5284b84bd0c3a89fc544ac3b4de9d3eb"
+        },
+        "compositions/s16.html": {
+          "before": null,
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\ea\\ea7dfe63fc2afada3d4ce6d7824c76ff6a940a4f4cc557b4aa1419e5f7cbed8f"
+        },
+        "compositions/s17.html": {
+          "before": null,
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\05\\05c1d7c9c7aa3c4d8ac494552b3001b30f76d9390765c4a8aa36dc2c7604ed1c"
+        },
+        "compositions/s18.html": {
+          "before": null,
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\e4\\e4a58cc0df061fc8bb3353bfe550e158f44c10169305d0bf3614edeec7dd049a"
+        },
+        "compositions/s19.html": {
+          "before": null,
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\5e\\5e0c581978b0e18553a6711400acf2d5ebc8cf4e4a1bd39aabe002168405b72d"
+        },
+        "compositions/s20.html": {
+          "before": null,
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\e6\\e6c5392038b301b23eefa791ec1e038074f4be376494b3c4685f7328118117d6"
+        },
+        "compositions/s21.html": {
+          "before": null,
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\c6\\c61533a1a9cd8e92461e3f937dbf61a5956f8ebff348ef6bebace5a7c17071a3"
+        },
+        "index.html": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\b5\\b556f004dd39e4dd58a80a18cc0f4f32b2a768bd119b8d6a34aaf2092d79bce0",
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\06\\065c9b488f643bfd6a0e5cb421fdd2dde66f5b0de1a8108778c146b290890573"
+        }
+      }
+    },
+    "3a95549d-cf1d-4f5d-ae1d-701424fae87a": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1793786338241,
+      "endedAt": 1793786338524,
+      "files": {
+        "build.py": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\75\\75930ff77cf7dbe08f9232e59c8bf366dbf8d7679a7f2989447b25b76e0b0527",
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\fa\\fa6f3c5fc3d0cba0714b130941eadd97d25c1158ad3bc0be0c5b314c867cb879"
+        },
+        "compositions/s02.html": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\9f\\9fc32f63a3544e58a2800ee9dcb4f996674497aee5c53ec7f9590579e3987956",
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\0e\\0e55b1e160253d6613907dc1b1e01ed30a0445942ea35bb3f43cf6300b34e57a"
+        },
+        "compositions/s03.html": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\9c\\9cf670c6f00fbdfa31adb1cede26ec60b35f00adde6e2f3fc91e57ce06e3834c",
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\9a\\9a42183f8c1a80c1972d1fdac437f29550f6e6d997944e58f8b9fd5e20397ca0"
+        },
+        "compositions/s04.html": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\ee\\ee643e5cf8cd09799a11d57ee7a21cf14234b10986b73bdbb214bb37b1869605",
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\7f\\7fc0c412f478907d29282bb253f03c0a6338514ab00b8826deb2ec5132423a09"
+        },
+        "compositions/s05.html": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\5f\\5f1ccf03a557719284d477d4616d0e65caedeb7fed49ff36e6941ef4990625f4",
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\c8\\c8a1081986611f1341b73dd3c445ce7795d811aa34e29b0a6a6f1039af2544a9"
+        },
+        "compositions/s13.html": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\7e\\7ea4686d2f08d49832c4db90721a94a1b5221860fe09c08b526656d30a5696b2",
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\93\\93a94034ead5a60556b14450837a227b358568f326c39d3a21bf33f9302070fb"
+        },
+        "compositions/s14.html": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\60\\602eee8dc961ff5d544afe32d109c750e16f6452d0ab98ae035768e50300bdbc",
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\72\\72a74d42526e99718c1f6bb9b3760a6e09c64c400a545b9252b72fee56ee6668"
+        },
+        "compositions/s15.html": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\0c\\0cd105c845d8d642009b20c9e08d1a0d5284b84bd0c3a89fc544ac3b4de9d3eb",
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\3f\\3f6bdae92b68c42851a9638d0c82722280a61493a69fc1f971c7da1ed29fd5e1"
+        },
+        "compositions/s16.html": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\ea\\ea7dfe63fc2afada3d4ce6d7824c76ff6a940a4f4cc557b4aa1419e5f7cbed8f",
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\57\\575b858f66ac7ca624249a80089d14a403e2d6d2250590ac61415b0a60d2bccd"
+        },
+        "index.html": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\06\\065c9b488f643bfd6a0e5cb421fdd2dde66f5b0de1a8108778c146b290890573",
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\7a\\7a624eac237952bfe1967a78bfd5b47755461b24ac974404b44d9c21988a72c8"
+        }
+      }
+    },
+    "85092832-649d-487c-9103-67a76b2e3148": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1793786367534,
+      "endedAt": 1793786367586,
+      "files": {
+        "build.py": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\fa\\fa6f3c5fc3d0cba0714b130941eadd97d25c1158ad3bc0be0c5b314c867cb879",
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\8f\\8fe6b4a8c0550028a5a994b7fd1329d9a1cae1e258aebb80998026c362184a98"
+        },
+        "compositions/s05.html": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\c8\\c8a1081986611f1341b73dd3c445ce7795d811aa34e29b0a6a6f1039af2544a9",
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\2f\\2f278bd7139cca589f93a5732399dbfd972243cde8dab09544200b35c81dc7d6"
+        },
+        "compositions/s10.html": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\2f\\2fbcc811499c0cb91d46d7db82505c5ba897c7a2377a95aed7d3322170eabc04",
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\d3\\d39bdc6cd6db785fea4ac4ef0582351a31ee44ccb64bbff33317d1270dbac728"
+        },
+        "compositions/s16.html": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\57\\575b858f66ac7ca624249a80089d14a403e2d6d2250590ac61415b0a60d2bccd",
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\06\\062de0e7555cb96e57b793d6871ff7b706426626341c312d0375b30589298c7d"
+        },
+        "index.html": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\7a\\7a624eac237952bfe1967a78bfd5b47755461b24ac974404b44d9c21988a72c8",
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\79\\7963260251507e50bcbd0840bfa25679f6cfffc52a1d95262005cfbffecf530c"
+        }
+      }
+    },
+    "33da642a-f900-4e22-820d-946b0285b59e": {
+      "actor": {
+        "kind": "outside",
+        "name": "Outside"
+      },
+      "label": "Changed outside the app",
+      "startedAt": 1793786390850,
+      "endedAt": 1793786391990,
+      "files": {
+        "build.py": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\8f\\8fe6b4a8c0550028a5a994b7fd1329d9a1cae1e258aebb80998026c362184a98",
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\26\\268efdf1a6b3baabe265a870c751a3e8d80e06c8169026778b2241bf99e01839"
+        },
+        "compositions/s15.html": {
+          "before": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\3f\\3f6bdae92b68c42851a9638d0c82722280a61493a69fc1f971c7da1ed29fd5e1",
+          "after": "C:\\Users\\Admin\\.cache\\hyperframes\\history\\3357b27f-3b8c-4e54-bad4-8965698cf7da\\blobs\\a7\\a71ab245d2bfdfda81df36f0cfb6c0916f7249a2e9c9bdfef19108d8b2140f74"
+        }
+      }
+    }
+  },
+  "checks": {
+    "latest": {
+      "revision": "33da642a-f900-4e22-820d-946b0285b59e",
+      "id": "2d2b0031-b76f-4546-9737-1518733998f0"
+    },
+    "revisions": {
+      "aa789116-5854-4c4d-8f70-24d83dbbb227": [
+        {
+          "id": "ec986ec3-8bba-418f-b90e-cd3d932ad0e7",
+          "scope": "project",
+          "report": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\checks\\ec986ec3-8bba-418f-b90e-cd3d932ad0e7.json",
+          "metadata": {
+            "ok": false,
+            "browserSkipped": false,
+            "options": {
+              "samples": 9,
+              "atTransitions": false,
+              "maxIssues": 80,
+              "collapseStatic": true,
+              "tolerance": 2,
+              "timeout": 45000,
+              "contrast": true,
+              "strict": false,
+              "snapshots": false,
+              "browserGpuMode": "auto"
+            }
+          },
+          "createdAt": 1793786269782,
+          "contentHash": "8691b1eda5fd923825c1ca4d5ee309599cd046993f63eb27ad5b1194b43aa16a",
+          "revision": "aa789116-5854-4c4d-8f70-24d83dbbb227",
+          "inputFingerprint": "03ef0bbcf474445f63dd5bee334b781ab96f7ceb242e70f9e08f0bd4391dda4e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        }
+      ],
+      "3a95549d-cf1d-4f5d-ae1d-701424fae87a": [
+        {
+          "id": "2abbd2fe-e692-43a0-964d-5f8bab02218b",
+          "scope": "project",
+          "report": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\checks\\2abbd2fe-e692-43a0-964d-5f8bab02218b.json",
+          "metadata": {
+            "ok": true,
+            "browserSkipped": false,
+            "options": {
+              "samples": 9,
+              "atTransitions": false,
+              "maxIssues": 80,
+              "collapseStatic": true,
+              "tolerance": 2,
+              "timeout": 45000,
+              "contrast": true,
+              "strict": false,
+              "snapshots": false,
+              "browserGpuMode": "auto"
+            }
+          },
+          "createdAt": 1793786353778,
+          "contentHash": "cdd341c647c779d79959f03e145ef74ed738bdee9633578044cffe68dab9382f",
+          "revision": "3a95549d-cf1d-4f5d-ae1d-701424fae87a",
+          "inputFingerprint": "657ca7e5813a968be92311908442da93b9a3886d4fc30f11da1667b34a5e66b9",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        }
+      ],
+      "33da642a-f900-4e22-820d-946b0285b59e": [
+        {
+          "id": "2d2b0031-b76f-4546-9737-1518733998f0",
+          "scope": "project",
+          "report": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\checks\\2d2b0031-b76f-4546-9737-1518733998f0.json",
+          "metadata": {
+            "ok": true,
+            "browserSkipped": false,
+            "options": {
+              "samples": 9,
+              "atTransitions": false,
+              "maxIssues": 80,
+              "collapseStatic": true,
+              "tolerance": 2,
+              "timeout": 45000,
+              "contrast": true,
+              "strict": false,
+              "snapshots": false,
+              "browserGpuMode": "auto"
+            }
+          },
+          "createdAt": 1793786407647,
+          "contentHash": "7893f161755a8824ecdda476861730d0ce5d7ae00e2221662f1dc0ad4e7c7d68",
+          "revision": "33da642a-f900-4e22-820d-946b0285b59e",
+          "inputFingerprint": "87f8da441af9a5bcb11a42439386df8a1344d7358f5456c21151385c603f81b1",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        }
+      ]
+    },
+    "unversioned": []
+  },
+  "snapshots": {
+    "latest": {
+      "revision": "85092832-649d-487c-9103-67a76b2e3148",
+      "id": "34a54f68-7314-4dca-a144-e01c14471d37-7"
+    },
+    "revisions": {
+      "7d52f27b-a0ee-4a5d-82ca-89b220618b12": [
+        {
+          "scope": "full",
+          "id": "280da814-ac54-4ac3-9603-7a1e088aba14-0",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\9388f983-0a11-4509-9494-b0b96fd2307d\\frame-00-at-47s.png",
+          "time": 47,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793785944003,
+          "contentHash": "ef2d95eb69e2e1827df0774329a67e198802dd0c01d086b24c4f4915f49d1089",
+          "revision": "7d52f27b-a0ee-4a5d-82ca-89b220618b12",
+          "inputFingerprint": "ba1e5298305b4fc23d86da610a3ad86cf645d5eb6b9d4ad2525c782864c7e190",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "280da814-ac54-4ac3-9603-7a1e088aba14-1",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\9388f983-0a11-4509-9494-b0b96fd2307d\\frame-01-at-55s.png",
+          "time": 55,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793785944003,
+          "contentHash": "6e0c695f7f77b97864248472f8e4fea0b1cc23f498c849496ef7897b74ff0108",
+          "revision": "7d52f27b-a0ee-4a5d-82ca-89b220618b12",
+          "inputFingerprint": "ba1e5298305b4fc23d86da610a3ad86cf645d5eb6b9d4ad2525c782864c7e190",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "280da814-ac54-4ac3-9603-7a1e088aba14-2",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\9388f983-0a11-4509-9494-b0b96fd2307d\\frame-02-at-66s.png",
+          "time": 66,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793785944004,
+          "contentHash": "edbeabfbb3e880da18fa0716774c8cc58a22c6f83058dc3e2978db66b4656279",
+          "revision": "7d52f27b-a0ee-4a5d-82ca-89b220618b12",
+          "inputFingerprint": "ba1e5298305b4fc23d86da610a3ad86cf645d5eb6b9d4ad2525c782864c7e190",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "280da814-ac54-4ac3-9603-7a1e088aba14-3",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\9388f983-0a11-4509-9494-b0b96fd2307d\\frame-03-at-76s.png",
+          "time": 76,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793785944004,
+          "contentHash": "5126f915f92e59e57281c71ca8fdbe4044e922405727c975c980ea34714f2ec8",
+          "revision": "7d52f27b-a0ee-4a5d-82ca-89b220618b12",
+          "inputFingerprint": "ba1e5298305b4fc23d86da610a3ad86cf645d5eb6b9d4ad2525c782864c7e190",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "280da814-ac54-4ac3-9603-7a1e088aba14-4",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\9388f983-0a11-4509-9494-b0b96fd2307d\\frame-04-at-80s.png",
+          "time": 80,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793785944004,
+          "contentHash": "2413b433beefbef189dab847853470f4c593c3e149b64538a57be5c015a73af9",
+          "revision": "7d52f27b-a0ee-4a5d-82ca-89b220618b12",
+          "inputFingerprint": "ba1e5298305b4fc23d86da610a3ad86cf645d5eb6b9d4ad2525c782864c7e190",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "280da814-ac54-4ac3-9603-7a1e088aba14-5",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\9388f983-0a11-4509-9494-b0b96fd2307d\\frame-05-at-90s.png",
+          "time": 90,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793785944004,
+          "contentHash": "9c8a670875f4e2ff03d4599495938053592df504429fafc6b4ab489dbf1fc2d9",
+          "revision": "7d52f27b-a0ee-4a5d-82ca-89b220618b12",
+          "inputFingerprint": "ba1e5298305b4fc23d86da610a3ad86cf645d5eb6b9d4ad2525c782864c7e190",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "280da814-ac54-4ac3-9603-7a1e088aba14-6",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\9388f983-0a11-4509-9494-b0b96fd2307d\\frame-06-at-98s.png",
+          "time": 98,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793785944005,
+          "contentHash": "1d72d4ba6bbce8d4aa19ea696c475b815e9dc775a6c21eb1fbb9acdb4f797e02",
+          "revision": "7d52f27b-a0ee-4a5d-82ca-89b220618b12",
+          "inputFingerprint": "ba1e5298305b4fc23d86da610a3ad86cf645d5eb6b9d4ad2525c782864c7e190",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "280da814-ac54-4ac3-9603-7a1e088aba14-7",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\9388f983-0a11-4509-9494-b0b96fd2307d\\frame-07-at-104s.png",
+          "time": 104,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793785944005,
+          "contentHash": "0d1c38262b078e2d8f0354856a6e17c404250e9f7c3bc3f91e1b107eb0f14861",
+          "revision": "7d52f27b-a0ee-4a5d-82ca-89b220618b12",
+          "inputFingerprint": "ba1e5298305b4fc23d86da610a3ad86cf645d5eb6b9d4ad2525c782864c7e190",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "280da814-ac54-4ac3-9603-7a1e088aba14-8",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\9388f983-0a11-4509-9494-b0b96fd2307d\\frame-08-at-112s.png",
+          "time": 112,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793785944006,
+          "contentHash": "ba2b824c56289af02248a28dda86fc3fd8543f68ab1fd5606c40a77a099bd83f",
+          "revision": "7d52f27b-a0ee-4a5d-82ca-89b220618b12",
+          "inputFingerprint": "ba1e5298305b4fc23d86da610a3ad86cf645d5eb6b9d4ad2525c782864c7e190",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "280da814-ac54-4ac3-9603-7a1e088aba14-9",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\9388f983-0a11-4509-9494-b0b96fd2307d\\frame-09-at-119s.png",
+          "time": 119,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793785944006,
+          "contentHash": "8a36f1f41cc98be6cba81e6c15a2197fc31e4e9875ddf44e3074261b673cf267",
+          "revision": "7d52f27b-a0ee-4a5d-82ca-89b220618b12",
+          "inputFingerprint": "ba1e5298305b4fc23d86da610a3ad86cf645d5eb6b9d4ad2525c782864c7e190",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "280da814-ac54-4ac3-9603-7a1e088aba14-10",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\9388f983-0a11-4509-9494-b0b96fd2307d\\frame-10-at-124s.png",
+          "time": 124,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793785944006,
+          "contentHash": "d88e42a55773cd847377a9c3540e84ffed67d911726c090147abc0db7162c40e",
+          "revision": "7d52f27b-a0ee-4a5d-82ca-89b220618b12",
+          "inputFingerprint": "ba1e5298305b4fc23d86da610a3ad86cf645d5eb6b9d4ad2525c782864c7e190",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "280da814-ac54-4ac3-9603-7a1e088aba14-11",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\9388f983-0a11-4509-9494-b0b96fd2307d\\frame-11-at-131s.png",
+          "time": 131,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793785944007,
+          "contentHash": "d395cfa5ba095348a3f384e5afd4f544f1521175353b6defa8df8e8fea03cdb5",
+          "revision": "7d52f27b-a0ee-4a5d-82ca-89b220618b12",
+          "inputFingerprint": "ba1e5298305b4fc23d86da610a3ad86cf645d5eb6b9d4ad2525c782864c7e190",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "280da814-ac54-4ac3-9603-7a1e088aba14-12",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\9388f983-0a11-4509-9494-b0b96fd2307d\\frame-12-at-140s.png",
+          "time": 140,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793785944007,
+          "contentHash": "138622ddc428918b294b8f4751112009e14a6891712a8e2c909ee5e60c226bff",
+          "revision": "7d52f27b-a0ee-4a5d-82ca-89b220618b12",
+          "inputFingerprint": "ba1e5298305b4fc23d86da610a3ad86cf645d5eb6b9d4ad2525c782864c7e190",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "280da814-ac54-4ac3-9603-7a1e088aba14-13",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\9388f983-0a11-4509-9494-b0b96fd2307d\\frame-13-at-147s.png",
+          "time": 147,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793785944007,
+          "contentHash": "b33f1a08e78d57535f41ac81bdf5dc046fbc801c00975aaa771d7e6c60142301",
+          "revision": "7d52f27b-a0ee-4a5d-82ca-89b220618b12",
+          "inputFingerprint": "ba1e5298305b4fc23d86da610a3ad86cf645d5eb6b9d4ad2525c782864c7e190",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "280da814-ac54-4ac3-9603-7a1e088aba14-14",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\9388f983-0a11-4509-9494-b0b96fd2307d\\frame-14-at-156s.png",
+          "time": 156,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793785944008,
+          "contentHash": "42b55bb88fc401dceebc5050922abb35dffc15a3e1f6e122467310967bc3a5d1",
+          "revision": "7d52f27b-a0ee-4a5d-82ca-89b220618b12",
+          "inputFingerprint": "ba1e5298305b4fc23d86da610a3ad86cf645d5eb6b9d4ad2525c782864c7e190",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "280da814-ac54-4ac3-9603-7a1e088aba14-15",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\9388f983-0a11-4509-9494-b0b96fd2307d\\frame-15-at-165s.png",
+          "time": 165,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793785944008,
+          "contentHash": "3340b7a5c386bb5f14eef1fd90e9159cc3acfa3a1e63c0d4c170b2acd0339507",
+          "revision": "7d52f27b-a0ee-4a5d-82ca-89b220618b12",
+          "inputFingerprint": "ba1e5298305b4fc23d86da610a3ad86cf645d5eb6b9d4ad2525c782864c7e190",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "280da814-ac54-4ac3-9603-7a1e088aba14-16",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\9388f983-0a11-4509-9494-b0b96fd2307d\\frame-16-at-172s.png",
+          "time": 172,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793785944009,
+          "contentHash": "85ae9cecdb5d4ff052deb05a4e3240eafd201ab737514f1b0c0d826bd9ab08b6",
+          "revision": "7d52f27b-a0ee-4a5d-82ca-89b220618b12",
+          "inputFingerprint": "ba1e5298305b4fc23d86da610a3ad86cf645d5eb6b9d4ad2525c782864c7e190",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "280da814-ac54-4ac3-9603-7a1e088aba14-17",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\9388f983-0a11-4509-9494-b0b96fd2307d\\frame-17-at-182s.png",
+          "time": 182,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793785944009,
+          "contentHash": "82893de2251aa13da43eea37180a88b6f23a8def9bc07fe68e4754eb9632f632",
+          "revision": "7d52f27b-a0ee-4a5d-82ca-89b220618b12",
+          "inputFingerprint": "ba1e5298305b4fc23d86da610a3ad86cf645d5eb6b9d4ad2525c782864c7e190",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "280da814-ac54-4ac3-9603-7a1e088aba14-18",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\9388f983-0a11-4509-9494-b0b96fd2307d\\frame-18-at-190s.png",
+          "time": 190,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793785944010,
+          "contentHash": "6019de033f74d238e269f420717e355cf7986dc71a6b50b2141fe4842388bdc1",
+          "revision": "7d52f27b-a0ee-4a5d-82ca-89b220618b12",
+          "inputFingerprint": "ba1e5298305b4fc23d86da610a3ad86cf645d5eb6b9d4ad2525c782864c7e190",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "280da814-ac54-4ac3-9603-7a1e088aba14-19",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\9388f983-0a11-4509-9494-b0b96fd2307d\\frame-19-at-197s.png",
+          "time": 197,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793785944010,
+          "contentHash": "72efa566bd9e57537744f8457aad6517bf01787c88581b0317ffbf8b235380bd",
+          "revision": "7d52f27b-a0ee-4a5d-82ca-89b220618b12",
+          "inputFingerprint": "ba1e5298305b4fc23d86da610a3ad86cf645d5eb6b9d4ad2525c782864c7e190",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "280da814-ac54-4ac3-9603-7a1e088aba14-20",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\9388f983-0a11-4509-9494-b0b96fd2307d\\frame-20-at-206s.png",
+          "time": 206,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793785944010,
+          "contentHash": "d98156d508f04c8e27c763fbd536b46337866073b213ded5206992d6197baaaa",
+          "revision": "7d52f27b-a0ee-4a5d-82ca-89b220618b12",
+          "inputFingerprint": "ba1e5298305b4fc23d86da610a3ad86cf645d5eb6b9d4ad2525c782864c7e190",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "280da814-ac54-4ac3-9603-7a1e088aba14-21",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\9388f983-0a11-4509-9494-b0b96fd2307d\\frame-21-at-214s.png",
+          "time": 214,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793785944011,
+          "contentHash": "902a0534df1da812a52d3f17435ca68986876b9e5c883ebcbcf58445d5602bc7",
+          "revision": "7d52f27b-a0ee-4a5d-82ca-89b220618b12",
+          "inputFingerprint": "ba1e5298305b4fc23d86da610a3ad86cf645d5eb6b9d4ad2525c782864c7e190",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "280da814-ac54-4ac3-9603-7a1e088aba14-22",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\9388f983-0a11-4509-9494-b0b96fd2307d\\frame-22-at-226s.png",
+          "time": 226,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793785944011,
+          "contentHash": "8c3cf3e7c253f0309c811ee23ca16e8888d9e0b3c46ab411a2bc8aa82ef3b6e9",
+          "revision": "7d52f27b-a0ee-4a5d-82ca-89b220618b12",
+          "inputFingerprint": "ba1e5298305b4fc23d86da610a3ad86cf645d5eb6b9d4ad2525c782864c7e190",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "280da814-ac54-4ac3-9603-7a1e088aba14-23",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\9388f983-0a11-4509-9494-b0b96fd2307d\\frame-23-at-236s.png",
+          "time": 236,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793785944012,
+          "contentHash": "66adf129cef0ec5620e1ef7fb35d859348a9a40946d3b1f36bb32cd4e0c1e357",
+          "revision": "7d52f27b-a0ee-4a5d-82ca-89b220618b12",
+          "inputFingerprint": "ba1e5298305b4fc23d86da610a3ad86cf645d5eb6b9d4ad2525c782864c7e190",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "280da814-ac54-4ac3-9603-7a1e088aba14-24",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\9388f983-0a11-4509-9494-b0b96fd2307d\\frame-24-at-247s.png",
+          "time": 247,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793785944012,
+          "contentHash": "3db011aeb2495ab364821fed8cc0a242e01a2677aee1f119a5ef86567b062f71",
+          "revision": "7d52f27b-a0ee-4a5d-82ca-89b220618b12",
+          "inputFingerprint": "ba1e5298305b4fc23d86da610a3ad86cf645d5eb6b9d4ad2525c782864c7e190",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "280da814-ac54-4ac3-9603-7a1e088aba14-25",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\9388f983-0a11-4509-9494-b0b96fd2307d\\frame-25-at-497.46s.png",
+          "time": 497.46,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793785944013,
+          "contentHash": "05c98a4cc615bd8d4e226df60059d50d200c34d85c43fcb7cd2eae20c53e2c23",
+          "revision": "7d52f27b-a0ee-4a5d-82ca-89b220618b12",
+          "inputFingerprint": "ba1e5298305b4fc23d86da610a3ad86cf645d5eb6b9d4ad2525c782864c7e190",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        }
+      ],
+      "aa789116-5854-4c4d-8f70-24d83dbbb227": [
+        {
+          "scope": "full",
+          "id": "2457080d-4dea-45b6-8737-884669c95d96-0",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\a8827e38-23e7-4870-9504-eaefada66cb0\\frame-00-at-257s.png",
+          "time": 257,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786279385,
+          "contentHash": "b50b7d809fee22265e99a8bf7865bd44bd843a611e37434dee4ab30570125ec9",
+          "revision": "aa789116-5854-4c4d-8f70-24d83dbbb227",
+          "inputFingerprint": "03ef0bbcf474445f63dd5bee334b781ab96f7ceb242e70f9e08f0bd4391dda4e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "2457080d-4dea-45b6-8737-884669c95d96-1",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\a8827e38-23e7-4870-9504-eaefada66cb0\\frame-01-at-268s.png",
+          "time": 268,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786279386,
+          "contentHash": "fcbc6e2d2ff45f6ce255d0f70d71378532e69f9dfc4e16bb04b9669fc2c081c4",
+          "revision": "aa789116-5854-4c4d-8f70-24d83dbbb227",
+          "inputFingerprint": "03ef0bbcf474445f63dd5bee334b781ab96f7ceb242e70f9e08f0bd4391dda4e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "2457080d-4dea-45b6-8737-884669c95d96-2",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\a8827e38-23e7-4870-9504-eaefada66cb0\\frame-02-at-279s.png",
+          "time": 279,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786279387,
+          "contentHash": "121db636ab7c686333e51277d4608d203804da0f21553e40af8e4dc925dde461",
+          "revision": "aa789116-5854-4c4d-8f70-24d83dbbb227",
+          "inputFingerprint": "03ef0bbcf474445f63dd5bee334b781ab96f7ceb242e70f9e08f0bd4391dda4e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "2457080d-4dea-45b6-8737-884669c95d96-3",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\a8827e38-23e7-4870-9504-eaefada66cb0\\frame-03-at-287s.png",
+          "time": 287,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786279387,
+          "contentHash": "271cb993d1dc579cec8f71cef84cb91e6c55129397b0c85fca63ceb2394adcb1",
+          "revision": "aa789116-5854-4c4d-8f70-24d83dbbb227",
+          "inputFingerprint": "03ef0bbcf474445f63dd5bee334b781ab96f7ceb242e70f9e08f0bd4391dda4e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "2457080d-4dea-45b6-8737-884669c95d96-4",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\a8827e38-23e7-4870-9504-eaefada66cb0\\frame-04-at-294s.png",
+          "time": 294,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786279388,
+          "contentHash": "8cebf21b8b0b64f5b2142afe62781aadf509badb8aeae219a77caba726790493",
+          "revision": "aa789116-5854-4c4d-8f70-24d83dbbb227",
+          "inputFingerprint": "03ef0bbcf474445f63dd5bee334b781ab96f7ceb242e70f9e08f0bd4391dda4e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "2457080d-4dea-45b6-8737-884669c95d96-5",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\a8827e38-23e7-4870-9504-eaefada66cb0\\frame-05-at-302s.png",
+          "time": 302,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786279389,
+          "contentHash": "73f277a81296821e9195fbc6cb5d36b3bdf9bc6432a84ff0a9fad74f2b22f5df",
+          "revision": "aa789116-5854-4c4d-8f70-24d83dbbb227",
+          "inputFingerprint": "03ef0bbcf474445f63dd5bee334b781ab96f7ceb242e70f9e08f0bd4391dda4e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "2457080d-4dea-45b6-8737-884669c95d96-6",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\a8827e38-23e7-4870-9504-eaefada66cb0\\frame-06-at-312s.png",
+          "time": 312,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786279389,
+          "contentHash": "31e621bed250d4370cc7a3d8c30691d86cc6f399cadaa45449f388441760234a",
+          "revision": "aa789116-5854-4c4d-8f70-24d83dbbb227",
+          "inputFingerprint": "03ef0bbcf474445f63dd5bee334b781ab96f7ceb242e70f9e08f0bd4391dda4e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "2457080d-4dea-45b6-8737-884669c95d96-7",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\a8827e38-23e7-4870-9504-eaefada66cb0\\frame-07-at-322s.png",
+          "time": 322,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786279390,
+          "contentHash": "59f9d43383886328c15fbefa6c0fc721a5dd22ef81bef9c403eba4ef6be817db",
+          "revision": "aa789116-5854-4c4d-8f70-24d83dbbb227",
+          "inputFingerprint": "03ef0bbcf474445f63dd5bee334b781ab96f7ceb242e70f9e08f0bd4391dda4e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "2457080d-4dea-45b6-8737-884669c95d96-8",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\a8827e38-23e7-4870-9504-eaefada66cb0\\frame-08-at-331s.png",
+          "time": 331,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786279390,
+          "contentHash": "5d040b3f2c0f4fd2a6a2f4419db35cc7ecf86d5c054a222ac867d7339044f6a8",
+          "revision": "aa789116-5854-4c4d-8f70-24d83dbbb227",
+          "inputFingerprint": "03ef0bbcf474445f63dd5bee334b781ab96f7ceb242e70f9e08f0bd4391dda4e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "2457080d-4dea-45b6-8737-884669c95d96-9",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\a8827e38-23e7-4870-9504-eaefada66cb0\\frame-09-at-340s.png",
+          "time": 340,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786279391,
+          "contentHash": "2eb0a75f7d9c1fb3238507b8ffa4edca8015d60cda250fe85daaf9b7545d99f3",
+          "revision": "aa789116-5854-4c4d-8f70-24d83dbbb227",
+          "inputFingerprint": "03ef0bbcf474445f63dd5bee334b781ab96f7ceb242e70f9e08f0bd4391dda4e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "2457080d-4dea-45b6-8737-884669c95d96-10",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\a8827e38-23e7-4870-9504-eaefada66cb0\\frame-10-at-350s.png",
+          "time": 350,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786279392,
+          "contentHash": "472d87ac33e29d2b8f9a8e4102e69b1f1698db931abcef14b25ca19d15ec48b9",
+          "revision": "aa789116-5854-4c4d-8f70-24d83dbbb227",
+          "inputFingerprint": "03ef0bbcf474445f63dd5bee334b781ab96f7ceb242e70f9e08f0bd4391dda4e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "2457080d-4dea-45b6-8737-884669c95d96-11",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\a8827e38-23e7-4870-9504-eaefada66cb0\\frame-11-at-358s.png",
+          "time": 358,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786279392,
+          "contentHash": "12f9b34947a56581bc5ce5b3b7d4d4875c8363ce1cbbebd7d8f8b6b917566f50",
+          "revision": "aa789116-5854-4c4d-8f70-24d83dbbb227",
+          "inputFingerprint": "03ef0bbcf474445f63dd5bee334b781ab96f7ceb242e70f9e08f0bd4391dda4e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "2457080d-4dea-45b6-8737-884669c95d96-12",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\a8827e38-23e7-4870-9504-eaefada66cb0\\frame-12-at-368s.png",
+          "time": 368,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786279393,
+          "contentHash": "1b294330115ce04c96e8e368474ed36f92925c8a81236cb8ed6a3cbc15a82aeb",
+          "revision": "aa789116-5854-4c4d-8f70-24d83dbbb227",
+          "inputFingerprint": "03ef0bbcf474445f63dd5bee334b781ab96f7ceb242e70f9e08f0bd4391dda4e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "2457080d-4dea-45b6-8737-884669c95d96-13",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\a8827e38-23e7-4870-9504-eaefada66cb0\\frame-13-at-378s.png",
+          "time": 378,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786279394,
+          "contentHash": "6447c4a356554af54f46f57b0a2a0594aee4a49c4872027095eb25b6c319779b",
+          "revision": "aa789116-5854-4c4d-8f70-24d83dbbb227",
+          "inputFingerprint": "03ef0bbcf474445f63dd5bee334b781ab96f7ceb242e70f9e08f0bd4391dda4e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "2457080d-4dea-45b6-8737-884669c95d96-14",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\a8827e38-23e7-4870-9504-eaefada66cb0\\frame-14-at-389s.png",
+          "time": 389,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786279395,
+          "contentHash": "e3d27c419eda6d756a30086fc7e9cea63a2aaa0cadbb93ac1e4b39f134b3fe2b",
+          "revision": "aa789116-5854-4c4d-8f70-24d83dbbb227",
+          "inputFingerprint": "03ef0bbcf474445f63dd5bee334b781ab96f7ceb242e70f9e08f0bd4391dda4e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "2457080d-4dea-45b6-8737-884669c95d96-15",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\a8827e38-23e7-4870-9504-eaefada66cb0\\frame-15-at-397s.png",
+          "time": 397,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786279395,
+          "contentHash": "346618cf32e3b79af587944177d8b8d41309d9c9727b9392c649bccb23376475",
+          "revision": "aa789116-5854-4c4d-8f70-24d83dbbb227",
+          "inputFingerprint": "03ef0bbcf474445f63dd5bee334b781ab96f7ceb242e70f9e08f0bd4391dda4e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "2457080d-4dea-45b6-8737-884669c95d96-16",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\a8827e38-23e7-4870-9504-eaefada66cb0\\frame-16-at-407s.png",
+          "time": 407,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786279396,
+          "contentHash": "767be513958f62e78ad998bd9bcaacc1ebb423c283d34de3a2737b21417b7ac2",
+          "revision": "aa789116-5854-4c4d-8f70-24d83dbbb227",
+          "inputFingerprint": "03ef0bbcf474445f63dd5bee334b781ab96f7ceb242e70f9e08f0bd4391dda4e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "2457080d-4dea-45b6-8737-884669c95d96-17",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\a8827e38-23e7-4870-9504-eaefada66cb0\\frame-17-at-420s.png",
+          "time": 420,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786279397,
+          "contentHash": "251b5abdcfe59c9318aae213ae8f639597bee587f247bbf68853e4bba914ca40",
+          "revision": "aa789116-5854-4c4d-8f70-24d83dbbb227",
+          "inputFingerprint": "03ef0bbcf474445f63dd5bee334b781ab96f7ceb242e70f9e08f0bd4391dda4e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "2457080d-4dea-45b6-8737-884669c95d96-18",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\a8827e38-23e7-4870-9504-eaefada66cb0\\frame-18-at-428s.png",
+          "time": 428,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786279398,
+          "contentHash": "7d50323dc63e9002c6701be63812266a294bc18d04b1424af0cf6e670e079842",
+          "revision": "aa789116-5854-4c4d-8f70-24d83dbbb227",
+          "inputFingerprint": "03ef0bbcf474445f63dd5bee334b781ab96f7ceb242e70f9e08f0bd4391dda4e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "2457080d-4dea-45b6-8737-884669c95d96-19",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\a8827e38-23e7-4870-9504-eaefada66cb0\\frame-19-at-433s.png",
+          "time": 433,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786279398,
+          "contentHash": "e044337b95b8b9d187505985a12574357a86180159a86b68c107c0bd29b5b72d",
+          "revision": "aa789116-5854-4c4d-8f70-24d83dbbb227",
+          "inputFingerprint": "03ef0bbcf474445f63dd5bee334b781ab96f7ceb242e70f9e08f0bd4391dda4e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "2457080d-4dea-45b6-8737-884669c95d96-20",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\a8827e38-23e7-4870-9504-eaefada66cb0\\frame-20-at-440s.png",
+          "time": 440,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786279399,
+          "contentHash": "3bbab0a002e880cab6ea07068abcd5f53a51710808ec89ee0411db047da58a0f",
+          "revision": "aa789116-5854-4c4d-8f70-24d83dbbb227",
+          "inputFingerprint": "03ef0bbcf474445f63dd5bee334b781ab96f7ceb242e70f9e08f0bd4391dda4e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "2457080d-4dea-45b6-8737-884669c95d96-21",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\a8827e38-23e7-4870-9504-eaefada66cb0\\frame-21-at-452s.png",
+          "time": 452,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786279400,
+          "contentHash": "e9deeb53b6fb00aee6d27202a81c6afcd9541a71ce45f5b342044fc987b376a1",
+          "revision": "aa789116-5854-4c4d-8f70-24d83dbbb227",
+          "inputFingerprint": "03ef0bbcf474445f63dd5bee334b781ab96f7ceb242e70f9e08f0bd4391dda4e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "2457080d-4dea-45b6-8737-884669c95d96-22",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\a8827e38-23e7-4870-9504-eaefada66cb0\\frame-22-at-462s.png",
+          "time": 462,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786279401,
+          "contentHash": "8175ee760f11d07e116b34d5ddaf1e2c87486fc6cf4ff50b4460fb3f2ea4ede8",
+          "revision": "aa789116-5854-4c4d-8f70-24d83dbbb227",
+          "inputFingerprint": "03ef0bbcf474445f63dd5bee334b781ab96f7ceb242e70f9e08f0bd4391dda4e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "2457080d-4dea-45b6-8737-884669c95d96-23",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\a8827e38-23e7-4870-9504-eaefada66cb0\\frame-23-at-469s.png",
+          "time": 469,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786279402,
+          "contentHash": "75a0a22b51814f5343174baf65bc92822e5966cbe1c2f29b95d949be4df47046",
+          "revision": "aa789116-5854-4c4d-8f70-24d83dbbb227",
+          "inputFingerprint": "03ef0bbcf474445f63dd5bee334b781ab96f7ceb242e70f9e08f0bd4391dda4e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "2457080d-4dea-45b6-8737-884669c95d96-24",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\a8827e38-23e7-4870-9504-eaefada66cb0\\frame-24-at-476s.png",
+          "time": 476,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786279403,
+          "contentHash": "92aa05abca4d22731cac35c0820af04d8140af20b55a61ada9d27e395618590c",
+          "revision": "aa789116-5854-4c4d-8f70-24d83dbbb227",
+          "inputFingerprint": "03ef0bbcf474445f63dd5bee334b781ab96f7ceb242e70f9e08f0bd4391dda4e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "2457080d-4dea-45b6-8737-884669c95d96-25",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\a8827e38-23e7-4870-9504-eaefada66cb0\\frame-25-at-480s.png",
+          "time": 480,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786279403,
+          "contentHash": "325fd1f29f7cff4027ee0a92f96b919c69987767bb2c3de09ea9bf3ff35bc343",
+          "revision": "aa789116-5854-4c4d-8f70-24d83dbbb227",
+          "inputFingerprint": "03ef0bbcf474445f63dd5bee334b781ab96f7ceb242e70f9e08f0bd4391dda4e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "2457080d-4dea-45b6-8737-884669c95d96-26",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\a8827e38-23e7-4870-9504-eaefada66cb0\\frame-26-at-490s.png",
+          "time": 490,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786279404,
+          "contentHash": "79c069db3b55c0e93eb555c54ff2204f00fdc17dbbcbd34348e115cbae95fa81",
+          "revision": "aa789116-5854-4c4d-8f70-24d83dbbb227",
+          "inputFingerprint": "03ef0bbcf474445f63dd5bee334b781ab96f7ceb242e70f9e08f0bd4391dda4e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "2457080d-4dea-45b6-8737-884669c95d96-27",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\a8827e38-23e7-4870-9504-eaefada66cb0\\frame-27-at-497.46s.png",
+          "time": 497.46,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786279405,
+          "contentHash": "f8de5d838dce3dc852942b787a5eecf06949b9949e28346b512ba19833938273",
+          "revision": "aa789116-5854-4c4d-8f70-24d83dbbb227",
+          "inputFingerprint": "03ef0bbcf474445f63dd5bee334b781ab96f7ceb242e70f9e08f0bd4391dda4e",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        }
+      ],
+      "85092832-649d-487c-9103-67a76b2e3148": [
+        {
+          "scope": "full",
+          "id": "34a54f68-7314-4dca-a144-e01c14471d37-0",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\7430aa7c-367f-4552-80d2-16e87bb62e28\\frame-00-at-279s.png",
+          "time": 279,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786371762,
+          "contentHash": "16e2b794988e232a05c03a2f6c8cbcf324d6074ad4d65a5fd9910269058f417a",
+          "revision": "85092832-649d-487c-9103-67a76b2e3148",
+          "inputFingerprint": "b98d55545eb6ec5134fba0f3f0c98dd23ffc32fe949bb1499f476fdf26166615",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "34a54f68-7314-4dca-a144-e01c14471d37-1",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\7430aa7c-367f-4552-80d2-16e87bb62e28\\frame-01-at-300s.png",
+          "time": 300,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786371763,
+          "contentHash": "482995d775cec76e4fbab6dbfead07439c0e3acb26c5094f54b8dd2445254264",
+          "revision": "85092832-649d-487c-9103-67a76b2e3148",
+          "inputFingerprint": "b98d55545eb6ec5134fba0f3f0c98dd23ffc32fe949bb1499f476fdf26166615",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "34a54f68-7314-4dca-a144-e01c14471d37-2",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\7430aa7c-367f-4552-80d2-16e87bb62e28\\frame-02-at-322s.png",
+          "time": 322,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786371764,
+          "contentHash": "c54bd0140a218a789a6a9586ffe7702424dc48da8e544fd7e629690289d9e9c8",
+          "revision": "85092832-649d-487c-9103-67a76b2e3148",
+          "inputFingerprint": "b98d55545eb6ec5134fba0f3f0c98dd23ffc32fe949bb1499f476fdf26166615",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "34a54f68-7314-4dca-a144-e01c14471d37-3",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\7430aa7c-367f-4552-80d2-16e87bb62e28\\frame-03-at-352s.png",
+          "time": 352,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786371765,
+          "contentHash": "63c0f52bd119210cb91392ebe221ba51b4ee2db9000ac1a8d239c1c6b5911635",
+          "revision": "85092832-649d-487c-9103-67a76b2e3148",
+          "inputFingerprint": "b98d55545eb6ec5134fba0f3f0c98dd23ffc32fe949bb1499f476fdf26166615",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "34a54f68-7314-4dca-a144-e01c14471d37-4",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\7430aa7c-367f-4552-80d2-16e87bb62e28\\frame-04-at-360s.png",
+          "time": 360,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786371766,
+          "contentHash": "6e2d8424f9e7516d5198acea0096bba115c16b526d0435333719974bdf502e63",
+          "revision": "85092832-649d-487c-9103-67a76b2e3148",
+          "inputFingerprint": "b98d55545eb6ec5134fba0f3f0c98dd23ffc32fe949bb1499f476fdf26166615",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "34a54f68-7314-4dca-a144-e01c14471d37-5",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\7430aa7c-367f-4552-80d2-16e87bb62e28\\frame-05-at-389s.png",
+          "time": 389,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786371767,
+          "contentHash": "cfabc4ec62feda1716d6974fc54fe727ccf2022768ba152e4f79276941903b65",
+          "revision": "85092832-649d-487c-9103-67a76b2e3148",
+          "inputFingerprint": "b98d55545eb6ec5134fba0f3f0c98dd23ffc32fe949bb1499f476fdf26166615",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "34a54f68-7314-4dca-a144-e01c14471d37-6",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\7430aa7c-367f-4552-80d2-16e87bb62e28\\frame-06-at-407s.png",
+          "time": 407,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786371768,
+          "contentHash": "da891b2f9bd987611edcd0cf438c32789291bd6d5e0f0d2a83458b8072d001be",
+          "revision": "85092832-649d-487c-9103-67a76b2e3148",
+          "inputFingerprint": "b98d55545eb6ec5134fba0f3f0c98dd23ffc32fe949bb1499f476fdf26166615",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        },
+        {
+          "scope": "full",
+          "id": "34a54f68-7314-4dca-a144-e01c14471d37-7",
+          "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\7430aa7c-367f-4552-80d2-16e87bb62e28\\frame-07-at-497.46s.png",
+          "time": 497.46,
+          "metadata": {
+            "width": 1920,
+            "height": 1080,
+            "zoomScale": 1,
+            "browserGpuMode": "auto",
+            "warnings": [],
+            "partial": false
+          },
+          "createdAt": 1793786371769,
+          "contentHash": "f8de5d838dce3dc852942b787a5eecf06949b9949e28346b512ba19833938273",
+          "revision": "85092832-649d-487c-9103-67a76b2e3148",
+          "inputFingerprint": "b98d55545eb6ec5134fba0f3f0c98dd23ffc32fe949bb1499f476fdf26166615",
+          "inputScope": "local-project-files",
+          "attribution": "recorded-revision"
+        }
+      ]
+    },
+    "unversioned": [
+      {
+        "scope": "full",
+        "id": "ce6f4c06-a66c-4462-b0a3-6c6d3a6c81a5-0",
+        "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\e18677fc-7f6e-4608-b1e9-95ec1c8faf73\\frame-00-at-0.5s.png",
+        "time": 0.5,
+        "metadata": {
+          "width": 1920,
+          "height": 1080,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793785727120,
+        "contentHash": "cdb4a1f3885a66013c28521f88f35b9dcb1d005e14695aab4b253b599cd87c10",
+        "revision": null,
+        "inputFingerprint": "c59e8d3d78a1ab0f2a1e4e0979fc664ba1b71de3a05c5fa06709b0e93f4f0fcb",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "ce6f4c06-a66c-4462-b0a3-6c6d3a6c81a5-1",
+        "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\e18677fc-7f6e-4608-b1e9-95ec1c8faf73\\frame-01-at-3s.png",
+        "time": 3,
+        "metadata": {
+          "width": 1920,
+          "height": 1080,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793785727120,
+        "contentHash": "ba11ffb23afa02ea943220c099e09369459543d3c8bbe22647ecad3353642544",
+        "revision": null,
+        "inputFingerprint": "c59e8d3d78a1ab0f2a1e4e0979fc664ba1b71de3a05c5fa06709b0e93f4f0fcb",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "ce6f4c06-a66c-4462-b0a3-6c6d3a6c81a5-2",
+        "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\e18677fc-7f6e-4608-b1e9-95ec1c8faf73\\frame-02-at-5s.png",
+        "time": 5,
+        "metadata": {
+          "width": 1920,
+          "height": 1080,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793785727120,
+        "contentHash": "59f46e3c35a7783b45d3f02397a8864081f5f36821c5b99f019f52a6f4cdbecd",
+        "revision": null,
+        "inputFingerprint": "c59e8d3d78a1ab0f2a1e4e0979fc664ba1b71de3a05c5fa06709b0e93f4f0fcb",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "ce6f4c06-a66c-4462-b0a3-6c6d3a6c81a5-3",
+        "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\e18677fc-7f6e-4608-b1e9-95ec1c8faf73\\frame-03-at-7.5s.png",
+        "time": 7.5,
+        "metadata": {
+          "width": 1920,
+          "height": 1080,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793785727120,
+        "contentHash": "2585241aecfcdaffffb8eefe061b6670e4650202757187c99ab72a07b1e2bcd4",
+        "revision": null,
+        "inputFingerprint": "c59e8d3d78a1ab0f2a1e4e0979fc664ba1b71de3a05c5fa06709b0e93f4f0fcb",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "ce6f4c06-a66c-4462-b0a3-6c6d3a6c81a5-4",
+        "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\e18677fc-7f6e-4608-b1e9-95ec1c8faf73\\frame-04-at-10.5s.png",
+        "time": 10.5,
+        "metadata": {
+          "width": 1920,
+          "height": 1080,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793785727120,
+        "contentHash": "002ca896ec628a926c887d0d97382baeb078660fbb93019e51c99f5b6ea1817a",
+        "revision": null,
+        "inputFingerprint": "c59e8d3d78a1ab0f2a1e4e0979fc664ba1b71de3a05c5fa06709b0e93f4f0fcb",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "ce6f4c06-a66c-4462-b0a3-6c6d3a6c81a5-5",
+        "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\e18677fc-7f6e-4608-b1e9-95ec1c8faf73\\frame-05-at-13s.png",
+        "time": 13,
+        "metadata": {
+          "width": 1920,
+          "height": 1080,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793785727120,
+        "contentHash": "a04cda63e278ef0ce05b35d80ff429c1be2f5a2ca93f20afa4ad9d62d35ab6f6",
+        "revision": null,
+        "inputFingerprint": "c59e8d3d78a1ab0f2a1e4e0979fc664ba1b71de3a05c5fa06709b0e93f4f0fcb",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "ce6f4c06-a66c-4462-b0a3-6c6d3a6c81a5-6",
+        "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\e18677fc-7f6e-4608-b1e9-95ec1c8faf73\\frame-06-at-14.5s.png",
+        "time": 14.5,
+        "metadata": {
+          "width": 1920,
+          "height": 1080,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793785727120,
+        "contentHash": "754f03563d1fee21f773c7a3b40920840d4b94894a1bf8d4fef066ebf860d1d0",
+        "revision": null,
+        "inputFingerprint": "c59e8d3d78a1ab0f2a1e4e0979fc664ba1b71de3a05c5fa06709b0e93f4f0fcb",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "ce6f4c06-a66c-4462-b0a3-6c6d3a6c81a5-7",
+        "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\e18677fc-7f6e-4608-b1e9-95ec1c8faf73\\frame-07-at-16s.png",
+        "time": 16,
+        "metadata": {
+          "width": 1920,
+          "height": 1080,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793785727120,
+        "contentHash": "6fa26ff80370f008bc46441203136bd66c46f95dbb2a1f564268771baadf33d4",
+        "revision": null,
+        "inputFingerprint": "c59e8d3d78a1ab0f2a1e4e0979fc664ba1b71de3a05c5fa06709b0e93f4f0fcb",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "ce6f4c06-a66c-4462-b0a3-6c6d3a6c81a5-8",
+        "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\e18677fc-7f6e-4608-b1e9-95ec1c8faf73\\frame-08-at-18s.png",
+        "time": 18,
+        "metadata": {
+          "width": 1920,
+          "height": 1080,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793785727120,
+        "contentHash": "0da3963ee6008bbe10fb22148038427d4532291ad6c1ee5a4930922fbea80564",
+        "revision": null,
+        "inputFingerprint": "c59e8d3d78a1ab0f2a1e4e0979fc664ba1b71de3a05c5fa06709b0e93f4f0fcb",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "ce6f4c06-a66c-4462-b0a3-6c6d3a6c81a5-9",
+        "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\e18677fc-7f6e-4608-b1e9-95ec1c8faf73\\frame-09-at-19.8s.png",
+        "time": 19.8,
+        "metadata": {
+          "width": 1920,
+          "height": 1080,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793785727120,
+        "contentHash": "b64686f3415ada248813eb6734205b132b7ddfd0806cca73e4327de6b857be22",
+        "revision": null,
+        "inputFingerprint": "c59e8d3d78a1ab0f2a1e4e0979fc664ba1b71de3a05c5fa06709b0e93f4f0fcb",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "ce6f4c06-a66c-4462-b0a3-6c6d3a6c81a5-10",
+        "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\e18677fc-7f6e-4608-b1e9-95ec1c8faf73\\frame-10-at-22s.png",
+        "time": 22,
+        "metadata": {
+          "width": 1920,
+          "height": 1080,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793785727120,
+        "contentHash": "685b2409247218257de6ff16dbe16d44e41d7b5637001ecb8c71840067b02b32",
+        "revision": null,
+        "inputFingerprint": "c59e8d3d78a1ab0f2a1e4e0979fc664ba1b71de3a05c5fa06709b0e93f4f0fcb",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "ce6f4c06-a66c-4462-b0a3-6c6d3a6c81a5-11",
+        "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\e18677fc-7f6e-4608-b1e9-95ec1c8faf73\\frame-11-at-24s.png",
+        "time": 24,
+        "metadata": {
+          "width": 1920,
+          "height": 1080,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793785727121,
+        "contentHash": "abe2a57bc2b44af72f9a9effde9a9728fa1b10f1802a3e486364886bf5b3e8f4",
+        "revision": null,
+        "inputFingerprint": "c59e8d3d78a1ab0f2a1e4e0979fc664ba1b71de3a05c5fa06709b0e93f4f0fcb",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "ce6f4c06-a66c-4462-b0a3-6c6d3a6c81a5-12",
+        "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\e18677fc-7f6e-4608-b1e9-95ec1c8faf73\\frame-12-at-25.6s.png",
+        "time": 25.6,
+        "metadata": {
+          "width": 1920,
+          "height": 1080,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793785727121,
+        "contentHash": "764b860f59ef2e1cacef2376b18c3445b3e147b55c5c7e1868f07a7e35a58f31",
+        "revision": null,
+        "inputFingerprint": "c59e8d3d78a1ab0f2a1e4e0979fc664ba1b71de3a05c5fa06709b0e93f4f0fcb",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "ce6f4c06-a66c-4462-b0a3-6c6d3a6c81a5-13",
+        "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\e18677fc-7f6e-4608-b1e9-95ec1c8faf73\\frame-13-at-27.5s.png",
+        "time": 27.5,
+        "metadata": {
+          "width": 1920,
+          "height": 1080,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793785727121,
+        "contentHash": "12a581befddc3bcd1e2ee240bf286248c47b909bbd8814fe07f9136fee54ef93",
+        "revision": null,
+        "inputFingerprint": "c59e8d3d78a1ab0f2a1e4e0979fc664ba1b71de3a05c5fa06709b0e93f4f0fcb",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "ce6f4c06-a66c-4462-b0a3-6c6d3a6c81a5-14",
+        "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\e18677fc-7f6e-4608-b1e9-95ec1c8faf73\\frame-14-at-31s.png",
+        "time": 31,
+        "metadata": {
+          "width": 1920,
+          "height": 1080,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793785727121,
+        "contentHash": "d791ec55187083dc62834350a7afd0e9e85165ccb62073fbbdf2c98166dbae32",
+        "revision": null,
+        "inputFingerprint": "c59e8d3d78a1ab0f2a1e4e0979fc664ba1b71de3a05c5fa06709b0e93f4f0fcb",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "ce6f4c06-a66c-4462-b0a3-6c6d3a6c81a5-15",
+        "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\e18677fc-7f6e-4608-b1e9-95ec1c8faf73\\frame-15-at-36.5s.png",
+        "time": 36.5,
+        "metadata": {
+          "width": 1920,
+          "height": 1080,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793785727121,
+        "contentHash": "8956a98135fef1c23d802d1c545a394c2eca2fa3ad7323e18bf4ab3705ae24bc",
+        "revision": null,
+        "inputFingerprint": "c59e8d3d78a1ab0f2a1e4e0979fc664ba1b71de3a05c5fa06709b0e93f4f0fcb",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "ce6f4c06-a66c-4462-b0a3-6c6d3a6c81a5-16",
+        "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\e18677fc-7f6e-4608-b1e9-95ec1c8faf73\\frame-16-at-40s.png",
+        "time": 40,
+        "metadata": {
+          "width": 1920,
+          "height": 1080,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793785727121,
+        "contentHash": "5bbbd9148fbb34a90124f038b51acc35b5291b888aa30f5817da69536b34de4f",
+        "revision": null,
+        "inputFingerprint": "c59e8d3d78a1ab0f2a1e4e0979fc664ba1b71de3a05c5fa06709b0e93f4f0fcb",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      },
+      {
+        "scope": "full",
+        "id": "ce6f4c06-a66c-4462-b0a3-6c6d3a6c81a5-17",
+        "image": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\.hyperframes\\artifacts\\snapshots\\e18677fc-7f6e-4608-b1e9-95ec1c8faf73\\frame-17-at-497.46s.png",
+        "time": 497.46,
+        "metadata": {
+          "width": 1920,
+          "height": 1080,
+          "zoomScale": 1,
+          "browserGpuMode": "auto",
+          "warnings": [],
+          "partial": false
+        },
+        "createdAt": 1793785727122,
+        "contentHash": "05c98a4cc615bd8d4e226df60059d50d200c34d85c43fcb7cd2eae20c53e2c23",
+        "revision": null,
+        "inputFingerprint": "c59e8d3d78a1ab0f2a1e4e0979fc664ba1b71de3a05c5fa06709b0e93f4f0fcb",
+        "inputScope": "local-project-files",
+        "attribution": "unversioned"
+      }
+    ]
+  },
+  "renders": {
+    "latest": {
+      "id": "566a32cb-87b5-440a-be2e-740f459a7477",
+      "completedAt": 1793786739986,
+      "output": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\xuat\\vi-sao-can-uong-nuoc.mp4",
+      "status": "completed",
+      "revision": null
+    },
+    "retainedRevisions": []
+  },
+  "pendingArtifactCleanup": []
+}

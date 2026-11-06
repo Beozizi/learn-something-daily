@@ -1,0 +1,765 @@
+{
+  "ok": true,
+  "strict": false,
+  "browserSkipped": false,
+  "lint": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 1,
+    "infoCount": 0,
+    "findings": [
+      {
+        "code": "composition_file_too_large",
+        "severity": "warning",
+        "message": "This HTML composition file has 495 lines. Smaller sub-compositions are easier to read, iterate on, and diff.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "E:\\science and technology\\tap\\2026-11-06-why-cant-you-focus\\video\\compositions\\subs.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Split this sub-composition further into smaller .html files, then mount them from the parent with data-composition-src so each file stays small enough to inspect, revise, and validate independently."
+      }
+    ],
+    "filesScanned": 24
+  },
+  "runtime": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": []
+  },
+  "layout": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 11,
+    "findings": [
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 27.086,
+        "selector": "#s02-settle",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": -6532.09,
+          "top": -2769.99,
+          "right": 5345.25,
+          "bottom": 2273.55,
+          "width": 11877.34,
+          "height": 5043.54
+        },
+        "containerSelector": "#s02-stage",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1920,
+          "bottom": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        "overflow": {
+          "left": 6532.09,
+          "right": 3425.25,
+          "top": 2769.99,
+          "bottom": 1193.55
+        },
+        "dataAttributes": {
+          "data-svg-origin": "960.0000366797827 540.0000201738806"
+        },
+        "sourceFile": "compositions/s02.html",
+        "bbox": {
+          "x": -6532.09,
+          "y": -2769.99,
+          "width": 11877.34,
+          "height": 5043.54
+        },
+        "firstSeen": 27.086,
+        "lastSeen": 27.086,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          27.086
+        ]
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 79.433,
+        "selector": "#subs-44 > span:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 701.72,
+          "top": 970.5,
+          "right": 1218.28,
+          "bottom": 1023.5,
+          "width": 516.56,
+          "height": 53
+        },
+        "containerSelector": "#subs-45 > span:nth-of-type(1)",
+        "text": "Reading is no exception.",
+        "fixHint": "Give each block its own zone, or put data-layout-allow-overlap on the text or on a container inside the scene. A marker on the scene root does not apply.",
+        "dataAttributes": {},
+        "sourceFile": "compositions/subs.html",
+        "bbox": {
+          "x": 701.72,
+          "y": 970.5,
+          "width": 516.56,
+          "height": 53
+        },
+        "firstSeen": 79.433,
+        "lastSeen": 79.433,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          79.433
+        ]
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 135.431,
+        "selector": "#s06-stage > g:nth-of-type(5)",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": 2856,
+          "top": 1160,
+          "right": 2968,
+          "bottom": 1336,
+          "width": 112,
+          "height": 176
+        },
+        "containerSelector": "#s06-stage",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1920,
+          "bottom": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        "overflow": {
+          "right": 1048,
+          "bottom": 256
+        },
+        "dataAttributes": {},
+        "sourceFile": "compositions/s06.html",
+        "bbox": {
+          "x": 2856,
+          "y": 1160,
+          "width": 112,
+          "height": 176
+        },
+        "firstSeen": 135.431,
+        "lastSeen": 135.431,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          135.431
+        ]
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 251.994,
+        "selector": "#subs-128 > span:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 552.95,
+          "top": 970.5,
+          "right": 1367.05,
+          "bottom": 1023.5,
+          "width": 814.1,
+          "height": 53
+        },
+        "containerSelector": "#subs-129 > span:nth-of-type(1)",
+        "text": "And often you don't notice until a page",
+        "fixHint": "Give each block its own zone, or put data-layout-allow-overlap on the text or on a container inside the scene. A marker on the scene root does not apply.",
+        "dataAttributes": {},
+        "sourceFile": "compositions/subs.html",
+        "bbox": {
+          "x": 552.95,
+          "y": 970.5,
+          "width": 814.1,
+          "height": 53
+        },
+        "firstSeen": 251.994,
+        "lastSeen": 251.994,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          251.994
+        ]
+      },
+      {
+        "code": "text_box_overflow",
+        "severity": "info",
+        "time": 406.294,
+        "selector": "#s19-ob > text:nth-of-type(2)",
+        "message": "Text extends outside its nearest visual/container box.",
+        "rect": {
+          "left": 1120,
+          "top": 516,
+          "right": 1924.38,
+          "bottom": 546,
+          "width": 804.38,
+          "height": 30
+        },
+        "containerSelector": "#s19-stage",
+        "text": "PHONE BROKE YOUR BRAIN FOR GOOD",
+        "fixHint": "Text is 804px x 30px inside 1920px x 1080px and overflows by up to 4px; widen the container to at least ~1924px, or allow wrapping with max-width/fitTextFontSize.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1920,
+          "bottom": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        "overflow": {
+          "right": 4.38
+        },
+        "dataAttributes": {},
+        "sourceFile": "compositions/s19.html",
+        "bbox": {
+          "x": 1120,
+          "y": 516,
+          "width": 804.38,
+          "height": 30
+        },
+        "firstSeen": 406.294,
+        "lastSeen": 406.294,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          406.294
+        ]
+      },
+      {
+        "code": "canvas_overflow",
+        "severity": "info",
+        "time": 406.294,
+        "selector": "#s19-ob > text:nth-of-type(2)",
+        "message": "Text extends outside the composition canvas.",
+        "rect": {
+          "left": 1120,
+          "top": 506,
+          "right": 1924.38,
+          "bottom": 557,
+          "width": 804.38,
+          "height": 51
+        },
+        "containerSelector": "#root",
+        "text": "PHONE BROKE YOUR BRAIN FOR GOOD",
+        "fixHint": "Move the text inward, reduce its size, or mark intentional off-canvas animation with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1920,
+          "bottom": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        "overflow": {
+          "right": 4.38
+        },
+        "dataAttributes": {},
+        "sourceFile": "compositions/s19.html",
+        "bbox": {
+          "x": 1120,
+          "y": 506,
+          "width": 804.38,
+          "height": 51
+        },
+        "firstSeen": 406.294,
+        "lastSeen": 406.294,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          406.294
+        ]
+      },
+      {
+        "code": "text_box_overflow",
+        "severity": "info",
+        "time": 406.294,
+        "selector": "#s19-oc > text:nth-of-type(2)",
+        "message": "Text extends outside its nearest visual/container box.",
+        "rect": {
+          "left": 1120,
+          "top": 746,
+          "right": 2039.84,
+          "bottom": 776,
+          "width": 919.84,
+          "height": 30
+        },
+        "containerSelector": "#s19-stage",
+        "text": "A SPOTLIGHT THAT KEEPS GETTING PULLED",
+        "fixHint": "Text is 920px x 30px inside 1920px x 1080px and overflows by up to 120px; widen the container to at least ~2040px, or allow wrapping with max-width/fitTextFontSize.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1920,
+          "bottom": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        "overflow": {
+          "right": 119.84
+        },
+        "dataAttributes": {},
+        "sourceFile": "compositions/s19.html",
+        "bbox": {
+          "x": 1120,
+          "y": 746,
+          "width": 919.84,
+          "height": 30
+        },
+        "firstSeen": 406.294,
+        "lastSeen": 406.294,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          406.294
+        ]
+      },
+      {
+        "code": "canvas_overflow",
+        "severity": "info",
+        "time": 406.294,
+        "selector": "#s19-oc > text:nth-of-type(2)",
+        "message": "Text extends outside the composition canvas.",
+        "rect": {
+          "left": 1120,
+          "top": 736,
+          "right": 2039.84,
+          "bottom": 787,
+          "width": 919.84,
+          "height": 51
+        },
+        "containerSelector": "#root",
+        "text": "A SPOTLIGHT THAT KEEPS GETTING PULLED",
+        "fixHint": "Move the text inward, reduce its size, or mark intentional off-canvas animation with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1920,
+          "bottom": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        "overflow": {
+          "right": 119.84
+        },
+        "dataAttributes": {},
+        "sourceFile": "compositions/s19.html",
+        "bbox": {
+          "x": 1120,
+          "y": 736,
+          "width": 919.84,
+          "height": 51
+        },
+        "firstSeen": 406.294,
+        "lastSeen": 406.294,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          406.294
+        ]
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 406.294,
+        "selector": "#s19-ob",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": 660,
+          "top": 444,
+          "right": 1924.38,
+          "bottom": 616,
+          "width": 1264.38,
+          "height": 172
+        },
+        "containerSelector": "#s19-stage",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1920,
+          "bottom": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        "overflow": {
+          "right": 4.38
+        },
+        "dataAttributes": {},
+        "sourceFile": "compositions/s19.html",
+        "bbox": {
+          "x": 660,
+          "y": 444,
+          "width": 1264.38,
+          "height": 172
+        },
+        "firstSeen": 406.294,
+        "lastSeen": 406.294,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          406.294
+        ]
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 406.294,
+        "selector": "#s19-oc",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": 660,
+          "top": 672,
+          "right": 2039.84,
+          "bottom": 846,
+          "width": 1379.84,
+          "height": 174
+        },
+        "containerSelector": "#s19-stage",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1920,
+          "bottom": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        "overflow": {
+          "right": 119.84
+        },
+        "dataAttributes": {
+          "data-svg-origin": "1349.921875 759"
+        },
+        "sourceFile": "compositions/s19.html",
+        "bbox": {
+          "x": 660,
+          "y": 672,
+          "width": 1379.84,
+          "height": 174
+        },
+        "firstSeen": 406.294,
+        "lastSeen": 406.294,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          406.294
+        ]
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 460.467,
+        "selector": "#s21-settle",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": -360,
+          "top": -84,
+          "right": 1944,
+          "bottom": 1212,
+          "width": 2304,
+          "height": 1296
+        },
+        "containerSelector": "#s21-stage",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1920,
+          "bottom": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        "overflow": {
+          "left": 360,
+          "right": 24,
+          "top": 84,
+          "bottom": 132
+        },
+        "dataAttributes": {
+          "data-svg-origin": "960.0000366797827 540.0000201738806"
+        },
+        "sourceFile": "compositions/s21.html",
+        "bbox": {
+          "x": -360,
+          "y": -84,
+          "width": 2304,
+          "height": 1296
+        },
+        "firstSeen": 460.467,
+        "lastSeen": 460.467,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          460.467
+        ]
+      }
+    ],
+    "duration": 487.553,
+    "samples": [
+      27.086,
+      81.259,
+      135.431,
+      189.604,
+      243.777,
+      297.949,
+      352.122,
+      406.294,
+      460.467
+    ],
+    "transitionSamples": [],
+    "transitionSamplesDropped": 0,
+    "tolerance": 2,
+    "totalIssueCount": 11,
+    "truncated": false
+  },
+  "motion": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": false,
+    "samples": 0
+  },
+  "contrast": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": true,
+    "samples": [
+      27.086,
+      135.431,
+      243.777,
+      352.122,
+      460.467
+    ],
+    "checked": 14,
+    "passed": 14
+  },
+  "craft": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 5,
+    "infoCount": 0,
+    "findings": [
+      {
+        "code": "text_below_floor",
+        "severity": "warning",
+        "message": "Type floor is 28 px (2.6% of the 1080 px short side, what a phone can read) and 2 text elements stay under it for 0.5 s or more, the smallest \"PAPER\" at 5 px: set reading text to at least 28 px, or put data-layout-ignore on text that is texture rather than reading; see references/look.md.",
+        "text": "PAPER",
+        "selector": "#s07-bars > text:nth-of-type(1)",
+        "dataAttributes": {},
+        "sourceFile": "compositions/s07.html",
+        "bbox": {
+          "x": 1197.25,
+          "y": 871.74,
+          "width": 17.3,
+          "height": 6.26
+        },
+        "time": 150.58,
+        "times": [
+          150.58,
+          150.58
+        ],
+        "fontPx": 5,
+        "floorPx": 28,
+        "seconds": 0.814,
+        "elements": [
+          {
+            "selector": "#s07-bars > text:nth-of-type(1)",
+            "text": "PAPER",
+            "fontPx": 5,
+            "time": 150.58,
+            "seconds": 0.814
+          },
+          {
+            "selector": "#s07-bars > text:nth-of-type(2)",
+            "text": "SCREEN",
+            "fontPx": 5,
+            "time": 150.58,
+            "seconds": 0.814
+          }
+        ]
+      },
+      {
+        "code": "text_below_floor",
+        "severity": "warning",
+        "message": "Type floor is 28 px (2.6% of the 1080 px short side, what a phone can read) and \"WHAT DOES READING NEED?\" renders at 22 px for 0.81 s: set reading text to at least 28 px, or put data-layout-ignore on text that is texture rather than reading; see references/look.md.",
+        "text": "WHAT DOES READING NEED?",
+        "selector": "#s10-rd",
+        "dataAttributes": {},
+        "sourceFile": "compositions/s10.html",
+        "bbox": {
+          "x": 1102.48,
+          "y": 866.98,
+          "width": 335.04,
+          "height": 28.04
+        },
+        "time": 198.603,
+        "times": [
+          198.603
+        ],
+        "fontPx": 22.08,
+        "floorPx": 28,
+        "seconds": 0.814,
+        "elements": [
+          {
+            "selector": "#s10-rd",
+            "text": "WHAT DOES READING NEED?",
+            "fontPx": 22.08,
+            "time": 198.603,
+            "seconds": 0.814
+          }
+        ]
+      },
+      {
+        "code": "text_below_floor",
+        "severity": "warning",
+        "message": "Type floor is 28 px (2.6% of the 1080 px short side, what a phone can read) and 2 text elements stay under it for 0.5 s or more, the smallest \"IDEA 1\" at 0 px: set reading text to at least 28 px, or put data-layout-ignore on text that is texture rather than reading; see references/look.md.",
+        "text": "IDEA 1",
+        "selector": "#s11-ch-b0 > text:nth-of-type(1)",
+        "dataAttributes": {},
+        "sourceFile": "compositions/s11.html",
+        "bbox": {
+          "x": 779.23,
+          "y": 429.69,
+          "width": 1.54,
+          "height": 0.61
+        },
+        "time": 205.928,
+        "times": [
+          203.486,
+          205.928
+        ],
+        "fontPx": 0.48,
+        "floorPx": 28,
+        "seconds": 0.814,
+        "elements": [
+          {
+            "selector": "#s11-ch-b0 > text:nth-of-type(1)",
+            "text": "IDEA 1",
+            "fontPx": 0.48,
+            "time": 205.928,
+            "seconds": 0.814
+          },
+          {
+            "selector": "#s11-t",
+            "text": "READING = A CHAIN OF IDEAS",
+            "fontPx": 27.19,
+            "time": 203.486,
+            "seconds": 0.814
+          }
+        ]
+      },
+      {
+        "code": "text_below_floor",
+        "severity": "warning",
+        "message": "Type floor is 28 px (2.6% of the 1080 px short side, what a phone can read) and 2 text elements stay under it for 0.5 s or more, the smallest \"OFTEN UNNOTICED — UNTIL A PAGE LATER\" at 9 px: set reading text to at least 28 px, or put data-layout-ignore on text that is texture rather than reading; see references/look.md.",
+        "text": "OFTEN UNNOTICED — UNTIL A PAGE LATER",
+        "selector": "#s12-nn",
+        "dataAttributes": {},
+        "sourceFile": "compositions/s12.html",
+        "bbox": {
+          "x": 1168.92,
+          "y": 756.77,
+          "width": 202.16,
+          "height": 11.46
+        },
+        "time": 249.881,
+        "times": [
+          228.719,
+          249.881
+        ],
+        "fontPx": 9.02,
+        "floorPx": 28,
+        "seconds": 0.814,
+        "elements": [
+          {
+            "selector": "#s12-nn",
+            "text": "OFTEN UNNOTICED — UNTIL A PAGE LATER",
+            "fontPx": 9.02,
+            "time": 249.881,
+            "seconds": 0.814
+          },
+          {
+            "selector": "#s12-t",
+            "text": "PULL 1 · YOUR OWN MIND",
+            "fontPx": 22.59,
+            "time": 228.719,
+            "seconds": 0.814
+          }
+        ]
+      },
+      {
+        "code": "text_below_floor",
+        "severity": "warning",
+        "message": "Type floor is 28 px (2.6% of the 1080 px short side, what a phone can read) and \"IS MULTITASKING REWIRING YOU?\" renders at 23 px for 0.81 s: set reading text to at least 28 px, or put data-layout-ignore on text that is texture rather than reading; see references/look.md.",
+        "text": "IS MULTITASKING REWIRING YOU?",
+        "selector": "#s17-t",
+        "dataAttributes": {},
+        "sourceFile": "compositions/s17.html",
+        "bbox": {
+          "x": 1067.32,
+          "y": 114.26,
+          "width": 405.36,
+          "height": 28.48
+        },
+        "time": 349.182,
+        "times": [
+          349.182
+        ],
+        "fontPx": 22.63,
+        "floorPx": 28,
+        "seconds": 0.814,
+        "elements": [
+          {
+            "selector": "#s17-t",
+            "text": "IS MULTITASKING REWIRING YOU?",
+            "fontPx": 22.63,
+            "time": 349.182,
+            "seconds": 0.814
+          }
+        ]
+      }
+    ],
+    "enabled": true,
+    "step": 0.8140000000000001,
+    "samples": 599
+  },
+  "audio": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": []
+  },
+  "hdr": {
+    "autoPromotion": null,
+    "inspection": "available"
+  },
+  "snapshots": {
+    "enabled": false,
+    "files": [],
+    "times": [],
+    "findingFiles": []
+  }
+}

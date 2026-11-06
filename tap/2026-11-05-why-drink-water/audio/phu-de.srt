@@ -1,0 +1,1299 @@
+1
+00:00:04,560 --> 00:00:05,300
+Seven in the morning.
+
+2
+00:00:06,161 --> 00:00:07,682
+You walk into the office with a cup
+
+3
+00:00:07,722 --> 00:00:08,162
+of coffee.
+
+4
+00:00:08,863 --> 00:00:10,444
+Your first meeting runs for two hours.
+
+5
+00:00:11,144 --> 00:00:12,185
+Then come the emails,
+
+6
+00:00:12,245 --> 00:00:13,926
+the reports, and one more meeting.
+
+7
+00:00:14,546 --> 00:00:16,127
+The water bottle on your desk is still
+
+8
+00:00:16,247 --> 00:00:16,607
+sealed.
+
+9
+00:00:17,888 --> 00:00:18,729
+Three in the afternoon.
+
+10
+00:00:19,509 --> 00:00:21,310
+A dull headache starts to creep in.
+
+11
+00:00:22,051 --> 00:00:23,732
+You read the same line three times,
+
+12
+00:00:24,332 --> 00:00:25,553
+and it still doesn't make sense.
+
+13
+00:00:26,193 --> 00:00:26,994
+Your lips are dry.
+
+14
+00:00:27,014 --> 00:00:28,615
+Your whole body feels sluggish.
+
+15
+00:00:29,395 --> 00:00:30,176
+And at four o'clock,
+
+16
+00:00:30,776 --> 00:00:32,277
+you have to stand up and present to
+
+17
+00:00:32,297 --> 00:00:32,937
+the whole room.
+
+18
+00:00:33,958 --> 00:00:35,119
+You reach for the water bottle,
+
+19
+00:00:35,239 --> 00:00:35,959
+and then you stop.
+
+20
+00:00:36,780 --> 00:00:38,060
+How much is actually enough?
+
+21
+00:00:38,701 --> 00:00:40,342
+Should you just force down as much as
+
+22
+00:00:40,362 --> 00:00:40,722
+you can?
+
+23
+00:00:41,522 --> 00:00:43,384
+Online, everyone tells you something different.
+
+24
+00:00:43,864 --> 00:00:45,786
+Some say you need exactly eight glasses a
+
+25
+00:00:45,826 --> 00:00:46,006
+day.
+
+26
+00:00:46,426 --> 00:00:47,447
+Some say three liters.
+
+27
+00:00:47,667 --> 00:00:49,328
+Others say just drink when you're thirsty.
+
+28
+00:00:49,869 --> 00:00:51,370
+Some even claim that the more you drink,
+
+29
+00:00:51,750 --> 00:00:53,211
+the more toxins you flush out.
+
+30
+00:00:53,892 --> 00:00:54,653
+To find out who's right,
+
+31
+00:00:54,953 --> 00:00:56,834
+let's first look at what water actually does
+
+32
+00:00:56,954 --> 00:00:57,655
+inside your body.
+
+33
+00:00:58,315 --> 00:00:59,935
+If you poured your body into a jar,
+
+34
+00:01:00,515 --> 00:01:02,075
+most of what filled it would be water.
+
+35
+00:01:02,916 --> 00:01:05,396
+In an adult, water makes up about sixty
+
+36
+00:01:05,436 --> 00:01:06,536
+percent of body weight.
+
+37
+00:01:07,116 --> 00:01:08,336
+Newborn babies have even more,
+
+38
+00:01:08,756 --> 00:01:10,156
+about seventy-five percent.
+
+39
+00:01:10,936 --> 00:01:12,037
+Older adults have less,
+
+40
+00:01:12,657 --> 00:01:13,917
+around fifty-five percent.
+
+41
+00:01:14,637 --> 00:01:16,477
+And every organ holds a different amount.
+
+42
+00:01:17,257 --> 00:01:19,958
+According to a classic analysis from 1945,
+
+43
+00:01:20,438 --> 00:01:22,318
+the brain and heart are about seventy-three
+
+44
+00:01:22,378 --> 00:01:23,118
+percent water.
+
+45
+00:01:23,938 --> 00:01:26,018
+The lungs are about eighty-three percent.
+
+46
+00:01:26,358 --> 00:01:28,459
+Bones, only about thirty-one percent.
+
+47
+00:01:29,099 --> 00:01:31,179
+About two-thirds of all that water sits inside
+
+48
+00:01:31,219 --> 00:01:31,719
+your cells.
+
+49
+00:01:32,599 --> 00:01:33,579
+The rest is outside:
+
+50
+00:01:34,159 --> 00:01:36,419
+in your blood, and in the spaces between
+
+51
+00:01:36,479 --> 00:01:36,799
+cells.
+
+52
+00:01:37,620 --> 00:01:39,100
+And this water never sits still.
+
+53
+00:01:39,580 --> 00:01:41,480
+It flows, it evaporates,
+
+54
+00:01:41,520 --> 00:01:44,280
+it gets filtered, and it is replaced every
+
+55
+00:01:44,340 --> 00:01:44,860
+single day.
+
+56
+00:01:45,701 --> 00:01:47,841
+To see why, let's follow a drop of
+
+57
+00:01:47,921 --> 00:01:49,641
+water through its three main jobs.
+
+58
+00:01:50,341 --> 00:01:53,362
+Job number one: water is your delivery system.
+
+59
+00:01:53,902 --> 00:01:55,062
+The liquid part of your blood,
+
+60
+00:01:55,102 --> 00:01:57,163
+called plasma, is mostly water.
+
+61
+00:01:57,923 --> 00:02:00,064
+That stream carries nutrients and oxygen to
+
+62
+00:02:00,264 --> 00:02:00,844
+every cell.
+
+63
+00:02:01,624 --> 00:02:02,185
+On the way back,
+
+64
+00:02:02,565 --> 00:02:03,985
+it picks up the waste that needs to
+
+65
+00:02:04,025 --> 00:02:04,225
+go.
+
+66
+00:02:04,945 --> 00:02:07,386
+In your gut, your body releases around eight
+
+67
+00:02:07,446 --> 00:02:10,227
+liters of digestive fluids every day to process
+
+68
+00:02:10,267 --> 00:02:10,527
+food.
+
+69
+00:02:11,407 --> 00:02:13,188
+Then almost all of that water is absorbed
+
+70
+00:02:13,248 --> 00:02:13,728
+back again.
+
+71
+00:02:14,388 --> 00:02:15,508
+When you run low on water,
+
+72
+00:02:15,829 --> 00:02:17,249
+your blood volume drops a little.
+
+73
+00:02:17,749 --> 00:02:19,390
+And your heart has to work harder to
+
+74
+00:02:19,430 --> 00:02:20,810
+keep the flow from slowing down.
+
+75
+00:02:21,450 --> 00:02:24,171
+Job number two: water keeps you from overheating.
+
+76
+00:02:24,751 --> 00:02:26,131
+When your body temperature rises,
+
+77
+00:02:26,191 --> 00:02:27,652
+your skin releases sweat.
+
+78
+00:02:28,352 --> 00:02:29,412
+As the sweat evaporates,
+
+79
+00:02:29,772 --> 00:02:31,232
+it carries heat away from your body.
+
+80
+00:02:31,753 --> 00:02:33,173
+It's like standing in front of a fan
+
+81
+00:02:33,213 --> 00:02:34,493
+with a wet towel on your face.
+
+82
+00:02:35,253 --> 00:02:36,014
+The hotter it gets,
+
+83
+00:02:36,434 --> 00:02:37,294
+and the more you move,
+
+84
+00:02:37,654 --> 00:02:38,374
+the more you sweat.
+
+85
+00:02:39,114 --> 00:02:40,595
+During hard exercise in the sun,
+
+86
+00:02:40,935 --> 00:02:42,915
+you can lose around two liters of sweat
+
+87
+00:02:42,955 --> 00:02:43,355
+an hour.
+
+88
+00:02:44,016 --> 00:02:45,456
+And every drop of that has to be
+
+89
+00:02:45,496 --> 00:02:45,916
+replaced.
+
+90
+00:02:46,656 --> 00:02:49,258
+Job number three: water helps your kidneys
+
+91
+00:02:49,298 --> 00:02:49,919
+clean your blood.
+
+92
+00:02:50,719 --> 00:02:53,021
+Every day, your two kidneys filter about one
+
+93
+00:02:53,141 --> 00:02:55,143
+hundred and eighty liters of fluid from your
+
+94
+00:02:55,183 --> 00:02:55,423
+blood.
+
+95
+00:02:56,043 --> 00:02:57,404
+That's almost a full bathtub.
+
+96
+00:02:58,065 --> 00:02:59,806
+But more than ninety-nine percent of it is
+
+97
+00:02:59,866 --> 00:03:00,627
+absorbed back.
+
+98
+00:03:01,347 --> 00:03:03,069
+Only about one and a half liters becomes
+
+99
+00:03:03,209 --> 00:03:05,471
+urine, carrying waste out of your body.
+
+100
+00:03:06,311 --> 00:03:07,552
+Your kidneys can also adjust:
+
+101
+00:03:07,952 --> 00:03:09,374
+hold on to water when you're short,
+
+102
+00:03:09,874 --> 00:03:11,195
+let more go when you have extra.
+
+103
+00:03:11,875 --> 00:03:13,617
+But this filter has a speed limit.
+
+104
+00:03:14,337 --> 00:03:15,158
+Remember that detail.
+
+105
+00:03:15,618 --> 00:03:16,459
+It will matter later.
+
+106
+00:03:18,340 --> 00:03:19,701
+Now, let's put everything on a scale.
+
+107
+00:03:20,441 --> 00:03:22,041
+On the left is the water you lose:
+
+108
+00:03:22,562 --> 00:03:24,182
+through urine, through sweat,
+
+109
+00:03:24,522 --> 00:03:25,583
+and with every breath.
+
+110
+00:03:26,523 --> 00:03:28,504
+Even sitting still in an air-conditioned room,
+
+111
+00:03:28,904 --> 00:03:29,984
+you're still losing water.
+
+112
+00:03:30,704 --> 00:03:31,945
+On the right is the water you take
+
+113
+00:03:32,005 --> 00:03:34,306
+in: from drinks, and from food too.
+
+114
+00:03:35,066 --> 00:03:36,547
+Your body even makes a little water when
+
+115
+00:03:36,587 --> 00:03:38,947
+it burns food, but that part is very
+
+116
+00:03:39,027 --> 00:03:39,328
+small.
+
+117
+00:03:40,188 --> 00:03:42,749
+For adults, the daily need is around two
+
+118
+00:03:42,849 --> 00:03:44,709
+to three liters, food included.
+
+119
+00:03:45,610 --> 00:03:47,050
+As soon as the two sides fall out
+
+120
+00:03:47,090 --> 00:03:48,911
+of balance, your body reacts.
+
+121
+00:03:49,651 --> 00:03:51,011
+Because deep inside your brain,
+
+122
+00:03:51,051 --> 00:03:52,012
+there's a sensor.
+
+123
+00:03:52,532 --> 00:03:54,392
+It constantly checks whether your blood is
+
+124
+00:03:54,472 --> 00:03:55,973
+diluted or concentrated.
+
+125
+00:03:56,653 --> 00:03:58,373
+It works like the thermostat on an air
+
+126
+00:03:58,393 --> 00:04:00,934
+conditioner, except it measures water instead
+
+127
+00:04:00,954 --> 00:04:01,494
+of temperature.
+
+128
+00:04:02,214 --> 00:04:03,195
+When you're short on water,
+
+129
+00:04:03,235 --> 00:04:04,755
+your blood gets more concentrated.
+
+130
+00:04:05,295 --> 00:04:06,916
+Just one to two percent more,
+
+131
+00:04:07,316 --> 00:04:09,156
+and the sensor switches on a warning light.
+
+132
+00:04:09,936 --> 00:04:12,077
+First, your brain releases a hormone called
+
+133
+00:04:12,097 --> 00:04:12,877
+ADH.
+
+134
+00:04:13,457 --> 00:04:15,378
+ADH tells your kidneys to hold on to
+
+135
+00:04:15,418 --> 00:04:15,698
+water.
+
+136
+00:04:16,358 --> 00:04:18,138
+You pee less, and it gets darker.
+
+137
+00:04:19,039 --> 00:04:19,779
+If that's not enough,
+
+138
+00:04:20,159 --> 00:04:21,699
+your brain sends a second signal:
+
+139
+00:04:22,100 --> 00:04:22,460
+thirst.
+
+140
+00:04:23,100 --> 00:04:24,840
+You drink, your blood is diluted again,
+
+141
+00:04:25,240 --> 00:04:26,501
+and the warning light goes off.
+
+142
+00:04:27,681 --> 00:04:30,202
+In healthy people, this system runs quietly,
+
+143
+00:04:30,422 --> 00:04:31,382
+day and night.
+
+144
+00:04:31,882 --> 00:04:32,902
+But in older adults,
+
+145
+00:04:33,002 --> 00:04:34,323
+thirst often arrives later,
+
+146
+00:04:34,843 --> 00:04:35,363
+and weaker.
+
+147
+00:04:35,943 --> 00:04:37,784
+So what happens when you ignore these signals?
+
+148
+00:04:38,404 --> 00:04:40,244
+In one experiment, healthy young women were
+
+149
+00:04:40,284 --> 00:04:41,705
+made mildly dehydrated.
+
+150
+00:04:42,265 --> 00:04:43,885
+They lost about one point four percent of
+
+151
+00:04:43,905 --> 00:04:44,525
+their body weight.
+
+152
+00:04:45,126 --> 00:04:46,746
+They got headaches, felt tired,
+
+153
+00:04:47,206 --> 00:04:48,227
+found it harder to focus,
+
+154
+00:04:48,287 --> 00:04:50,107
+and everything felt like more effort.
+
+155
+00:04:50,887 --> 00:04:52,148
+Another experiment, in men,
+
+156
+00:04:52,588 --> 00:04:53,568
+found they were less alert.
+
+157
+00:04:54,108 --> 00:04:55,749
+Their working memory dipped as well.
+
+158
+00:04:56,489 --> 00:04:58,450
+The results across studies don't fully agree
+
+159
+00:04:58,470 --> 00:04:58,650
+yet.
+
+160
+00:04:59,450 --> 00:05:01,570
+But for exercise, the picture is clearer.
+
+161
+00:05:02,211 --> 00:05:03,731
+Losing more than two percent of your body
+
+162
+00:05:03,751 --> 00:05:06,272
+weight to dehydration can reduce your endurance.
+
+163
+00:05:06,892 --> 00:05:07,852
+Especially in the heat.
+
+164
+00:05:08,732 --> 00:05:10,973
+Severe dehydration, like from long bouts of
+
+165
+00:05:11,053 --> 00:05:13,554
+diarrhea or vomiting, can be dangerous.
+
+166
+00:05:14,334 --> 00:05:16,015
+Then you need to replace both water and
+
+167
+00:05:16,095 --> 00:05:18,835
+salts, with an oral rehydration solution,
+
+168
+00:05:19,356 --> 00:05:20,856
+and see a doctor right away.
+
+169
+00:05:21,876 --> 00:05:22,216
+Headache.
+
+170
+00:05:22,777 --> 00:05:23,197
+Sluggish.
+
+171
+00:05:23,757 --> 00:05:24,437
+Hard to focus.
+
+172
+00:05:24,997 --> 00:05:25,577
+Sound familiar?
+
+173
+00:05:26,157 --> 00:05:27,938
+That's you, at three in the afternoon.
+
+174
+00:05:28,558 --> 00:05:29,999
+So, on a normal day,
+
+175
+00:05:30,079 --> 00:05:30,780
+how should you drink?
+
+176
+00:05:31,640 --> 00:05:34,122
+A: exactly eight glasses a day,
+
+177
+00:05:34,322 --> 00:05:35,703
+no more, no less.
+
+178
+00:05:36,844 --> 00:05:38,686
+B: drink when you're thirsty,
+
+179
+00:05:39,106 --> 00:05:40,167
+drink more when it's hot,
+
+180
+00:05:40,467 --> 00:05:42,008
+when you exercise or when you're sick,
+
+181
+00:05:42,528 --> 00:05:43,589
+and keep an eye on the color of
+
+182
+00:05:43,609 --> 00:05:44,010
+your pee.
+
+183
+00:05:44,950 --> 00:05:46,411
+Or C: the more,
+
+184
+00:05:46,431 --> 00:05:46,732
+the better?
+
+185
+00:05:47,933 --> 00:05:49,178
+Pause the video and take a guess.
+
+186
+00:05:58,412 --> 00:05:59,734
+The key is the scale.
+
+187
+00:06:00,515 --> 00:06:02,018
+Your body doesn't need a fixed number.
+
+188
+00:06:02,318 --> 00:06:05,543
+It needs balance: water in equals water out.
+
+189
+00:06:06,104 --> 00:06:07,767
+And it already has a built-in sensor to
+
+190
+00:06:07,807 --> 00:06:08,588
+keep that balance.
+
+191
+00:06:09,469 --> 00:06:11,032
+So where did the eight-glasses number come
+
+192
+00:06:11,072 --> 00:06:11,232
+from?
+
+193
+00:06:12,333 --> 00:06:14,193
+Eight glasses, at about two hundred and fifty
+
+194
+00:06:14,233 --> 00:06:16,794
+milliliters each, comes to about two liters.
+
+195
+00:06:17,894 --> 00:06:20,414
+In 1945, a nutrition board in the United
+
+196
+00:06:20,454 --> 00:06:21,754
+States made a recommendation.
+
+197
+00:06:22,614 --> 00:06:24,295
+Each person needs about two and a half
+
+198
+00:06:24,355 --> 00:06:25,415
+liters of water a day.
+
+199
+00:06:26,255 --> 00:06:27,535
+But in the very next sentence,
+
+200
+00:06:27,875 --> 00:06:29,575
+they wrote that most of this amount is
+
+201
+00:06:29,755 --> 00:06:30,755
+already in your food.
+
+202
+00:06:31,695 --> 00:06:35,096
+In 2002, the physiologist Heinz Valtin traced
+
+203
+00:06:35,136 --> 00:06:37,116
+the origin of the eight-glasses advice.
+
+204
+00:06:37,836 --> 00:06:39,576
+He suggested that the second sentence had
+
+205
+00:06:39,637 --> 00:06:40,917
+simply been forgotten.
+
+206
+00:06:41,617 --> 00:06:43,737
+And he found no scientific evidence that everyone
+
+207
+00:06:43,797 --> 00:06:45,937
+must drink exactly eight glasses.
+
+208
+00:06:46,777 --> 00:06:49,098
+Today, the European Food Safety Authority
+
+209
+00:06:49,138 --> 00:06:50,218
+gives a reference value.
+
+210
+00:06:50,738 --> 00:06:52,418
+About two liters a day for women.
+
+211
+00:06:53,218 --> 00:06:54,978
+For men, about two and a half liters.
+
+212
+00:06:55,879 --> 00:06:58,159
+That's total water, including the water in
+
+213
+00:06:58,239 --> 00:07:00,159
+food, under normal conditions.
+
+214
+00:07:00,939 --> 00:07:01,719
+In the United States,
+
+215
+00:07:01,759 --> 00:07:03,019
+the reference values are higher.
+
+216
+00:07:03,600 --> 00:07:05,340
+About two point seven liters for women,
+
+217
+00:07:05,740 --> 00:07:07,320
+and three point seven liters for men.
+
+218
+00:07:08,240 --> 00:07:10,220
+The numbers differ because each is based on
+
+219
+00:07:10,300 --> 00:07:10,940
+different data.
+
+220
+00:07:11,581 --> 00:07:13,281
+They reflect how much water healthy people
+
+221
+00:07:13,321 --> 00:07:14,801
+there typically take in each day.
+
+222
+00:07:15,521 --> 00:07:16,842
+So where does your water come from?
+
+223
+00:07:17,642 --> 00:07:19,443
+About a fifth to a third comes from
+
+224
+00:07:19,543 --> 00:07:22,124
+food: vegetables, fruit, soup,
+
+225
+00:07:22,344 --> 00:07:22,645
+rice.
+
+226
+00:07:23,545 --> 00:07:25,946
+Watermelon, for example, is more than ninety
+
+227
+00:07:25,986 --> 00:07:26,707
+percent water.
+
+228
+00:07:27,127 --> 00:07:28,307
+Tea and coffee count too.
+
+229
+00:07:28,988 --> 00:07:30,929
+A study in 2014 followed men who were
+
+230
+00:07:30,989 --> 00:07:32,009
+regular coffee drinkers.
+
+231
+00:07:32,770 --> 00:07:33,710
+At four cups a day,
+
+232
+00:07:33,790 --> 00:07:36,191
+coffee hydrated them about as well as plain
+
+233
+00:07:36,231 --> 00:07:36,511
+water.
+
+234
+00:07:37,272 --> 00:07:39,053
+Soft drinks and juice contain water too,
+
+235
+00:07:39,673 --> 00:07:40,853
+but they come with a lot of sugar
+
+236
+00:07:40,893 --> 00:07:41,474
+and calories.
+
+237
+00:07:42,114 --> 00:07:43,895
+So plain water is still the best choice
+
+238
+00:07:43,915 --> 00:07:44,735
+for everyday thirst.
+
+239
+00:07:45,356 --> 00:07:46,876
+And to check whether you're drinking enough,
+
+240
+00:07:47,217 --> 00:07:48,137
+there's a simple trick:
+
+241
+00:07:48,937 --> 00:07:50,278
+look at the color of your pee.
+
+242
+00:07:51,299 --> 00:07:53,600
+Pale straw yellow usually means you're well
+
+243
+00:07:53,640 --> 00:07:54,100
+hydrated.
+
+244
+00:07:54,820 --> 00:07:56,301
+Dark yellow, like strong tea,
+
+245
+00:07:56,781 --> 00:07:58,362
+is a sign you should drink more.
+
+246
+00:07:59,282 --> 00:08:01,043
+Some medicines and vitamins can change the
+
+247
+00:08:01,083 --> 00:08:03,324
+color too, so treat this as a hint,
+
+248
+00:08:03,845 --> 00:08:04,405
+not a test.
+
+249
+00:08:05,045 --> 00:08:06,285
+There are times when you need to drink
+
+250
+00:08:06,325 --> 00:08:07,025
+more on purpose.
+
+251
+00:08:07,606 --> 00:08:08,126
+When it's hot.
+
+252
+00:08:08,486 --> 00:08:09,506
+When you exercise hard.
+
+253
+00:08:09,966 --> 00:08:10,826
+When you have a fever,
+
+254
+00:08:10,966 --> 00:08:12,107
+vomiting or diarrhea.
+
+255
+00:08:12,887 --> 00:08:14,707
+Pregnant and breastfeeding women need extra
+
+256
+00:08:14,747 --> 00:08:15,287
+water too.
+
+257
+00:08:16,147 --> 00:08:17,828
+Older adults should drink regularly,
+
+258
+00:08:18,148 --> 00:08:19,488
+because thirst may come late.
+
+259
+00:08:20,108 --> 00:08:20,788
+But on the other hand,
+
+260
+00:08:21,028 --> 00:08:22,249
+more is not always better.
+
+261
+00:08:22,749 --> 00:08:24,449
+Remember the filter with a speed limit?
+
+262
+00:08:25,289 --> 00:08:26,230
+If you drink too much,
+
+263
+00:08:26,390 --> 00:08:29,090
+too fast, the extra water dilutes the sodium
+
+264
+00:08:29,110 --> 00:08:29,610
+in your blood.
+
+265
+00:08:30,190 --> 00:08:31,971
+This is called hyponatremia,
+
+266
+00:08:32,371 --> 00:08:33,211
+and it can be dangerous.
+
+267
+00:08:33,871 --> 00:08:35,612
+At the 2002 Boston Marathon,
+
+268
+00:08:35,632 --> 00:08:37,112
+about thirteen percent of the runners who
+
+269
+00:08:37,132 --> 00:08:39,192
+were tested had hyponatremia.
+
+270
+00:08:40,033 --> 00:08:41,573
+The risk was highest in those who gained
+
+271
+00:08:41,613 --> 00:08:42,413
+weight during the race.
+
+272
+00:08:43,173 --> 00:08:45,374
+In other words, they drank more than they
+
+273
+00:08:45,454 --> 00:08:46,034
+sweated out.
+
+274
+00:08:46,874 --> 00:08:48,374
+And if you have heart or kidney disease,
+
+275
+00:08:48,875 --> 00:08:50,795
+follow your doctor's advice on how much to
+
+276
+00:08:50,835 --> 00:08:51,095
+drink.
+
+277
+00:08:51,795 --> 00:08:53,456
+Now let's rule out the options one by
+
+278
+00:08:53,577 --> 00:08:53,657
+one.
+
+279
+00:08:54,497 --> 00:08:57,119
+Option A: a fixed eight glasses.
+
+280
+00:08:58,080 --> 00:08:59,781
+There's no solid basis for this number,
+
+281
+00:09:00,222 --> 00:09:01,803
+and everyone's needs are different.
+
+282
+00:09:02,704 --> 00:09:02,904
+Out.
+
+283
+00:09:04,185 --> 00:09:05,686
+Option C: the more,
+
+284
+00:09:05,846 --> 00:09:06,387
+the better.
+
+285
+00:09:06,827 --> 00:09:08,989
+Drinking too much can lead to hyponatremia.
+
+286
+00:09:09,729 --> 00:09:09,910
+Out.
+
+287
+00:09:10,850 --> 00:09:11,871
+That leaves option B:
+
+288
+00:09:12,532 --> 00:09:13,533
+listen to your thirst,
+
+289
+00:09:14,233 --> 00:09:15,314
+drink more when you need to,
+
+290
+00:09:15,994 --> 00:09:17,856
+and watch the color of your pee.
+
+291
+00:09:18,496 --> 00:09:19,537
+The answer is B.
+
+292
+00:09:20,258 --> 00:09:21,500
+Back to three in the afternoon.
+
+293
+00:09:22,100 --> 00:09:23,322
+You take a few sips of water,
+
+294
+00:09:23,682 --> 00:09:25,725
+then one more glass before your presentation.
+
+295
+00:09:26,505 --> 00:09:28,187
+No need to force down a whole liter
+
+296
+00:09:28,227 --> 00:09:28,608
+at once.
+
+297
+00:09:29,569 --> 00:09:31,431
+From tomorrow, you keep the bottle where you
+
+298
+00:09:31,471 --> 00:09:33,313
+can see it, and drink whenever you feel
+
+299
+00:09:33,373 --> 00:09:33,774
+thirsty.
+
+300
+00:09:34,695 --> 00:09:35,436
+A few hours later,
+
+301
+00:09:35,876 --> 00:09:37,699
+your pee is back to a pale straw
+
+302
+00:09:37,759 --> 00:09:38,079
+yellow.
+
+303
+00:09:38,679 --> 00:09:40,340
+And there's one more surprising benefit.
+
+304
+00:09:41,361 --> 00:09:44,123
+In 1996, Italian scientists followed nearly
+
+305
+00:09:44,243 --> 00:09:46,564
+two hundred people who had had kidney stones,
+
+306
+00:09:46,905 --> 00:09:47,945
+for five years.
+
+307
+00:09:48,926 --> 00:09:50,567
+One group was told to drink enough water
+
+308
+00:09:50,607 --> 00:09:52,028
+to pee at least two liters a day.
+
+309
+00:09:52,788 --> 00:09:54,490
+After five years, only about twelve percent
+
+310
+00:09:54,510 --> 00:09:55,770
+of that group had stones come back.
+
+311
+00:09:56,271 --> 00:09:56,931
+In the other group,
+
+312
+00:09:57,111 --> 00:09:59,033
+the number was twenty-seven percent.
+
+313
+00:09:59,833 --> 00:10:02,375
+The American Urological Association's 2014
+
+314
+00:10:02,415 --> 00:10:04,897
+guideline advises people who've had stones
+
+315
+00:10:04,957 --> 00:10:05,797
+to drink enough.
+
+316
+00:10:06,598 --> 00:10:07,798
+Enough to pee at least two and a
+
+317
+00:10:07,838 --> 00:10:08,559
+half liters a day.
+
+318
+00:10:09,259 --> 00:10:10,000
+Four in the afternoon.
+
+319
+00:10:10,701 --> 00:10:12,022
+Your presentation goes smoothly,
+
+320
+00:10:12,243 --> 00:10:13,604
+and the whole room applauds.
+
+321
+00:10:14,125 --> 00:10:15,406
+You smile, take a bow,
+
+322
+00:10:15,747 --> 00:10:16,568
+and thank everyone.
+
+323
+00:10:17,329 --> 00:10:19,031
+Then you dash straight for the bathroom.
+
+324
+00:10:19,691 --> 00:10:22,054
+Your body, clearly, is keeping its balance
+
+325
+00:10:22,154 --> 00:10:22,735
+just fine.

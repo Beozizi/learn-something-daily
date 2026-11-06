@@ -1,0 +1,474 @@
+{
+  "ok": true,
+  "strict": false,
+  "browserSkipped": false,
+  "lint": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 2,
+    "infoCount": 0,
+    "findings": [
+      {
+        "code": "composition_file_too_large",
+        "severity": "warning",
+        "message": "This HTML composition file has 340 lines. Smaller sub-compositions are easier to read, iterate on, and diff.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\compositions\\s02.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Split this sub-composition further into smaller .html files, then mount them from the parent with data-composition-src so each file stays small enough to inspect, revise, and validate independently."
+      },
+      {
+        "code": "overlapping_gsap_tweens",
+        "severity": "warning",
+        "message": "GSAP tweens overlap on \"#s05-heart\" for scale, transformOrigin between 20.77s and 20.80s.",
+        "selector": "#s05-heart",
+        "dataAttributes": {},
+        "sourceFile": "E:\\science and technology\\tap\\2026-11-04-vi-sao-can-uong-nuoc\\video\\compositions\\s05.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Shorten the earlier tween, move the later tween, or add `overwrite: \"auto\"`."
+      }
+    ],
+    "filesScanned": 22
+  },
+  "runtime": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": []
+  },
+  "layout": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 2,
+    "findings": [
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 27.651,
+        "selector": "#s02-settle",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": -1010,
+          "top": -135,
+          "right": 1930,
+          "bottom": 1521,
+          "width": 2940,
+          "height": 1656
+        },
+        "containerSelector": "#s02-stage",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1920,
+          "bottom": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        "overflow": {
+          "left": 1010,
+          "right": 10,
+          "top": 135,
+          "bottom": 441
+        },
+        "dataAttributes": {
+          "data-svg-origin": "960.000025675848 540.0000110039348"
+        },
+        "sourceFile": "compositions/s02.html",
+        "bbox": {
+          "x": -1010,
+          "y": -135,
+          "width": 2940,
+          "height": 1656
+        },
+        "firstSeen": 27.651,
+        "lastSeen": 27.651,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          27.651
+        ]
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 82.952,
+        "selector": "#s05-riv",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": 534,
+          "top": 374,
+          "right": 1978,
+          "bottom": 606,
+          "width": 1444,
+          "height": 232
+        },
+        "containerSelector": "#s05-stage",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1920,
+          "bottom": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        "overflow": {
+          "right": 58
+        },
+        "dataAttributes": {
+          "data-svg-origin": "534 490"
+        },
+        "sourceFile": "compositions/s05.html",
+        "bbox": {
+          "x": 534,
+          "y": 374,
+          "width": 1444,
+          "height": 232
+        },
+        "firstSeen": 82.952,
+        "lastSeen": 82.952,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          82.952
+        ]
+      }
+    ],
+    "duration": 497.71,
+    "samples": [
+      27.651,
+      82.952,
+      138.253,
+      193.554,
+      248.855,
+      304.156,
+      359.457,
+      414.758,
+      470.059
+    ],
+    "transitionSamples": [],
+    "transitionSamplesDropped": 0,
+    "tolerance": 2,
+    "totalIssueCount": 2,
+    "truncated": false
+  },
+  "motion": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": false,
+    "samples": 0
+  },
+  "contrast": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": true,
+    "samples": [
+      27.651,
+      138.253,
+      248.855,
+      359.457,
+      470.059
+    ],
+    "checked": 8,
+    "passed": 8
+  },
+  "craft": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 7,
+    "infoCount": 0,
+    "findings": [
+      {
+        "code": "text_below_floor",
+        "severity": "warning",
+        "message": "Type floor is 28 px (2.6% of the 1080 px short side, what a phone can read) and \"THAY MỚI\" renders at 18 px for 0.83 s: set reading text to at least 28 px, or put data-layout-ignore on text that is texture rather than reading; see references/look.md.",
+        "text": "THAY MỚI",
+        "selector": "#s04-c3",
+        "dataAttributes": {},
+        "sourceFile": "compositions/s04.html",
+        "bbox": {
+          "x": 992.23,
+          "y": 812.26,
+          "width": 95.54,
+          "height": 23.48
+        },
+        "time": 76.443,
+        "times": [
+          76.443
+        ],
+        "fontPx": 18.45,
+        "floorPx": 28,
+        "seconds": 0.831,
+        "elements": [
+          {
+            "selector": "#s04-c3",
+            "text": "THAY MỚI",
+            "fontPx": 18.45,
+            "time": 76.443,
+            "seconds": 0.831
+          }
+        ]
+      },
+      {
+        "code": "text_below_floor",
+        "severity": "warning",
+        "message": "Type floor is 28 px (2.6% of the 1080 px short side, what a phone can read) and \"> 99% HẤP THU LẠI\" renders at 26 px for 0.83 s: set reading text to at least 28 px, or put data-layout-ignore on text that is texture rather than reading; see references/look.md.",
+        "text": "> 99% HẤP THU LẠI",
+        "selector": "#s07-l99",
+        "dataAttributes": {},
+        "sourceFile": "compositions/s07.html",
+        "bbox": {
+          "x": 1155.57,
+          "y": 132.17,
+          "width": 258.86,
+          "height": 32.53
+        },
+        "time": 134.606,
+        "times": [
+          134.606
+        ],
+        "fontPx": 25.83,
+        "floorPx": 28,
+        "seconds": 0.831,
+        "elements": [
+          {
+            "selector": "#s07-l99",
+            "text": "> 99% HẤP THU LẠI",
+            "fontPx": 25.83,
+            "time": 134.606,
+            "seconds": 0.831
+          }
+        ]
+      },
+      {
+        "code": "text_below_floor",
+        "severity": "warning",
+        "message": "Type floor is 28 px (2.6% of the 1080 px short side, what a phone can read) and \"≈ 2–3 LÍT MỖI NGÀY (TÍNH CẢ THỨC ĂN)\" renders at 20 px for 0.83 s: set reading text to at least 28 px, or put data-layout-ignore on text that is texture rather than reading; see references/look.md.",
+        "text": "≈ 2–3 LÍT MỖI NGÀY (TÍNH CẢ THỨC ĂN)",
+        "selector": "#s08-lt",
+        "dataAttributes": {},
+        "sourceFile": "compositions/s08.html",
+        "bbox": {
+          "x": 1030.51,
+          "y": 924.49,
+          "width": 418.98,
+          "height": 25.38
+        },
+        "time": 169.504,
+        "times": [
+          169.504
+        ],
+        "fontPx": 20.15,
+        "floorPx": 28,
+        "seconds": 0.831,
+        "elements": [
+          {
+            "selector": "#s08-lt",
+            "text": "≈ 2–3 LÍT MỖI NGÀY (TÍNH CẢ THỨC ĂN)",
+            "fontPx": 20.15,
+            "time": 169.504,
+            "seconds": 0.831
+          }
+        ]
+      },
+      {
+        "code": "text_below_floor",
+        "severity": "warning",
+        "message": "Type floor is 28 px (2.6% of the 1080 px short side, what a phone can read) and \"ĐỘ ĐẶC CỦA MÁU\" renders at 24 px for 0.83 s: set reading text to at least 28 px, or put data-layout-ignore on text that is texture rather than reading; see references/look.md.",
+        "text": "ĐỘ ĐẶC CỦA MÁU",
+        "selector": "#s09-gg > text:nth-of-type(1)",
+        "dataAttributes": {},
+        "sourceFile": "compositions/s09.html",
+        "bbox": {
+          "x": 1308.3,
+          "y": 554.54,
+          "width": 223.4,
+          "height": 30.46
+        },
+        "time": 177.813,
+        "times": [
+          177.813
+        ],
+        "fontPx": 24.08,
+        "floorPx": 28,
+        "seconds": 0.831,
+        "elements": [
+          {
+            "selector": "#s09-gg > text:nth-of-type(1)",
+            "text": "ĐỘ ĐẶC CỦA MÁU",
+            "fontPx": 24.08,
+            "time": 177.813,
+            "seconds": 0.831
+          }
+        ]
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"KẾT QUẢ GIỮA CÁC NGHIÊN CỨU CHƯA THỐNG NHẤT\" (9 words) is on screen 1.66 s (±0.03 s), under its 2.40 s floor: hold it about 0.5 s + 0.3 s a word (3.20 s here) before it leaves or changes; see references/motion.md.",
+        "text": "KẾT QUẢ GIỮA CÁC NGHIÊN CỨU CHƯA THỐNG NHẤT",
+        "selector": "#s10-stamp > text:nth-of-type(1)",
+        "dataAttributes": {},
+        "sourceFile": "compositions/s10.html",
+        "bbox": {
+          "x": 349.52,
+          "y": 743.93,
+          "width": 1570.48,
+          "height": 180.90999999999997
+        },
+        "time": 227.615,
+        "words": 9,
+        "seconds": 1.662,
+        "floorSeconds": 2.4
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"BÙ NƯỚC + MUỐI (ORESOL) · ĐI KHÁM NGAY\" (7 words) is on screen 1.82 s (±0.03 s), under its 1.95 s floor: hold it about 0.5 s + 0.3 s a word (2.60 s here) before it leaves or changes; see references/motion.md.",
+        "text": "BÙ NƯỚC + MUỐI (ORESOL) · ĐI KHÁM NGAY",
+        "selector": "#s10-s2",
+        "dataAttributes": {},
+        "sourceFile": "compositions/s10.html",
+        "bbox": {
+          "x": 652.56,
+          "y": 626,
+          "width": 1234.88,
+          "height": 68
+        },
+        "time": 242.467,
+        "words": 7,
+        "seconds": 1.818,
+        "floorSeconds": 1.95
+      },
+      {
+        "code": "text_below_floor",
+        "severity": "warning",
+        "message": "Type floor is 28 px (2.6% of the 1080 px short side, what a phone can read) and 8 text elements stay under it for 0.5 s or more, the smallest \"Na\" at 17 px: set reading text to at least 28 px, or put data-layout-ignore on text that is texture rather than reading; see references/look.md.",
+        "text": "Na",
+        "selector": "#s16-na0 > text:nth-of-type(1)",
+        "dataAttributes": {},
+        "sourceFile": "compositions/s16.html",
+        "bbox": {
+          "x": 1259.26,
+          "y": 447.04,
+          "width": 23.51,
+          "height": 21.05
+        },
+        "time": 392.186,
+        "times": [
+          392.186,
+          392.186,
+          392.186,
+          392.186,
+          392.186,
+          392.186,
+          392.186,
+          392.186
+        ],
+        "fontPx": 16.58,
+        "floorPx": 28,
+        "seconds": 5.816,
+        "elements": [
+          {
+            "selector": "#s16-na0 > text:nth-of-type(1)",
+            "text": "Na",
+            "fontPx": 16.58,
+            "time": 392.186,
+            "seconds": 5.816
+          },
+          {
+            "selector": "#s16-na1 > text:nth-of-type(1)",
+            "text": "Na",
+            "fontPx": 16.58,
+            "time": 392.186,
+            "seconds": 5.816
+          },
+          {
+            "selector": "#s16-na2 > text:nth-of-type(1)",
+            "text": "Na",
+            "fontPx": 16.58,
+            "time": 392.186,
+            "seconds": 5.816
+          },
+          {
+            "selector": "#s16-na3 > text:nth-of-type(1)",
+            "text": "Na",
+            "fontPx": 16.58,
+            "time": 392.186,
+            "seconds": 5.816
+          },
+          {
+            "selector": "#s16-na4 > text:nth-of-type(1)",
+            "text": "Na",
+            "fontPx": 16.58,
+            "time": 392.186,
+            "seconds": 5.816
+          },
+          {
+            "selector": "#s16-na5 > text:nth-of-type(1)",
+            "text": "Na",
+            "fontPx": 16.58,
+            "time": 392.186,
+            "seconds": 5.816
+          },
+          {
+            "selector": "#s16-na6 > text:nth-of-type(1)",
+            "text": "Na",
+            "fontPx": 16.58,
+            "time": 392.186,
+            "seconds": 5.816
+          },
+          {
+            "selector": "#s16-na7 > text:nth-of-type(1)",
+            "text": "Na",
+            "fontPx": 16.58,
+            "time": 392.186,
+            "seconds": 5.816
+          }
+        ]
+      }
+    ],
+    "enabled": true,
+    "step": 0.8310000000000031,
+    "samples": 599
+  },
+  "audio": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": []
+  },
+  "hdr": {
+    "autoPromotion": null,
+    "inspection": "available"
+  },
+  "snapshots": {
+    "enabled": false,
+    "files": [],
+    "times": [],
+    "findingFiles": []
+  }
+}

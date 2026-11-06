@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "wikimedia-image-search": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "wikimedia-image-search-mcp@1.0.2"
+      ],
+      "env": {}
+    },
+    "iconify": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "iconify-mcp-server@1.0.4"
+      ],
+      "env": {}
+    }
+  }
+}

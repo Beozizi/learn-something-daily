@@ -1,0 +1,7268 @@
+{
+  "voice": "iP95p4xoKVk53GoZ742B",
+  "sample_rate": 48000,
+  "duration": 639.275,
+  "scenes": [
+    {
+      "id": "01",
+      "title": "Title",
+      "start": 0.0,
+      "end": 4.5,
+      "speech_end": 0.0,
+      "min_duration": 4.0,
+      "visual": [
+        "Thẻ giấy: \"Why do you need to drink water?\" — một ly nước, mặt nước gợn."
+      ],
+      "text": "",
+      "say_text": "",
+      "tokens": []
+    },
+    {
+      "id": "02",
+      "title": "Opening story",
+      "start": 4.5,
+      "end": 41.362,
+      "speech_end": 40.862,
+      "min_duration": null,
+      "visual": [
+        "van-phong.png — cậu bé (tư thế đổi theo câu). Chai nước còn nguyên nắp, đồng hồ."
+      ],
+      "text": "Seven in the morning. You walk into the office with a cup of coffee. Your first meeting runs for two hours. Then come the emails, the reports, and one more meeting. The water bottle on your desk is still sealed. Three in the afternoon. A dull headache starts to creep in. You read the same line three times, and it still doesn't make sense. Your lips are dry. Your whole body feels sluggish. And at four o'clock, you have to stand up and present to the whole room. You reach for the water bottle, and then you stop. How much is actually enough? Should you just force down as much as you can?",
+      "say_text": "Seven in the morning. You walk into the office with a cup of coffee. Your first meeting runs for two hours. Then come the emails, the reports, and one more meeting. The water bottle on your desk is still sealed. Three in the afternoon. A dull headache starts to creep in. You read the same line three times, and it still doesn't make sense. Your lips are dry. Your whole body feels sluggish. And at four o'clock, you have to stand up and present to the whole room. You reach for the water bottle, and then you stop. How much is actually enough? Should you just force down as much as you can?",
+      "tokens": [
+        {
+          "show": "Seven",
+          "say": "Seven"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "morning.",
+          "say": "morning."
+        },
+        {
+          "show": "You",
+          "say": "You"
+        },
+        {
+          "show": "walk",
+          "say": "walk"
+        },
+        {
+          "show": "into",
+          "say": "into"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "office",
+          "say": "office"
+        },
+        {
+          "show": "with",
+          "say": "with"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "cup",
+          "say": "cup"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "coffee.",
+          "say": "coffee."
+        },
+        {
+          "show": "Your",
+          "say": "Your"
+        },
+        {
+          "show": "first",
+          "say": "first"
+        },
+        {
+          "show": "meeting",
+          "say": "meeting"
+        },
+        {
+          "show": "runs",
+          "say": "runs"
+        },
+        {
+          "show": "for",
+          "say": "for"
+        },
+        {
+          "show": "two",
+          "say": "two"
+        },
+        {
+          "show": "hours.",
+          "say": "hours."
+        },
+        {
+          "show": "Then",
+          "say": "Then"
+        },
+        {
+          "show": "come",
+          "say": "come"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "emails,",
+          "say": "emails,"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "reports,",
+          "say": "reports,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "one",
+          "say": "one"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "meeting.",
+          "say": "meeting."
+        },
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "water",
+          "say": "water"
+        },
+        {
+          "show": "bottle",
+          "say": "bottle"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "desk",
+          "say": "desk"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "still",
+          "say": "still"
+        },
+        {
+          "show": "sealed.",
+          "say": "sealed."
+        },
+        {
+          "show": "Three",
+          "say": "Three"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "afternoon.",
+          "say": "afternoon."
+        },
+        {
+          "show": "A",
+          "say": "A"
+        },
+        {
+          "show": "dull",
+          "say": "dull"
+        },
+        {
+          "show": "headache",
+          "say": "headache"
+        },
+        {
+          "show": "starts",
+          "say": "starts"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "creep",
+          "say": "creep"
+        },
+        {
+          "show": "in.",
+          "say": "in."
+        },
+        {
+          "show": "You",
+          "say": "You"
+        },
+        {
+          "show": "read",
+          "say": "read"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "same",
+          "say": "same"
+        },
+        {
+          "show": "line",
+          "say": "line"
+        },
+        {
+          "show": "three",
+          "say": "three"
+        },
+        {
+          "show": "times,",
+          "say": "times,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "still",
+          "say": "still"
+        },
+        {
+          "show": "doesn't",
+          "say": "doesn't"
+        },
+        {
+          "show": "make",
+          "say": "make"
+        },
+        {
+          "show": "sense.",
+          "say": "sense."
+        },
+        {
+          "show": "Your",
+          "say": "Your"
+        },
+        {
+          "show": "lips",
+          "say": "lips"
+        },
+        {
+          "show": "are",
+          "say": "are"
+        },
+        {
+          "show": "dry.",
+          "say": "dry."
+        },
+        {
+          "show": "Your",
+          "say": "Your"
+        },
+        {
+          "show": "whole",
+          "say": "whole"
+        },
+        {
+          "show": "body",
+          "say": "body"
+        },
+        {
+          "show": "feels",
+          "say": "feels"
+        },
+        {
+          "show": "sluggish.",
+          "say": "sluggish."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "at",
+          "say": "at"
+        },
+        {
+          "show": "four",
+          "say": "four"
+        },
+        {
+          "show": "o'clock,",
+          "say": "o'clock,"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "have",
+          "say": "have"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "stand",
+          "say": "stand"
+        },
+        {
+          "show": "up",
+          "say": "up"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "present",
+          "say": "present"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "whole",
+          "say": "whole"
+        },
+        {
+          "show": "room.",
+          "say": "room."
+        },
+        {
+          "show": "You",
+          "say": "You"
+        },
+        {
+          "show": "reach",
+          "say": "reach"
+        },
+        {
+          "show": "for",
+          "say": "for"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "water",
+          "say": "water"
+        },
+        {
+          "show": "bottle,",
+          "say": "bottle,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "then",
+          "say": "then"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "stop.",
+          "say": "stop."
+        },
+        {
+          "show": "How",
+          "say": "How"
+        },
+        {
+          "show": "much",
+          "say": "much"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "actually",
+          "say": "actually"
+        },
+        {
+          "show": "enough?",
+          "say": "enough?"
+        },
+        {
+          "show": "Should",
+          "say": "Should"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "just",
+          "say": "just"
+        },
+        {
+          "show": "force",
+          "say": "force"
+        },
+        {
+          "show": "down",
+          "say": "down"
+        },
+        {
+          "show": "as",
+          "say": "as"
+        },
+        {
+          "show": "much",
+          "say": "much"
+        },
+        {
+          "show": "as",
+          "say": "as"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "can?",
+          "say": "can?"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "The problem",
+      "start": 41.362,
+      "end": 58.215,
+      "speech_end": 57.715,
+      "min_duration": null,
+      "visual": [
+        "Ba bong bóng lời khuyên quanh cậu bé (suy-nghi): \"8 GLASSES\", \"3 LITERS\", \"ONLY WHEN THIRSTY\"."
+      ],
+      "text": "Online, everyone tells you something different. Some say you need exactly eight glasses a day. Some say three liters. Others say just drink when you're thirsty. Some even claim that the more you drink, the more toxins you flush out. To find out who's right, let's first look at what water actually does inside your body.",
+      "say_text": "Online, everyone tells you something different. Some say you need exactly eight glasses a day. Some say three liters. Others say just drink when you're thirsty. Some even claim that the more you drink, the more toxins you flush out. To find out who's right, let's first look at what water actually does inside your body.",
+      "tokens": [
+        {
+          "show": "Online,",
+          "say": "Online,"
+        },
+        {
+          "show": "everyone",
+          "say": "everyone"
+        },
+        {
+          "show": "tells",
+          "say": "tells"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "something",
+          "say": "something"
+        },
+        {
+          "show": "different.",
+          "say": "different."
+        },
+        {
+          "show": "Some",
+          "say": "Some"
+        },
+        {
+          "show": "say",
+          "say": "say"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "need",
+          "say": "need"
+        },
+        {
+          "show": "exactly",
+          "say": "exactly"
+        },
+        {
+          "show": "eight",
+          "say": "eight"
+        },
+        {
+          "show": "glasses",
+          "say": "glasses"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "day.",
+          "say": "day."
+        },
+        {
+          "show": "Some",
+          "say": "Some"
+        },
+        {
+          "show": "say",
+          "say": "say"
+        },
+        {
+          "show": "three",
+          "say": "three"
+        },
+        {
+          "show": "liters.",
+          "say": "liters."
+        },
+        {
+          "show": "Others",
+          "say": "Others"
+        },
+        {
+          "show": "say",
+          "say": "say"
+        },
+        {
+          "show": "just",
+          "say": "just"
+        },
+        {
+          "show": "drink",
+          "say": "drink"
+        },
+        {
+          "show": "when",
+          "say": "when"
+        },
+        {
+          "show": "you're",
+          "say": "you're"
+        },
+        {
+          "show": "thirsty.",
+          "say": "thirsty."
+        },
+        {
+          "show": "Some",
+          "say": "Some"
+        },
+        {
+          "show": "even",
+          "say": "even"
+        },
+        {
+          "show": "claim",
+          "say": "claim"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "drink,",
+          "say": "drink,"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "toxins",
+          "say": "toxins"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "flush",
+          "say": "flush"
+        },
+        {
+          "show": "out.",
+          "say": "out."
+        },
+        {
+          "show": "To",
+          "say": "To"
+        },
+        {
+          "show": "find",
+          "say": "find"
+        },
+        {
+          "show": "out",
+          "say": "out"
+        },
+        {
+          "show": "who's",
+          "say": "who's"
+        },
+        {
+          "show": "right,",
+          "say": "right,"
+        },
+        {
+          "show": "let's",
+          "say": "let's"
+        },
+        {
+          "show": "first",
+          "say": "first"
+        },
+        {
+          "show": "look",
+          "say": "look"
+        },
+        {
+          "show": "at",
+          "say": "at"
+        },
+        {
+          "show": "what",
+          "say": "what"
+        },
+        {
+          "show": "water",
+          "say": "water"
+        },
+        {
+          "show": "actually",
+          "say": "actually"
+        },
+        {
+          "show": "does",
+          "say": "does"
+        },
+        {
+          "show": "inside",
+          "say": "inside"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "body.",
+          "say": "body."
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "title": "You are water",
+      "start": 58.215,
+      "end": 110.281,
+      "speech_end": 109.781,
+      "min_duration": null,
+      "visual": [
+        "BẢNG (lop-hoc-bang.png): hình người đổ đầy nước tới 60%; trẻ sơ sinh 75%, người cao tuổi 55%; não, tim 73% · phổi 83% · xương 31%; tế bào 2/3 — ngoài 1/3; vòng: chảy, bốc hơi, lọc, thay mới."
+      ],
+      "text": "If you poured your body into a jar, most of what filled it would be water. In an adult, water makes up about sixty percent of body weight. Newborn babies have even more, about seventy-five percent. Older adults have less, around fifty-five percent. And every organ holds a different amount. According to a classic analysis from 1945, the brain and heart are about seventy-three percent water. The lungs are about eighty-three percent. Bones, only about thirty-one percent. About two-thirds of all that water sits inside your cells. The rest is outside: in your blood, and in the spaces between cells. And this water never sits still. It flows, it evaporates, it gets filtered, and it is replaced every single day. To see why, let's follow a drop of water through its three main jobs.",
+      "say_text": "If you poured your body into a jar, most of what filled it would be water. In an adult, water makes up about sixty percent of body weight. Newborn babies have even more, about seventy-five percent. Older adults have less, around fifty-five percent. And every organ holds a different amount. According to a classic analysis from 1945, the brain and heart are about seventy-three percent water. The lungs are about eighty-three percent. Bones, only about thirty-one percent. About two-thirds of all that water sits inside your cells. The rest is outside: in your blood, and in the spaces between cells. And this water never sits still. It flows, it evaporates, it gets filtered, and it is replaced every single day. To see why, let's follow a drop of water through its three main jobs.",
+      "tokens": [
+        {
+          "show": "If",
+          "say": "If"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "poured",
+          "say": "poured"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "body",
+          "say": "body"
+        },
+        {
+          "show": "into",
+          "say": "into"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "jar,",
+          "say": "jar,"
+        },
+        {
+          "show": "most",
+          "say": "most"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "what",
+          "say": "what"
+        },
+        {
+          "show": "filled",
+          "say": "filled"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "would",
+          "say": "would"
+        },
+        {
+          "show": "be",
+          "say": "be"
+        },
+        {
+          "show": "water.",
+          "say": "water."
+        },
+        {
+          "show": "In",
+          "say": "In"
+        },
+        {
+          "show": "an",
+          "say": "an"
+        },
+        {
+          "show": "adult,",
+          "say": "adult,"
+        },
+        {
+          "show": "water",
+          "say": "water"
+        },
+        {
+          "show": "makes",
+          "say": "makes"
+        },
+        {
+          "show": "up",
+          "say": "up"
+        },
+        {
+          "show": "about",
+          "say": "about"
+        },
+        {
+          "show": "sixty",
+          "say": "sixty"
+        },
+        {
+          "show": "percent",
+          "say": "percent"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "body",
+          "say": "body"
+        },
+        {
+          "show": "weight.",
+          "say": "weight."
+        },
+        {
+          "show": "Newborn",
+          "say": "Newborn"
+        },
+        {
+          "show": "babies",
+          "say": "babies"
+        },
+        {
+          "show": "have",
+          "say": "have"
+        },
+        {
+          "show": "even",
+          "say": "even"
+        },
+        {
+          "show": "more,",
+          "say": "more,"
+        },
+        {
+          "show": "about",
+          "say": "about"
+        },
+        {
+          "show": "seventy-five",
+          "say": "seventy-five"
+        },
+        {
+          "show": "percent.",
+          "say": "percent."
+        },
+        {
+          "show": "Older",
+          "say": "Older"
+        },
+        {
+          "show": "adults",
+          "say": "adults"
+        },
+        {
+          "show": "have",
+          "say": "have"
+        },
+        {
+          "show": "less,",
+          "say": "less,"
+        },
+        {
+          "show": "around",
+          "say": "around"
+        },
+        {
+          "show": "fifty-five",
+          "say": "fifty-five"
+        },
+        {
+          "show": "percent.",
+          "say": "percent."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "every",
+          "say": "every"
+        },
+        {
+          "show": "organ",
+          "say": "organ"
+        },
+        {
+          "show": "holds",
+          "say": "holds"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "different",
+          "say": "different"
+        },
+        {
+          "show": "amount.",
+          "say": "amount."
+        },
+        {
+          "show": "According",
+          "say": "According"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "classic",
+          "say": "classic"
+        },
+        {
+          "show": "analysis",
+          "say": "analysis"
+        },
+        {
+          "show": "from",
+          "say": "from"
+        },
+        {
+          "show": "1945,",
+          "say": "1945,"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "brain",
+          "say": "brain"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "heart",
+          "say": "heart"
+        },
+        {
+          "show": "are",
+          "say": "are"
+        },
+        {
+          "show": "about",
+          "say": "about"
+        },
+        {
+          "show": "seventy-three",
+          "say": "seventy-three"
+        },
+        {
+          "show": "percent",
+          "say": "percent"
+        },
+        {
+          "show": "water.",
+          "say": "water."
+        },
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "lungs",
+          "say": "lungs"
+        },
+        {
+          "show": "are",
+          "say": "are"
+        },
+        {
+          "show": "about",
+          "say": "about"
+        },
+        {
+          "show": "eighty-three",
+          "say": "eighty-three"
+        },
+        {
+          "show": "percent.",
+          "say": "percent."
+        },
+        {
+          "show": "Bones,",
+          "say": "Bones,"
+        },
+        {
+          "show": "only",
+          "say": "only"
+        },
+        {
+          "show": "about",
+          "say": "about"
+        },
+        {
+          "show": "thirty-one",
+          "say": "thirty-one"
+        },
+        {
+          "show": "percent.",
+          "say": "percent."
+        },
+        {
+          "show": "About",
+          "say": "About"
+        },
+        {
+          "show": "two-thirds",
+          "say": "two-thirds"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "all",
+          "say": "all"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "water",
+          "say": "water"
+        },
+        {
+          "show": "sits",
+          "say": "sits"
+        },
+        {
+          "show": "inside",
+          "say": "inside"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "cells.",
+          "say": "cells."
+        },
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "rest",
+          "say": "rest"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "outside:",
+          "say": "outside:"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "blood,",
+          "say": "blood,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "spaces",
+          "say": "spaces"
+        },
+        {
+          "show": "between",
+          "say": "between"
+        },
+        {
+          "show": "cells.",
+          "say": "cells."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "this",
+          "say": "this"
+        },
+        {
+          "show": "water",
+          "say": "water"
+        },
+        {
+          "show": "never",
+          "say": "never"
+        },
+        {
+          "show": "sits",
+          "say": "sits"
+        },
+        {
+          "show": "still.",
+          "say": "still."
+        },
+        {
+          "show": "It",
+          "say": "It"
+        },
+        {
+          "show": "flows,",
+          "say": "flows,"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "evaporates,",
+          "say": "evaporates,"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "gets",
+          "say": "gets"
+        },
+        {
+          "show": "filtered,",
+          "say": "filtered,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "replaced",
+          "say": "replaced"
+        },
+        {
+          "show": "every",
+          "say": "every"
+        },
+        {
+          "show": "single",
+          "say": "single"
+        },
+        {
+          "show": "day.",
+          "say": "day."
+        },
+        {
+          "show": "To",
+          "say": "To"
+        },
+        {
+          "show": "see",
+          "say": "see"
+        },
+        {
+          "show": "why,",
+          "say": "why,"
+        },
+        {
+          "show": "let's",
+          "say": "let's"
+        },
+        {
+          "show": "follow",
+          "say": "follow"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "drop",
+          "say": "drop"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "water",
+          "say": "water"
+        },
+        {
+          "show": "through",
+          "say": "through"
+        },
+        {
+          "show": "its",
+          "say": "its"
+        },
+        {
+          "show": "three",
+          "say": "three"
+        },
+        {
+          "show": "main",
+          "say": "main"
+        },
+        {
+          "show": "jobs.",
+          "say": "jobs."
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "title": "The delivery river",
+      "start": 110.281,
+      "end": 141.37,
+      "speech_end": 140.87,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: mạch máu như con sông, kiện hàng dinh dưỡng và oxy trôi tới tế bào, chiều về chở chất thải; tim đập nhanh dần khi mực nước hạ."
+      ],
+      "text": "Job number one: water is your delivery system. The liquid part of your blood, called plasma, is mostly water. That stream carries nutrients and oxygen to every cell. On the way back, it picks up the waste that needs to go. In your gut, your body releases around eight liters of digestive fluids every day to process food. Then almost all of that water is absorbed back again. When you run low on water, your blood volume drops a little. And your heart has to work harder to keep the flow from slowing down.",
+      "say_text": "Job number one: water is your delivery system. The liquid part of your blood, called plasma, is mostly water. That stream carries nutrients and oxygen to every cell. On the way back, it picks up the waste that needs to go. In your gut, your body releases around eight liters of digestive fluids every day to process food. Then almost all of that water is absorbed back again. When you run low on water, your blood volume drops a little. And your heart has to work harder to keep the flow from slowing down.",
+      "tokens": [
+        {
+          "show": "Job",
+          "say": "Job"
+        },
+        {
+          "show": "number",
+          "say": "number"
+        },
+        {
+          "show": "one:",
+          "say": "one:"
+        },
+        {
+          "show": "water",
+          "say": "water"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "delivery",
+          "say": "delivery"
+        },
+        {
+          "show": "system.",
+          "say": "system."
+        },
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "liquid",
+          "say": "liquid"
+        },
+        {
+          "show": "part",
+          "say": "part"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "blood,",
+          "say": "blood,"
+        },
+        {
+          "show": "called",
+          "say": "called"
+        },
+        {
+          "show": "plasma,",
+          "say": "plasma,"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "mostly",
+          "say": "mostly"
+        },
+        {
+          "show": "water.",
+          "say": "water."
+        },
+        {
+          "show": "That",
+          "say": "That"
+        },
+        {
+          "show": "stream",
+          "say": "stream"
+        },
+        {
+          "show": "carries",
+          "say": "carries"
+        },
+        {
+          "show": "nutrients",
+          "say": "nutrients"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "oxygen",
+          "say": "oxygen"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "every",
+          "say": "every"
+        },
+        {
+          "show": "cell.",
+          "say": "cell."
+        },
+        {
+          "show": "On",
+          "say": "On"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "way",
+          "say": "way"
+        },
+        {
+          "show": "back,",
+          "say": "back,"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "picks",
+          "say": "picks"
+        },
+        {
+          "show": "up",
+          "say": "up"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "waste",
+          "say": "waste"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "needs",
+          "say": "needs"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "go.",
+          "say": "go."
+        },
+        {
+          "show": "In",
+          "say": "In"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "gut,",
+          "say": "gut,"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "body",
+          "say": "body"
+        },
+        {
+          "show": "releases",
+          "say": "releases"
+        },
+        {
+          "show": "around",
+          "say": "around"
+        },
+        {
+          "show": "eight",
+          "say": "eight"
+        },
+        {
+          "show": "liters",
+          "say": "liters"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "digestive",
+          "say": "digestive"
+        },
+        {
+          "show": "fluids",
+          "say": "fluids"
+        },
+        {
+          "show": "every",
+          "say": "every"
+        },
+        {
+          "show": "day",
+          "say": "day"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "process",
+          "say": "process"
+        },
+        {
+          "show": "food.",
+          "say": "food."
+        },
+        {
+          "show": "Then",
+          "say": "Then"
+        },
+        {
+          "show": "almost",
+          "say": "almost"
+        },
+        {
+          "show": "all",
+          "say": "all"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "water",
+          "say": "water"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "absorbed",
+          "say": "absorbed"
+        },
+        {
+          "show": "back",
+          "say": "back"
+        },
+        {
+          "show": "again.",
+          "say": "again."
+        },
+        {
+          "show": "When",
+          "say": "When"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "run",
+          "say": "run"
+        },
+        {
+          "show": "low",
+          "say": "low"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "water,",
+          "say": "water,"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "blood",
+          "say": "blood"
+        },
+        {
+          "show": "volume",
+          "say": "volume"
+        },
+        {
+          "show": "drops",
+          "say": "drops"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "little.",
+          "say": "little."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "heart",
+          "say": "heart"
+        },
+        {
+          "show": "has",
+          "say": "has"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "work",
+          "say": "work"
+        },
+        {
+          "show": "harder",
+          "say": "harder"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "keep",
+          "say": "keep"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "flow",
+          "say": "flow"
+        },
+        {
+          "show": "from",
+          "say": "from"
+        },
+        {
+          "show": "slowing",
+          "say": "slowing"
+        },
+        {
+          "show": "down.",
+          "say": "down."
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "title": "The air conditioner",
+      "start": 141.37,
+      "end": 166.556,
+      "speech_end": 166.056,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: da, giọt mồ hôi bay hơi mang nhiệt; nhiệt kế hạ; mặt trời, người chạy: \"2 LITERS / HOUR\"."
+      ],
+      "text": "Job number two: water keeps you from overheating. When your body temperature rises, your skin releases sweat. As the sweat evaporates, it carries heat away from your body. It's like standing in front of a fan with a wet towel on your face. The hotter it gets, and the more you move, the more you sweat. During hard exercise in the sun, you can lose around two liters of sweat an hour. And every drop of that has to be replaced.",
+      "say_text": "Job number two: water keeps you from overheating. When your body temperature rises, your skin releases sweat. As the sweat evaporates, it carries heat away from your body. It's like standing in front of a fan with a wet towel on your face. The hotter it gets, and the more you move, the more you sweat. During hard exercise in the sun, you can lose around two liters of sweat an hour. And every drop of that has to be replaced.",
+      "tokens": [
+        {
+          "show": "Job",
+          "say": "Job"
+        },
+        {
+          "show": "number",
+          "say": "number"
+        },
+        {
+          "show": "two:",
+          "say": "two:"
+        },
+        {
+          "show": "water",
+          "say": "water"
+        },
+        {
+          "show": "keeps",
+          "say": "keeps"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "from",
+          "say": "from"
+        },
+        {
+          "show": "overheating.",
+          "say": "overheating."
+        },
+        {
+          "show": "When",
+          "say": "When"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "body",
+          "say": "body"
+        },
+        {
+          "show": "temperature",
+          "say": "temperature"
+        },
+        {
+          "show": "rises,",
+          "say": "rises,"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "skin",
+          "say": "skin"
+        },
+        {
+          "show": "releases",
+          "say": "releases"
+        },
+        {
+          "show": "sweat.",
+          "say": "sweat."
+        },
+        {
+          "show": "As",
+          "say": "As"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "sweat",
+          "say": "sweat"
+        },
+        {
+          "show": "evaporates,",
+          "say": "evaporates,"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "carries",
+          "say": "carries"
+        },
+        {
+          "show": "heat",
+          "say": "heat"
+        },
+        {
+          "show": "away",
+          "say": "away"
+        },
+        {
+          "show": "from",
+          "say": "from"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "body.",
+          "say": "body."
+        },
+        {
+          "show": "It's",
+          "say": "It's"
+        },
+        {
+          "show": "like",
+          "say": "like"
+        },
+        {
+          "show": "standing",
+          "say": "standing"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "front",
+          "say": "front"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "fan",
+          "say": "fan"
+        },
+        {
+          "show": "with",
+          "say": "with"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "wet",
+          "say": "wet"
+        },
+        {
+          "show": "towel",
+          "say": "towel"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "face.",
+          "say": "face."
+        },
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "hotter",
+          "say": "hotter"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "gets,",
+          "say": "gets,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "move,",
+          "say": "move,"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "sweat.",
+          "say": "sweat."
+        },
+        {
+          "show": "During",
+          "say": "During"
+        },
+        {
+          "show": "hard",
+          "say": "hard"
+        },
+        {
+          "show": "exercise",
+          "say": "exercise"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "sun,",
+          "say": "sun,"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "can",
+          "say": "can"
+        },
+        {
+          "show": "lose",
+          "say": "lose"
+        },
+        {
+          "show": "around",
+          "say": "around"
+        },
+        {
+          "show": "two",
+          "say": "two"
+        },
+        {
+          "show": "liters",
+          "say": "liters"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "sweat",
+          "say": "sweat"
+        },
+        {
+          "show": "an",
+          "say": "an"
+        },
+        {
+          "show": "hour.",
+          "say": "hour."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "every",
+          "say": "every"
+        },
+        {
+          "show": "drop",
+          "say": "drop"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "has",
+          "say": "has"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "be",
+          "say": "be"
+        },
+        {
+          "show": "replaced.",
+          "say": "replaced."
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "title": "The filter plant",
+      "start": 166.556,
+      "end": 198.22,
+      "speech_end": 197.72,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: hai quả thận như nhà máy; \"180 L\" (bồn tắm), \">99% BACK\", \"≈1.5 L\" nước tiểu; đồng hồ tốc độ có vạch đỏ."
+      ],
+      "text": "Job number three: water helps your kidneys clean your blood. Every day, your two kidneys filter about one hundred and eighty liters of fluid from your blood. That's almost a full bathtub. But more than ninety-nine percent of it is absorbed back. Only about one and a half liters becomes urine, carrying waste out of your body. Your kidneys can also adjust: hold on to water when you're short, let more go when you have extra. But this filter has a speed limit. Remember that detail. It will matter later.",
+      "say_text": "Job number three: water helps your kidneys clean your blood. Every day, your two kidneys filter about one hundred and eighty liters of fluid from your blood. That's almost a full bathtub. But more than ninety-nine percent of it is absorbed back. Only about one and a half liters becomes urine, carrying waste out of your body. Your kidneys can also adjust: hold on to water when you're short, let more go when you have extra. But this filter has a speed limit. Remember that detail. It will matter later.",
+      "tokens": [
+        {
+          "show": "Job",
+          "say": "Job"
+        },
+        {
+          "show": "number",
+          "say": "number"
+        },
+        {
+          "show": "three:",
+          "say": "three:"
+        },
+        {
+          "show": "water",
+          "say": "water"
+        },
+        {
+          "show": "helps",
+          "say": "helps"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "kidneys",
+          "say": "kidneys"
+        },
+        {
+          "show": "clean",
+          "say": "clean"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "blood.",
+          "say": "blood."
+        },
+        {
+          "show": "Every",
+          "say": "Every"
+        },
+        {
+          "show": "day,",
+          "say": "day,"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "two",
+          "say": "two"
+        },
+        {
+          "show": "kidneys",
+          "say": "kidneys"
+        },
+        {
+          "show": "filter",
+          "say": "filter"
+        },
+        {
+          "show": "about",
+          "say": "about"
+        },
+        {
+          "show": "one",
+          "say": "one"
+        },
+        {
+          "show": "hundred",
+          "say": "hundred"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "eighty",
+          "say": "eighty"
+        },
+        {
+          "show": "liters",
+          "say": "liters"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "fluid",
+          "say": "fluid"
+        },
+        {
+          "show": "from",
+          "say": "from"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "blood.",
+          "say": "blood."
+        },
+        {
+          "show": "That's",
+          "say": "That's"
+        },
+        {
+          "show": "almost",
+          "say": "almost"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "full",
+          "say": "full"
+        },
+        {
+          "show": "bathtub.",
+          "say": "bathtub."
+        },
+        {
+          "show": "But",
+          "say": "But"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "than",
+          "say": "than"
+        },
+        {
+          "show": "ninety-nine",
+          "say": "ninety-nine"
+        },
+        {
+          "show": "percent",
+          "say": "percent"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "absorbed",
+          "say": "absorbed"
+        },
+        {
+          "show": "back.",
+          "say": "back."
+        },
+        {
+          "show": "Only",
+          "say": "Only"
+        },
+        {
+          "show": "about",
+          "say": "about"
+        },
+        {
+          "show": "one",
+          "say": "one"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "half",
+          "say": "half"
+        },
+        {
+          "show": "liters",
+          "say": "liters"
+        },
+        {
+          "show": "becomes",
+          "say": "becomes"
+        },
+        {
+          "show": "urine,",
+          "say": "urine,"
+        },
+        {
+          "show": "carrying",
+          "say": "carrying"
+        },
+        {
+          "show": "waste",
+          "say": "waste"
+        },
+        {
+          "show": "out",
+          "say": "out"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "body.",
+          "say": "body."
+        },
+        {
+          "show": "Your",
+          "say": "Your"
+        },
+        {
+          "show": "kidneys",
+          "say": "kidneys"
+        },
+        {
+          "show": "can",
+          "say": "can"
+        },
+        {
+          "show": "also",
+          "say": "also"
+        },
+        {
+          "show": "adjust:",
+          "say": "adjust:"
+        },
+        {
+          "show": "hold",
+          "say": "hold"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "water",
+          "say": "water"
+        },
+        {
+          "show": "when",
+          "say": "when"
+        },
+        {
+          "show": "you're",
+          "say": "you're"
+        },
+        {
+          "show": "short,",
+          "say": "short,"
+        },
+        {
+          "show": "let",
+          "say": "let"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "go",
+          "say": "go"
+        },
+        {
+          "show": "when",
+          "say": "when"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "have",
+          "say": "have"
+        },
+        {
+          "show": "extra.",
+          "say": "extra."
+        },
+        {
+          "show": "But",
+          "say": "But"
+        },
+        {
+          "show": "this",
+          "say": "this"
+        },
+        {
+          "show": "filter",
+          "say": "filter"
+        },
+        {
+          "show": "has",
+          "say": "has"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "speed",
+          "say": "speed"
+        },
+        {
+          "show": "limit.",
+          "say": "limit."
+        },
+        {
+          "show": "Remember",
+          "say": "Remember"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "detail.",
+          "say": "detail."
+        },
+        {
+          "show": "It",
+          "say": "It"
+        },
+        {
+          "show": "will",
+          "say": "will"
+        },
+        {
+          "show": "matter",
+          "say": "matter"
+        },
+        {
+          "show": "later.",
+          "say": "later."
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "title": "The water scale",
+      "start": 198.22,
+      "end": 229.571,
+      "speech_end": 229.071,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: cân đĩa. Trái \"OUT\": nước tiểu, mồ hôi, hơi thở. Phải \"IN\": đồ uống, thức ăn. \"≈ 2–3 L / DAY\"."
+      ],
+      "text": "Now, let's put everything on a scale. On the left is the water you lose: through urine, through sweat, and with every breath. Even sitting still in an air-conditioned room, you're still losing water. On the right is the water you take in: from drinks, and from food too. Your body even makes a little water when it burns food, but that part is very small. For adults, the daily need is around two to three liters, food included. As soon as the two sides fall out of balance, your body reacts.",
+      "say_text": "Now, let's put everything on a scale. On the left is the water you lose: through urine, through sweat, and with every breath. Even sitting still in an air-conditioned room, you're still losing water. On the right is the water you take in: from drinks, and from food too. Your body even makes a little water when it burns food, but that part is very small. For adults, the daily need is around two to three liters, food included. As soon as the two sides fall out of balance, your body reacts.",
+      "tokens": [
+        {
+          "show": "Now,",
+          "say": "Now,"
+        },
+        {
+          "show": "let's",
+          "say": "let's"
+        },
+        {
+          "show": "put",
+          "say": "put"
+        },
+        {
+          "show": "everything",
+          "say": "everything"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "scale.",
+          "say": "scale."
+        },
+        {
+          "show": "On",
+          "say": "On"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "left",
+          "say": "left"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "water",
+          "say": "water"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "lose:",
+          "say": "lose:"
+        },
+        {
+          "show": "through",
+          "say": "through"
+        },
+        {
+          "show": "urine,",
+          "say": "urine,"
+        },
+        {
+          "show": "through",
+          "say": "through"
+        },
+        {
+          "show": "sweat,",
+          "say": "sweat,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "with",
+          "say": "with"
+        },
+        {
+          "show": "every",
+          "say": "every"
+        },
+        {
+          "show": "breath.",
+          "say": "breath."
+        },
+        {
+          "show": "Even",
+          "say": "Even"
+        },
+        {
+          "show": "sitting",
+          "say": "sitting"
+        },
+        {
+          "show": "still",
+          "say": "still"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "an",
+          "say": "an"
+        },
+        {
+          "show": "air-conditioned",
+          "say": "air-conditioned"
+        },
+        {
+          "show": "room,",
+          "say": "room,"
+        },
+        {
+          "show": "you're",
+          "say": "you're"
+        },
+        {
+          "show": "still",
+          "say": "still"
+        },
+        {
+          "show": "losing",
+          "say": "losing"
+        },
+        {
+          "show": "water.",
+          "say": "water."
+        },
+        {
+          "show": "On",
+          "say": "On"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "right",
+          "say": "right"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "water",
+          "say": "water"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "take",
+          "say": "take"
+        },
+        {
+          "show": "in:",
+          "say": "in:"
+        },
+        {
+          "show": "from",
+          "say": "from"
+        },
+        {
+          "show": "drinks,",
+          "say": "drinks,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "from",
+          "say": "from"
+        },
+        {
+          "show": "food",
+          "say": "food"
+        },
+        {
+          "show": "too.",
+          "say": "too."
+        },
+        {
+          "show": "Your",
+          "say": "Your"
+        },
+        {
+          "show": "body",
+          "say": "body"
+        },
+        {
+          "show": "even",
+          "say": "even"
+        },
+        {
+          "show": "makes",
+          "say": "makes"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "little",
+          "say": "little"
+        },
+        {
+          "show": "water",
+          "say": "water"
+        },
+        {
+          "show": "when",
+          "say": "when"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "burns",
+          "say": "burns"
+        },
+        {
+          "show": "food,",
+          "say": "food,"
+        },
+        {
+          "show": "but",
+          "say": "but"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "part",
+          "say": "part"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "very",
+          "say": "very"
+        },
+        {
+          "show": "small.",
+          "say": "small."
+        },
+        {
+          "show": "For",
+          "say": "For"
+        },
+        {
+          "show": "adults,",
+          "say": "adults,"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "daily",
+          "say": "daily"
+        },
+        {
+          "show": "need",
+          "say": "need"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "around",
+          "say": "around"
+        },
+        {
+          "show": "two",
+          "say": "two"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "three",
+          "say": "three"
+        },
+        {
+          "show": "liters,",
+          "say": "liters,"
+        },
+        {
+          "show": "food",
+          "say": "food"
+        },
+        {
+          "show": "included.",
+          "say": "included."
+        },
+        {
+          "show": "As",
+          "say": "As"
+        },
+        {
+          "show": "soon",
+          "say": "soon"
+        },
+        {
+          "show": "as",
+          "say": "as"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "two",
+          "say": "two"
+        },
+        {
+          "show": "sides",
+          "say": "sides"
+        },
+        {
+          "show": "fall",
+          "say": "fall"
+        },
+        {
+          "show": "out",
+          "say": "out"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "balance,",
+          "say": "balance,"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "body",
+          "say": "body"
+        },
+        {
+          "show": "reacts.",
+          "say": "reacts."
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "title": "The sensor",
+      "start": 229.571,
+      "end": 275.863,
+      "speech_end": 275.363,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: não với cảm biến kim đo DILUTE ↔ CONCENTRATED; \"+1–2%\" → đèn vàng: ADH xuống thận; đèn đỏ: \"THIRSTY!\"; ly nước, kim về giữa; cụ già, đèn mờ."
+      ],
+      "text": "Because deep inside your brain, there's a sensor. It constantly checks whether your blood is diluted or concentrated. It works like the thermostat on an air conditioner, except it measures water instead of temperature. When you're short on water, your blood gets more concentrated. Just one to two percent more, and the sensor switches on a warning light. First, your brain releases a hormone called ADH. ADH tells your kidneys to hold on to water. You pee less, and it gets darker. If that's not enough, your brain sends a second signal: thirst. You drink, your blood is diluted again, and the warning light goes off. In healthy people, this system runs quietly, day and night. But in older adults, thirst often arrives later, and weaker.",
+      "say_text": "Because deep inside your brain, there's a sensor. It constantly checks whether your blood is diluted or concentrated. It works like the thermostat on an air conditioner, except it measures water instead of temperature. When you're short on water, your blood gets more concentrated. Just one to two percent more, and the sensor switches on a warning light. First, your brain releases a hormone called ADH. ADH tells your kidneys to hold on to water. You pee less, and it gets darker. If that's not enough, your brain sends a second signal: thirst. You drink, your blood is diluted again, and the warning light goes off. In healthy people, this system runs quietly, day and night. But in older adults, thirst often arrives later, and weaker.",
+      "tokens": [
+        {
+          "show": "Because",
+          "say": "Because"
+        },
+        {
+          "show": "deep",
+          "say": "deep"
+        },
+        {
+          "show": "inside",
+          "say": "inside"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "brain,",
+          "say": "brain,"
+        },
+        {
+          "show": "there's",
+          "say": "there's"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "sensor.",
+          "say": "sensor."
+        },
+        {
+          "show": "It",
+          "say": "It"
+        },
+        {
+          "show": "constantly",
+          "say": "constantly"
+        },
+        {
+          "show": "checks",
+          "say": "checks"
+        },
+        {
+          "show": "whether",
+          "say": "whether"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "blood",
+          "say": "blood"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "diluted",
+          "say": "diluted"
+        },
+        {
+          "show": "or",
+          "say": "or"
+        },
+        {
+          "show": "concentrated.",
+          "say": "concentrated."
+        },
+        {
+          "show": "It",
+          "say": "It"
+        },
+        {
+          "show": "works",
+          "say": "works"
+        },
+        {
+          "show": "like",
+          "say": "like"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "thermostat",
+          "say": "thermostat"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "an",
+          "say": "an"
+        },
+        {
+          "show": "air",
+          "say": "air"
+        },
+        {
+          "show": "conditioner,",
+          "say": "conditioner,"
+        },
+        {
+          "show": "except",
+          "say": "except"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "measures",
+          "say": "measures"
+        },
+        {
+          "show": "water",
+          "say": "water"
+        },
+        {
+          "show": "instead",
+          "say": "instead"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "temperature.",
+          "say": "temperature."
+        },
+        {
+          "show": "When",
+          "say": "When"
+        },
+        {
+          "show": "you're",
+          "say": "you're"
+        },
+        {
+          "show": "short",
+          "say": "short"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "water,",
+          "say": "water,"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "blood",
+          "say": "blood"
+        },
+        {
+          "show": "gets",
+          "say": "gets"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "concentrated.",
+          "say": "concentrated."
+        },
+        {
+          "show": "Just",
+          "say": "Just"
+        },
+        {
+          "show": "one",
+          "say": "one"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "two",
+          "say": "two"
+        },
+        {
+          "show": "percent",
+          "say": "percent"
+        },
+        {
+          "show": "more,",
+          "say": "more,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "sensor",
+          "say": "sensor"
+        },
+        {
+          "show": "switches",
+          "say": "switches"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "warning",
+          "say": "warning"
+        },
+        {
+          "show": "light.",
+          "say": "light."
+        },
+        {
+          "show": "First,",
+          "say": "First,"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "brain",
+          "say": "brain"
+        },
+        {
+          "show": "releases",
+          "say": "releases"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "hormone",
+          "say": "hormone"
+        },
+        {
+          "show": "called",
+          "say": "called"
+        },
+        {
+          "show": "ADH.",
+          "say": "ADH."
+        },
+        {
+          "show": "ADH",
+          "say": "ADH"
+        },
+        {
+          "show": "tells",
+          "say": "tells"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "kidneys",
+          "say": "kidneys"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "hold",
+          "say": "hold"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "water.",
+          "say": "water."
+        },
+        {
+          "show": "You",
+          "say": "You"
+        },
+        {
+          "show": "pee",
+          "say": "pee"
+        },
+        {
+          "show": "less,",
+          "say": "less,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "gets",
+          "say": "gets"
+        },
+        {
+          "show": "darker.",
+          "say": "darker."
+        },
+        {
+          "show": "If",
+          "say": "If"
+        },
+        {
+          "show": "that's",
+          "say": "that's"
+        },
+        {
+          "show": "not",
+          "say": "not"
+        },
+        {
+          "show": "enough,",
+          "say": "enough,"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "brain",
+          "say": "brain"
+        },
+        {
+          "show": "sends",
+          "say": "sends"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "second",
+          "say": "second"
+        },
+        {
+          "show": "signal:",
+          "say": "signal:"
+        },
+        {
+          "show": "thirst.",
+          "say": "thirst."
+        },
+        {
+          "show": "You",
+          "say": "You"
+        },
+        {
+          "show": "drink,",
+          "say": "drink,"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "blood",
+          "say": "blood"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "diluted",
+          "say": "diluted"
+        },
+        {
+          "show": "again,",
+          "say": "again,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "warning",
+          "say": "warning"
+        },
+        {
+          "show": "light",
+          "say": "light"
+        },
+        {
+          "show": "goes",
+          "say": "goes"
+        },
+        {
+          "show": "off.",
+          "say": "off."
+        },
+        {
+          "show": "In",
+          "say": "In"
+        },
+        {
+          "show": "healthy",
+          "say": "healthy"
+        },
+        {
+          "show": "people,",
+          "say": "people,"
+        },
+        {
+          "show": "this",
+          "say": "this"
+        },
+        {
+          "show": "system",
+          "say": "system"
+        },
+        {
+          "show": "runs",
+          "say": "runs"
+        },
+        {
+          "show": "quietly,",
+          "say": "quietly,"
+        },
+        {
+          "show": "day",
+          "say": "day"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "night.",
+          "say": "night."
+        },
+        {
+          "show": "But",
+          "say": "But"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "older",
+          "say": "older"
+        },
+        {
+          "show": "adults,",
+          "say": "adults,"
+        },
+        {
+          "show": "thirst",
+          "say": "thirst"
+        },
+        {
+          "show": "often",
+          "say": "often"
+        },
+        {
+          "show": "arrives",
+          "say": "arrives"
+        },
+        {
+          "show": "later,",
+          "say": "later,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "weaker.",
+          "say": "weaker."
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Running low",
+      "start": 275.863,
+      "end": 328.478,
+      "speech_end": 327.978,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: nhóm nữ \"−1.4%\": đau đầu, mệt, khó tập trung; nhóm nam: tỉnh táo và trí nhớ giảm; \"RESULTS STILL MIXED\"; người chạy \"−2% → LESS ENDURANCE\"; cuối: cậu bé (dau-dau) lúc 3 giờ chiều."
+      ],
+      "text": "So what happens when you ignore these signals? In one experiment, healthy young women were made mildly dehydrated. They lost about one point four percent of their body weight. They got headaches, felt tired, found it harder to focus, and everything felt like more effort. Another experiment, in men, found they were less alert. Their working memory dipped as well. The results across studies don't fully agree yet. But for exercise, the picture is clearer. Losing more than two percent of your body weight to dehydration can reduce your endurance. Especially in the heat. Severe dehydration, like from long bouts of diarrhea or vomiting, can be dangerous. Then you need to replace both water and salts, with an oral rehydration solution, and see a doctor right away. Headache. Sluggish. Hard to focus. Sound familiar? That's you, at three in the afternoon.",
+      "say_text": "So what happens when you ignore these signals? In one experiment, healthy young women were made mildly dehydrated. They lost about one point four percent of their body weight. They got headaches, felt tired, found it harder to focus, and everything felt like more effort. Another experiment, in men, found they were less alert. Their working memory dipped as well. The results across studies don't fully agree yet. But for exercise, the picture is clearer. Losing more than two percent of your body weight to dehydration can reduce your endurance. Especially in the heat. Severe dehydration, like from long bouts of diarrhea or vomiting, can be dangerous. Then you need to replace both water and salts, with an oral rehydration solution, and see a doctor right away. Headache. Sluggish. Hard to focus. Sound familiar? That's you, at three in the afternoon.",
+      "tokens": [
+        {
+          "show": "So",
+          "say": "So"
+        },
+        {
+          "show": "what",
+          "say": "what"
+        },
+        {
+          "show": "happens",
+          "say": "happens"
+        },
+        {
+          "show": "when",
+          "say": "when"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "ignore",
+          "say": "ignore"
+        },
+        {
+          "show": "these",
+          "say": "these"
+        },
+        {
+          "show": "signals?",
+          "say": "signals?"
+        },
+        {
+          "show": "In",
+          "say": "In"
+        },
+        {
+          "show": "one",
+          "say": "one"
+        },
+        {
+          "show": "experiment,",
+          "say": "experiment,"
+        },
+        {
+          "show": "healthy",
+          "say": "healthy"
+        },
+        {
+          "show": "young",
+          "say": "young"
+        },
+        {
+          "show": "women",
+          "say": "women"
+        },
+        {
+          "show": "were",
+          "say": "were"
+        },
+        {
+          "show": "made",
+          "say": "made"
+        },
+        {
+          "show": "mildly",
+          "say": "mildly"
+        },
+        {
+          "show": "dehydrated.",
+          "say": "dehydrated."
+        },
+        {
+          "show": "They",
+          "say": "They"
+        },
+        {
+          "show": "lost",
+          "say": "lost"
+        },
+        {
+          "show": "about",
+          "say": "about"
+        },
+        {
+          "show": "one",
+          "say": "one"
+        },
+        {
+          "show": "point",
+          "say": "point"
+        },
+        {
+          "show": "four",
+          "say": "four"
+        },
+        {
+          "show": "percent",
+          "say": "percent"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "their",
+          "say": "their"
+        },
+        {
+          "show": "body",
+          "say": "body"
+        },
+        {
+          "show": "weight.",
+          "say": "weight."
+        },
+        {
+          "show": "They",
+          "say": "They"
+        },
+        {
+          "show": "got",
+          "say": "got"
+        },
+        {
+          "show": "headaches,",
+          "say": "headaches,"
+        },
+        {
+          "show": "felt",
+          "say": "felt"
+        },
+        {
+          "show": "tired,",
+          "say": "tired,"
+        },
+        {
+          "show": "found",
+          "say": "found"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "harder",
+          "say": "harder"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "focus,",
+          "say": "focus,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "everything",
+          "say": "everything"
+        },
+        {
+          "show": "felt",
+          "say": "felt"
+        },
+        {
+          "show": "like",
+          "say": "like"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "effort.",
+          "say": "effort."
+        },
+        {
+          "show": "Another",
+          "say": "Another"
+        },
+        {
+          "show": "experiment,",
+          "say": "experiment,"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "men,",
+          "say": "men,"
+        },
+        {
+          "show": "found",
+          "say": "found"
+        },
+        {
+          "show": "they",
+          "say": "they"
+        },
+        {
+          "show": "were",
+          "say": "were"
+        },
+        {
+          "show": "less",
+          "say": "less"
+        },
+        {
+          "show": "alert.",
+          "say": "alert."
+        },
+        {
+          "show": "Their",
+          "say": "Their"
+        },
+        {
+          "show": "working",
+          "say": "working"
+        },
+        {
+          "show": "memory",
+          "say": "memory"
+        },
+        {
+          "show": "dipped",
+          "say": "dipped"
+        },
+        {
+          "show": "as",
+          "say": "as"
+        },
+        {
+          "show": "well.",
+          "say": "well."
+        },
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "results",
+          "say": "results"
+        },
+        {
+          "show": "across",
+          "say": "across"
+        },
+        {
+          "show": "studies",
+          "say": "studies"
+        },
+        {
+          "show": "don't",
+          "say": "don't"
+        },
+        {
+          "show": "fully",
+          "say": "fully"
+        },
+        {
+          "show": "agree",
+          "say": "agree"
+        },
+        {
+          "show": "yet.",
+          "say": "yet."
+        },
+        {
+          "show": "But",
+          "say": "But"
+        },
+        {
+          "show": "for",
+          "say": "for"
+        },
+        {
+          "show": "exercise,",
+          "say": "exercise,"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "picture",
+          "say": "picture"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "clearer.",
+          "say": "clearer."
+        },
+        {
+          "show": "Losing",
+          "say": "Losing"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "than",
+          "say": "than"
+        },
+        {
+          "show": "two",
+          "say": "two"
+        },
+        {
+          "show": "percent",
+          "say": "percent"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "body",
+          "say": "body"
+        },
+        {
+          "show": "weight",
+          "say": "weight"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "dehydration",
+          "say": "dehydration"
+        },
+        {
+          "show": "can",
+          "say": "can"
+        },
+        {
+          "show": "reduce",
+          "say": "reduce"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "endurance.",
+          "say": "endurance."
+        },
+        {
+          "show": "Especially",
+          "say": "Especially"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "heat.",
+          "say": "heat."
+        },
+        {
+          "show": "Severe",
+          "say": "Severe"
+        },
+        {
+          "show": "dehydration,",
+          "say": "dehydration,"
+        },
+        {
+          "show": "like",
+          "say": "like"
+        },
+        {
+          "show": "from",
+          "say": "from"
+        },
+        {
+          "show": "long",
+          "say": "long"
+        },
+        {
+          "show": "bouts",
+          "say": "bouts"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "diarrhea",
+          "say": "diarrhea"
+        },
+        {
+          "show": "or",
+          "say": "or"
+        },
+        {
+          "show": "vomiting,",
+          "say": "vomiting,"
+        },
+        {
+          "show": "can",
+          "say": "can"
+        },
+        {
+          "show": "be",
+          "say": "be"
+        },
+        {
+          "show": "dangerous.",
+          "say": "dangerous."
+        },
+        {
+          "show": "Then",
+          "say": "Then"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "need",
+          "say": "need"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "replace",
+          "say": "replace"
+        },
+        {
+          "show": "both",
+          "say": "both"
+        },
+        {
+          "show": "water",
+          "say": "water"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "salts,",
+          "say": "salts,"
+        },
+        {
+          "show": "with",
+          "say": "with"
+        },
+        {
+          "show": "an",
+          "say": "an"
+        },
+        {
+          "show": "oral",
+          "say": "oral"
+        },
+        {
+          "show": "rehydration",
+          "say": "rehydration"
+        },
+        {
+          "show": "solution,",
+          "say": "solution,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "see",
+          "say": "see"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "doctor",
+          "say": "doctor"
+        },
+        {
+          "show": "right",
+          "say": "right"
+        },
+        {
+          "show": "away.",
+          "say": "away."
+        },
+        {
+          "show": "Headache.",
+          "say": "Headache."
+        },
+        {
+          "show": "Sluggish.",
+          "say": "Sluggish."
+        },
+        {
+          "show": "Hard",
+          "say": "Hard"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "focus.",
+          "say": "focus."
+        },
+        {
+          "show": "Sound",
+          "say": "Sound"
+        },
+        {
+          "show": "familiar?",
+          "say": "familiar?"
+        },
+        {
+          "show": "That's",
+          "say": "That's"
+        },
+        {
+          "show": "you,",
+          "say": "you,"
+        },
+        {
+          "show": "at",
+          "say": "at"
+        },
+        {
+          "show": "three",
+          "say": "three"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "afternoon.",
+          "say": "afternoon."
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "The question",
+      "start": 328.478,
+      "end": 347.812,
+      "speech_end": 347.312,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: cậu bé (suy-nghi) bên phải, ba hàng A/B/C hiện đúng chữ."
+      ],
+      "text": "So, on a normal day, how should you drink? A: exactly eight glasses a day, no more, no less. B: drink when you're thirsty, drink more when it's hot, when you exercise or when you're sick, and keep an eye on the color of your pee. Or C: the more, the better?",
+      "say_text": "So, on a normal day, how should you drink? A: exactly eight glasses a day, no more, no less. B: drink when you're thirsty, drink more when it's hot, when you exercise or when you're sick, and keep an eye on the color of your pee. Or C: the more, the better?",
+      "tokens": [
+        {
+          "show": "So,",
+          "say": "So,"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "normal",
+          "say": "normal"
+        },
+        {
+          "show": "day,",
+          "say": "day,"
+        },
+        {
+          "show": "how",
+          "say": "how"
+        },
+        {
+          "show": "should",
+          "say": "should"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "drink?",
+          "say": "drink?"
+        },
+        {
+          "show": "A:",
+          "say": "A:"
+        },
+        {
+          "show": "exactly",
+          "say": "exactly"
+        },
+        {
+          "show": "eight",
+          "say": "eight"
+        },
+        {
+          "show": "glasses",
+          "say": "glasses"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "day,",
+          "say": "day,"
+        },
+        {
+          "show": "no",
+          "say": "no"
+        },
+        {
+          "show": "more,",
+          "say": "more,"
+        },
+        {
+          "show": "no",
+          "say": "no"
+        },
+        {
+          "show": "less.",
+          "say": "less."
+        },
+        {
+          "show": "B:",
+          "say": "B:"
+        },
+        {
+          "show": "drink",
+          "say": "drink"
+        },
+        {
+          "show": "when",
+          "say": "when"
+        },
+        {
+          "show": "you're",
+          "say": "you're"
+        },
+        {
+          "show": "thirsty,",
+          "say": "thirsty,"
+        },
+        {
+          "show": "drink",
+          "say": "drink"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "when",
+          "say": "when"
+        },
+        {
+          "show": "it's",
+          "say": "it's"
+        },
+        {
+          "show": "hot,",
+          "say": "hot,"
+        },
+        {
+          "show": "when",
+          "say": "when"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "exercise",
+          "say": "exercise"
+        },
+        {
+          "show": "or",
+          "say": "or"
+        },
+        {
+          "show": "when",
+          "say": "when"
+        },
+        {
+          "show": "you're",
+          "say": "you're"
+        },
+        {
+          "show": "sick,",
+          "say": "sick,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "keep",
+          "say": "keep"
+        },
+        {
+          "show": "an",
+          "say": "an"
+        },
+        {
+          "show": "eye",
+          "say": "eye"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "color",
+          "say": "color"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "pee.",
+          "say": "pee."
+        },
+        {
+          "show": "Or",
+          "say": "Or"
+        },
+        {
+          "show": "C:",
+          "say": "C:"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "more,",
+          "say": "more,"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "better?",
+          "say": "better?"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Take a guess",
+      "start": 347.812,
+      "end": 358.312,
+      "speech_end": 349.379,
+      "min_duration": 10.0,
+      "visual": [
+        "Thẻ giấy tóm tắt dữ kiện + A/B/C, đếm ngược 3‑2‑1."
+      ],
+      "text": "Pause the video and take a guess.",
+      "say_text": "Pause the video and take a guess.",
+      "tokens": [
+        {
+          "show": "Pause",
+          "say": "Pause"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "video",
+          "say": "video"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "take",
+          "say": "take"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "guess.",
+          "say": "guess."
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "The key",
+      "start": 358.312,
+      "end": 372.213,
+      "speech_end": 371.713,
+      "min_duration": null,
+      "visual": [
+        "Bong bóng suy nghĩ: cân thăng bằng; \"A FIXED NUMBER\" bị gạch, \"BALANCE\" in đè."
+      ],
+      "text": "The key is the scale. Your body doesn't need a fixed number. It needs balance: water in equals water out. And it already has a built-in sensor to keep that balance. So where did the eight-glasses number come from?",
+      "say_text": "The key is the scale. Your body doesn't need a fixed number. It needs balance: water in equals water out. And it already has a built-in sensor to keep that balance. So where did the eight-glasses number come from?",
+      "tokens": [
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "key",
+          "say": "key"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "scale.",
+          "say": "scale."
+        },
+        {
+          "show": "Your",
+          "say": "Your"
+        },
+        {
+          "show": "body",
+          "say": "body"
+        },
+        {
+          "show": "doesn't",
+          "say": "doesn't"
+        },
+        {
+          "show": "need",
+          "say": "need"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "fixed",
+          "say": "fixed"
+        },
+        {
+          "show": "number.",
+          "say": "number."
+        },
+        {
+          "show": "It",
+          "say": "It"
+        },
+        {
+          "show": "needs",
+          "say": "needs"
+        },
+        {
+          "show": "balance:",
+          "say": "balance:"
+        },
+        {
+          "show": "water",
+          "say": "water"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "equals",
+          "say": "equals"
+        },
+        {
+          "show": "water",
+          "say": "water"
+        },
+        {
+          "show": "out.",
+          "say": "out."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "already",
+          "say": "already"
+        },
+        {
+          "show": "has",
+          "say": "has"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "built-in",
+          "say": "built-in"
+        },
+        {
+          "show": "sensor",
+          "say": "sensor"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "keep",
+          "say": "keep"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "balance.",
+          "say": "balance."
+        },
+        {
+          "show": "So",
+          "say": "So"
+        },
+        {
+          "show": "where",
+          "say": "where"
+        },
+        {
+          "show": "did",
+          "say": "did"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "eight-glasses",
+          "say": "eight-glasses"
+        },
+        {
+          "show": "number",
+          "say": "number"
+        },
+        {
+          "show": "come",
+          "say": "come"
+        },
+        {
+          "show": "from?",
+          "say": "from?"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "title": "The eight-glasses myth",
+      "start": 372.213,
+      "end": 435.381,
+      "speech_end": 434.881,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: báo cáo cũ \"1945\" — \"≈ 2.5 L / DAY\" sáng lên, dòng \"MOSTLY ALREADY IN FOOD\" bị gấp góc; kính lúp \"2002 · VALTIN\"; hai ly \"WOMEN 2.0 L · MEN 2.5 L — FOOD INCLUDED\" (EFSA); \"US: 2.7 L · 3.7 L\"."
+      ],
+      "text": "Eight glasses, at about two hundred and fifty milliliters each, comes to about two liters. In 1945, a nutrition board in the United States made a recommendation. Each person needs about two and a half liters of water a day. But in the very next sentence, they wrote that most of this amount is already in your food. In 2002, the physiologist Heinz Valtin traced the origin of the eight-glasses advice. He suggested that the second sentence had simply been forgotten. And he found no scientific evidence that everyone must drink exactly eight glasses. Today, the European Food Safety Authority gives a reference value. About two liters a day for women. For men, about two and a half liters. That's total water, including the water in food, under normal conditions. In the United States, the reference values are higher. About two point seven liters for women, and three point seven liters for men. The numbers differ because each is based on different data. They reflect how much water healthy people there typically take in each day.",
+      "say_text": "Eight glasses, at about two hundred and fifty milliliters each, comes to about two liters. In 1945, a nutrition board in the United States made a recommendation. Each person needs about two and a half liters of water a day. But in the very next sentence, they wrote that most of this amount is already in your food. In 2002, the physiologist Heinz Valtin traced the origin of the eight-glasses advice. He suggested that the second sentence had simply been forgotten. And he found no scientific evidence that everyone must drink exactly eight glasses. Today, the European Food Safety Authority gives a reference value. About two liters a day for women. For men, about two and a half liters. That's total water, including the water in food, under normal conditions. In the United States, the reference values are higher. About two point seven liters for women, and three point seven liters for men. The numbers differ because each is based on different data. They reflect how much water healthy people there typically take in each day.",
+      "tokens": [
+        {
+          "show": "Eight",
+          "say": "Eight"
+        },
+        {
+          "show": "glasses,",
+          "say": "glasses,"
+        },
+        {
+          "show": "at",
+          "say": "at"
+        },
+        {
+          "show": "about",
+          "say": "about"
+        },
+        {
+          "show": "two",
+          "say": "two"
+        },
+        {
+          "show": "hundred",
+          "say": "hundred"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "fifty",
+          "say": "fifty"
+        },
+        {
+          "show": "milliliters",
+          "say": "milliliters"
+        },
+        {
+          "show": "each,",
+          "say": "each,"
+        },
+        {
+          "show": "comes",
+          "say": "comes"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "about",
+          "say": "about"
+        },
+        {
+          "show": "two",
+          "say": "two"
+        },
+        {
+          "show": "liters.",
+          "say": "liters."
+        },
+        {
+          "show": "In",
+          "say": "In"
+        },
+        {
+          "show": "1945,",
+          "say": "1945,"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "nutrition",
+          "say": "nutrition"
+        },
+        {
+          "show": "board",
+          "say": "board"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "United",
+          "say": "United"
+        },
+        {
+          "show": "States",
+          "say": "States"
+        },
+        {
+          "show": "made",
+          "say": "made"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "recommendation.",
+          "say": "recommendation."
+        },
+        {
+          "show": "Each",
+          "say": "Each"
+        },
+        {
+          "show": "person",
+          "say": "person"
+        },
+        {
+          "show": "needs",
+          "say": "needs"
+        },
+        {
+          "show": "about",
+          "say": "about"
+        },
+        {
+          "show": "two",
+          "say": "two"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "half",
+          "say": "half"
+        },
+        {
+          "show": "liters",
+          "say": "liters"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "water",
+          "say": "water"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "day.",
+          "say": "day."
+        },
+        {
+          "show": "But",
+          "say": "But"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "very",
+          "say": "very"
+        },
+        {
+          "show": "next",
+          "say": "next"
+        },
+        {
+          "show": "sentence,",
+          "say": "sentence,"
+        },
+        {
+          "show": "they",
+          "say": "they"
+        },
+        {
+          "show": "wrote",
+          "say": "wrote"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "most",
+          "say": "most"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "this",
+          "say": "this"
+        },
+        {
+          "show": "amount",
+          "say": "amount"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "already",
+          "say": "already"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "food.",
+          "say": "food."
+        },
+        {
+          "show": "In",
+          "say": "In"
+        },
+        {
+          "show": "2002,",
+          "say": "2002,"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "physiologist",
+          "say": "physiologist"
+        },
+        {
+          "show": "Heinz",
+          "say": "Heinz"
+        },
+        {
+          "show": "Valtin",
+          "say": "Valtin"
+        },
+        {
+          "show": "traced",
+          "say": "traced"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "origin",
+          "say": "origin"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "eight-glasses",
+          "say": "eight-glasses"
+        },
+        {
+          "show": "advice.",
+          "say": "advice."
+        },
+        {
+          "show": "He",
+          "say": "He"
+        },
+        {
+          "show": "suggested",
+          "say": "suggested"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "second",
+          "say": "second"
+        },
+        {
+          "show": "sentence",
+          "say": "sentence"
+        },
+        {
+          "show": "had",
+          "say": "had"
+        },
+        {
+          "show": "simply",
+          "say": "simply"
+        },
+        {
+          "show": "been",
+          "say": "been"
+        },
+        {
+          "show": "forgotten.",
+          "say": "forgotten."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "he",
+          "say": "he"
+        },
+        {
+          "show": "found",
+          "say": "found"
+        },
+        {
+          "show": "no",
+          "say": "no"
+        },
+        {
+          "show": "scientific",
+          "say": "scientific"
+        },
+        {
+          "show": "evidence",
+          "say": "evidence"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "everyone",
+          "say": "everyone"
+        },
+        {
+          "show": "must",
+          "say": "must"
+        },
+        {
+          "show": "drink",
+          "say": "drink"
+        },
+        {
+          "show": "exactly",
+          "say": "exactly"
+        },
+        {
+          "show": "eight",
+          "say": "eight"
+        },
+        {
+          "show": "glasses.",
+          "say": "glasses."
+        },
+        {
+          "show": "Today,",
+          "say": "Today,"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "European",
+          "say": "European"
+        },
+        {
+          "show": "Food",
+          "say": "Food"
+        },
+        {
+          "show": "Safety",
+          "say": "Safety"
+        },
+        {
+          "show": "Authority",
+          "say": "Authority"
+        },
+        {
+          "show": "gives",
+          "say": "gives"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "reference",
+          "say": "reference"
+        },
+        {
+          "show": "value.",
+          "say": "value."
+        },
+        {
+          "show": "About",
+          "say": "About"
+        },
+        {
+          "show": "two",
+          "say": "two"
+        },
+        {
+          "show": "liters",
+          "say": "liters"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "day",
+          "say": "day"
+        },
+        {
+          "show": "for",
+          "say": "for"
+        },
+        {
+          "show": "women.",
+          "say": "women."
+        },
+        {
+          "show": "For",
+          "say": "For"
+        },
+        {
+          "show": "men,",
+          "say": "men,"
+        },
+        {
+          "show": "about",
+          "say": "about"
+        },
+        {
+          "show": "two",
+          "say": "two"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "half",
+          "say": "half"
+        },
+        {
+          "show": "liters.",
+          "say": "liters."
+        },
+        {
+          "show": "That's",
+          "say": "That's"
+        },
+        {
+          "show": "total",
+          "say": "total"
+        },
+        {
+          "show": "water,",
+          "say": "water,"
+        },
+        {
+          "show": "including",
+          "say": "including"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "water",
+          "say": "water"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "food,",
+          "say": "food,"
+        },
+        {
+          "show": "under",
+          "say": "under"
+        },
+        {
+          "show": "normal",
+          "say": "normal"
+        },
+        {
+          "show": "conditions.",
+          "say": "conditions."
+        },
+        {
+          "show": "In",
+          "say": "In"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "United",
+          "say": "United"
+        },
+        {
+          "show": "States,",
+          "say": "States,"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "reference",
+          "say": "reference"
+        },
+        {
+          "show": "values",
+          "say": "values"
+        },
+        {
+          "show": "are",
+          "say": "are"
+        },
+        {
+          "show": "higher.",
+          "say": "higher."
+        },
+        {
+          "show": "About",
+          "say": "About"
+        },
+        {
+          "show": "two",
+          "say": "two"
+        },
+        {
+          "show": "point",
+          "say": "point"
+        },
+        {
+          "show": "seven",
+          "say": "seven"
+        },
+        {
+          "show": "liters",
+          "say": "liters"
+        },
+        {
+          "show": "for",
+          "say": "for"
+        },
+        {
+          "show": "women,",
+          "say": "women,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "three",
+          "say": "three"
+        },
+        {
+          "show": "point",
+          "say": "point"
+        },
+        {
+          "show": "seven",
+          "say": "seven"
+        },
+        {
+          "show": "liters",
+          "say": "liters"
+        },
+        {
+          "show": "for",
+          "say": "for"
+        },
+        {
+          "show": "men.",
+          "say": "men."
+        },
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "numbers",
+          "say": "numbers"
+        },
+        {
+          "show": "differ",
+          "say": "differ"
+        },
+        {
+          "show": "because",
+          "say": "because"
+        },
+        {
+          "show": "each",
+          "say": "each"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "based",
+          "say": "based"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "different",
+          "say": "different"
+        },
+        {
+          "show": "data.",
+          "say": "data."
+        },
+        {
+          "show": "They",
+          "say": "They"
+        },
+        {
+          "show": "reflect",
+          "say": "reflect"
+        },
+        {
+          "show": "how",
+          "say": "how"
+        },
+        {
+          "show": "much",
+          "say": "much"
+        },
+        {
+          "show": "water",
+          "say": "water"
+        },
+        {
+          "show": "healthy",
+          "say": "healthy"
+        },
+        {
+          "show": "people",
+          "say": "people"
+        },
+        {
+          "show": "there",
+          "say": "there"
+        },
+        {
+          "show": "typically",
+          "say": "typically"
+        },
+        {
+          "show": "take",
+          "say": "take"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "each",
+          "say": "each"
+        },
+        {
+          "show": "day.",
+          "say": "day."
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Where water comes from",
+      "start": 435.381,
+      "end": 484.965,
+      "speech_end": 484.465,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: đĩa thức ăn (dưa hấu, bát canh, rau, cơm) \"≈ 1/5 – 1/3\"; ly cà phê ✓ \"IN MODERATION\"; thang màu nước tiểu 5 ô: vàng rơm nhạt ✓ … vàng sẫm \"DRINK MORE\"."
+      ],
+      "text": "So where does your water come from? About a fifth to a third comes from food: vegetables, fruit, soup, rice. Watermelon, for example, is more than ninety percent water. Tea and coffee count too. A study in 2014 followed men who were regular coffee drinkers. At four cups a day, coffee hydrated them about as well as plain water. Soft drinks and juice contain water too, but they come with a lot of sugar and calories. So plain water is still the best choice for everyday thirst. And to check whether you're drinking enough, there's a simple trick: look at the color of your pee. Pale straw yellow usually means you're well hydrated. Dark yellow, like strong tea, is a sign you should drink more. Some medicines and vitamins can change the color too, so treat this as a hint, not a test.",
+      "say_text": "So where does your water come from? About a fifth to a third comes from food: vegetables, fruit, soup, rice. Watermelon, for example, is more than ninety percent water. Tea and coffee count too. A study in 2014 followed men who were regular coffee drinkers. At four cups a day, coffee hydrated them about as well as plain water. Soft drinks and juice contain water too, but they come with a lot of sugar and calories. So plain water is still the best choice for everyday thirst. And to check whether you're drinking enough, there's a simple trick: look at the color of your pee. Pale straw yellow usually means you're well hydrated. Dark yellow, like strong tea, is a sign you should drink more. Some medicines and vitamins can change the color too, so treat this as a hint, not a test.",
+      "tokens": [
+        {
+          "show": "So",
+          "say": "So"
+        },
+        {
+          "show": "where",
+          "say": "where"
+        },
+        {
+          "show": "does",
+          "say": "does"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "water",
+          "say": "water"
+        },
+        {
+          "show": "come",
+          "say": "come"
+        },
+        {
+          "show": "from?",
+          "say": "from?"
+        },
+        {
+          "show": "About",
+          "say": "About"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "fifth",
+          "say": "fifth"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "third",
+          "say": "third"
+        },
+        {
+          "show": "comes",
+          "say": "comes"
+        },
+        {
+          "show": "from",
+          "say": "from"
+        },
+        {
+          "show": "food:",
+          "say": "food:"
+        },
+        {
+          "show": "vegetables,",
+          "say": "vegetables,"
+        },
+        {
+          "show": "fruit,",
+          "say": "fruit,"
+        },
+        {
+          "show": "soup,",
+          "say": "soup,"
+        },
+        {
+          "show": "rice.",
+          "say": "rice."
+        },
+        {
+          "show": "Watermelon,",
+          "say": "Watermelon,"
+        },
+        {
+          "show": "for",
+          "say": "for"
+        },
+        {
+          "show": "example,",
+          "say": "example,"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "than",
+          "say": "than"
+        },
+        {
+          "show": "ninety",
+          "say": "ninety"
+        },
+        {
+          "show": "percent",
+          "say": "percent"
+        },
+        {
+          "show": "water.",
+          "say": "water."
+        },
+        {
+          "show": "Tea",
+          "say": "Tea"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "coffee",
+          "say": "coffee"
+        },
+        {
+          "show": "count",
+          "say": "count"
+        },
+        {
+          "show": "too.",
+          "say": "too."
+        },
+        {
+          "show": "A",
+          "say": "A"
+        },
+        {
+          "show": "study",
+          "say": "study"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "2014",
+          "say": "2014"
+        },
+        {
+          "show": "followed",
+          "say": "followed"
+        },
+        {
+          "show": "men",
+          "say": "men"
+        },
+        {
+          "show": "who",
+          "say": "who"
+        },
+        {
+          "show": "were",
+          "say": "were"
+        },
+        {
+          "show": "regular",
+          "say": "regular"
+        },
+        {
+          "show": "coffee",
+          "say": "coffee"
+        },
+        {
+          "show": "drinkers.",
+          "say": "drinkers."
+        },
+        {
+          "show": "At",
+          "say": "At"
+        },
+        {
+          "show": "four",
+          "say": "four"
+        },
+        {
+          "show": "cups",
+          "say": "cups"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "day,",
+          "say": "day,"
+        },
+        {
+          "show": "coffee",
+          "say": "coffee"
+        },
+        {
+          "show": "hydrated",
+          "say": "hydrated"
+        },
+        {
+          "show": "them",
+          "say": "them"
+        },
+        {
+          "show": "about",
+          "say": "about"
+        },
+        {
+          "show": "as",
+          "say": "as"
+        },
+        {
+          "show": "well",
+          "say": "well"
+        },
+        {
+          "show": "as",
+          "say": "as"
+        },
+        {
+          "show": "plain",
+          "say": "plain"
+        },
+        {
+          "show": "water.",
+          "say": "water."
+        },
+        {
+          "show": "Soft",
+          "say": "Soft"
+        },
+        {
+          "show": "drinks",
+          "say": "drinks"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "juice",
+          "say": "juice"
+        },
+        {
+          "show": "contain",
+          "say": "contain"
+        },
+        {
+          "show": "water",
+          "say": "water"
+        },
+        {
+          "show": "too,",
+          "say": "too,"
+        },
+        {
+          "show": "but",
+          "say": "but"
+        },
+        {
+          "show": "they",
+          "say": "they"
+        },
+        {
+          "show": "come",
+          "say": "come"
+        },
+        {
+          "show": "with",
+          "say": "with"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "lot",
+          "say": "lot"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "sugar",
+          "say": "sugar"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "calories.",
+          "say": "calories."
+        },
+        {
+          "show": "So",
+          "say": "So"
+        },
+        {
+          "show": "plain",
+          "say": "plain"
+        },
+        {
+          "show": "water",
+          "say": "water"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "still",
+          "say": "still"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "best",
+          "say": "best"
+        },
+        {
+          "show": "choice",
+          "say": "choice"
+        },
+        {
+          "show": "for",
+          "say": "for"
+        },
+        {
+          "show": "everyday",
+          "say": "everyday"
+        },
+        {
+          "show": "thirst.",
+          "say": "thirst."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "check",
+          "say": "check"
+        },
+        {
+          "show": "whether",
+          "say": "whether"
+        },
+        {
+          "show": "you're",
+          "say": "you're"
+        },
+        {
+          "show": "drinking",
+          "say": "drinking"
+        },
+        {
+          "show": "enough,",
+          "say": "enough,"
+        },
+        {
+          "show": "there's",
+          "say": "there's"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "simple",
+          "say": "simple"
+        },
+        {
+          "show": "trick:",
+          "say": "trick:"
+        },
+        {
+          "show": "look",
+          "say": "look"
+        },
+        {
+          "show": "at",
+          "say": "at"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "color",
+          "say": "color"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "pee.",
+          "say": "pee."
+        },
+        {
+          "show": "Pale",
+          "say": "Pale"
+        },
+        {
+          "show": "straw",
+          "say": "straw"
+        },
+        {
+          "show": "yellow",
+          "say": "yellow"
+        },
+        {
+          "show": "usually",
+          "say": "usually"
+        },
+        {
+          "show": "means",
+          "say": "means"
+        },
+        {
+          "show": "you're",
+          "say": "you're"
+        },
+        {
+          "show": "well",
+          "say": "well"
+        },
+        {
+          "show": "hydrated.",
+          "say": "hydrated."
+        },
+        {
+          "show": "Dark",
+          "say": "Dark"
+        },
+        {
+          "show": "yellow,",
+          "say": "yellow,"
+        },
+        {
+          "show": "like",
+          "say": "like"
+        },
+        {
+          "show": "strong",
+          "say": "strong"
+        },
+        {
+          "show": "tea,",
+          "say": "tea,"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "sign",
+          "say": "sign"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "should",
+          "say": "should"
+        },
+        {
+          "show": "drink",
+          "say": "drink"
+        },
+        {
+          "show": "more.",
+          "say": "more."
+        },
+        {
+          "show": "Some",
+          "say": "Some"
+        },
+        {
+          "show": "medicines",
+          "say": "medicines"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "vitamins",
+          "say": "vitamins"
+        },
+        {
+          "show": "can",
+          "say": "can"
+        },
+        {
+          "show": "change",
+          "say": "change"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "color",
+          "say": "color"
+        },
+        {
+          "show": "too,",
+          "say": "too,"
+        },
+        {
+          "show": "so",
+          "say": "so"
+        },
+        {
+          "show": "treat",
+          "say": "treat"
+        },
+        {
+          "show": "this",
+          "say": "this"
+        },
+        {
+          "show": "as",
+          "say": "as"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "hint,",
+          "say": "hint,"
+        },
+        {
+          "show": "not",
+          "say": "not"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "test.",
+          "say": "test."
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "title": "When to drink more",
+      "start": 484.965,
+      "end": 531.675,
+      "speech_end": 531.175,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: biểu tượng lần lượt — mặt trời, giày chạy, nhiệt kế sốt, bà bầu, cụ già; đồng hồ tốc độ vượt vạch đỏ; \"LOW SODIUM\"; huy chương \"BOSTON 2002 · 13%\"; \"HEART OR KIDNEY DISEASE: FOLLOW YOUR DOCTOR\"."
+      ],
+      "text": "There are times when you need to drink more on purpose. When it's hot. When you exercise hard. When you have a fever, vomiting or diarrhea. Pregnant and breastfeeding women need extra water too. Older adults should drink regularly, because thirst may come late. But on the other hand, more is not always better. Remember the filter with a speed limit? If you drink too much, too fast, the extra water dilutes the sodium in your blood. This is called hyponatremia, and it can be dangerous. At the 2002 Boston Marathon, about thirteen percent of the runners who were tested had hyponatremia. The risk was highest in those who gained weight during the race. In other words, they drank more than they sweated out. And if you have heart or kidney disease, follow your doctor's advice on how much to drink.",
+      "say_text": "There are times when you need to drink more on purpose. When it's hot. When you exercise hard. When you have a fever, vomiting or diarrhea. Pregnant and breastfeeding women need extra water too. Older adults should drink regularly, because thirst may come late. But on the other hand, more is not always better. Remember the filter with a speed limit? If you drink too much, too fast, the extra water dilutes the sodium in your blood. This is called hyponatremia, and it can be dangerous. At the 2002 Boston Marathon, about thirteen percent of the runners who were tested had hyponatremia. The risk was highest in those who gained weight during the race. In other words, they drank more than they sweated out. And if you have heart or kidney disease, follow your doctor's advice on how much to drink.",
+      "tokens": [
+        {
+          "show": "There",
+          "say": "There"
+        },
+        {
+          "show": "are",
+          "say": "are"
+        },
+        {
+          "show": "times",
+          "say": "times"
+        },
+        {
+          "show": "when",
+          "say": "when"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "need",
+          "say": "need"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "drink",
+          "say": "drink"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "purpose.",
+          "say": "purpose."
+        },
+        {
+          "show": "When",
+          "say": "When"
+        },
+        {
+          "show": "it's",
+          "say": "it's"
+        },
+        {
+          "show": "hot.",
+          "say": "hot."
+        },
+        {
+          "show": "When",
+          "say": "When"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "exercise",
+          "say": "exercise"
+        },
+        {
+          "show": "hard.",
+          "say": "hard."
+        },
+        {
+          "show": "When",
+          "say": "When"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "have",
+          "say": "have"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "fever,",
+          "say": "fever,"
+        },
+        {
+          "show": "vomiting",
+          "say": "vomiting"
+        },
+        {
+          "show": "or",
+          "say": "or"
+        },
+        {
+          "show": "diarrhea.",
+          "say": "diarrhea."
+        },
+        {
+          "show": "Pregnant",
+          "say": "Pregnant"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "breastfeeding",
+          "say": "breastfeeding"
+        },
+        {
+          "show": "women",
+          "say": "women"
+        },
+        {
+          "show": "need",
+          "say": "need"
+        },
+        {
+          "show": "extra",
+          "say": "extra"
+        },
+        {
+          "show": "water",
+          "say": "water"
+        },
+        {
+          "show": "too.",
+          "say": "too."
+        },
+        {
+          "show": "Older",
+          "say": "Older"
+        },
+        {
+          "show": "adults",
+          "say": "adults"
+        },
+        {
+          "show": "should",
+          "say": "should"
+        },
+        {
+          "show": "drink",
+          "say": "drink"
+        },
+        {
+          "show": "regularly,",
+          "say": "regularly,"
+        },
+        {
+          "show": "because",
+          "say": "because"
+        },
+        {
+          "show": "thirst",
+          "say": "thirst"
+        },
+        {
+          "show": "may",
+          "say": "may"
+        },
+        {
+          "show": "come",
+          "say": "come"
+        },
+        {
+          "show": "late.",
+          "say": "late."
+        },
+        {
+          "show": "But",
+          "say": "But"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "other",
+          "say": "other"
+        },
+        {
+          "show": "hand,",
+          "say": "hand,"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "not",
+          "say": "not"
+        },
+        {
+          "show": "always",
+          "say": "always"
+        },
+        {
+          "show": "better.",
+          "say": "better."
+        },
+        {
+          "show": "Remember",
+          "say": "Remember"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "filter",
+          "say": "filter"
+        },
+        {
+          "show": "with",
+          "say": "with"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "speed",
+          "say": "speed"
+        },
+        {
+          "show": "limit?",
+          "say": "limit?"
+        },
+        {
+          "show": "If",
+          "say": "If"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "drink",
+          "say": "drink"
+        },
+        {
+          "show": "too",
+          "say": "too"
+        },
+        {
+          "show": "much,",
+          "say": "much,"
+        },
+        {
+          "show": "too",
+          "say": "too"
+        },
+        {
+          "show": "fast,",
+          "say": "fast,"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "extra",
+          "say": "extra"
+        },
+        {
+          "show": "water",
+          "say": "water"
+        },
+        {
+          "show": "dilutes",
+          "say": "dilutes"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "sodium",
+          "say": "sodium"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "blood.",
+          "say": "blood."
+        },
+        {
+          "show": "This",
+          "say": "This"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "called",
+          "say": "called"
+        },
+        {
+          "show": "hyponatremia,",
+          "say": "hyponatremia,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "can",
+          "say": "can"
+        },
+        {
+          "show": "be",
+          "say": "be"
+        },
+        {
+          "show": "dangerous.",
+          "say": "dangerous."
+        },
+        {
+          "show": "At",
+          "say": "At"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "2002",
+          "say": "2002"
+        },
+        {
+          "show": "Boston",
+          "say": "Boston"
+        },
+        {
+          "show": "Marathon,",
+          "say": "Marathon,"
+        },
+        {
+          "show": "about",
+          "say": "about"
+        },
+        {
+          "show": "thirteen",
+          "say": "thirteen"
+        },
+        {
+          "show": "percent",
+          "say": "percent"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "runners",
+          "say": "runners"
+        },
+        {
+          "show": "who",
+          "say": "who"
+        },
+        {
+          "show": "were",
+          "say": "were"
+        },
+        {
+          "show": "tested",
+          "say": "tested"
+        },
+        {
+          "show": "had",
+          "say": "had"
+        },
+        {
+          "show": "hyponatremia.",
+          "say": "hyponatremia."
+        },
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "risk",
+          "say": "risk"
+        },
+        {
+          "show": "was",
+          "say": "was"
+        },
+        {
+          "show": "highest",
+          "say": "highest"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "those",
+          "say": "those"
+        },
+        {
+          "show": "who",
+          "say": "who"
+        },
+        {
+          "show": "gained",
+          "say": "gained"
+        },
+        {
+          "show": "weight",
+          "say": "weight"
+        },
+        {
+          "show": "during",
+          "say": "during"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "race.",
+          "say": "race."
+        },
+        {
+          "show": "In",
+          "say": "In"
+        },
+        {
+          "show": "other",
+          "say": "other"
+        },
+        {
+          "show": "words,",
+          "say": "words,"
+        },
+        {
+          "show": "they",
+          "say": "they"
+        },
+        {
+          "show": "drank",
+          "say": "drank"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "than",
+          "say": "than"
+        },
+        {
+          "show": "they",
+          "say": "they"
+        },
+        {
+          "show": "sweated",
+          "say": "sweated"
+        },
+        {
+          "show": "out.",
+          "say": "out."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "if",
+          "say": "if"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "have",
+          "say": "have"
+        },
+        {
+          "show": "heart",
+          "say": "heart"
+        },
+        {
+          "show": "or",
+          "say": "or"
+        },
+        {
+          "show": "kidney",
+          "say": "kidney"
+        },
+        {
+          "show": "disease,",
+          "say": "disease,"
+        },
+        {
+          "show": "follow",
+          "say": "follow"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "doctor's",
+          "say": "doctor's"
+        },
+        {
+          "show": "advice",
+          "say": "advice"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "how",
+          "say": "how"
+        },
+        {
+          "show": "much",
+          "say": "much"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "drink.",
+          "say": "drink."
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Elimination",
+      "start": 531.675,
+      "end": 558.376,
+      "speech_end": 557.876,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: ba hàng A/B/C; gạch A, gạch C, khoanh B."
+      ],
+      "text": "Now let's rule out the options one by one. Option A: a fixed eight glasses. There's no solid basis for this number, and everyone's needs are different. Out. Option C: the more, the better. Drinking too much can lead to hyponatremia. Out. That leaves option B: listen to your thirst, drink more when you need to, and watch the color of your pee.",
+      "say_text": "Now let's rule out the options one by one. Option A: a fixed eight glasses. There's no solid basis for this number, and everyone's needs are different. Out. Option C: the more, the better. Drinking too much can lead to hyponatremia. Out. That leaves option B: listen to your thirst, drink more when you need to, and watch the color of your pee.",
+      "tokens": [
+        {
+          "show": "Now",
+          "say": "Now"
+        },
+        {
+          "show": "let's",
+          "say": "let's"
+        },
+        {
+          "show": "rule",
+          "say": "rule"
+        },
+        {
+          "show": "out",
+          "say": "out"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "options",
+          "say": "options"
+        },
+        {
+          "show": "one",
+          "say": "one"
+        },
+        {
+          "show": "by",
+          "say": "by"
+        },
+        {
+          "show": "one.",
+          "say": "one."
+        },
+        {
+          "show": "Option",
+          "say": "Option"
+        },
+        {
+          "show": "A:",
+          "say": "A:"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "fixed",
+          "say": "fixed"
+        },
+        {
+          "show": "eight",
+          "say": "eight"
+        },
+        {
+          "show": "glasses.",
+          "say": "glasses."
+        },
+        {
+          "show": "There's",
+          "say": "There's"
+        },
+        {
+          "show": "no",
+          "say": "no"
+        },
+        {
+          "show": "solid",
+          "say": "solid"
+        },
+        {
+          "show": "basis",
+          "say": "basis"
+        },
+        {
+          "show": "for",
+          "say": "for"
+        },
+        {
+          "show": "this",
+          "say": "this"
+        },
+        {
+          "show": "number,",
+          "say": "number,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "everyone's",
+          "say": "everyone's"
+        },
+        {
+          "show": "needs",
+          "say": "needs"
+        },
+        {
+          "show": "are",
+          "say": "are"
+        },
+        {
+          "show": "different.",
+          "say": "different."
+        },
+        {
+          "show": "Out.",
+          "say": "Out."
+        },
+        {
+          "show": "Option",
+          "say": "Option"
+        },
+        {
+          "show": "C:",
+          "say": "C:"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "more,",
+          "say": "more,"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "better.",
+          "say": "better."
+        },
+        {
+          "show": "Drinking",
+          "say": "Drinking"
+        },
+        {
+          "show": "too",
+          "say": "too"
+        },
+        {
+          "show": "much",
+          "say": "much"
+        },
+        {
+          "show": "can",
+          "say": "can"
+        },
+        {
+          "show": "lead",
+          "say": "lead"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "hyponatremia.",
+          "say": "hyponatremia."
+        },
+        {
+          "show": "Out.",
+          "say": "Out."
+        },
+        {
+          "show": "That",
+          "say": "That"
+        },
+        {
+          "show": "leaves",
+          "say": "leaves"
+        },
+        {
+          "show": "option",
+          "say": "option"
+        },
+        {
+          "show": "B:",
+          "say": "B:"
+        },
+        {
+          "show": "listen",
+          "say": "listen"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "thirst,",
+          "say": "thirst,"
+        },
+        {
+          "show": "drink",
+          "say": "drink"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "when",
+          "say": "when"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "need",
+          "say": "need"
+        },
+        {
+          "show": "to,",
+          "say": "to,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "watch",
+          "say": "watch"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "color",
+          "say": "color"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "pee.",
+          "say": "pee."
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "title": "The answer",
+      "start": 558.376,
+      "end": 578.599,
+      "speech_end": 578.099,
+      "min_duration": null,
+      "visual": [
+        "Chữ \"B\" lớn → van-phong.png: cậu bé (uong-nuoc) uống vài ngụm; rồi (vui) chai nước cạnh màn hình."
+      ],
+      "text": "The answer is B. Back to three in the afternoon. You take a few sips of water, then one more glass before your presentation. No need to force down a whole liter at once. From tomorrow, you keep the bottle where you can see it, and drink whenever you feel thirsty. A few hours later, your pee is back to a pale straw yellow.",
+      "say_text": "The answer is B. Back to three in the afternoon. You take a few sips of water, then one more glass before your presentation. No need to force down a whole liter at once. From tomorrow, you keep the bottle where you can see it, and drink whenever you feel thirsty. A few hours later, your pee is back to a pale straw yellow.",
+      "tokens": [
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "answer",
+          "say": "answer"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "B.",
+          "say": "B."
+        },
+        {
+          "show": "Back",
+          "say": "Back"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "three",
+          "say": "three"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "afternoon.",
+          "say": "afternoon."
+        },
+        {
+          "show": "You",
+          "say": "You"
+        },
+        {
+          "show": "take",
+          "say": "take"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "few",
+          "say": "few"
+        },
+        {
+          "show": "sips",
+          "say": "sips"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "water,",
+          "say": "water,"
+        },
+        {
+          "show": "then",
+          "say": "then"
+        },
+        {
+          "show": "one",
+          "say": "one"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "glass",
+          "say": "glass"
+        },
+        {
+          "show": "before",
+          "say": "before"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "presentation.",
+          "say": "presentation."
+        },
+        {
+          "show": "No",
+          "say": "No"
+        },
+        {
+          "show": "need",
+          "say": "need"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "force",
+          "say": "force"
+        },
+        {
+          "show": "down",
+          "say": "down"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "whole",
+          "say": "whole"
+        },
+        {
+          "show": "liter",
+          "say": "liter"
+        },
+        {
+          "show": "at",
+          "say": "at"
+        },
+        {
+          "show": "once.",
+          "say": "once."
+        },
+        {
+          "show": "From",
+          "say": "From"
+        },
+        {
+          "show": "tomorrow,",
+          "say": "tomorrow,"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "keep",
+          "say": "keep"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "bottle",
+          "say": "bottle"
+        },
+        {
+          "show": "where",
+          "say": "where"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "can",
+          "say": "can"
+        },
+        {
+          "show": "see",
+          "say": "see"
+        },
+        {
+          "show": "it,",
+          "say": "it,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "drink",
+          "say": "drink"
+        },
+        {
+          "show": "whenever",
+          "say": "whenever"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "feel",
+          "say": "feel"
+        },
+        {
+          "show": "thirsty.",
+          "say": "thirsty."
+        },
+        {
+          "show": "A",
+          "say": "A"
+        },
+        {
+          "show": "few",
+          "say": "few"
+        },
+        {
+          "show": "hours",
+          "say": "hours"
+        },
+        {
+          "show": "later,",
+          "say": "later,"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "pee",
+          "say": "pee"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "back",
+          "say": "back"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "pale",
+          "say": "pale"
+        },
+        {
+          "show": "straw",
+          "say": "straw"
+        },
+        {
+          "show": "yellow.",
+          "say": "yellow."
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "title": "The surprise",
+      "start": 578.599,
+      "end": 609.139,
+      "speech_end": 608.639,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: viên sỏi thận; hai nhóm (99 / 100), thanh \"12%\" và \"27%\"; \"5 YEARS · ITALY · 1996\"; cậu bé (ngac-nhien)."
+      ],
+      "text": "And there's one more surprising benefit. In 1996, Italian scientists followed nearly two hundred people who had had kidney stones, for five years. One group was told to drink enough water to pee at least two liters a day. After five years, only about twelve percent of that group had stones come back. In the other group, the number was twenty-seven percent. The American Urological Association's 2014 guideline advises people who've had stones to drink enough. Enough to pee at least two and a half liters a day.",
+      "say_text": "And there's one more surprising benefit. In 1996, Italian scientists followed nearly two hundred people who had had kidney stones, for five years. One group was told to drink enough water to pee at least two liters a day. After five years, only about twelve percent of that group had stones come back. In the other group, the number was twenty-seven percent. The American Urological Association's 2014 guideline advises people who've had stones to drink enough. Enough to pee at least two and a half liters a day.",
+      "tokens": [
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "there's",
+          "say": "there's"
+        },
+        {
+          "show": "one",
+          "say": "one"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "surprising",
+          "say": "surprising"
+        },
+        {
+          "show": "benefit.",
+          "say": "benefit."
+        },
+        {
+          "show": "In",
+          "say": "In"
+        },
+        {
+          "show": "1996,",
+          "say": "1996,"
+        },
+        {
+          "show": "Italian",
+          "say": "Italian"
+        },
+        {
+          "show": "scientists",
+          "say": "scientists"
+        },
+        {
+          "show": "followed",
+          "say": "followed"
+        },
+        {
+          "show": "nearly",
+          "say": "nearly"
+        },
+        {
+          "show": "two",
+          "say": "two"
+        },
+        {
+          "show": "hundred",
+          "say": "hundred"
+        },
+        {
+          "show": "people",
+          "say": "people"
+        },
+        {
+          "show": "who",
+          "say": "who"
+        },
+        {
+          "show": "had",
+          "say": "had"
+        },
+        {
+          "show": "had",
+          "say": "had"
+        },
+        {
+          "show": "kidney",
+          "say": "kidney"
+        },
+        {
+          "show": "stones,",
+          "say": "stones,"
+        },
+        {
+          "show": "for",
+          "say": "for"
+        },
+        {
+          "show": "five",
+          "say": "five"
+        },
+        {
+          "show": "years.",
+          "say": "years."
+        },
+        {
+          "show": "One",
+          "say": "One"
+        },
+        {
+          "show": "group",
+          "say": "group"
+        },
+        {
+          "show": "was",
+          "say": "was"
+        },
+        {
+          "show": "told",
+          "say": "told"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "drink",
+          "say": "drink"
+        },
+        {
+          "show": "enough",
+          "say": "enough"
+        },
+        {
+          "show": "water",
+          "say": "water"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "pee",
+          "say": "pee"
+        },
+        {
+          "show": "at",
+          "say": "at"
+        },
+        {
+          "show": "least",
+          "say": "least"
+        },
+        {
+          "show": "two",
+          "say": "two"
+        },
+        {
+          "show": "liters",
+          "say": "liters"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "day.",
+          "say": "day."
+        },
+        {
+          "show": "After",
+          "say": "After"
+        },
+        {
+          "show": "five",
+          "say": "five"
+        },
+        {
+          "show": "years,",
+          "say": "years,"
+        },
+        {
+          "show": "only",
+          "say": "only"
+        },
+        {
+          "show": "about",
+          "say": "about"
+        },
+        {
+          "show": "twelve",
+          "say": "twelve"
+        },
+        {
+          "show": "percent",
+          "say": "percent"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "group",
+          "say": "group"
+        },
+        {
+          "show": "had",
+          "say": "had"
+        },
+        {
+          "show": "stones",
+          "say": "stones"
+        },
+        {
+          "show": "come",
+          "say": "come"
+        },
+        {
+          "show": "back.",
+          "say": "back."
+        },
+        {
+          "show": "In",
+          "say": "In"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "other",
+          "say": "other"
+        },
+        {
+          "show": "group,",
+          "say": "group,"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "number",
+          "say": "number"
+        },
+        {
+          "show": "was",
+          "say": "was"
+        },
+        {
+          "show": "twenty-seven",
+          "say": "twenty-seven"
+        },
+        {
+          "show": "percent.",
+          "say": "percent."
+        },
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "American",
+          "say": "American"
+        },
+        {
+          "show": "Urological",
+          "say": "Urological"
+        },
+        {
+          "show": "Association's",
+          "say": "Association's"
+        },
+        {
+          "show": "2014",
+          "say": "2014"
+        },
+        {
+          "show": "guideline",
+          "say": "guideline"
+        },
+        {
+          "show": "advises",
+          "say": "advises"
+        },
+        {
+          "show": "people",
+          "say": "people"
+        },
+        {
+          "show": "who've",
+          "say": "who've"
+        },
+        {
+          "show": "had",
+          "say": "had"
+        },
+        {
+          "show": "stones",
+          "say": "stones"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "drink",
+          "say": "drink"
+        },
+        {
+          "show": "enough.",
+          "say": "enough."
+        },
+        {
+          "show": "Enough",
+          "say": "Enough"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "pee",
+          "say": "pee"
+        },
+        {
+          "show": "at",
+          "say": "at"
+        },
+        {
+          "show": "least",
+          "say": "least"
+        },
+        {
+          "show": "two",
+          "say": "two"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "half",
+          "say": "half"
+        },
+        {
+          "show": "liters",
+          "say": "liters"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "day.",
+          "say": "day."
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "title": "The twist",
+      "start": 609.139,
+      "end": 623.275,
+      "speech_end": 622.775,
+      "min_duration": null,
+      "visual": [
+        "phong-hop.png: cậu bé (vui) thuyết trình, cả phòng vỗ tay → (chay) chạy vụt ra cửa nhà vệ sinh."
+      ],
+      "text": "Four in the afternoon. Your presentation goes smoothly, and the whole room applauds. You smile, take a bow, and thank everyone. Then you dash straight for the bathroom. Your body, clearly, is keeping its balance just fine.",
+      "say_text": "Four in the afternoon. Your presentation goes smoothly, and the whole room applauds. You smile, take a bow, and thank everyone. Then you dash straight for the bathroom. Your body, clearly, is keeping its balance just fine.",
+      "tokens": [
+        {
+          "show": "Four",
+          "say": "Four"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "afternoon.",
+          "say": "afternoon."
+        },
+        {
+          "show": "Your",
+          "say": "Your"
+        },
+        {
+          "show": "presentation",
+          "say": "presentation"
+        },
+        {
+          "show": "goes",
+          "say": "goes"
+        },
+        {
+          "show": "smoothly,",
+          "say": "smoothly,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "whole",
+          "say": "whole"
+        },
+        {
+          "show": "room",
+          "say": "room"
+        },
+        {
+          "show": "applauds.",
+          "say": "applauds."
+        },
+        {
+          "show": "You",
+          "say": "You"
+        },
+        {
+          "show": "smile,",
+          "say": "smile,"
+        },
+        {
+          "show": "take",
+          "say": "take"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "bow,",
+          "say": "bow,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "thank",
+          "say": "thank"
+        },
+        {
+          "show": "everyone.",
+          "say": "everyone."
+        },
+        {
+          "show": "Then",
+          "say": "Then"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "dash",
+          "say": "dash"
+        },
+        {
+          "show": "straight",
+          "say": "straight"
+        },
+        {
+          "show": "for",
+          "say": "for"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "bathroom.",
+          "say": "bathroom."
+        },
+        {
+          "show": "Your",
+          "say": "Your"
+        },
+        {
+          "show": "body,",
+          "say": "body,"
+        },
+        {
+          "show": "clearly,",
+          "say": "clearly,"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "keeping",
+          "say": "keeping"
+        },
+        {
+          "show": "its",
+          "say": "its"
+        },
+        {
+          "show": "balance",
+          "say": "balance"
+        },
+        {
+          "show": "just",
+          "say": "just"
+        },
+        {
+          "show": "fine.",
+          "say": "fine."
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "title": "End card",
+      "start": 623.275,
+      "end": 639.275,
+      "speech_end": 623.275,
+      "min_duration": 16.0,
+      "visual": [
+        "Thẻ giấy: \"Thirsty? Drink. Hot, active or sick? Drink more. Don't force it.\" + nguồn + khuyến cáo y tế."
+      ],
+      "text": "",
+      "say_text": "",
+      "tokens": []
+    }
+  ]
+}

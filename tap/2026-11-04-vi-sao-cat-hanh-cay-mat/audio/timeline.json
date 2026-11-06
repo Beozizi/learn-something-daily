@@ -1,0 +1,3250 @@
+{
+  "voice": "Thiện Minh",
+  "sample_rate": 48000,
+  "duration": 218.16,
+  "scenes": [
+    {
+      "id": "01",
+      "title": "Tiêu đề",
+      "start": 0.0,
+      "end": 4.4,
+      "speech_end": 0.0,
+      "min_duration": 4.0,
+      "visual": [
+        "Thẻ chữ nền kem: \"Vì sao cắt hành lại cay mắt?\" — một củ hành nhỏ vẽ nét đậm bên cạnh, lọn hơi cay bốc lên."
+      ],
+      "text": "",
+      "say_text": "",
+      "tokens": []
+    },
+    {
+      "id": "02",
+      "title": "Mở truyện",
+      "start": 4.4,
+      "end": 26.36,
+      "speech_end": 25.96,
+      "min_duration": null,
+      "visual": [
+        "Bếp chiều tối, đồng hồ treo tường 6:00. Tò (dung) đứng trước thớt và rổ hành. Cắt cảnh theo từng câu.",
+        "Cận dao chạm củ hành → cận mặt Tò (lo-lang), mắt rưng rưng → nước mắt chảy hai dòng.",
+        "Rổ hành đầy, số \"20\" bật lên → ngăn kéo mở ra: một dao sáng loáng, một dao xỉn mẻ."
+      ],
+      "text": "Sáu giờ chiều. Bảy giờ khách tới. Trên thớt của bạn là một rổ hành tây, và con dao vừa chạm vào củ đầu tiên. Chỉ vài giây sau, mắt bạn bắt đầu cay. Rồi nước mắt chảy ròng ròng, dù bạn chẳng buồn chuyện gì. Trong rổ vẫn còn hai mươi củ. Trong ngăn kéo có hai con dao: một con sắc, một con đã cùn. Cắt nhanh cho xong, hay cắt chậm cho chắc? Chọn sai, bạn sẽ đón khách với đôi mắt đỏ hoe.",
+      "say_text": "Sáu giờ chiều. Bảy giờ khách tới. Trên thớt của bạn là một rổ hành tây, và con dao vừa chạm vào củ đầu tiên. Chỉ vài giây sau, mắt bạn bắt đầu cay. Rồi nước mắt chảy ròng ròng, dù bạn chẳng buồn chuyện gì. Trong rổ vẫn còn hai mươi củ. Trong ngăn kéo có hai con dao: một con sắc, một con đã cùn. Cắt nhanh cho xong, hay cắt chậm cho chắc? Chọn sai, bạn sẽ đón khách với đôi mắt đỏ hoe.",
+      "tokens": [
+        {
+          "show": "Sáu",
+          "say": "Sáu"
+        },
+        {
+          "show": "giờ",
+          "say": "giờ"
+        },
+        {
+          "show": "chiều.",
+          "say": "chiều."
+        },
+        {
+          "show": "Bảy",
+          "say": "Bảy"
+        },
+        {
+          "show": "giờ",
+          "say": "giờ"
+        },
+        {
+          "show": "khách",
+          "say": "khách"
+        },
+        {
+          "show": "tới.",
+          "say": "tới."
+        },
+        {
+          "show": "Trên",
+          "say": "Trên"
+        },
+        {
+          "show": "thớt",
+          "say": "thớt"
+        },
+        {
+          "show": "của",
+          "say": "của"
+        },
+        {
+          "show": "bạn",
+          "say": "bạn"
+        },
+        {
+          "show": "là",
+          "say": "là"
+        },
+        {
+          "show": "một",
+          "say": "một"
+        },
+        {
+          "show": "rổ",
+          "say": "rổ"
+        },
+        {
+          "show": "hành",
+          "say": "hành"
+        },
+        {
+          "show": "tây,",
+          "say": "tây,"
+        },
+        {
+          "show": "và",
+          "say": "và"
+        },
+        {
+          "show": "con",
+          "say": "con"
+        },
+        {
+          "show": "dao",
+          "say": "dao"
+        },
+        {
+          "show": "vừa",
+          "say": "vừa"
+        },
+        {
+          "show": "chạm",
+          "say": "chạm"
+        },
+        {
+          "show": "vào",
+          "say": "vào"
+        },
+        {
+          "show": "củ",
+          "say": "củ"
+        },
+        {
+          "show": "đầu",
+          "say": "đầu"
+        },
+        {
+          "show": "tiên.",
+          "say": "tiên."
+        },
+        {
+          "show": "Chỉ",
+          "say": "Chỉ"
+        },
+        {
+          "show": "vài",
+          "say": "vài"
+        },
+        {
+          "show": "giây",
+          "say": "giây"
+        },
+        {
+          "show": "sau,",
+          "say": "sau,"
+        },
+        {
+          "show": "mắt",
+          "say": "mắt"
+        },
+        {
+          "show": "bạn",
+          "say": "bạn"
+        },
+        {
+          "show": "bắt",
+          "say": "bắt"
+        },
+        {
+          "show": "đầu",
+          "say": "đầu"
+        },
+        {
+          "show": "cay.",
+          "say": "cay."
+        },
+        {
+          "show": "Rồi",
+          "say": "Rồi"
+        },
+        {
+          "show": "nước",
+          "say": "nước"
+        },
+        {
+          "show": "mắt",
+          "say": "mắt"
+        },
+        {
+          "show": "chảy",
+          "say": "chảy"
+        },
+        {
+          "show": "ròng",
+          "say": "ròng"
+        },
+        {
+          "show": "ròng,",
+          "say": "ròng,"
+        },
+        {
+          "show": "dù",
+          "say": "dù"
+        },
+        {
+          "show": "bạn",
+          "say": "bạn"
+        },
+        {
+          "show": "chẳng",
+          "say": "chẳng"
+        },
+        {
+          "show": "buồn",
+          "say": "buồn"
+        },
+        {
+          "show": "chuyện",
+          "say": "chuyện"
+        },
+        {
+          "show": "gì.",
+          "say": "gì."
+        },
+        {
+          "show": "Trong",
+          "say": "Trong"
+        },
+        {
+          "show": "rổ",
+          "say": "rổ"
+        },
+        {
+          "show": "vẫn",
+          "say": "vẫn"
+        },
+        {
+          "show": "còn",
+          "say": "còn"
+        },
+        {
+          "show": "hai",
+          "say": "hai"
+        },
+        {
+          "show": "mươi",
+          "say": "mươi"
+        },
+        {
+          "show": "củ.",
+          "say": "củ."
+        },
+        {
+          "show": "Trong",
+          "say": "Trong"
+        },
+        {
+          "show": "ngăn",
+          "say": "ngăn"
+        },
+        {
+          "show": "kéo",
+          "say": "kéo"
+        },
+        {
+          "show": "có",
+          "say": "có"
+        },
+        {
+          "show": "hai",
+          "say": "hai"
+        },
+        {
+          "show": "con",
+          "say": "con"
+        },
+        {
+          "show": "dao:",
+          "say": "dao:"
+        },
+        {
+          "show": "một",
+          "say": "một"
+        },
+        {
+          "show": "con",
+          "say": "con"
+        },
+        {
+          "show": "sắc,",
+          "say": "sắc,"
+        },
+        {
+          "show": "một",
+          "say": "một"
+        },
+        {
+          "show": "con",
+          "say": "con"
+        },
+        {
+          "show": "đã",
+          "say": "đã"
+        },
+        {
+          "show": "cùn.",
+          "say": "cùn."
+        },
+        {
+          "show": "Cắt",
+          "say": "Cắt"
+        },
+        {
+          "show": "nhanh",
+          "say": "nhanh"
+        },
+        {
+          "show": "cho",
+          "say": "cho"
+        },
+        {
+          "show": "xong,",
+          "say": "xong,"
+        },
+        {
+          "show": "hay",
+          "say": "hay"
+        },
+        {
+          "show": "cắt",
+          "say": "cắt"
+        },
+        {
+          "show": "chậm",
+          "say": "chậm"
+        },
+        {
+          "show": "cho",
+          "say": "cho"
+        },
+        {
+          "show": "chắc?",
+          "say": "chắc?"
+        },
+        {
+          "show": "Chọn",
+          "say": "Chọn"
+        },
+        {
+          "show": "sai,",
+          "say": "sai,"
+        },
+        {
+          "show": "bạn",
+          "say": "bạn"
+        },
+        {
+          "show": "sẽ",
+          "say": "sẽ"
+        },
+        {
+          "show": "đón",
+          "say": "đón"
+        },
+        {
+          "show": "khách",
+          "say": "khách"
+        },
+        {
+          "show": "với",
+          "say": "với"
+        },
+        {
+          "show": "đôi",
+          "say": "đôi"
+        },
+        {
+          "show": "mắt",
+          "say": "mắt"
+        },
+        {
+          "show": "đỏ",
+          "say": "đỏ"
+        },
+        {
+          "show": "hoe.",
+          "say": "hoe."
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "Dữ kiện",
+      "start": 26.36,
+      "end": 55.93,
+      "speech_end": 55.53,
+      "min_duration": null,
+      "visual": [
+        "Ba thẻ số 1–2–3 lần lượt hiện bên phải, Tò (suy-nghi) bên trái.",
+        "(1) Tế bào hai ngăn — ngăn xanh ngọc và ngăn xám; màng rách thì hai màu trộn, bốc lên đám khí.",
+        "(2) Đám khí bay tới con mắt; các đầu dây thần kinh lóe vàng.",
+        "(3) Lưỡi dao ấn xuống, lớp vỏ lõm xuống trước khi đứt, giọt nước bắn ra."
+      ],
+      "text": "Trước khi chọn, bạn cần biết ba điều. Một. Mỗi tế bào hành cất hai chất ở hai ngăn riêng biệt. Khi tế bào còn nguyên, chúng gần như không gặp nhau. Chỉ khi tế bào vỡ, hai chất mới trộn vào nhau. Một chuỗi phản ứng chớp nhoáng tạo ra khí cay. Hai. Khí này bay lên và chạm vào bề mặt mắt bạn. Ở đó có những đầu dây thần kinh rất nhạy, và chúng lập tức báo động. Ba. Khi lưỡi dao ấn xuống, lớp vỏ dai của củ hành chống lại. Mô hành bị đè nén một lúc rồi mới đứt. Bị nén càng mạnh, càng nhiều tế bào vỡ tung, và nước hành bắn ra càng nhiều.",
+      "say_text": "Trước khi chọn, bạn cần biết ba điều. Một. Mỗi tế bào hành cất hai chất ở hai ngăn riêng biệt. Khi tế bào còn nguyên, chúng gần như không gặp nhau. Chỉ khi tế bào vỡ, hai chất mới trộn vào nhau. Một chuỗi phản ứng chớp nhoáng tạo ra khí cay. Hai. Khí này bay lên và chạm vào bề mặt mắt bạn. Ở đó có những đầu dây thần kinh rất nhạy, và chúng lập tức báo động. Ba. Khi lưỡi dao ấn xuống, lớp vỏ dai của củ hành chống lại. Mô hành bị đè nén một lúc rồi mới đứt. Bị nén càng mạnh, càng nhiều tế bào vỡ tung, và nước hành bắn ra càng nhiều.",
+      "tokens": [
+        {
+          "show": "Trước",
+          "say": "Trước"
+        },
+        {
+          "show": "khi",
+          "say": "khi"
+        },
+        {
+          "show": "chọn,",
+          "say": "chọn,"
+        },
+        {
+          "show": "bạn",
+          "say": "bạn"
+        },
+        {
+          "show": "cần",
+          "say": "cần"
+        },
+        {
+          "show": "biết",
+          "say": "biết"
+        },
+        {
+          "show": "ba",
+          "say": "ba"
+        },
+        {
+          "show": "điều.",
+          "say": "điều."
+        },
+        {
+          "show": "Một.",
+          "say": "Một."
+        },
+        {
+          "show": "Mỗi",
+          "say": "Mỗi"
+        },
+        {
+          "show": "tế",
+          "say": "tế"
+        },
+        {
+          "show": "bào",
+          "say": "bào"
+        },
+        {
+          "show": "hành",
+          "say": "hành"
+        },
+        {
+          "show": "cất",
+          "say": "cất"
+        },
+        {
+          "show": "hai",
+          "say": "hai"
+        },
+        {
+          "show": "chất",
+          "say": "chất"
+        },
+        {
+          "show": "ở",
+          "say": "ở"
+        },
+        {
+          "show": "hai",
+          "say": "hai"
+        },
+        {
+          "show": "ngăn",
+          "say": "ngăn"
+        },
+        {
+          "show": "riêng",
+          "say": "riêng"
+        },
+        {
+          "show": "biệt.",
+          "say": "biệt."
+        },
+        {
+          "show": "Khi",
+          "say": "Khi"
+        },
+        {
+          "show": "tế",
+          "say": "tế"
+        },
+        {
+          "show": "bào",
+          "say": "bào"
+        },
+        {
+          "show": "còn",
+          "say": "còn"
+        },
+        {
+          "show": "nguyên,",
+          "say": "nguyên,"
+        },
+        {
+          "show": "chúng",
+          "say": "chúng"
+        },
+        {
+          "show": "gần",
+          "say": "gần"
+        },
+        {
+          "show": "như",
+          "say": "như"
+        },
+        {
+          "show": "không",
+          "say": "không"
+        },
+        {
+          "show": "gặp",
+          "say": "gặp"
+        },
+        {
+          "show": "nhau.",
+          "say": "nhau."
+        },
+        {
+          "show": "Chỉ",
+          "say": "Chỉ"
+        },
+        {
+          "show": "khi",
+          "say": "khi"
+        },
+        {
+          "show": "tế",
+          "say": "tế"
+        },
+        {
+          "show": "bào",
+          "say": "bào"
+        },
+        {
+          "show": "vỡ,",
+          "say": "vỡ,"
+        },
+        {
+          "show": "hai",
+          "say": "hai"
+        },
+        {
+          "show": "chất",
+          "say": "chất"
+        },
+        {
+          "show": "mới",
+          "say": "mới"
+        },
+        {
+          "show": "trộn",
+          "say": "trộn"
+        },
+        {
+          "show": "vào",
+          "say": "vào"
+        },
+        {
+          "show": "nhau.",
+          "say": "nhau."
+        },
+        {
+          "show": "Một",
+          "say": "Một"
+        },
+        {
+          "show": "chuỗi",
+          "say": "chuỗi"
+        },
+        {
+          "show": "phản",
+          "say": "phản"
+        },
+        {
+          "show": "ứng",
+          "say": "ứng"
+        },
+        {
+          "show": "chớp",
+          "say": "chớp"
+        },
+        {
+          "show": "nhoáng",
+          "say": "nhoáng"
+        },
+        {
+          "show": "tạo",
+          "say": "tạo"
+        },
+        {
+          "show": "ra",
+          "say": "ra"
+        },
+        {
+          "show": "khí",
+          "say": "khí"
+        },
+        {
+          "show": "cay.",
+          "say": "cay."
+        },
+        {
+          "show": "Hai.",
+          "say": "Hai."
+        },
+        {
+          "show": "Khí",
+          "say": "Khí"
+        },
+        {
+          "show": "này",
+          "say": "này"
+        },
+        {
+          "show": "bay",
+          "say": "bay"
+        },
+        {
+          "show": "lên",
+          "say": "lên"
+        },
+        {
+          "show": "và",
+          "say": "và"
+        },
+        {
+          "show": "chạm",
+          "say": "chạm"
+        },
+        {
+          "show": "vào",
+          "say": "vào"
+        },
+        {
+          "show": "bề",
+          "say": "bề"
+        },
+        {
+          "show": "mặt",
+          "say": "mặt"
+        },
+        {
+          "show": "mắt",
+          "say": "mắt"
+        },
+        {
+          "show": "bạn.",
+          "say": "bạn."
+        },
+        {
+          "show": "Ở",
+          "say": "Ở"
+        },
+        {
+          "show": "đó",
+          "say": "đó"
+        },
+        {
+          "show": "có",
+          "say": "có"
+        },
+        {
+          "show": "những",
+          "say": "những"
+        },
+        {
+          "show": "đầu",
+          "say": "đầu"
+        },
+        {
+          "show": "dây",
+          "say": "dây"
+        },
+        {
+          "show": "thần",
+          "say": "thần"
+        },
+        {
+          "show": "kinh",
+          "say": "kinh"
+        },
+        {
+          "show": "rất",
+          "say": "rất"
+        },
+        {
+          "show": "nhạy,",
+          "say": "nhạy,"
+        },
+        {
+          "show": "và",
+          "say": "và"
+        },
+        {
+          "show": "chúng",
+          "say": "chúng"
+        },
+        {
+          "show": "lập",
+          "say": "lập"
+        },
+        {
+          "show": "tức",
+          "say": "tức"
+        },
+        {
+          "show": "báo",
+          "say": "báo"
+        },
+        {
+          "show": "động.",
+          "say": "động."
+        },
+        {
+          "show": "Ba.",
+          "say": "Ba."
+        },
+        {
+          "show": "Khi",
+          "say": "Khi"
+        },
+        {
+          "show": "lưỡi",
+          "say": "lưỡi"
+        },
+        {
+          "show": "dao",
+          "say": "dao"
+        },
+        {
+          "show": "ấn",
+          "say": "ấn"
+        },
+        {
+          "show": "xuống,",
+          "say": "xuống,"
+        },
+        {
+          "show": "lớp",
+          "say": "lớp"
+        },
+        {
+          "show": "vỏ",
+          "say": "vỏ"
+        },
+        {
+          "show": "dai",
+          "say": "dai"
+        },
+        {
+          "show": "của",
+          "say": "của"
+        },
+        {
+          "show": "củ",
+          "say": "củ"
+        },
+        {
+          "show": "hành",
+          "say": "hành"
+        },
+        {
+          "show": "chống",
+          "say": "chống"
+        },
+        {
+          "show": "lại.",
+          "say": "lại."
+        },
+        {
+          "show": "Mô",
+          "say": "Mô"
+        },
+        {
+          "show": "hành",
+          "say": "hành"
+        },
+        {
+          "show": "bị",
+          "say": "bị"
+        },
+        {
+          "show": "đè",
+          "say": "đè"
+        },
+        {
+          "show": "nén",
+          "say": "nén"
+        },
+        {
+          "show": "một",
+          "say": "một"
+        },
+        {
+          "show": "lúc",
+          "say": "lúc"
+        },
+        {
+          "show": "rồi",
+          "say": "rồi"
+        },
+        {
+          "show": "mới",
+          "say": "mới"
+        },
+        {
+          "show": "đứt.",
+          "say": "đứt."
+        },
+        {
+          "show": "Bị",
+          "say": "Bị"
+        },
+        {
+          "show": "nén",
+          "say": "nén"
+        },
+        {
+          "show": "càng",
+          "say": "càng"
+        },
+        {
+          "show": "mạnh,",
+          "say": "mạnh,"
+        },
+        {
+          "show": "càng",
+          "say": "càng"
+        },
+        {
+          "show": "nhiều",
+          "say": "nhiều"
+        },
+        {
+          "show": "tế",
+          "say": "tế"
+        },
+        {
+          "show": "bào",
+          "say": "bào"
+        },
+        {
+          "show": "vỡ",
+          "say": "vỡ"
+        },
+        {
+          "show": "tung,",
+          "say": "tung,"
+        },
+        {
+          "show": "và",
+          "say": "và"
+        },
+        {
+          "show": "nước",
+          "say": "nước"
+        },
+        {
+          "show": "hành",
+          "say": "hành"
+        },
+        {
+          "show": "bắn",
+          "say": "bắn"
+        },
+        {
+          "show": "ra",
+          "say": "ra"
+        },
+        {
+          "show": "càng",
+          "say": "càng"
+        },
+        {
+          "show": "nhiều.",
+          "say": "nhiều."
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "title": "Câu hỏi",
+      "start": 55.93,
+      "end": 63.21,
+      "speech_end": 62.81,
+      "min_duration": null,
+      "visual": [
+        "Cận Tò (suy-nghi) cầm hai con dao; ba phương án A, B, C hiện thành ba thẻ."
+      ],
+      "text": "Vậy bạn sẽ cắt thế nào? A, dao cùn, cắt thật nhanh. B, dao sắc, cắt chậm rãi. Hay C, dao cùn, cắt chậm và nhẹ tay?",
+      "say_text": "Vậy bạn sẽ cắt thế nào? A, dao cùn, cắt thật nhanh. B, dao sắc, cắt chậm rãi. Hay C, dao cùn, cắt chậm và nhẹ tay?",
+      "tokens": [
+        {
+          "show": "Vậy",
+          "say": "Vậy"
+        },
+        {
+          "show": "bạn",
+          "say": "bạn"
+        },
+        {
+          "show": "sẽ",
+          "say": "sẽ"
+        },
+        {
+          "show": "cắt",
+          "say": "cắt"
+        },
+        {
+          "show": "thế",
+          "say": "thế"
+        },
+        {
+          "show": "nào?",
+          "say": "nào?"
+        },
+        {
+          "show": "A,",
+          "say": "A,"
+        },
+        {
+          "show": "dao",
+          "say": "dao"
+        },
+        {
+          "show": "cùn,",
+          "say": "cùn,"
+        },
+        {
+          "show": "cắt",
+          "say": "cắt"
+        },
+        {
+          "show": "thật",
+          "say": "thật"
+        },
+        {
+          "show": "nhanh.",
+          "say": "nhanh."
+        },
+        {
+          "show": "B,",
+          "say": "B,"
+        },
+        {
+          "show": "dao",
+          "say": "dao"
+        },
+        {
+          "show": "sắc,",
+          "say": "sắc,"
+        },
+        {
+          "show": "cắt",
+          "say": "cắt"
+        },
+        {
+          "show": "chậm",
+          "say": "chậm"
+        },
+        {
+          "show": "rãi.",
+          "say": "rãi."
+        },
+        {
+          "show": "Hay",
+          "say": "Hay"
+        },
+        {
+          "show": "C,",
+          "say": "C,"
+        },
+        {
+          "show": "dao",
+          "say": "dao"
+        },
+        {
+          "show": "cùn,",
+          "say": "cùn,"
+        },
+        {
+          "show": "cắt",
+          "say": "cắt"
+        },
+        {
+          "show": "chậm",
+          "say": "chậm"
+        },
+        {
+          "show": "và",
+          "say": "và"
+        },
+        {
+          "show": "nhẹ",
+          "say": "nhẹ"
+        },
+        {
+          "show": "tay?",
+          "say": "tay?"
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "title": "Thử đoán",
+      "start": 63.21,
+      "end": 73.61,
+      "speech_end": 65.29,
+      "min_duration": 10.0,
+      "visual": [
+        "Thẻ tóm tắt nền kem, căn trái: 3 dữ kiện đánh số + 3 phương án A/B/C. Góc phải: đếm ngược 3‑2‑1 cỡ lớn."
+      ],
+      "text": "Tạm dừng video và thử đoán nhé.",
+      "say_text": "Tạm dừng video và thử đoán nhé.",
+      "tokens": [
+        {
+          "show": "Tạm",
+          "say": "Tạm"
+        },
+        {
+          "show": "dừng",
+          "say": "dừng"
+        },
+        {
+          "show": "video",
+          "say": "video"
+        },
+        {
+          "show": "và",
+          "say": "và"
+        },
+        {
+          "show": "thử",
+          "say": "thử"
+        },
+        {
+          "show": "đoán",
+          "say": "đoán"
+        },
+        {
+          "show": "nhé.",
+          "say": "nhé."
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "title": "Chìa khóa",
+      "start": 73.61,
+      "end": 82.97,
+      "speech_end": 82.57,
+      "min_duration": null,
+      "visual": [
+        "Tò trong bong bóng suy nghĩ; dòng chữ lớn \"KHÍ CAY ≠ CÓ SẴN\" → mũi tên \"TẾ BÀO VỠ → KHÍ CAY\"."
+      ],
+      "text": "Chìa khóa nằm ở điều thứ nhất. Khí cay không có sẵn trong củ hành. Nó chỉ được tạo ra khi tế bào vỡ. Vậy câu hỏi thật sự là: cách nào làm vỡ ít tế bào nhất?",
+      "say_text": "Chìa khóa nằm ở điều thứ nhất. Khí cay không có sẵn trong củ hành. Nó chỉ được tạo ra khi tế bào vỡ. Vậy câu hỏi thật sự là: cách nào làm vỡ ít tế bào nhất?",
+      "tokens": [
+        {
+          "show": "Chìa",
+          "say": "Chìa"
+        },
+        {
+          "show": "khóa",
+          "say": "khóa"
+        },
+        {
+          "show": "nằm",
+          "say": "nằm"
+        },
+        {
+          "show": "ở",
+          "say": "ở"
+        },
+        {
+          "show": "điều",
+          "say": "điều"
+        },
+        {
+          "show": "thứ",
+          "say": "thứ"
+        },
+        {
+          "show": "nhất.",
+          "say": "nhất."
+        },
+        {
+          "show": "Khí",
+          "say": "Khí"
+        },
+        {
+          "show": "cay",
+          "say": "cay"
+        },
+        {
+          "show": "không",
+          "say": "không"
+        },
+        {
+          "show": "có",
+          "say": "có"
+        },
+        {
+          "show": "sẵn",
+          "say": "sẵn"
+        },
+        {
+          "show": "trong",
+          "say": "trong"
+        },
+        {
+          "show": "củ",
+          "say": "củ"
+        },
+        {
+          "show": "hành.",
+          "say": "hành."
+        },
+        {
+          "show": "Nó",
+          "say": "Nó"
+        },
+        {
+          "show": "chỉ",
+          "say": "chỉ"
+        },
+        {
+          "show": "được",
+          "say": "được"
+        },
+        {
+          "show": "tạo",
+          "say": "tạo"
+        },
+        {
+          "show": "ra",
+          "say": "ra"
+        },
+        {
+          "show": "khi",
+          "say": "khi"
+        },
+        {
+          "show": "tế",
+          "say": "tế"
+        },
+        {
+          "show": "bào",
+          "say": "bào"
+        },
+        {
+          "show": "vỡ.",
+          "say": "vỡ."
+        },
+        {
+          "show": "Vậy",
+          "say": "Vậy"
+        },
+        {
+          "show": "câu",
+          "say": "câu"
+        },
+        {
+          "show": "hỏi",
+          "say": "hỏi"
+        },
+        {
+          "show": "thật",
+          "say": "thật"
+        },
+        {
+          "show": "sự",
+          "say": "sự"
+        },
+        {
+          "show": "là:",
+          "say": "là:"
+        },
+        {
+          "show": "cách",
+          "say": "cách"
+        },
+        {
+          "show": "nào",
+          "say": "nào"
+        },
+        {
+          "show": "làm",
+          "say": "làm"
+        },
+        {
+          "show": "vỡ",
+          "say": "vỡ"
+        },
+        {
+          "show": "ít",
+          "say": "ít"
+        },
+        {
+          "show": "tế",
+          "say": "tế"
+        },
+        {
+          "show": "bào",
+          "say": "bào"
+        },
+        {
+          "show": "nhất?",
+          "say": "nhất?"
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "title": "Giải thích — bên trong tế bào",
+      "start": 82.97,
+      "end": 108.46,
+      "speech_end": 108.06,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: Tò (suy-nghi) neo bên trái. Phóng to một tế bào hành chiếm 2/3 bên phải.",
+        "Ngăn trái: các hạt lưu huỳnh (xanh ngọc). Ngăn phải: \"chiếc kéo\" enzyme (xám). Màng ngăn rách → kéo cắt hạt.",
+        "Hạt trung gian → enzyme thứ hai (vàng, phát sáng) biến thành đám khí → khí bay lên mắt → mũi tên thần kinh về não → tuyến lệ → giọt nước mắt."
+      ],
+      "text": "Hãy phóng to vào một tế bào hành. Ở một ngăn là những phân tử chứa lưu huỳnh. Ở ngăn kia là một enzyme, giống như một chiếc kéo phân tử. Khi màng ngăn rách, chiếc kéo cắt các phân tử lưu huỳnh thành một chất trung gian. Rồi một enzyme thứ hai nhanh tay biến chất trung gian ấy thành khí cay. Khí bay lên mắt. Dây thần kinh ở giác mạc báo về não. Và não ra lệnh cho tuyến lệ: xả nước, rửa sạch nó đi. Nước mắt lúc này không phải vì buồn. Đó là một phản xạ bảo vệ.",
+      "say_text": "Hãy phóng to vào một tế bào hành. Ở một ngăn là những phân tử chứa lưu huỳnh. Ở ngăn kia là một enzyme, giống như một chiếc kéo phân tử. Khi màng ngăn rách, chiếc kéo cắt các phân tử lưu huỳnh thành một chất trung gian. Rồi một enzyme thứ hai nhanh tay biến chất trung gian ấy thành khí cay. Khí bay lên mắt. Dây thần kinh ở giác mạc báo về não. Và não ra lệnh cho tuyến lệ: xả nước, rửa sạch nó đi. Nước mắt lúc này không phải vì buồn. Đó là một phản xạ bảo vệ.",
+      "tokens": [
+        {
+          "show": "Hãy",
+          "say": "Hãy"
+        },
+        {
+          "show": "phóng",
+          "say": "phóng"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "vào",
+          "say": "vào"
+        },
+        {
+          "show": "một",
+          "say": "một"
+        },
+        {
+          "show": "tế",
+          "say": "tế"
+        },
+        {
+          "show": "bào",
+          "say": "bào"
+        },
+        {
+          "show": "hành.",
+          "say": "hành."
+        },
+        {
+          "show": "Ở",
+          "say": "Ở"
+        },
+        {
+          "show": "một",
+          "say": "một"
+        },
+        {
+          "show": "ngăn",
+          "say": "ngăn"
+        },
+        {
+          "show": "là",
+          "say": "là"
+        },
+        {
+          "show": "những",
+          "say": "những"
+        },
+        {
+          "show": "phân",
+          "say": "phân"
+        },
+        {
+          "show": "tử",
+          "say": "tử"
+        },
+        {
+          "show": "chứa",
+          "say": "chứa"
+        },
+        {
+          "show": "lưu",
+          "say": "lưu"
+        },
+        {
+          "show": "huỳnh.",
+          "say": "huỳnh."
+        },
+        {
+          "show": "Ở",
+          "say": "Ở"
+        },
+        {
+          "show": "ngăn",
+          "say": "ngăn"
+        },
+        {
+          "show": "kia",
+          "say": "kia"
+        },
+        {
+          "show": "là",
+          "say": "là"
+        },
+        {
+          "show": "một",
+          "say": "một"
+        },
+        {
+          "show": "enzyme,",
+          "say": "enzyme,"
+        },
+        {
+          "show": "giống",
+          "say": "giống"
+        },
+        {
+          "show": "như",
+          "say": "như"
+        },
+        {
+          "show": "một",
+          "say": "một"
+        },
+        {
+          "show": "chiếc",
+          "say": "chiếc"
+        },
+        {
+          "show": "kéo",
+          "say": "kéo"
+        },
+        {
+          "show": "phân",
+          "say": "phân"
+        },
+        {
+          "show": "tử.",
+          "say": "tử."
+        },
+        {
+          "show": "Khi",
+          "say": "Khi"
+        },
+        {
+          "show": "màng",
+          "say": "màng"
+        },
+        {
+          "show": "ngăn",
+          "say": "ngăn"
+        },
+        {
+          "show": "rách,",
+          "say": "rách,"
+        },
+        {
+          "show": "chiếc",
+          "say": "chiếc"
+        },
+        {
+          "show": "kéo",
+          "say": "kéo"
+        },
+        {
+          "show": "cắt",
+          "say": "cắt"
+        },
+        {
+          "show": "các",
+          "say": "các"
+        },
+        {
+          "show": "phân",
+          "say": "phân"
+        },
+        {
+          "show": "tử",
+          "say": "tử"
+        },
+        {
+          "show": "lưu",
+          "say": "lưu"
+        },
+        {
+          "show": "huỳnh",
+          "say": "huỳnh"
+        },
+        {
+          "show": "thành",
+          "say": "thành"
+        },
+        {
+          "show": "một",
+          "say": "một"
+        },
+        {
+          "show": "chất",
+          "say": "chất"
+        },
+        {
+          "show": "trung",
+          "say": "trung"
+        },
+        {
+          "show": "gian.",
+          "say": "gian."
+        },
+        {
+          "show": "Rồi",
+          "say": "Rồi"
+        },
+        {
+          "show": "một",
+          "say": "một"
+        },
+        {
+          "show": "enzyme",
+          "say": "enzyme"
+        },
+        {
+          "show": "thứ",
+          "say": "thứ"
+        },
+        {
+          "show": "hai",
+          "say": "hai"
+        },
+        {
+          "show": "nhanh",
+          "say": "nhanh"
+        },
+        {
+          "show": "tay",
+          "say": "tay"
+        },
+        {
+          "show": "biến",
+          "say": "biến"
+        },
+        {
+          "show": "chất",
+          "say": "chất"
+        },
+        {
+          "show": "trung",
+          "say": "trung"
+        },
+        {
+          "show": "gian",
+          "say": "gian"
+        },
+        {
+          "show": "ấy",
+          "say": "ấy"
+        },
+        {
+          "show": "thành",
+          "say": "thành"
+        },
+        {
+          "show": "khí",
+          "say": "khí"
+        },
+        {
+          "show": "cay.",
+          "say": "cay."
+        },
+        {
+          "show": "Khí",
+          "say": "Khí"
+        },
+        {
+          "show": "bay",
+          "say": "bay"
+        },
+        {
+          "show": "lên",
+          "say": "lên"
+        },
+        {
+          "show": "mắt.",
+          "say": "mắt."
+        },
+        {
+          "show": "Dây",
+          "say": "Dây"
+        },
+        {
+          "show": "thần",
+          "say": "thần"
+        },
+        {
+          "show": "kinh",
+          "say": "kinh"
+        },
+        {
+          "show": "ở",
+          "say": "ở"
+        },
+        {
+          "show": "giác",
+          "say": "giác"
+        },
+        {
+          "show": "mạc",
+          "say": "mạc"
+        },
+        {
+          "show": "báo",
+          "say": "báo"
+        },
+        {
+          "show": "về",
+          "say": "về"
+        },
+        {
+          "show": "não.",
+          "say": "não."
+        },
+        {
+          "show": "Và",
+          "say": "Và"
+        },
+        {
+          "show": "não",
+          "say": "não"
+        },
+        {
+          "show": "ra",
+          "say": "ra"
+        },
+        {
+          "show": "lệnh",
+          "say": "lệnh"
+        },
+        {
+          "show": "cho",
+          "say": "cho"
+        },
+        {
+          "show": "tuyến",
+          "say": "tuyến"
+        },
+        {
+          "show": "lệ:",
+          "say": "lệ:"
+        },
+        {
+          "show": "xả",
+          "say": "xả"
+        },
+        {
+          "show": "nước,",
+          "say": "nước,"
+        },
+        {
+          "show": "rửa",
+          "say": "rửa"
+        },
+        {
+          "show": "sạch",
+          "say": "sạch"
+        },
+        {
+          "show": "nó",
+          "say": "nó"
+        },
+        {
+          "show": "đi.",
+          "say": "đi."
+        },
+        {
+          "show": "Nước",
+          "say": "Nước"
+        },
+        {
+          "show": "mắt",
+          "say": "mắt"
+        },
+        {
+          "show": "lúc",
+          "say": "lúc"
+        },
+        {
+          "show": "này",
+          "say": "này"
+        },
+        {
+          "show": "không",
+          "say": "không"
+        },
+        {
+          "show": "phải",
+          "say": "phải"
+        },
+        {
+          "show": "vì",
+          "say": "vì"
+        },
+        {
+          "show": "buồn.",
+          "say": "buồn."
+        },
+        {
+          "show": "Đó",
+          "say": "Đó"
+        },
+        {
+          "show": "là",
+          "say": "là"
+        },
+        {
+          "show": "một",
+          "say": "một"
+        },
+        {
+          "show": "phản",
+          "say": "phản"
+        },
+        {
+          "show": "xạ",
+          "say": "xạ"
+        },
+        {
+          "show": "bảo",
+          "say": "bảo"
+        },
+        {
+          "show": "vệ.",
+          "say": "vệ."
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "title": "Giải thích — lưỡi dao",
+      "start": 108.46,
+      "end": 137.7,
+      "speech_end": 137.3,
+      "min_duration": null,
+      "visual": [
+        "BẢNG (tiếp, không cắt cảnh): tế bào thu nhỏ sang góc; hai mũi dao phóng đại cạnh nhau — mũi mỏng (trái) và mũi tù (phải) ấn vào một hàng tế bào.",
+        "Mũi mỏng: vài tế bào vỡ (khoanh vàng). Mũi tù: cả vùng bị ép bẹp, nhiều tế bào vỡ (khoanh đỏ), tia giọt bắn lên.",
+        "Biểu tượng máy quay \"hàng nghìn khung hình/giây\"; nhãn lớn \"×40\" cạnh mũi tù, \"40 m/s\" trên tia giọt, rồi \"NHANH ×4\". Nguồn góc dưới: \"Wu et al., PNAS 2025\"."
+      ],
+      "text": "Giờ hãy nhìn lưỡi dao thật gần. Lưỡi dao sắc có mũi rất mỏng. Nó cắt gọn qua từng tế bào. Lưỡi dao cùn có mũi tù. Nó phải đè mạnh hơn, ép bẹp cả một vùng mô trước khi xuyên qua. Năm 2025, các nhà khoa học ở Đại học Cornell đã quay chậm cảnh này. Máy quay của họ chụp hàng nghìn khung hình mỗi giây. Lưỡi dao cùn nhất làm số giọt bắn ra nhiều gấp khoảng bốn mươi lần lưỡi sắc nhất. Có những giọt bay đi với tốc độ tới bốn mươi mét mỗi giây. Còn tốc độ cắt? Cắt càng nhanh, số giọt cũng càng tăng, khoảng bốn lần.",
+      "say_text": "Giờ hãy nhìn lưỡi dao thật gần. Lưỡi dao sắc có mũi rất mỏng. Nó cắt gọn qua từng tế bào. Lưỡi dao cùn có mũi tù. Nó phải đè mạnh hơn, ép bẹp cả một vùng mô trước khi xuyên qua. Năm 2025, các nhà khoa học ở Đại học coóc nen đã quay chậm cảnh này. Máy quay của họ chụp hàng nghìn khung hình mỗi giây. Lưỡi dao cùn nhất làm số giọt bắn ra nhiều gấp khoảng bốn mươi lần lưỡi sắc nhất. Có những giọt bay đi với tốc độ tới bốn mươi mét mỗi giây. Còn tốc độ cắt? Cắt càng nhanh, số giọt cũng càng tăng, khoảng bốn lần.",
+      "tokens": [
+        {
+          "show": "Giờ",
+          "say": "Giờ"
+        },
+        {
+          "show": "hãy",
+          "say": "hãy"
+        },
+        {
+          "show": "nhìn",
+          "say": "nhìn"
+        },
+        {
+          "show": "lưỡi",
+          "say": "lưỡi"
+        },
+        {
+          "show": "dao",
+          "say": "dao"
+        },
+        {
+          "show": "thật",
+          "say": "thật"
+        },
+        {
+          "show": "gần.",
+          "say": "gần."
+        },
+        {
+          "show": "Lưỡi",
+          "say": "Lưỡi"
+        },
+        {
+          "show": "dao",
+          "say": "dao"
+        },
+        {
+          "show": "sắc",
+          "say": "sắc"
+        },
+        {
+          "show": "có",
+          "say": "có"
+        },
+        {
+          "show": "mũi",
+          "say": "mũi"
+        },
+        {
+          "show": "rất",
+          "say": "rất"
+        },
+        {
+          "show": "mỏng.",
+          "say": "mỏng."
+        },
+        {
+          "show": "Nó",
+          "say": "Nó"
+        },
+        {
+          "show": "cắt",
+          "say": "cắt"
+        },
+        {
+          "show": "gọn",
+          "say": "gọn"
+        },
+        {
+          "show": "qua",
+          "say": "qua"
+        },
+        {
+          "show": "từng",
+          "say": "từng"
+        },
+        {
+          "show": "tế",
+          "say": "tế"
+        },
+        {
+          "show": "bào.",
+          "say": "bào."
+        },
+        {
+          "show": "Lưỡi",
+          "say": "Lưỡi"
+        },
+        {
+          "show": "dao",
+          "say": "dao"
+        },
+        {
+          "show": "cùn",
+          "say": "cùn"
+        },
+        {
+          "show": "có",
+          "say": "có"
+        },
+        {
+          "show": "mũi",
+          "say": "mũi"
+        },
+        {
+          "show": "tù.",
+          "say": "tù."
+        },
+        {
+          "show": "Nó",
+          "say": "Nó"
+        },
+        {
+          "show": "phải",
+          "say": "phải"
+        },
+        {
+          "show": "đè",
+          "say": "đè"
+        },
+        {
+          "show": "mạnh",
+          "say": "mạnh"
+        },
+        {
+          "show": "hơn,",
+          "say": "hơn,"
+        },
+        {
+          "show": "ép",
+          "say": "ép"
+        },
+        {
+          "show": "bẹp",
+          "say": "bẹp"
+        },
+        {
+          "show": "cả",
+          "say": "cả"
+        },
+        {
+          "show": "một",
+          "say": "một"
+        },
+        {
+          "show": "vùng",
+          "say": "vùng"
+        },
+        {
+          "show": "mô",
+          "say": "mô"
+        },
+        {
+          "show": "trước",
+          "say": "trước"
+        },
+        {
+          "show": "khi",
+          "say": "khi"
+        },
+        {
+          "show": "xuyên",
+          "say": "xuyên"
+        },
+        {
+          "show": "qua.",
+          "say": "qua."
+        },
+        {
+          "show": "Năm",
+          "say": "Năm"
+        },
+        {
+          "show": "2025,",
+          "say": "2025,"
+        },
+        {
+          "show": "các",
+          "say": "các"
+        },
+        {
+          "show": "nhà",
+          "say": "nhà"
+        },
+        {
+          "show": "khoa",
+          "say": "khoa"
+        },
+        {
+          "show": "học",
+          "say": "học"
+        },
+        {
+          "show": "ở",
+          "say": "ở"
+        },
+        {
+          "show": "Đại",
+          "say": "Đại"
+        },
+        {
+          "show": "học",
+          "say": "học"
+        },
+        {
+          "show": "Cornell",
+          "say": "coóc nen"
+        },
+        {
+          "show": "đã",
+          "say": "đã"
+        },
+        {
+          "show": "quay",
+          "say": "quay"
+        },
+        {
+          "show": "chậm",
+          "say": "chậm"
+        },
+        {
+          "show": "cảnh",
+          "say": "cảnh"
+        },
+        {
+          "show": "này.",
+          "say": "này."
+        },
+        {
+          "show": "Máy",
+          "say": "Máy"
+        },
+        {
+          "show": "quay",
+          "say": "quay"
+        },
+        {
+          "show": "của",
+          "say": "của"
+        },
+        {
+          "show": "họ",
+          "say": "họ"
+        },
+        {
+          "show": "chụp",
+          "say": "chụp"
+        },
+        {
+          "show": "hàng",
+          "say": "hàng"
+        },
+        {
+          "show": "nghìn",
+          "say": "nghìn"
+        },
+        {
+          "show": "khung",
+          "say": "khung"
+        },
+        {
+          "show": "hình",
+          "say": "hình"
+        },
+        {
+          "show": "mỗi",
+          "say": "mỗi"
+        },
+        {
+          "show": "giây.",
+          "say": "giây."
+        },
+        {
+          "show": "Lưỡi",
+          "say": "Lưỡi"
+        },
+        {
+          "show": "dao",
+          "say": "dao"
+        },
+        {
+          "show": "cùn",
+          "say": "cùn"
+        },
+        {
+          "show": "nhất",
+          "say": "nhất"
+        },
+        {
+          "show": "làm",
+          "say": "làm"
+        },
+        {
+          "show": "số",
+          "say": "số"
+        },
+        {
+          "show": "giọt",
+          "say": "giọt"
+        },
+        {
+          "show": "bắn",
+          "say": "bắn"
+        },
+        {
+          "show": "ra",
+          "say": "ra"
+        },
+        {
+          "show": "nhiều",
+          "say": "nhiều"
+        },
+        {
+          "show": "gấp",
+          "say": "gấp"
+        },
+        {
+          "show": "khoảng",
+          "say": "khoảng"
+        },
+        {
+          "show": "bốn",
+          "say": "bốn"
+        },
+        {
+          "show": "mươi",
+          "say": "mươi"
+        },
+        {
+          "show": "lần",
+          "say": "lần"
+        },
+        {
+          "show": "lưỡi",
+          "say": "lưỡi"
+        },
+        {
+          "show": "sắc",
+          "say": "sắc"
+        },
+        {
+          "show": "nhất.",
+          "say": "nhất."
+        },
+        {
+          "show": "Có",
+          "say": "Có"
+        },
+        {
+          "show": "những",
+          "say": "những"
+        },
+        {
+          "show": "giọt",
+          "say": "giọt"
+        },
+        {
+          "show": "bay",
+          "say": "bay"
+        },
+        {
+          "show": "đi",
+          "say": "đi"
+        },
+        {
+          "show": "với",
+          "say": "với"
+        },
+        {
+          "show": "tốc",
+          "say": "tốc"
+        },
+        {
+          "show": "độ",
+          "say": "độ"
+        },
+        {
+          "show": "tới",
+          "say": "tới"
+        },
+        {
+          "show": "bốn",
+          "say": "bốn"
+        },
+        {
+          "show": "mươi",
+          "say": "mươi"
+        },
+        {
+          "show": "mét",
+          "say": "mét"
+        },
+        {
+          "show": "mỗi",
+          "say": "mỗi"
+        },
+        {
+          "show": "giây.",
+          "say": "giây."
+        },
+        {
+          "show": "Còn",
+          "say": "Còn"
+        },
+        {
+          "show": "tốc",
+          "say": "tốc"
+        },
+        {
+          "show": "độ",
+          "say": "độ"
+        },
+        {
+          "show": "cắt?",
+          "say": "cắt?"
+        },
+        {
+          "show": "Cắt",
+          "say": "Cắt"
+        },
+        {
+          "show": "càng",
+          "say": "càng"
+        },
+        {
+          "show": "nhanh,",
+          "say": "nhanh,"
+        },
+        {
+          "show": "số",
+          "say": "số"
+        },
+        {
+          "show": "giọt",
+          "say": "giọt"
+        },
+        {
+          "show": "cũng",
+          "say": "cũng"
+        },
+        {
+          "show": "càng",
+          "say": "càng"
+        },
+        {
+          "show": "tăng,",
+          "say": "tăng,"
+        },
+        {
+          "show": "khoảng",
+          "say": "khoảng"
+        },
+        {
+          "show": "bốn",
+          "say": "bốn"
+        },
+        {
+          "show": "lần.",
+          "say": "lần."
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "title": "Giải thích — loại trừ",
+      "start": 137.7,
+      "end": 155.35,
+      "speech_end": 154.95,
+      "min_duration": null,
+      "visual": [
+        "BẢNG (tiếp): ba thẻ A/B/C xếp dọc. Gạch đỏ A, gạch đỏ C, khoanh vàng B."
+      ],
+      "text": "Giờ hãy loại trừ từng phương án. Phương án A: dao cùn lại cắt nhanh. Cả hai yếu tố đều xấu. Loại. Phương án C: cắt chậm thì đỡ hơn, nhưng mũi dao tù vẫn ép vỡ rất nhiều tế bào. Loại. Còn lại phương án B: dao sắc, cắt chậm rãi. Ít tế bào vỡ nhất, ít nước hành bắn ra nhất, và ít nguyên liệu để tạo khí cay nhất.",
+      "say_text": "Giờ hãy loại trừ từng phương án. Phương án A: dao cùn lại cắt nhanh. Cả hai yếu tố đều xấu. Loại. Phương án C: cắt chậm thì đỡ hơn, nhưng mũi dao tù vẫn ép vỡ rất nhiều tế bào. Loại. Còn lại phương án B: dao sắc, cắt chậm rãi. Ít tế bào vỡ nhất, ít nước hành bắn ra nhất, và ít nguyên liệu để tạo khí cay nhất.",
+      "tokens": [
+        {
+          "show": "Giờ",
+          "say": "Giờ"
+        },
+        {
+          "show": "hãy",
+          "say": "hãy"
+        },
+        {
+          "show": "loại",
+          "say": "loại"
+        },
+        {
+          "show": "trừ",
+          "say": "trừ"
+        },
+        {
+          "show": "từng",
+          "say": "từng"
+        },
+        {
+          "show": "phương",
+          "say": "phương"
+        },
+        {
+          "show": "án.",
+          "say": "án."
+        },
+        {
+          "show": "Phương",
+          "say": "Phương"
+        },
+        {
+          "show": "án",
+          "say": "án"
+        },
+        {
+          "show": "A:",
+          "say": "A:"
+        },
+        {
+          "show": "dao",
+          "say": "dao"
+        },
+        {
+          "show": "cùn",
+          "say": "cùn"
+        },
+        {
+          "show": "lại",
+          "say": "lại"
+        },
+        {
+          "show": "cắt",
+          "say": "cắt"
+        },
+        {
+          "show": "nhanh.",
+          "say": "nhanh."
+        },
+        {
+          "show": "Cả",
+          "say": "Cả"
+        },
+        {
+          "show": "hai",
+          "say": "hai"
+        },
+        {
+          "show": "yếu",
+          "say": "yếu"
+        },
+        {
+          "show": "tố",
+          "say": "tố"
+        },
+        {
+          "show": "đều",
+          "say": "đều"
+        },
+        {
+          "show": "xấu.",
+          "say": "xấu."
+        },
+        {
+          "show": "Loại.",
+          "say": "Loại."
+        },
+        {
+          "show": "Phương",
+          "say": "Phương"
+        },
+        {
+          "show": "án",
+          "say": "án"
+        },
+        {
+          "show": "C:",
+          "say": "C:"
+        },
+        {
+          "show": "cắt",
+          "say": "cắt"
+        },
+        {
+          "show": "chậm",
+          "say": "chậm"
+        },
+        {
+          "show": "thì",
+          "say": "thì"
+        },
+        {
+          "show": "đỡ",
+          "say": "đỡ"
+        },
+        {
+          "show": "hơn,",
+          "say": "hơn,"
+        },
+        {
+          "show": "nhưng",
+          "say": "nhưng"
+        },
+        {
+          "show": "mũi",
+          "say": "mũi"
+        },
+        {
+          "show": "dao",
+          "say": "dao"
+        },
+        {
+          "show": "tù",
+          "say": "tù"
+        },
+        {
+          "show": "vẫn",
+          "say": "vẫn"
+        },
+        {
+          "show": "ép",
+          "say": "ép"
+        },
+        {
+          "show": "vỡ",
+          "say": "vỡ"
+        },
+        {
+          "show": "rất",
+          "say": "rất"
+        },
+        {
+          "show": "nhiều",
+          "say": "nhiều"
+        },
+        {
+          "show": "tế",
+          "say": "tế"
+        },
+        {
+          "show": "bào.",
+          "say": "bào."
+        },
+        {
+          "show": "Loại.",
+          "say": "Loại."
+        },
+        {
+          "show": "Còn",
+          "say": "Còn"
+        },
+        {
+          "show": "lại",
+          "say": "lại"
+        },
+        {
+          "show": "phương",
+          "say": "phương"
+        },
+        {
+          "show": "án",
+          "say": "án"
+        },
+        {
+          "show": "B:",
+          "say": "B:"
+        },
+        {
+          "show": "dao",
+          "say": "dao"
+        },
+        {
+          "show": "sắc,",
+          "say": "sắc,"
+        },
+        {
+          "show": "cắt",
+          "say": "cắt"
+        },
+        {
+          "show": "chậm",
+          "say": "chậm"
+        },
+        {
+          "show": "rãi.",
+          "say": "rãi."
+        },
+        {
+          "show": "Ít",
+          "say": "Ít"
+        },
+        {
+          "show": "tế",
+          "say": "tế"
+        },
+        {
+          "show": "bào",
+          "say": "bào"
+        },
+        {
+          "show": "vỡ",
+          "say": "vỡ"
+        },
+        {
+          "show": "nhất,",
+          "say": "nhất,"
+        },
+        {
+          "show": "ít",
+          "say": "ít"
+        },
+        {
+          "show": "nước",
+          "say": "nước"
+        },
+        {
+          "show": "hành",
+          "say": "hành"
+        },
+        {
+          "show": "bắn",
+          "say": "bắn"
+        },
+        {
+          "show": "ra",
+          "say": "ra"
+        },
+        {
+          "show": "nhất,",
+          "say": "nhất,"
+        },
+        {
+          "show": "và",
+          "say": "và"
+        },
+        {
+          "show": "ít",
+          "say": "ít"
+        },
+        {
+          "show": "nguyên",
+          "say": "nguyên"
+        },
+        {
+          "show": "liệu",
+          "say": "liệu"
+        },
+        {
+          "show": "để",
+          "say": "để"
+        },
+        {
+          "show": "tạo",
+          "say": "tạo"
+        },
+        {
+          "show": "khí",
+          "say": "khí"
+        },
+        {
+          "show": "cay",
+          "say": "cay"
+        },
+        {
+          "show": "nhất.",
+          "say": "nhất."
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Đáp án",
+      "start": 155.35,
+      "end": 161.27,
+      "speech_end": 160.87,
+      "min_duration": null,
+      "visual": [
+        "Tò (vui) mài dao, cắt từng nhát chậm; rổ hành vơi dần; mắt ráo, lấp lánh."
+      ],
+      "text": "Đáp án là B. Bạn chọn con dao sắc, cắt từng nhát chậm rãi. Rổ hành vơi dần, còn mắt bạn vẫn ráo.",
+      "say_text": "Đáp án là B. Bạn chọn con dao sắc, cắt từng nhát chậm rãi. Rổ hành vơi dần, còn mắt bạn vẫn ráo.",
+      "tokens": [
+        {
+          "show": "Đáp",
+          "say": "Đáp"
+        },
+        {
+          "show": "án",
+          "say": "án"
+        },
+        {
+          "show": "là",
+          "say": "là"
+        },
+        {
+          "show": "B.",
+          "say": "B."
+        },
+        {
+          "show": "Bạn",
+          "say": "Bạn"
+        },
+        {
+          "show": "chọn",
+          "say": "chọn"
+        },
+        {
+          "show": "con",
+          "say": "con"
+        },
+        {
+          "show": "dao",
+          "say": "dao"
+        },
+        {
+          "show": "sắc,",
+          "say": "sắc,"
+        },
+        {
+          "show": "cắt",
+          "say": "cắt"
+        },
+        {
+          "show": "từng",
+          "say": "từng"
+        },
+        {
+          "show": "nhát",
+          "say": "nhát"
+        },
+        {
+          "show": "chậm",
+          "say": "chậm"
+        },
+        {
+          "show": "rãi.",
+          "say": "rãi."
+        },
+        {
+          "show": "Rổ",
+          "say": "Rổ"
+        },
+        {
+          "show": "hành",
+          "say": "hành"
+        },
+        {
+          "show": "vơi",
+          "say": "vơi"
+        },
+        {
+          "show": "dần,",
+          "say": "dần,"
+        },
+        {
+          "show": "còn",
+          "say": "còn"
+        },
+        {
+          "show": "mắt",
+          "say": "mắt"
+        },
+        {
+          "show": "bạn",
+          "say": "bạn"
+        },
+        {
+          "show": "vẫn",
+          "say": "vẫn"
+        },
+        {
+          "show": "ráo.",
+          "say": "ráo."
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Bất ngờ",
+      "start": 161.27,
+      "end": 196.52,
+      "speech_end": 196.12,
+      "min_duration": null,
+      "visual": [
+        "Tủ lạnh mở, củ hành bên trong, dấu \"?\" đỏ lớn; nhãn \"CHƯA ĐƯỢC CHỨNG MINH\".",
+        "Thẻ \"2002\" — enzyme thứ hai sáng lên; huy chương \"Ig Nobel 2013\"; củ hành có gen bị \"tắt\" (công tắc), đám khí teo nhỏ. Tò (ngac-nhien)."
+      ],
+      "text": "Còn mẹo quen thuộc: cho hành vào tủ lạnh trước khi cắt? Trong cùng thí nghiệm, hành ướp lạnh không hề bắn ra ít giọt hơn. Lượng nước bắn ra thậm chí còn nhiều hơn. Chính các tác giả nói cần thêm thí nghiệm. Nghĩa là mẹo này chưa được chứng minh. Và còn một điều bất ngờ nữa. Mãi tới năm 2002, các nhà khoa học mới phát hiện ra enzyme thứ hai, enzyme chuyên tạo khí cay. Trước đó, người ta tưởng khí cay tự sinh ra. Phát hiện ấy mang về cho nhóm nghiên cứu Nhật Bản giải Ig Nobel. Đó là giải thưởng cho những nghiên cứu khiến người ta bật cười, rồi suy nghĩ. Khi tắt gen của enzyme này, các nhà khoa học tạo ra những củ hành sinh ra rất ít khí cay.",
+      "say_text": "Còn mẹo quen thuộc: cho hành vào tủ lạnh trước khi cắt? Trong cùng thí nghiệm, hành ướp lạnh không hề bắn ra ít giọt hơn. Lượng nước bắn ra thậm chí còn nhiều hơn. Chính các tác giả nói cần thêm thí nghiệm. Nghĩa là mẹo này chưa được chứng minh. Và còn một điều bất ngờ nữa. Mãi tới năm 2002, các nhà khoa học mới phát hiện ra enzyme thứ hai, enzyme chuyên tạo khí cay. Trước đó, người ta tưởng khí cay tự sinh ra. Phát hiện ấy mang về cho nhóm nghiên cứu Nhật Bản giải ích nô ben. Đó là giải thưởng cho những nghiên cứu khiến người ta bật cười, rồi suy nghĩ. Khi tắt gen của enzyme này, các nhà khoa học tạo ra những củ hành sinh ra rất ít khí cay.",
+      "tokens": [
+        {
+          "show": "Còn",
+          "say": "Còn"
+        },
+        {
+          "show": "mẹo",
+          "say": "mẹo"
+        },
+        {
+          "show": "quen",
+          "say": "quen"
+        },
+        {
+          "show": "thuộc:",
+          "say": "thuộc:"
+        },
+        {
+          "show": "cho",
+          "say": "cho"
+        },
+        {
+          "show": "hành",
+          "say": "hành"
+        },
+        {
+          "show": "vào",
+          "say": "vào"
+        },
+        {
+          "show": "tủ",
+          "say": "tủ"
+        },
+        {
+          "show": "lạnh",
+          "say": "lạnh"
+        },
+        {
+          "show": "trước",
+          "say": "trước"
+        },
+        {
+          "show": "khi",
+          "say": "khi"
+        },
+        {
+          "show": "cắt?",
+          "say": "cắt?"
+        },
+        {
+          "show": "Trong",
+          "say": "Trong"
+        },
+        {
+          "show": "cùng",
+          "say": "cùng"
+        },
+        {
+          "show": "thí",
+          "say": "thí"
+        },
+        {
+          "show": "nghiệm,",
+          "say": "nghiệm,"
+        },
+        {
+          "show": "hành",
+          "say": "hành"
+        },
+        {
+          "show": "ướp",
+          "say": "ướp"
+        },
+        {
+          "show": "lạnh",
+          "say": "lạnh"
+        },
+        {
+          "show": "không",
+          "say": "không"
+        },
+        {
+          "show": "hề",
+          "say": "hề"
+        },
+        {
+          "show": "bắn",
+          "say": "bắn"
+        },
+        {
+          "show": "ra",
+          "say": "ra"
+        },
+        {
+          "show": "ít",
+          "say": "ít"
+        },
+        {
+          "show": "giọt",
+          "say": "giọt"
+        },
+        {
+          "show": "hơn.",
+          "say": "hơn."
+        },
+        {
+          "show": "Lượng",
+          "say": "Lượng"
+        },
+        {
+          "show": "nước",
+          "say": "nước"
+        },
+        {
+          "show": "bắn",
+          "say": "bắn"
+        },
+        {
+          "show": "ra",
+          "say": "ra"
+        },
+        {
+          "show": "thậm",
+          "say": "thậm"
+        },
+        {
+          "show": "chí",
+          "say": "chí"
+        },
+        {
+          "show": "còn",
+          "say": "còn"
+        },
+        {
+          "show": "nhiều",
+          "say": "nhiều"
+        },
+        {
+          "show": "hơn.",
+          "say": "hơn."
+        },
+        {
+          "show": "Chính",
+          "say": "Chính"
+        },
+        {
+          "show": "các",
+          "say": "các"
+        },
+        {
+          "show": "tác",
+          "say": "tác"
+        },
+        {
+          "show": "giả",
+          "say": "giả"
+        },
+        {
+          "show": "nói",
+          "say": "nói"
+        },
+        {
+          "show": "cần",
+          "say": "cần"
+        },
+        {
+          "show": "thêm",
+          "say": "thêm"
+        },
+        {
+          "show": "thí",
+          "say": "thí"
+        },
+        {
+          "show": "nghiệm.",
+          "say": "nghiệm."
+        },
+        {
+          "show": "Nghĩa",
+          "say": "Nghĩa"
+        },
+        {
+          "show": "là",
+          "say": "là"
+        },
+        {
+          "show": "mẹo",
+          "say": "mẹo"
+        },
+        {
+          "show": "này",
+          "say": "này"
+        },
+        {
+          "show": "chưa",
+          "say": "chưa"
+        },
+        {
+          "show": "được",
+          "say": "được"
+        },
+        {
+          "show": "chứng",
+          "say": "chứng"
+        },
+        {
+          "show": "minh.",
+          "say": "minh."
+        },
+        {
+          "show": "Và",
+          "say": "Và"
+        },
+        {
+          "show": "còn",
+          "say": "còn"
+        },
+        {
+          "show": "một",
+          "say": "một"
+        },
+        {
+          "show": "điều",
+          "say": "điều"
+        },
+        {
+          "show": "bất",
+          "say": "bất"
+        },
+        {
+          "show": "ngờ",
+          "say": "ngờ"
+        },
+        {
+          "show": "nữa.",
+          "say": "nữa."
+        },
+        {
+          "show": "Mãi",
+          "say": "Mãi"
+        },
+        {
+          "show": "tới",
+          "say": "tới"
+        },
+        {
+          "show": "năm",
+          "say": "năm"
+        },
+        {
+          "show": "2002,",
+          "say": "2002,"
+        },
+        {
+          "show": "các",
+          "say": "các"
+        },
+        {
+          "show": "nhà",
+          "say": "nhà"
+        },
+        {
+          "show": "khoa",
+          "say": "khoa"
+        },
+        {
+          "show": "học",
+          "say": "học"
+        },
+        {
+          "show": "mới",
+          "say": "mới"
+        },
+        {
+          "show": "phát",
+          "say": "phát"
+        },
+        {
+          "show": "hiện",
+          "say": "hiện"
+        },
+        {
+          "show": "ra",
+          "say": "ra"
+        },
+        {
+          "show": "enzyme",
+          "say": "enzyme"
+        },
+        {
+          "show": "thứ",
+          "say": "thứ"
+        },
+        {
+          "show": "hai,",
+          "say": "hai,"
+        },
+        {
+          "show": "enzyme",
+          "say": "enzyme"
+        },
+        {
+          "show": "chuyên",
+          "say": "chuyên"
+        },
+        {
+          "show": "tạo",
+          "say": "tạo"
+        },
+        {
+          "show": "khí",
+          "say": "khí"
+        },
+        {
+          "show": "cay.",
+          "say": "cay."
+        },
+        {
+          "show": "Trước",
+          "say": "Trước"
+        },
+        {
+          "show": "đó,",
+          "say": "đó,"
+        },
+        {
+          "show": "người",
+          "say": "người"
+        },
+        {
+          "show": "ta",
+          "say": "ta"
+        },
+        {
+          "show": "tưởng",
+          "say": "tưởng"
+        },
+        {
+          "show": "khí",
+          "say": "khí"
+        },
+        {
+          "show": "cay",
+          "say": "cay"
+        },
+        {
+          "show": "tự",
+          "say": "tự"
+        },
+        {
+          "show": "sinh",
+          "say": "sinh"
+        },
+        {
+          "show": "ra.",
+          "say": "ra."
+        },
+        {
+          "show": "Phát",
+          "say": "Phát"
+        },
+        {
+          "show": "hiện",
+          "say": "hiện"
+        },
+        {
+          "show": "ấy",
+          "say": "ấy"
+        },
+        {
+          "show": "mang",
+          "say": "mang"
+        },
+        {
+          "show": "về",
+          "say": "về"
+        },
+        {
+          "show": "cho",
+          "say": "cho"
+        },
+        {
+          "show": "nhóm",
+          "say": "nhóm"
+        },
+        {
+          "show": "nghiên",
+          "say": "nghiên"
+        },
+        {
+          "show": "cứu",
+          "say": "cứu"
+        },
+        {
+          "show": "Nhật",
+          "say": "Nhật"
+        },
+        {
+          "show": "Bản",
+          "say": "Bản"
+        },
+        {
+          "show": "giải",
+          "say": "giải"
+        },
+        {
+          "show": "Ig",
+          "say": "ích"
+        },
+        {
+          "show": "Nobel.",
+          "say": "nô ben."
+        },
+        {
+          "show": "Đó",
+          "say": "Đó"
+        },
+        {
+          "show": "là",
+          "say": "là"
+        },
+        {
+          "show": "giải",
+          "say": "giải"
+        },
+        {
+          "show": "thưởng",
+          "say": "thưởng"
+        },
+        {
+          "show": "cho",
+          "say": "cho"
+        },
+        {
+          "show": "những",
+          "say": "những"
+        },
+        {
+          "show": "nghiên",
+          "say": "nghiên"
+        },
+        {
+          "show": "cứu",
+          "say": "cứu"
+        },
+        {
+          "show": "khiến",
+          "say": "khiến"
+        },
+        {
+          "show": "người",
+          "say": "người"
+        },
+        {
+          "show": "ta",
+          "say": "ta"
+        },
+        {
+          "show": "bật",
+          "say": "bật"
+        },
+        {
+          "show": "cười,",
+          "say": "cười,"
+        },
+        {
+          "show": "rồi",
+          "say": "rồi"
+        },
+        {
+          "show": "suy",
+          "say": "suy"
+        },
+        {
+          "show": "nghĩ.",
+          "say": "nghĩ."
+        },
+        {
+          "show": "Khi",
+          "say": "Khi"
+        },
+        {
+          "show": "tắt",
+          "say": "tắt"
+        },
+        {
+          "show": "gen",
+          "say": "gen"
+        },
+        {
+          "show": "của",
+          "say": "của"
+        },
+        {
+          "show": "enzyme",
+          "say": "enzyme"
+        },
+        {
+          "show": "này,",
+          "say": "này,"
+        },
+        {
+          "show": "các",
+          "say": "các"
+        },
+        {
+          "show": "nhà",
+          "say": "nhà"
+        },
+        {
+          "show": "khoa",
+          "say": "khoa"
+        },
+        {
+          "show": "học",
+          "say": "học"
+        },
+        {
+          "show": "tạo",
+          "say": "tạo"
+        },
+        {
+          "show": "ra",
+          "say": "ra"
+        },
+        {
+          "show": "những",
+          "say": "những"
+        },
+        {
+          "show": "củ",
+          "say": "củ"
+        },
+        {
+          "show": "hành",
+          "say": "hành"
+        },
+        {
+          "show": "sinh",
+          "say": "sinh"
+        },
+        {
+          "show": "ra",
+          "say": "ra"
+        },
+        {
+          "show": "rất",
+          "say": "rất"
+        },
+        {
+          "show": "ít",
+          "say": "ít"
+        },
+        {
+          "show": "khí",
+          "say": "khí"
+        },
+        {
+          "show": "cay.",
+          "say": "cay."
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Kết bất ngờ",
+      "start": 196.52,
+      "end": 203.16,
+      "speech_end": 202.76,
+      "min_duration": null,
+      "visual": [
+        "Đồng hồ 7:00, chuông cửa. Tò (vui) bưng đĩa hành ra, ưỡn ngực tự hào → khựng lại, liếc sang nồi cơm điện tắt đèn → Tò (ngac-nhien)."
+      ],
+      "text": "Bảy giờ. Khách tới. Bạn bưng đĩa hành ra, mắt ráo hoảnh, đầy tự hào. Rồi bạn chợt nhớ ra: nồi cơm vẫn chưa cắm.",
+      "say_text": "Bảy giờ. Khách tới. Bạn bưng đĩa hành ra, mắt ráo hoảnh, đầy tự hào. Rồi bạn chợt nhớ ra: nồi cơm vẫn chưa cắm.",
+      "tokens": [
+        {
+          "show": "Bảy",
+          "say": "Bảy"
+        },
+        {
+          "show": "giờ.",
+          "say": "giờ."
+        },
+        {
+          "show": "Khách",
+          "say": "Khách"
+        },
+        {
+          "show": "tới.",
+          "say": "tới."
+        },
+        {
+          "show": "Bạn",
+          "say": "Bạn"
+        },
+        {
+          "show": "bưng",
+          "say": "bưng"
+        },
+        {
+          "show": "đĩa",
+          "say": "đĩa"
+        },
+        {
+          "show": "hành",
+          "say": "hành"
+        },
+        {
+          "show": "ra,",
+          "say": "ra,"
+        },
+        {
+          "show": "mắt",
+          "say": "mắt"
+        },
+        {
+          "show": "ráo",
+          "say": "ráo"
+        },
+        {
+          "show": "hoảnh,",
+          "say": "hoảnh,"
+        },
+        {
+          "show": "đầy",
+          "say": "đầy"
+        },
+        {
+          "show": "tự",
+          "say": "tự"
+        },
+        {
+          "show": "hào.",
+          "say": "hào."
+        },
+        {
+          "show": "Rồi",
+          "say": "Rồi"
+        },
+        {
+          "show": "bạn",
+          "say": "bạn"
+        },
+        {
+          "show": "chợt",
+          "say": "chợt"
+        },
+        {
+          "show": "nhớ",
+          "say": "nhớ"
+        },
+        {
+          "show": "ra:",
+          "say": "ra:"
+        },
+        {
+          "show": "nồi",
+          "say": "nồi"
+        },
+        {
+          "show": "cơm",
+          "say": "cơm"
+        },
+        {
+          "show": "vẫn",
+          "say": "vẫn"
+        },
+        {
+          "show": "chưa",
+          "say": "chưa"
+        },
+        {
+          "show": "cắm.",
+          "say": "cắm."
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Thẻ cuối",
+      "start": 203.16,
+      "end": 218.16,
+      "speech_end": 203.16,
+      "min_duration": 15.0,
+      "visual": [
+        "Thẻ nguồn nền kem — Imai et al., Nature 2002 · Eady et al., Plant Physiology 2008 · Wu et al., PNAS 2025 · StatPearls: Corneal Reflex. Dòng nhỏ: \"Dao sắc cũng dễ đứt tay hơn — cắt chậm và cẩn thận.\" Gợi ý tập sau."
+      ],
+      "text": "",
+      "say_text": "",
+      "tokens": []
+    }
+  ]
+}

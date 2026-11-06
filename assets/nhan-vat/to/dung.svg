@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 540" width="440" height="540">
+<title>Tò — Đứng — mặc định, kể chuyện</title>
+<g id="to-dung" class="to" transform="translate(40 0)">
+<g class="tay-trai"><path d="M130 312 L108 356 L96 394" fill="none" stroke="#081420" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/><path d="M130 312 L108 356 L96 394" fill="none" stroke="#FFC145" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/><path d="M103.8 369.2 L99.6 382.6" stroke="#E5A024" stroke-width="30" stroke-linecap="butt"/><circle cx="96" cy="394" r="18" fill="#F2C29B" stroke="#081420" stroke-width="6"/></g>
+<g class="tay-phai"><path d="M230 312 L252 356 L264 394" fill="none" stroke="#081420" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/><path d="M230 312 L252 356 L264 394" fill="none" stroke="#FFC145" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/><path d="M256.2 369.2 L260.4 382.6" stroke="#E5A024" stroke-width="30" stroke-linecap="butt"/><circle cx="264" cy="394" r="18" fill="#F2C29B" stroke="#081420" stroke-width="6"/></g>
+<g class="than" stroke="#081420" stroke-width="6" stroke-linejoin="round" stroke-linecap="round">
+  <rect x="142" y="414" width="36" height="72" rx="17" fill="#1E3A56"/>
+  <rect x="182" y="414" width="36" height="72" rx="17" fill="#1E3A56"/>
+  <path d="M116 502 Q114 476 140 476 L168 476 Q182 476 182 492 L182 502 Z" fill="#F5F7FA"/>
+  <path d="M178 492 Q178 476 192 476 L220 476 Q246 476 244 502 L178 502 Z" fill="#F5F7FA"/>
+  <path d="M116 502 H182 M178 502 H244" stroke-width="8"/>
+  <rect x="168" y="266" width="24" height="32" fill="#F2C29B"/>
+  <path d="M130 300 Q180 284 230 300 Q252 360 256 428 Q180 446 104 428 Q108 360 130 300 Z" fill="#FFC145"/>
+  <path d="M106 410 Q180 428 254 410 L256 428 Q180 446 104 428 Z" fill="#E5A024"/>
+  <path d="M156 294 Q180 322 204 294" fill="#F5F1E8"/>
+  <circle cx="210" cy="362" r="14" fill="#19C3B1"/>
+  <path d="M205 357 q5 -7 10 0 q0 5 -5 7 v3" fill="none" stroke-width="3.5"/>
+  <circle cx="210" cy="371.5" r="1.6" fill="#081420" stroke="none"/>
+</g>
+<g class="dau">
+ <g stroke="#081420" stroke-width="6" stroke-linejoin="round" stroke-linecap="round">
+  <circle cx="82" cy="200" r="19" fill="#F2C29B"/>
+  <circle cx="278" cy="200" r="19" fill="#F2C29B"/>
+  <ellipse cx="180" cy="180" rx="100" ry="104" fill="#F2C29B"/>
+  <path d="M78 198 C64 98 134 62 180 62 C228 62 296 98 282 198 C276 168 262 148 244 140 C232 150 214 146 206 134 C192 146 168 146 156 132 C144 146 124 150 112 140 C96 152 82 172 78 198 Z" fill="#1E2A3A"/>
+  <path d="M176 68 C168 44 182 26 204 28 C226 30 230 54 210 60" fill="none" stroke="#1E2A3A" stroke-width="13"/>
+ </g>
+ <g fill="#FF8A7A" opacity=".55"><ellipse cx="116" cy="240" rx="15" ry="9"/><ellipse cx="244" cy="240" rx="15" ry="9"/></g>
+ <path d="M181 214 q6 10 -3 15" fill="none" stroke="#081420" stroke-width="4" stroke-linecap="round"/>
+ <g class="mat"><circle cx="145" cy="199" r="8.5" fill="#081420"/><circle cx="148" cy="196" r="2.6" fill="#FFFFFF"/><circle cx="215" cy="199" r="8.5" fill="#081420"/><circle cx="218" cy="196" r="2.6" fill="#FFFFFF"/></g>
+ <g fill="#FFFFFF" fill-opacity=".28" stroke="#081420" stroke-width="6">
+  <circle cx="142" cy="196" r="33"/><circle cx="218" cy="196" r="33"/>
+ </g>
+ <path d="M175 193 Q180 186 185 193" fill="none" stroke="#081420" stroke-width="6" stroke-linecap="round"/>
+ <g class="long-may" fill="none" stroke="#081420" stroke-width="7" stroke-linecap="round"><path d='M122 148 Q140 140 158 148'/><path d='M202 148 Q220 140 238 148'/></g>
+ <g class="mieng" stroke="#081420" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"><path d='M162 248 Q180 264 198 248' fill='none'/></g>
+ <g class="mieng-noi" opacity="0" stroke="#081420" stroke-width="6" stroke-linejoin="round">
+  <path d="M164 246 Q180 244 196 246 Q194 270 180 270 Q166 270 164 246 Z" fill="#7A2E2E"/>
+ </g>
+ <g class="them"></g>
+</g>
+
+</g>
+</svg>

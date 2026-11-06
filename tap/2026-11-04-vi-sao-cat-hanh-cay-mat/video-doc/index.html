@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.15.0/dist/gsap.min.js"></script>
+    <style>
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body { width: 1080px; height: 1920px; overflow: hidden; background: #13304A; }
+      #root { position: relative; width: 1080px; height: 1920px; overflow: hidden; }
+      #win { position: absolute; left: 0; top: 400px; width: 1080px; height: 810px; overflow: hidden; z-index: 2; }
+      #win video, #win img { position: absolute; }
+      #frame { z-index: 1; } #captions { z-index: 3; } #endcard { z-index: 4; }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0" data-duration="46.312" data-width="1080" data-height="1920">
+      <div id="frame" data-composition-id="frame" data-composition-src="compositions/frame.html" data-start="0" data-duration="43.112" data-track-index="1" data-track-kind="graphics" data-width="1080" data-height="1920"></div>
+      <div id="win" data-layout-allow-overflow>
+        <video id="v0" class="clip" data-start="0.000" data-duration="5.174" data-media-start="10.396" data-track-index="2" muted playsinline src="assets/full.mp4" style="left: -180.0px; top: -0.0px; width: 1440.0px; height: 810.0px"></video>
+        <video id="v1" class="clip" data-start="5.174" data-duration="4.018" data-media-start="75.204" data-track-index="2" muted playsinline src="assets/full.mp4" style="left: -515.1px; top: -43.6px; width: 1595.1px; height: 897.2px"></video>
+        <video id="v2" class="clip" data-start="9.192" data-duration="8.376" data-media-start="110.271" data-track-index="2" muted playsinline src="assets/full.mp4" style="left: -515.1px; top: -43.6px; width: 1595.1px; height: 897.2px"></video>
+        <video id="v3" class="clip" data-start="17.568" data-duration="4.113" data-media-start="126.002" data-track-index="2" muted playsinline src="assets/full.mp4" style="left: -515.1px; top: -43.6px; width: 1595.1px; height: 897.2px"></video>
+        <video id="v4" class="clip" data-start="21.681" data-duration="4.113" data-media-start="133.267" data-track-index="2" muted playsinline src="assets/full.mp4" style="left: -515.1px; top: -43.6px; width: 1595.1px; height: 897.2px"></video>
+        <video id="v5" class="clip" data-start="25.794" data-duration="4.504" data-media-start="156.485" data-track-index="2" muted playsinline src="assets/full.mp4" style="left: -180.0px; top: -0.0px; width: 1440.0px; height: 810.0px"></video>
+        <video id="v6" class="clip" data-start="30.298" data-duration="12.814" data-media-start="161.160" data-track-index="2" muted playsinline src="assets/full.mp4" style="left: -515.1px; top: -43.6px; width: 1595.1px; height: 897.2px"></video>
+        <img id="st6" class="clip" data-start="30.298" data-duration="3.140" data-track-index="3" src="assets/still6.png" style="left: -515.1px; top: -43.6px; width: 1595.1px; height: 897.2px; z-index: 1" alt="">
+      </div>
+      <div id="captions" data-composition-id="captions" data-composition-src="compositions/captions.html" data-start="0" data-duration="43.112" data-track-index="3" data-track-kind="captions" data-width="1080" data-height="1920"></div>
+      <div id="endcard" data-composition-id="endcard" data-composition-src="compositions/endcard.html" data-start="43.112" data-duration="3.200" data-track-index="4" data-track-kind="graphics" data-width="1080" data-height="1920"></div>
+      <audio id="vo0" class="clip" data-start="0.000" data-duration="5.174" data-media-start="10.396" data-track-index="10" data-volume="1" data-fade-in="0.04" data-fade-out="0.08" src="assets/loi-doc.wav"></audio>
+      <audio id="vo1" class="clip" data-start="5.174" data-duration="4.018" data-media-start="75.204" data-track-index="10" data-volume="1" data-fade-in="0.04" data-fade-out="0.08" src="assets/loi-doc.wav"></audio>
+      <audio id="vo2" class="clip" data-start="9.192" data-duration="8.376" data-media-start="110.271" data-track-index="10" data-volume="1" data-fade-in="0.04" data-fade-out="0.08" src="assets/loi-doc.wav"></audio>
+      <audio id="vo3" class="clip" data-start="17.568" data-duration="4.113" data-media-start="126.002" data-track-index="10" data-volume="1" data-fade-in="0.04" data-fade-out="0.08" src="assets/loi-doc.wav"></audio>
+      <audio id="vo4" class="clip" data-start="21.681" data-duration="4.113" data-media-start="133.267" data-track-index="10" data-volume="1" data-fade-in="0.04" data-fade-out="0.08" src="assets/loi-doc.wav"></audio>
+      <audio id="vo5" class="clip" data-start="25.794" data-duration="4.504" data-media-start="156.485" data-track-index="10" data-volume="1" data-fade-in="0.04" data-fade-out="0.08" src="assets/loi-doc.wav"></audio>
+      <audio id="vo6" class="clip" data-start="30.298" data-duration="12.814" data-media-start="161.160" data-track-index="10" data-volume="1" data-fade-in="0.04" data-fade-out="0.08" src="assets/loi-doc.wav"></audio>
+      <audio id="bgm" class="clip" data-start="0" data-duration="46.312" data-track-index="11" data-volume="1" data-fade-out="1.5" data-automation='{"version":1,"lanes":[{"target":"volume","points":[{"t":0,"v":0.14},{"t":43.11,"v":0.14},{"t":43.71,"v":0.35}]}]}' src="assets/bgm_001.wav"></audio>
+    </div>
+    <script>
+      window.__timelines = window.__timelines || {};
+      window.__timelines["main"] = gsap.timeline({ paused: true });
+    </script>
+  </body>
+</html>

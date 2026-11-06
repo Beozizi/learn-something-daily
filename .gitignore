@@ -1,0 +1,31 @@
+# Bí mật và cấu hình riêng từng máy — KHÔNG đưa lên repo
+cau-hinh.json
+cau-hinh.json.cu
+.genmax_key.txt
+.chatgpt_key.txt
+.chatgpt_key
+*.key
+.env
+
+# Công cụ cài theo máy
+.tools/
+__pycache__/
+node_modules/
+
+# File nặng / sinh lại được của từng tập
+tap/**/*.wav
+tap/**/*.mp4
+tap/*/video/.media/
+tap/*/xuat/*.png
+tap/*/video/index.html
+tap/*/video/compositions/
+tap/*/video/renders/
+tap/*/video/snapshots/
+tap/*/video/assets/*.wav
+tap/*/video/assets/bgm/
+tap/*/video/assets/fonts/
+tap/*/video-doc/**/*.mp4
+
+# Thử nghiệm không dùng nữa (parallax đã bỏ), gói skill cũ
+assets/phan-tich-3d/
+skill-dong-goi/

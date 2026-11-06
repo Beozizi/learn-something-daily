@@ -1,0 +1,25 @@
+# Từ điển phát âm cho lồng tiếng: <chữ trong kịch bản> = <cách đọc>
+# Chỉ thay khi khớp nguyên từ (phân biệt hoa thường). Phụ đề vẫn hiện chữ gốc.
+DNA = đê en a
+RNA = a en a
+ADN = a đê en
+CO2 = cê ô hai
+O2 = ô hai
+H2O = hát hai ô
+pH = pê hát
+UV = u vê
+WHO = tổ chức y tế thế giới
+CDC = xê đê xê
+MRI = em a i
+B12 = bê mười hai
+mg = mi li gam
+ml = mi li lít
+°C = độ xê
+Ig = ích
+Nobel = nô ben
+Cornell = coóc nen
+ADH = a đê hát
+Heinz = hai nơ
+Valtin = van tin
+Boston = bót tơn
+oresol = ô rê dôn

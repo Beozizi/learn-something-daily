@@ -1,0 +1,428 @@
+{
+  "ok": true,
+  "strict": false,
+  "browserSkipped": false,
+  "lint": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "filesScanned": 22
+  },
+  "runtime": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": []
+  },
+  "layout": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 5,
+    "findings": [
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 35.515,
+        "selector": "#s02-settle",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": -900,
+          "top": -360,
+          "right": 1980,
+          "bottom": 1260,
+          "width": 2880,
+          "height": 1620
+        },
+        "containerSelector": "#s02-stage",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1920,
+          "bottom": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        "overflow": {
+          "left": 900,
+          "right": 60,
+          "top": 360,
+          "bottom": 180
+        },
+        "dataAttributes": {
+          "data-svg-origin": "960.000025675848 540.0000110039348"
+        },
+        "sourceFile": "compositions/s02.html",
+        "bbox": {
+          "x": -900,
+          "y": -360,
+          "width": 2880,
+          "height": 1620
+        },
+        "firstSeen": 35.515,
+        "lastSeen": 35.515,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          35.515
+        ]
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 106.546,
+        "selector": "#s04-stage > g:nth-of-type(2)",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": 801.14,
+          "top": 180,
+          "right": 1278.86,
+          "bottom": 1222.29,
+          "width": 477.71,
+          "height": 1042.29
+        },
+        "containerSelector": "#s04-stage",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1920,
+          "bottom": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        "overflow": {
+          "bottom": 142.29
+        },
+        "dataAttributes": {},
+        "sourceFile": "compositions/s04.html",
+        "bbox": {
+          "x": 801.14,
+          "y": 180,
+          "width": 477.71,
+          "height": 1042.29
+        },
+        "firstSeen": 106.546,
+        "lastSeen": 106.546,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          106.546
+        ]
+      },
+      {
+        "code": "text_box_overflow",
+        "severity": "info",
+        "time": 532.729,
+        "selector": "#s17-ob > text:nth-of-type(2)",
+        "message": "Text extends outside its nearest visual/container box.",
+        "rect": {
+          "left": 1160,
+          "top": 510,
+          "right": 2161.09,
+          "bottom": 553,
+          "width": 1001.09,
+          "height": 43
+        },
+        "containerSelector": "#s17-stage",
+        "text": "THIRSTY → DRINK, MORE WHEN NEEDED",
+        "fixHint": "Text is 1001px x 43px inside 1920px x 1080px and overflows by up to 241px; widen the container to at least ~2161px, or allow wrapping with max-width/fitTextFontSize.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1920,
+          "bottom": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        "overflow": {
+          "right": 241.09
+        },
+        "dataAttributes": {},
+        "sourceFile": "compositions/s17.html",
+        "bbox": {
+          "x": 1160,
+          "y": 510,
+          "width": 1001.09,
+          "height": 43
+        },
+        "firstSeen": 532.729,
+        "lastSeen": 532.729,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          532.729
+        ]
+      },
+      {
+        "code": "canvas_overflow",
+        "severity": "info",
+        "time": 532.729,
+        "selector": "#s17-ob > text:nth-of-type(2)",
+        "message": "Text extends outside the composition canvas.",
+        "rect": {
+          "left": 1160,
+          "top": 498,
+          "right": 2161.09,
+          "bottom": 559,
+          "width": 1001.09,
+          "height": 61
+        },
+        "containerSelector": "#root",
+        "text": "THIRSTY → DRINK, MORE WHEN NEEDED",
+        "fixHint": "Move the text inward, reduce its size, or mark intentional off-canvas animation with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1920,
+          "bottom": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        "overflow": {
+          "right": 241.09
+        },
+        "dataAttributes": {},
+        "sourceFile": "compositions/s17.html",
+        "bbox": {
+          "x": 1160,
+          "y": 498,
+          "width": 1001.09,
+          "height": 61
+        },
+        "firstSeen": 532.729,
+        "lastSeen": 532.729,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          532.729
+        ]
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 532.729,
+        "selector": "#s17-ob",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": 660,
+          "top": 444,
+          "right": 2161.09,
+          "bottom": 616,
+          "width": 1501.09,
+          "height": 172
+        },
+        "containerSelector": "#s17-stage",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 0,
+          "top": 0,
+          "right": 1920,
+          "bottom": 1080,
+          "width": 1920,
+          "height": 1080
+        },
+        "overflow": {
+          "right": 241.09
+        },
+        "dataAttributes": {
+          "data-svg-origin": "660 444"
+        },
+        "sourceFile": "compositions/s17.html",
+        "bbox": {
+          "x": 660,
+          "y": 444,
+          "width": 1501.09,
+          "height": 172
+        },
+        "firstSeen": 532.729,
+        "lastSeen": 532.729,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          532.729
+        ]
+      }
+    ],
+    "duration": 639.275,
+    "samples": [
+      35.515,
+      106.546,
+      177.576,
+      248.607,
+      319.638,
+      390.668,
+      461.699,
+      532.729,
+      603.76
+    ],
+    "transitionSamples": [],
+    "transitionSamplesDropped": 0,
+    "tolerance": 2,
+    "totalIssueCount": 5,
+    "truncated": false
+  },
+  "motion": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": false,
+    "samples": 0
+  },
+  "contrast": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": true,
+    "samples": [
+      35.515,
+      177.576,
+      319.638,
+      461.699,
+      603.76
+    ],
+    "checked": 12,
+    "passed": 12
+  },
+  "craft": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 2,
+    "infoCount": 0,
+    "findings": [
+      {
+        "code": "text_below_floor",
+        "severity": "warning",
+        "message": "Type floor is 28 px (2.6% of the 1080 px short side, what a phone can read) and 8 text elements stay under it for 0.5 s or more, the smallest \"Na\" at 18 px: set reading text to at least 28 px, or put data-layout-ignore on text that is texture rather than reading; see references/look.md.",
+        "text": "Na",
+        "selector": "#s16-na0 > text:nth-of-type(1)",
+        "dataAttributes": {},
+        "sourceFile": "compositions/s16.html",
+        "bbox": {
+          "x": 1281.17,
+          "y": 434.23,
+          "width": 36.64,
+          "height": 32.79
+        },
+        "time": 508.005,
+        "times": [
+          508.005,
+          508.005,
+          508.005,
+          508.005,
+          508.005,
+          508.005,
+          508.005,
+          508.005
+        ],
+        "fontPx": 18.2,
+        "floorPx": 28,
+        "seconds": 7.47,
+        "elements": [
+          {
+            "selector": "#s16-na0 > text:nth-of-type(1)",
+            "text": "Na",
+            "fontPx": 18.2,
+            "time": 508.005,
+            "seconds": 7.47
+          },
+          {
+            "selector": "#s16-na1 > text:nth-of-type(1)",
+            "text": "Na",
+            "fontPx": 18.2,
+            "time": 508.005,
+            "seconds": 7.47
+          },
+          {
+            "selector": "#s16-na2 > text:nth-of-type(1)",
+            "text": "Na",
+            "fontPx": 18.2,
+            "time": 508.005,
+            "seconds": 7.47
+          },
+          {
+            "selector": "#s16-na3 > text:nth-of-type(1)",
+            "text": "Na",
+            "fontPx": 18.2,
+            "time": 508.005,
+            "seconds": 7.47
+          },
+          {
+            "selector": "#s16-na4 > text:nth-of-type(1)",
+            "text": "Na",
+            "fontPx": 18.2,
+            "time": 508.005,
+            "seconds": 7.47
+          },
+          {
+            "selector": "#s16-na5 > text:nth-of-type(1)",
+            "text": "Na",
+            "fontPx": 18.2,
+            "time": 508.005,
+            "seconds": 7.47
+          },
+          {
+            "selector": "#s16-na6 > text:nth-of-type(1)",
+            "text": "Na",
+            "fontPx": 18.2,
+            "time": 508.005,
+            "seconds": 7.47
+          },
+          {
+            "selector": "#s16-na7 > text:nth-of-type(1)",
+            "text": "Na",
+            "fontPx": 18.2,
+            "time": 508.005,
+            "seconds": 7.47
+          }
+        ]
+      },
+      {
+        "code": "dead_stretch",
+        "severity": "warning",
+        "message": "Nothing on screen changes for 3.20 s (573.11–576.31 s): start the next move within 3 s, or put data-hold on the element whose stillness is deliberate; see references/motion.md.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 573.106,
+        "seconds": 3.202,
+        "floorSeconds": 3,
+        "until": 576.308
+      }
+    ],
+    "enabled": true,
+    "step": 1.0670000000000073,
+    "samples": 599
+  },
+  "audio": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": []
+  },
+  "hdr": {
+    "autoPromotion": null,
+    "inspection": "available"
+  },
+  "snapshots": {
+    "enabled": false,
+    "files": [],
+    "times": [],
+    "findingFiles": []
+  }
+}

@@ -1,0 +1,5034 @@
+{
+  "words": [
+    {
+      "text": "Sáu",
+      "start": 4.54,
+      "end": 4.7,
+      "scene": "02"
+    },
+    {
+      "text": "giờ",
+      "start": 4.76,
+      "end": 4.88,
+      "scene": "02"
+    },
+    {
+      "text": "chiều.",
+      "start": 4.941,
+      "end": 5.141,
+      "scene": "02"
+    },
+    {
+      "text": "Bảy",
+      "start": 5.541,
+      "end": 5.681,
+      "scene": "02"
+    },
+    {
+      "text": "giờ",
+      "start": 5.741,
+      "end": 5.861,
+      "scene": "02"
+    },
+    {
+      "text": "khách",
+      "start": 5.901,
+      "end": 6.042,
+      "scene": "02"
+    },
+    {
+      "text": "tới.",
+      "start": 6.102,
+      "end": 6.282,
+      "scene": "02"
+    },
+    {
+      "text": "Trên",
+      "start": 6.662,
+      "end": 6.802,
+      "scene": "02"
+    },
+    {
+      "text": "thớt",
+      "start": 6.842,
+      "end": 6.982,
+      "scene": "02"
+    },
+    {
+      "text": "của",
+      "start": 7.022,
+      "end": 7.123,
+      "scene": "02"
+    },
+    {
+      "text": "bạn",
+      "start": 7.163,
+      "end": 7.303,
+      "scene": "02"
+    },
+    {
+      "text": "là",
+      "start": 7.403,
+      "end": 7.483,
+      "scene": "02"
+    },
+    {
+      "text": "một",
+      "start": 7.523,
+      "end": 7.643,
+      "scene": "02"
+    },
+    {
+      "text": "rổ",
+      "start": 7.703,
+      "end": 7.823,
+      "scene": "02"
+    },
+    {
+      "text": "hành",
+      "start": 7.863,
+      "end": 8.003,
+      "scene": "02"
+    },
+    {
+      "text": "tây,",
+      "start": 8.063,
+      "end": 8.224,
+      "scene": "02"
+    },
+    {
+      "text": "và",
+      "start": 8.544,
+      "end": 8.644,
+      "scene": "02"
+    },
+    {
+      "text": "con",
+      "start": 8.704,
+      "end": 8.824,
+      "scene": "02"
+    },
+    {
+      "text": "dao",
+      "start": 8.884,
+      "end": 9.044,
+      "scene": "02"
+    },
+    {
+      "text": "vừa",
+      "start": 9.144,
+      "end": 9.265,
+      "scene": "02"
+    },
+    {
+      "text": "chạm",
+      "start": 9.325,
+      "end": 9.465,
+      "scene": "02"
+    },
+    {
+      "text": "vào",
+      "start": 9.525,
+      "end": 9.625,
+      "scene": "02"
+    },
+    {
+      "text": "củ",
+      "start": 9.665,
+      "end": 9.805,
+      "scene": "02"
+    },
+    {
+      "text": "đầu",
+      "start": 9.825,
+      "end": 9.965,
+      "scene": "02"
+    },
+    {
+      "text": "tiên.",
+      "start": 10.025,
+      "end": 10.205,
+      "scene": "02"
+    },
+    {
+      "text": "Chỉ",
+      "start": 10.546,
+      "end": 10.686,
+      "scene": "02"
+    },
+    {
+      "text": "vài",
+      "start": 10.746,
+      "end": 10.906,
+      "scene": "02"
+    },
+    {
+      "text": "giây",
+      "start": 10.966,
+      "end": 11.106,
+      "scene": "02"
+    },
+    {
+      "text": "sau,",
+      "start": 11.186,
+      "end": 11.346,
+      "scene": "02"
+    },
+    {
+      "text": "mắt",
+      "start": 11.587,
+      "end": 11.707,
+      "scene": "02"
+    },
+    {
+      "text": "bạn",
+      "start": 11.747,
+      "end": 11.867,
+      "scene": "02"
+    },
+    {
+      "text": "bắt",
+      "start": 11.927,
+      "end": 12.027,
+      "scene": "02"
+    },
+    {
+      "text": "đầu",
+      "start": 12.067,
+      "end": 12.207,
+      "scene": "02"
+    },
+    {
+      "text": "cay.",
+      "start": 12.267,
+      "end": 12.447,
+      "scene": "02"
+    },
+    {
+      "text": "Rồi",
+      "start": 12.788,
+      "end": 12.908,
+      "scene": "02"
+    },
+    {
+      "text": "nước",
+      "start": 12.968,
+      "end": 13.088,
+      "scene": "02"
+    },
+    {
+      "text": "mắt",
+      "start": 13.148,
+      "end": 13.268,
+      "scene": "02"
+    },
+    {
+      "text": "chảy",
+      "start": 13.368,
+      "end": 13.508,
+      "scene": "02"
+    },
+    {
+      "text": "ròng",
+      "start": 13.569,
+      "end": 13.709,
+      "scene": "02"
+    },
+    {
+      "text": "ròng,",
+      "start": 13.789,
+      "end": 13.949,
+      "scene": "02"
+    },
+    {
+      "text": "dù",
+      "start": 14.169,
+      "end": 14.269,
+      "scene": "02"
+    },
+    {
+      "text": "bạn",
+      "start": 14.309,
+      "end": 14.429,
+      "scene": "02"
+    },
+    {
+      "text": "chẳng",
+      "start": 14.489,
+      "end": 14.629,
+      "scene": "02"
+    },
+    {
+      "text": "buồn",
+      "start": 14.67,
+      "end": 14.83,
+      "scene": "02"
+    },
+    {
+      "text": "chuyện",
+      "start": 14.89,
+      "end": 15.05,
+      "scene": "02"
+    },
+    {
+      "text": "gì.",
+      "start": 15.11,
+      "end": 15.27,
+      "scene": "02"
+    },
+    {
+      "text": "Trong",
+      "start": 15.65,
+      "end": 15.771,
+      "scene": "02"
+    },
+    {
+      "text": "rổ",
+      "start": 15.851,
+      "end": 15.991,
+      "scene": "02"
+    },
+    {
+      "text": "vẫn",
+      "start": 16.051,
+      "end": 16.171,
+      "scene": "02"
+    },
+    {
+      "text": "còn",
+      "start": 16.231,
+      "end": 16.371,
+      "scene": "02"
+    },
+    {
+      "text": "hai",
+      "start": 16.451,
+      "end": 16.551,
+      "scene": "02"
+    },
+    {
+      "text": "mươi",
+      "start": 16.591,
+      "end": 16.711,
+      "scene": "02"
+    },
+    {
+      "text": "củ.",
+      "start": 16.771,
+      "end": 16.932,
+      "scene": "02"
+    },
+    {
+      "text": "Trong",
+      "start": 17.472,
+      "end": 17.612,
+      "scene": "02"
+    },
+    {
+      "text": "ngăn",
+      "start": 17.632,
+      "end": 17.772,
+      "scene": "02"
+    },
+    {
+      "text": "kéo",
+      "start": 17.852,
+      "end": 18.033,
+      "scene": "02"
+    },
+    {
+      "text": "có",
+      "start": 18.093,
+      "end": 18.193,
+      "scene": "02"
+    },
+    {
+      "text": "hai",
+      "start": 18.233,
+      "end": 18.353,
+      "scene": "02"
+    },
+    {
+      "text": "con",
+      "start": 18.393,
+      "end": 18.533,
+      "scene": "02"
+    },
+    {
+      "text": "dao:",
+      "start": 18.593,
+      "end": 18.793,
+      "scene": "02"
+    },
+    {
+      "text": "một",
+      "start": 19.014,
+      "end": 19.134,
+      "scene": "02"
+    },
+    {
+      "text": "con",
+      "start": 19.194,
+      "end": 19.314,
+      "scene": "02"
+    },
+    {
+      "text": "sắc,",
+      "start": 19.394,
+      "end": 19.534,
+      "scene": "02"
+    },
+    {
+      "text": "một",
+      "start": 19.694,
+      "end": 19.814,
+      "scene": "02"
+    },
+    {
+      "text": "con",
+      "start": 19.874,
+      "end": 20.014,
+      "scene": "02"
+    },
+    {
+      "text": "đã",
+      "start": 20.095,
+      "end": 20.215,
+      "scene": "02"
+    },
+    {
+      "text": "cùn.",
+      "start": 20.295,
+      "end": 20.475,
+      "scene": "02"
+    },
+    {
+      "text": "Cắt",
+      "start": 20.755,
+      "end": 20.875,
+      "scene": "02"
+    },
+    {
+      "text": "nhanh",
+      "start": 20.995,
+      "end": 21.136,
+      "scene": "02"
+    },
+    {
+      "text": "cho",
+      "start": 21.236,
+      "end": 21.376,
+      "scene": "02"
+    },
+    {
+      "text": "xong,",
+      "start": 21.436,
+      "end": 21.596,
+      "scene": "02"
+    },
+    {
+      "text": "hay",
+      "start": 21.836,
+      "end": 21.956,
+      "scene": "02"
+    },
+    {
+      "text": "cắt",
+      "start": 22.036,
+      "end": 22.156,
+      "scene": "02"
+    },
+    {
+      "text": "chậm",
+      "start": 22.257,
+      "end": 22.397,
+      "scene": "02"
+    },
+    {
+      "text": "cho",
+      "start": 22.477,
+      "end": 22.577,
+      "scene": "02"
+    },
+    {
+      "text": "chắc?",
+      "start": 22.637,
+      "end": 22.797,
+      "scene": "02"
+    },
+    {
+      "text": "Chọn",
+      "start": 23.157,
+      "end": 23.298,
+      "scene": "02"
+    },
+    {
+      "text": "sai,",
+      "start": 23.418,
+      "end": 23.618,
+      "scene": "02"
+    },
+    {
+      "text": "bạn",
+      "start": 23.958,
+      "end": 24.098,
+      "scene": "02"
+    },
+    {
+      "text": "sẽ",
+      "start": 24.178,
+      "end": 24.298,
+      "scene": "02"
+    },
+    {
+      "text": "đón",
+      "start": 24.338,
+      "end": 24.479,
+      "scene": "02"
+    },
+    {
+      "text": "khách",
+      "start": 24.559,
+      "end": 24.699,
+      "scene": "02"
+    },
+    {
+      "text": "với",
+      "start": 24.799,
+      "end": 24.919,
+      "scene": "02"
+    },
+    {
+      "text": "đôi",
+      "start": 24.939,
+      "end": 25.079,
+      "scene": "02"
+    },
+    {
+      "text": "mắt",
+      "start": 25.119,
+      "end": 25.239,
+      "scene": "02"
+    },
+    {
+      "text": "đỏ",
+      "start": 25.339,
+      "end": 25.48,
+      "scene": "02"
+    },
+    {
+      "text": "hoe.",
+      "start": 25.58,
+      "end": 25.76,
+      "scene": "02"
+    },
+    {
+      "text": "Trước",
+      "start": 26.42,
+      "end": 26.54,
+      "scene": "03"
+    },
+    {
+      "text": "khi",
+      "start": 26.56,
+      "end": 26.7,
+      "scene": "03"
+    },
+    {
+      "text": "chọn,",
+      "start": 26.74,
+      "end": 26.92,
+      "scene": "03"
+    },
+    {
+      "text": "bạn",
+      "start": 27.18,
+      "end": 27.3,
+      "scene": "03"
+    },
+    {
+      "text": "cần",
+      "start": 27.38,
+      "end": 27.5,
+      "scene": "03"
+    },
+    {
+      "text": "biết",
+      "start": 27.54,
+      "end": 27.68,
+      "scene": "03"
+    },
+    {
+      "text": "ba",
+      "start": 27.76,
+      "end": 27.881,
+      "scene": "03"
+    },
+    {
+      "text": "điều.",
+      "start": 27.921,
+      "end": 28.121,
+      "scene": "03"
+    },
+    {
+      "text": "Một.",
+      "start": 28.521,
+      "end": 28.661,
+      "scene": "03"
+    },
+    {
+      "text": "Mỗi",
+      "start": 28.741,
+      "end": 28.861,
+      "scene": "03"
+    },
+    {
+      "text": "tế",
+      "start": 28.921,
+      "end": 29.041,
+      "scene": "03"
+    },
+    {
+      "text": "bào",
+      "start": 29.081,
+      "end": 29.221,
+      "scene": "03"
+    },
+    {
+      "text": "hành",
+      "start": 29.301,
+      "end": 29.421,
+      "scene": "03"
+    },
+    {
+      "text": "cất",
+      "start": 29.481,
+      "end": 29.621,
+      "scene": "03"
+    },
+    {
+      "text": "hai",
+      "start": 29.701,
+      "end": 29.821,
+      "scene": "03"
+    },
+    {
+      "text": "chất",
+      "start": 29.861,
+      "end": 30.001,
+      "scene": "03"
+    },
+    {
+      "text": "ở",
+      "start": 30.221,
+      "end": 30.281,
+      "scene": "03"
+    },
+    {
+      "text": "hai",
+      "start": 30.341,
+      "end": 30.461,
+      "scene": "03"
+    },
+    {
+      "text": "ngăn",
+      "start": 30.521,
+      "end": 30.661,
+      "scene": "03"
+    },
+    {
+      "text": "riêng",
+      "start": 30.762,
+      "end": 30.922,
+      "scene": "03"
+    },
+    {
+      "text": "biệt.",
+      "start": 30.962,
+      "end": 31.122,
+      "scene": "03"
+    },
+    {
+      "text": "Khi",
+      "start": 31.482,
+      "end": 31.602,
+      "scene": "03"
+    },
+    {
+      "text": "tế",
+      "start": 31.662,
+      "end": 31.762,
+      "scene": "03"
+    },
+    {
+      "text": "bào",
+      "start": 31.802,
+      "end": 31.922,
+      "scene": "03"
+    },
+    {
+      "text": "còn",
+      "start": 31.982,
+      "end": 32.122,
+      "scene": "03"
+    },
+    {
+      "text": "nguyên,",
+      "start": 32.162,
+      "end": 32.362,
+      "scene": "03"
+    },
+    {
+      "text": "chúng",
+      "start": 32.622,
+      "end": 32.762,
+      "scene": "03"
+    },
+    {
+      "text": "gần",
+      "start": 32.802,
+      "end": 32.942,
+      "scene": "03"
+    },
+    {
+      "text": "như",
+      "start": 33.002,
+      "end": 33.122,
+      "scene": "03"
+    },
+    {
+      "text": "không",
+      "start": 33.162,
+      "end": 33.282,
+      "scene": "03"
+    },
+    {
+      "text": "gặp",
+      "start": 33.322,
+      "end": 33.442,
+      "scene": "03"
+    },
+    {
+      "text": "nhau.",
+      "start": 33.502,
+      "end": 33.683,
+      "scene": "03"
+    },
+    {
+      "text": "Chỉ",
+      "start": 34.023,
+      "end": 34.143,
+      "scene": "03"
+    },
+    {
+      "text": "khi",
+      "start": 34.183,
+      "end": 34.303,
+      "scene": "03"
+    },
+    {
+      "text": "tế",
+      "start": 34.363,
+      "end": 34.483,
+      "scene": "03"
+    },
+    {
+      "text": "bào",
+      "start": 34.523,
+      "end": 34.663,
+      "scene": "03"
+    },
+    {
+      "text": "vỡ,",
+      "start": 34.743,
+      "end": 34.943,
+      "scene": "03"
+    },
+    {
+      "text": "hai",
+      "start": 35.163,
+      "end": 35.263,
+      "scene": "03"
+    },
+    {
+      "text": "chất",
+      "start": 35.323,
+      "end": 35.443,
+      "scene": "03"
+    },
+    {
+      "text": "mới",
+      "start": 35.523,
+      "end": 35.643,
+      "scene": "03"
+    },
+    {
+      "text": "trộn",
+      "start": 35.683,
+      "end": 35.823,
+      "scene": "03"
+    },
+    {
+      "text": "vào",
+      "start": 35.883,
+      "end": 35.983,
+      "scene": "03"
+    },
+    {
+      "text": "nhau.",
+      "start": 36.023,
+      "end": 36.203,
+      "scene": "03"
+    },
+    {
+      "text": "Một",
+      "start": 36.523,
+      "end": 36.624,
+      "scene": "03"
+    },
+    {
+      "text": "chuỗi",
+      "start": 36.664,
+      "end": 36.804,
+      "scene": "03"
+    },
+    {
+      "text": "phản",
+      "start": 36.884,
+      "end": 37.004,
+      "scene": "03"
+    },
+    {
+      "text": "ứng",
+      "start": 37.104,
+      "end": 37.204,
+      "scene": "03"
+    },
+    {
+      "text": "chớp",
+      "start": 37.284,
+      "end": 37.424,
+      "scene": "03"
+    },
+    {
+      "text": "nhoáng",
+      "start": 37.504,
+      "end": 37.664,
+      "scene": "03"
+    },
+    {
+      "text": "tạo",
+      "start": 37.744,
+      "end": 37.884,
+      "scene": "03"
+    },
+    {
+      "text": "ra",
+      "start": 37.944,
+      "end": 38.044,
+      "scene": "03"
+    },
+    {
+      "text": "khí",
+      "start": 38.084,
+      "end": 38.204,
+      "scene": "03"
+    },
+    {
+      "text": "cay.",
+      "start": 38.284,
+      "end": 38.444,
+      "scene": "03"
+    },
+    {
+      "text": "Hai.",
+      "start": 38.684,
+      "end": 38.884,
+      "scene": "03"
+    },
+    {
+      "text": "Khí",
+      "start": 39.424,
+      "end": 39.565,
+      "scene": "03"
+    },
+    {
+      "text": "này",
+      "start": 39.625,
+      "end": 39.765,
+      "scene": "03"
+    },
+    {
+      "text": "bay",
+      "start": 39.905,
+      "end": 40.025,
+      "scene": "03"
+    },
+    {
+      "text": "lên",
+      "start": 40.085,
+      "end": 40.245,
+      "scene": "03"
+    },
+    {
+      "text": "và",
+      "start": 40.485,
+      "end": 40.565,
+      "scene": "03"
+    },
+    {
+      "text": "chạm",
+      "start": 40.605,
+      "end": 40.765,
+      "scene": "03"
+    },
+    {
+      "text": "vào",
+      "start": 40.805,
+      "end": 40.905,
+      "scene": "03"
+    },
+    {
+      "text": "bề",
+      "start": 40.925,
+      "end": 41.045,
+      "scene": "03"
+    },
+    {
+      "text": "mặt",
+      "start": 41.105,
+      "end": 41.225,
+      "scene": "03"
+    },
+    {
+      "text": "mắt",
+      "start": 41.305,
+      "end": 41.425,
+      "scene": "03"
+    },
+    {
+      "text": "bạn.",
+      "start": 41.505,
+      "end": 41.645,
+      "scene": "03"
+    },
+    {
+      "text": "Ở",
+      "start": 42.205,
+      "end": 42.265,
+      "scene": "03"
+    },
+    {
+      "text": "đó",
+      "start": 42.285,
+      "end": 42.446,
+      "scene": "03"
+    },
+    {
+      "text": "có",
+      "start": 42.506,
+      "end": 42.586,
+      "scene": "03"
+    },
+    {
+      "text": "những",
+      "start": 42.606,
+      "end": 42.726,
+      "scene": "03"
+    },
+    {
+      "text": "đầu",
+      "start": 42.766,
+      "end": 42.886,
+      "scene": "03"
+    },
+    {
+      "text": "dây",
+      "start": 42.946,
+      "end": 43.066,
+      "scene": "03"
+    },
+    {
+      "text": "thần",
+      "start": 43.106,
+      "end": 43.246,
+      "scene": "03"
+    },
+    {
+      "text": "kinh",
+      "start": 43.306,
+      "end": 43.466,
+      "scene": "03"
+    },
+    {
+      "text": "rất",
+      "start": 43.566,
+      "end": 43.686,
+      "scene": "03"
+    },
+    {
+      "text": "nhạy,",
+      "start": 43.766,
+      "end": 43.926,
+      "scene": "03"
+    },
+    {
+      "text": "và",
+      "start": 44.146,
+      "end": 44.246,
+      "scene": "03"
+    },
+    {
+      "text": "chúng",
+      "start": 44.306,
+      "end": 44.446,
+      "scene": "03"
+    },
+    {
+      "text": "lập",
+      "start": 44.506,
+      "end": 44.606,
+      "scene": "03"
+    },
+    {
+      "text": "tức",
+      "start": 44.686,
+      "end": 44.806,
+      "scene": "03"
+    },
+    {
+      "text": "báo",
+      "start": 44.866,
+      "end": 44.986,
+      "scene": "03"
+    },
+    {
+      "text": "động.",
+      "start": 45.026,
+      "end": 45.166,
+      "scene": "03"
+    },
+    {
+      "text": "Ba.",
+      "start": 45.487,
+      "end": 45.707,
+      "scene": "03"
+    },
+    {
+      "text": "Khi",
+      "start": 45.967,
+      "end": 46.107,
+      "scene": "03"
+    },
+    {
+      "text": "lưỡi",
+      "start": 46.167,
+      "end": 46.307,
+      "scene": "03"
+    },
+    {
+      "text": "dao",
+      "start": 46.367,
+      "end": 46.487,
+      "scene": "03"
+    },
+    {
+      "text": "ấn",
+      "start": 46.587,
+      "end": 46.667,
+      "scene": "03"
+    },
+    {
+      "text": "xuống,",
+      "start": 46.787,
+      "end": 46.987,
+      "scene": "03"
+    },
+    {
+      "text": "lớp",
+      "start": 47.227,
+      "end": 47.347,
+      "scene": "03"
+    },
+    {
+      "text": "vỏ",
+      "start": 47.407,
+      "end": 47.547,
+      "scene": "03"
+    },
+    {
+      "text": "dai",
+      "start": 47.607,
+      "end": 47.767,
+      "scene": "03"
+    },
+    {
+      "text": "của",
+      "start": 47.827,
+      "end": 47.967,
+      "scene": "03"
+    },
+    {
+      "text": "củ",
+      "start": 48.007,
+      "end": 48.147,
+      "scene": "03"
+    },
+    {
+      "text": "hành",
+      "start": 48.187,
+      "end": 48.308,
+      "scene": "03"
+    },
+    {
+      "text": "chống",
+      "start": 48.388,
+      "end": 48.528,
+      "scene": "03"
+    },
+    {
+      "text": "lại.",
+      "start": 48.608,
+      "end": 48.768,
+      "scene": "03"
+    },
+    {
+      "text": "Mô",
+      "start": 49.088,
+      "end": 49.228,
+      "scene": "03"
+    },
+    {
+      "text": "hành",
+      "start": 49.268,
+      "end": 49.408,
+      "scene": "03"
+    },
+    {
+      "text": "bị",
+      "start": 49.528,
+      "end": 49.628,
+      "scene": "03"
+    },
+    {
+      "text": "đè",
+      "start": 49.668,
+      "end": 49.808,
+      "scene": "03"
+    },
+    {
+      "text": "nén",
+      "start": 49.868,
+      "end": 50.028,
+      "scene": "03"
+    },
+    {
+      "text": "một",
+      "start": 50.108,
+      "end": 50.228,
+      "scene": "03"
+    },
+    {
+      "text": "lúc",
+      "start": 50.308,
+      "end": 50.428,
+      "scene": "03"
+    },
+    {
+      "text": "rồi",
+      "start": 50.628,
+      "end": 50.768,
+      "scene": "03"
+    },
+    {
+      "text": "mới",
+      "start": 50.828,
+      "end": 50.948,
+      "scene": "03"
+    },
+    {
+      "text": "đứt.",
+      "start": 50.968,
+      "end": 51.108,
+      "scene": "03"
+    },
+    {
+      "text": "Bị",
+      "start": 51.629,
+      "end": 51.729,
+      "scene": "03"
+    },
+    {
+      "text": "nén",
+      "start": 51.789,
+      "end": 51.929,
+      "scene": "03"
+    },
+    {
+      "text": "càng",
+      "start": 52.009,
+      "end": 52.169,
+      "scene": "03"
+    },
+    {
+      "text": "mạnh,",
+      "start": 52.229,
+      "end": 52.369,
+      "scene": "03"
+    },
+    {
+      "text": "càng",
+      "start": 52.689,
+      "end": 52.829,
+      "scene": "03"
+    },
+    {
+      "text": "nhiều",
+      "start": 52.869,
+      "end": 53.009,
+      "scene": "03"
+    },
+    {
+      "text": "tế",
+      "start": 53.069,
+      "end": 53.189,
+      "scene": "03"
+    },
+    {
+      "text": "bào",
+      "start": 53.229,
+      "end": 53.369,
+      "scene": "03"
+    },
+    {
+      "text": "vỡ",
+      "start": 53.429,
+      "end": 53.549,
+      "scene": "03"
+    },
+    {
+      "text": "tung,",
+      "start": 53.629,
+      "end": 53.769,
+      "scene": "03"
+    },
+    {
+      "text": "và",
+      "start": 54.009,
+      "end": 54.11,
+      "scene": "03"
+    },
+    {
+      "text": "nước",
+      "start": 54.15,
+      "end": 54.27,
+      "scene": "03"
+    },
+    {
+      "text": "hành",
+      "start": 54.33,
+      "end": 54.47,
+      "scene": "03"
+    },
+    {
+      "text": "bắn",
+      "start": 54.55,
+      "end": 54.67,
+      "scene": "03"
+    },
+    {
+      "text": "ra",
+      "start": 54.75,
+      "end": 54.87,
+      "scene": "03"
+    },
+    {
+      "text": "càng",
+      "start": 54.93,
+      "end": 55.09,
+      "scene": "03"
+    },
+    {
+      "text": "nhiều.",
+      "start": 55.15,
+      "end": 55.33,
+      "scene": "03"
+    },
+    {
+      "text": "Vậy",
+      "start": 55.99,
+      "end": 56.131,
+      "scene": "04"
+    },
+    {
+      "text": "bạn",
+      "start": 56.171,
+      "end": 56.291,
+      "scene": "04"
+    },
+    {
+      "text": "sẽ",
+      "start": 56.351,
+      "end": 56.472,
+      "scene": "04"
+    },
+    {
+      "text": "cắt",
+      "start": 56.512,
+      "end": 56.632,
+      "scene": "04"
+    },
+    {
+      "text": "thế",
+      "start": 56.652,
+      "end": 56.793,
+      "scene": "04"
+    },
+    {
+      "text": "nào?",
+      "start": 56.813,
+      "end": 56.993,
+      "scene": "04"
+    },
+    {
+      "text": "A,",
+      "start": 57.394,
+      "end": 57.454,
+      "scene": "04"
+    },
+    {
+      "text": "dao",
+      "start": 57.575,
+      "end": 57.715,
+      "scene": "04"
+    },
+    {
+      "text": "cùn,",
+      "start": 57.775,
+      "end": 57.956,
+      "scene": "04"
+    },
+    {
+      "text": "cắt",
+      "start": 58.156,
+      "end": 58.277,
+      "scene": "04"
+    },
+    {
+      "text": "thật",
+      "start": 58.317,
+      "end": 58.457,
+      "scene": "04"
+    },
+    {
+      "text": "nhanh.",
+      "start": 58.518,
+      "end": 58.698,
+      "scene": "04"
+    },
+    {
+      "text": "B,",
+      "start": 59.019,
+      "end": 59.179,
+      "scene": "04"
+    },
+    {
+      "text": "dao",
+      "start": 59.26,
+      "end": 59.38,
+      "scene": "04"
+    },
+    {
+      "text": "sắc,",
+      "start": 59.48,
+      "end": 59.621,
+      "scene": "04"
+    },
+    {
+      "text": "cắt",
+      "start": 59.761,
+      "end": 59.881,
+      "scene": "04"
+    },
+    {
+      "text": "chậm",
+      "start": 59.922,
+      "end": 60.062,
+      "scene": "04"
+    },
+    {
+      "text": "rãi.",
+      "start": 60.142,
+      "end": 60.343,
+      "scene": "04"
+    },
+    {
+      "text": "Hay",
+      "start": 60.543,
+      "end": 60.664,
+      "scene": "04"
+    },
+    {
+      "text": "C,",
+      "start": 60.744,
+      "end": 60.925,
+      "scene": "04"
+    },
+    {
+      "text": "dao",
+      "start": 61.005,
+      "end": 61.125,
+      "scene": "04"
+    },
+    {
+      "text": "cùn,",
+      "start": 61.185,
+      "end": 61.386,
+      "scene": "04"
+    },
+    {
+      "text": "cắt",
+      "start": 61.546,
+      "end": 61.667,
+      "scene": "04"
+    },
+    {
+      "text": "chậm",
+      "start": 61.707,
+      "end": 61.847,
+      "scene": "04"
+    },
+    {
+      "text": "và",
+      "start": 61.947,
+      "end": 62.048,
+      "scene": "04"
+    },
+    {
+      "text": "nhẹ",
+      "start": 62.088,
+      "end": 62.228,
+      "scene": "04"
+    },
+    {
+      "text": "tay?",
+      "start": 62.288,
+      "end": 62.449,
+      "scene": "04"
+    },
+    {
+      "text": "Tạm",
+      "start": 63.25,
+      "end": 63.412,
+      "scene": "05"
+    },
+    {
+      "text": "dừng",
+      "start": 63.553,
+      "end": 63.695,
+      "scene": "05"
+    },
+    {
+      "text": "video",
+      "start": 63.775,
+      "end": 64.099,
+      "scene": "05"
+    },
+    {
+      "text": "và",
+      "start": 64.22,
+      "end": 64.341,
+      "scene": "05"
+    },
+    {
+      "text": "thử",
+      "start": 64.381,
+      "end": 64.523,
+      "scene": "05"
+    },
+    {
+      "text": "đoán",
+      "start": 64.563,
+      "end": 64.725,
+      "scene": "05"
+    },
+    {
+      "text": "nhé.",
+      "start": 64.785,
+      "end": 64.927,
+      "scene": "05"
+    },
+    {
+      "text": "Chìa",
+      "start": 73.63,
+      "end": 73.79,
+      "scene": "06"
+    },
+    {
+      "text": "khóa",
+      "start": 73.851,
+      "end": 74.051,
+      "scene": "06"
+    },
+    {
+      "text": "nằm",
+      "start": 74.151,
+      "end": 74.271,
+      "scene": "06"
+    },
+    {
+      "text": "ở",
+      "start": 74.392,
+      "end": 74.452,
+      "scene": "06"
+    },
+    {
+      "text": "điều",
+      "start": 74.492,
+      "end": 74.632,
+      "scene": "06"
+    },
+    {
+      "text": "thứ",
+      "start": 74.672,
+      "end": 74.793,
+      "scene": "06"
+    },
+    {
+      "text": "nhất.",
+      "start": 74.833,
+      "end": 74.973,
+      "scene": "06"
+    },
+    {
+      "text": "Khí",
+      "start": 75.354,
+      "end": 75.514,
+      "scene": "06"
+    },
+    {
+      "text": "cay",
+      "start": 75.594,
+      "end": 75.735,
+      "scene": "06"
+    },
+    {
+      "text": "không",
+      "start": 75.795,
+      "end": 75.935,
+      "scene": "06"
+    },
+    {
+      "text": "có",
+      "start": 75.995,
+      "end": 76.096,
+      "scene": "06"
+    },
+    {
+      "text": "sẵn",
+      "start": 76.136,
+      "end": 76.276,
+      "scene": "06"
+    },
+    {
+      "text": "trong",
+      "start": 76.356,
+      "end": 76.476,
+      "scene": "06"
+    },
+    {
+      "text": "củ",
+      "start": 76.537,
+      "end": 76.677,
+      "scene": "06"
+    },
+    {
+      "text": "hành.",
+      "start": 76.717,
+      "end": 76.897,
+      "scene": "06"
+    },
+    {
+      "text": "Nó",
+      "start": 77.278,
+      "end": 77.378,
+      "scene": "06"
+    },
+    {
+      "text": "chỉ",
+      "start": 77.419,
+      "end": 77.539,
+      "scene": "06"
+    },
+    {
+      "text": "được",
+      "start": 77.559,
+      "end": 77.679,
+      "scene": "06"
+    },
+    {
+      "text": "tạo",
+      "start": 77.739,
+      "end": 77.88,
+      "scene": "06"
+    },
+    {
+      "text": "ra",
+      "start": 77.94,
+      "end": 78.08,
+      "scene": "06"
+    },
+    {
+      "text": "khi",
+      "start": 78.16,
+      "end": 78.28,
+      "scene": "06"
+    },
+    {
+      "text": "tế",
+      "start": 78.321,
+      "end": 78.441,
+      "scene": "06"
+    },
+    {
+      "text": "bào",
+      "start": 78.481,
+      "end": 78.621,
+      "scene": "06"
+    },
+    {
+      "text": "vỡ.",
+      "start": 78.701,
+      "end": 78.922,
+      "scene": "06"
+    },
+    {
+      "text": "Vậy",
+      "start": 79.343,
+      "end": 79.483,
+      "scene": "06"
+    },
+    {
+      "text": "câu",
+      "start": 79.543,
+      "end": 79.664,
+      "scene": "06"
+    },
+    {
+      "text": "hỏi",
+      "start": 79.724,
+      "end": 79.864,
+      "scene": "06"
+    },
+    {
+      "text": "thật",
+      "start": 79.924,
+      "end": 80.044,
+      "scene": "06"
+    },
+    {
+      "text": "sự",
+      "start": 80.145,
+      "end": 80.265,
+      "scene": "06"
+    },
+    {
+      "text": "là:",
+      "start": 80.345,
+      "end": 80.525,
+      "scene": "06"
+    },
+    {
+      "text": "cách",
+      "start": 80.786,
+      "end": 80.926,
+      "scene": "06"
+    },
+    {
+      "text": "nào",
+      "start": 81.007,
+      "end": 81.187,
+      "scene": "06"
+    },
+    {
+      "text": "làm",
+      "start": 81.307,
+      "end": 81.427,
+      "scene": "06"
+    },
+    {
+      "text": "vỡ",
+      "start": 81.548,
+      "end": 81.688,
+      "scene": "06"
+    },
+    {
+      "text": "ít",
+      "start": 81.788,
+      "end": 81.868,
+      "scene": "06"
+    },
+    {
+      "text": "tế",
+      "start": 81.949,
+      "end": 82.089,
+      "scene": "06"
+    },
+    {
+      "text": "bào",
+      "start": 82.129,
+      "end": 82.249,
+      "scene": "06"
+    },
+    {
+      "text": "nhất?",
+      "start": 82.329,
+      "end": 82.47,
+      "scene": "06"
+    },
+    {
+      "text": "Hãy",
+      "start": 83.03,
+      "end": 83.15,
+      "scene": "07"
+    },
+    {
+      "text": "phóng",
+      "start": 83.19,
+      "end": 83.33,
+      "scene": "07"
+    },
+    {
+      "text": "to",
+      "start": 83.41,
+      "end": 83.59,
+      "scene": "07"
+    },
+    {
+      "text": "vào",
+      "start": 83.65,
+      "end": 83.75,
+      "scene": "07"
+    },
+    {
+      "text": "một",
+      "start": 83.77,
+      "end": 83.89,
+      "scene": "07"
+    },
+    {
+      "text": "tế",
+      "start": 83.93,
+      "end": 84.05,
+      "scene": "07"
+    },
+    {
+      "text": "bào",
+      "start": 84.09,
+      "end": 84.231,
+      "scene": "07"
+    },
+    {
+      "text": "hành.",
+      "start": 84.311,
+      "end": 84.471,
+      "scene": "07"
+    },
+    {
+      "text": "Ở",
+      "start": 85.011,
+      "end": 85.051,
+      "scene": "07"
+    },
+    {
+      "text": "một",
+      "start": 85.091,
+      "end": 85.211,
+      "scene": "07"
+    },
+    {
+      "text": "ngăn",
+      "start": 85.271,
+      "end": 85.431,
+      "scene": "07"
+    },
+    {
+      "text": "là",
+      "start": 85.551,
+      "end": 85.651,
+      "scene": "07"
+    },
+    {
+      "text": "những",
+      "start": 85.691,
+      "end": 85.831,
+      "scene": "07"
+    },
+    {
+      "text": "phân",
+      "start": 85.871,
+      "end": 86.011,
+      "scene": "07"
+    },
+    {
+      "text": "tử",
+      "start": 86.091,
+      "end": 86.231,
+      "scene": "07"
+    },
+    {
+      "text": "chứa",
+      "start": 86.311,
+      "end": 86.451,
+      "scene": "07"
+    },
+    {
+      "text": "lưu",
+      "start": 86.491,
+      "end": 86.611,
+      "scene": "07"
+    },
+    {
+      "text": "huỳnh.",
+      "start": 86.671,
+      "end": 86.832,
+      "scene": "07"
+    },
+    {
+      "text": "Ở",
+      "start": 87.292,
+      "end": 87.352,
+      "scene": "07"
+    },
+    {
+      "text": "ngăn",
+      "start": 87.392,
+      "end": 87.532,
+      "scene": "07"
+    },
+    {
+      "text": "kia",
+      "start": 87.632,
+      "end": 87.832,
+      "scene": "07"
+    },
+    {
+      "text": "là",
+      "start": 87.892,
+      "end": 87.972,
+      "scene": "07"
+    },
+    {
+      "text": "một",
+      "start": 88.012,
+      "end": 88.132,
+      "scene": "07"
+    },
+    {
+      "text": "enzyme,",
+      "start": 88.292,
+      "end": 88.632,
+      "scene": "07"
+    },
+    {
+      "text": "giống",
+      "start": 88.952,
+      "end": 89.092,
+      "scene": "07"
+    },
+    {
+      "text": "như",
+      "start": 89.152,
+      "end": 89.273,
+      "scene": "07"
+    },
+    {
+      "text": "một",
+      "start": 89.313,
+      "end": 89.413,
+      "scene": "07"
+    },
+    {
+      "text": "chiếc",
+      "start": 89.453,
+      "end": 89.593,
+      "scene": "07"
+    },
+    {
+      "text": "kéo",
+      "start": 89.653,
+      "end": 89.773,
+      "scene": "07"
+    },
+    {
+      "text": "phân",
+      "start": 89.853,
+      "end": 89.973,
+      "scene": "07"
+    },
+    {
+      "text": "tử.",
+      "start": 90.033,
+      "end": 90.213,
+      "scene": "07"
+    },
+    {
+      "text": "Khi",
+      "start": 90.473,
+      "end": 90.593,
+      "scene": "07"
+    },
+    {
+      "text": "màng",
+      "start": 90.653,
+      "end": 90.793,
+      "scene": "07"
+    },
+    {
+      "text": "ngăn",
+      "start": 90.833,
+      "end": 90.993,
+      "scene": "07"
+    },
+    {
+      "text": "rách,",
+      "start": 91.053,
+      "end": 91.213,
+      "scene": "07"
+    },
+    {
+      "text": "chiếc",
+      "start": 91.453,
+      "end": 91.593,
+      "scene": "07"
+    },
+    {
+      "text": "kéo",
+      "start": 91.653,
+      "end": 91.794,
+      "scene": "07"
+    },
+    {
+      "text": "cắt",
+      "start": 91.874,
+      "end": 92.014,
+      "scene": "07"
+    },
+    {
+      "text": "các",
+      "start": 92.094,
+      "end": 92.214,
+      "scene": "07"
+    },
+    {
+      "text": "phân",
+      "start": 92.254,
+      "end": 92.394,
+      "scene": "07"
+    },
+    {
+      "text": "tử",
+      "start": 92.474,
+      "end": 92.614,
+      "scene": "07"
+    },
+    {
+      "text": "lưu",
+      "start": 92.694,
+      "end": 92.834,
+      "scene": "07"
+    },
+    {
+      "text": "huỳnh",
+      "start": 92.914,
+      "end": 93.054,
+      "scene": "07"
+    },
+    {
+      "text": "thành",
+      "start": 93.114,
+      "end": 93.274,
+      "scene": "07"
+    },
+    {
+      "text": "một",
+      "start": 93.334,
+      "end": 93.434,
+      "scene": "07"
+    },
+    {
+      "text": "chất",
+      "start": 93.474,
+      "end": 93.614,
+      "scene": "07"
+    },
+    {
+      "text": "trung",
+      "start": 93.674,
+      "end": 93.814,
+      "scene": "07"
+    },
+    {
+      "text": "gian.",
+      "start": 93.894,
+      "end": 94.094,
+      "scene": "07"
+    },
+    {
+      "text": "Rồi",
+      "start": 94.675,
+      "end": 94.795,
+      "scene": "07"
+    },
+    {
+      "text": "một",
+      "start": 94.835,
+      "end": 94.935,
+      "scene": "07"
+    },
+    {
+      "text": "enzyme",
+      "start": 95.035,
+      "end": 95.275,
+      "scene": "07"
+    },
+    {
+      "text": "thứ",
+      "start": 95.315,
+      "end": 95.455,
+      "scene": "07"
+    },
+    {
+      "text": "hai",
+      "start": 95.495,
+      "end": 95.615,
+      "scene": "07"
+    },
+    {
+      "text": "nhanh",
+      "start": 95.655,
+      "end": 95.795,
+      "scene": "07"
+    },
+    {
+      "text": "tay",
+      "start": 95.855,
+      "end": 95.975,
+      "scene": "07"
+    },
+    {
+      "text": "biến",
+      "start": 96.035,
+      "end": 96.155,
+      "scene": "07"
+    },
+    {
+      "text": "chất",
+      "start": 96.195,
+      "end": 96.315,
+      "scene": "07"
+    },
+    {
+      "text": "trung",
+      "start": 96.375,
+      "end": 96.515,
+      "scene": "07"
+    },
+    {
+      "text": "gian",
+      "start": 96.575,
+      "end": 96.715,
+      "scene": "07"
+    },
+    {
+      "text": "ấy",
+      "start": 96.836,
+      "end": 96.916,
+      "scene": "07"
+    },
+    {
+      "text": "thành",
+      "start": 96.996,
+      "end": 97.136,
+      "scene": "07"
+    },
+    {
+      "text": "khí",
+      "start": 97.216,
+      "end": 97.376,
+      "scene": "07"
+    },
+    {
+      "text": "cay.",
+      "start": 97.456,
+      "end": 97.636,
+      "scene": "07"
+    },
+    {
+      "text": "Khí",
+      "start": 98.116,
+      "end": 98.256,
+      "scene": "07"
+    },
+    {
+      "text": "bay",
+      "start": 98.296,
+      "end": 98.416,
+      "scene": "07"
+    },
+    {
+      "text": "lên",
+      "start": 98.476,
+      "end": 98.616,
+      "scene": "07"
+    },
+    {
+      "text": "mắt.",
+      "start": 98.656,
+      "end": 98.796,
+      "scene": "07"
+    },
+    {
+      "text": "Dây",
+      "start": 99.116,
+      "end": 99.216,
+      "scene": "07"
+    },
+    {
+      "text": "thần",
+      "start": 99.256,
+      "end": 99.397,
+      "scene": "07"
+    },
+    {
+      "text": "kinh",
+      "start": 99.457,
+      "end": 99.597,
+      "scene": "07"
+    },
+    {
+      "text": "ở",
+      "start": 99.737,
+      "end": 99.797,
+      "scene": "07"
+    },
+    {
+      "text": "giác",
+      "start": 99.837,
+      "end": 99.977,
+      "scene": "07"
+    },
+    {
+      "text": "mạc",
+      "start": 100.037,
+      "end": 100.157,
+      "scene": "07"
+    },
+    {
+      "text": "báo",
+      "start": 100.217,
+      "end": 100.357,
+      "scene": "07"
+    },
+    {
+      "text": "về",
+      "start": 100.437,
+      "end": 100.557,
+      "scene": "07"
+    },
+    {
+      "text": "não.",
+      "start": 100.597,
+      "end": 100.797,
+      "scene": "07"
+    },
+    {
+      "text": "Và",
+      "start": 101.297,
+      "end": 101.397,
+      "scene": "07"
+    },
+    {
+      "text": "não",
+      "start": 101.457,
+      "end": 101.597,
+      "scene": "07"
+    },
+    {
+      "text": "ra",
+      "start": 101.657,
+      "end": 101.777,
+      "scene": "07"
+    },
+    {
+      "text": "lệnh",
+      "start": 101.818,
+      "end": 101.958,
+      "scene": "07"
+    },
+    {
+      "text": "cho",
+      "start": 102.018,
+      "end": 102.138,
+      "scene": "07"
+    },
+    {
+      "text": "tuyến",
+      "start": 102.178,
+      "end": 102.338,
+      "scene": "07"
+    },
+    {
+      "text": "lệ:",
+      "start": 102.378,
+      "end": 102.538,
+      "scene": "07"
+    },
+    {
+      "text": "xả",
+      "start": 102.718,
+      "end": 102.858,
+      "scene": "07"
+    },
+    {
+      "text": "nước,",
+      "start": 102.918,
+      "end": 103.098,
+      "scene": "07"
+    },
+    {
+      "text": "rửa",
+      "start": 103.478,
+      "end": 103.618,
+      "scene": "07"
+    },
+    {
+      "text": "sạch",
+      "start": 103.658,
+      "end": 103.798,
+      "scene": "07"
+    },
+    {
+      "text": "nó",
+      "start": 103.858,
+      "end": 103.958,
+      "scene": "07"
+    },
+    {
+      "text": "đi.",
+      "start": 103.998,
+      "end": 104.158,
+      "scene": "07"
+    },
+    {
+      "text": "Nước",
+      "start": 104.599,
+      "end": 104.719,
+      "scene": "07"
+    },
+    {
+      "text": "mắt",
+      "start": 104.779,
+      "end": 104.899,
+      "scene": "07"
+    },
+    {
+      "text": "lúc",
+      "start": 104.999,
+      "end": 105.099,
+      "scene": "07"
+    },
+    {
+      "text": "này",
+      "start": 105.159,
+      "end": 105.299,
+      "scene": "07"
+    },
+    {
+      "text": "không",
+      "start": 105.399,
+      "end": 105.539,
+      "scene": "07"
+    },
+    {
+      "text": "phải",
+      "start": 105.579,
+      "end": 105.699,
+      "scene": "07"
+    },
+    {
+      "text": "vì",
+      "start": 105.759,
+      "end": 105.879,
+      "scene": "07"
+    },
+    {
+      "text": "buồn.",
+      "start": 105.939,
+      "end": 106.139,
+      "scene": "07"
+    },
+    {
+      "text": "Đó",
+      "start": 106.619,
+      "end": 106.759,
+      "scene": "07"
+    },
+    {
+      "text": "là",
+      "start": 106.799,
+      "end": 106.88,
+      "scene": "07"
+    },
+    {
+      "text": "một",
+      "start": 106.92,
+      "end": 107.04,
+      "scene": "07"
+    },
+    {
+      "text": "phản",
+      "start": 107.1,
+      "end": 107.24,
+      "scene": "07"
+    },
+    {
+      "text": "xạ",
+      "start": 107.32,
+      "end": 107.48,
+      "scene": "07"
+    },
+    {
+      "text": "bảo",
+      "start": 107.56,
+      "end": 107.68,
+      "scene": "07"
+    },
+    {
+      "text": "vệ.",
+      "start": 107.74,
+      "end": 107.94,
+      "scene": "07"
+    },
+    {
+      "text": "Giờ",
+      "start": 108.6,
+      "end": 108.74,
+      "scene": "08"
+    },
+    {
+      "text": "hãy",
+      "start": 108.78,
+      "end": 108.9,
+      "scene": "08"
+    },
+    {
+      "text": "nhìn",
+      "start": 108.94,
+      "end": 109.08,
+      "scene": "08"
+    },
+    {
+      "text": "lưỡi",
+      "start": 109.16,
+      "end": 109.281,
+      "scene": "08"
+    },
+    {
+      "text": "dao",
+      "start": 109.341,
+      "end": 109.481,
+      "scene": "08"
+    },
+    {
+      "text": "thật",
+      "start": 109.541,
+      "end": 109.681,
+      "scene": "08"
+    },
+    {
+      "text": "gần.",
+      "start": 109.761,
+      "end": 109.921,
+      "scene": "08"
+    },
+    {
+      "text": "Lưỡi",
+      "start": 110.421,
+      "end": 110.561,
+      "scene": "08"
+    },
+    {
+      "text": "dao",
+      "start": 110.601,
+      "end": 110.742,
+      "scene": "08"
+    },
+    {
+      "text": "sắc",
+      "start": 110.822,
+      "end": 110.942,
+      "scene": "08"
+    },
+    {
+      "text": "có",
+      "start": 111.062,
+      "end": 111.162,
+      "scene": "08"
+    },
+    {
+      "text": "mũi",
+      "start": 111.202,
+      "end": 111.342,
+      "scene": "08"
+    },
+    {
+      "text": "rất",
+      "start": 111.402,
+      "end": 111.522,
+      "scene": "08"
+    },
+    {
+      "text": "mỏng.",
+      "start": 111.602,
+      "end": 111.762,
+      "scene": "08"
+    },
+    {
+      "text": "Nó",
+      "start": 112.083,
+      "end": 112.183,
+      "scene": "08"
+    },
+    {
+      "text": "cắt",
+      "start": 112.223,
+      "end": 112.343,
+      "scene": "08"
+    },
+    {
+      "text": "gọn",
+      "start": 112.403,
+      "end": 112.543,
+      "scene": "08"
+    },
+    {
+      "text": "qua",
+      "start": 112.643,
+      "end": 112.763,
+      "scene": "08"
+    },
+    {
+      "text": "từng",
+      "start": 112.823,
+      "end": 112.963,
+      "scene": "08"
+    },
+    {
+      "text": "tế",
+      "start": 113.043,
+      "end": 113.163,
+      "scene": "08"
+    },
+    {
+      "text": "bào.",
+      "start": 113.223,
+      "end": 113.383,
+      "scene": "08"
+    },
+    {
+      "text": "Lưỡi",
+      "start": 113.724,
+      "end": 113.824,
+      "scene": "08"
+    },
+    {
+      "text": "dao",
+      "start": 113.884,
+      "end": 114.024,
+      "scene": "08"
+    },
+    {
+      "text": "cùn",
+      "start": 114.104,
+      "end": 114.264,
+      "scene": "08"
+    },
+    {
+      "text": "có",
+      "start": 114.344,
+      "end": 114.464,
+      "scene": "08"
+    },
+    {
+      "text": "mũi",
+      "start": 114.504,
+      "end": 114.644,
+      "scene": "08"
+    },
+    {
+      "text": "tù.",
+      "start": 114.704,
+      "end": 114.904,
+      "scene": "08"
+    },
+    {
+      "text": "Nó",
+      "start": 115.205,
+      "end": 115.305,
+      "scene": "08"
+    },
+    {
+      "text": "phải",
+      "start": 115.325,
+      "end": 115.445,
+      "scene": "08"
+    },
+    {
+      "text": "đè",
+      "start": 115.465,
+      "end": 115.605,
+      "scene": "08"
+    },
+    {
+      "text": "mạnh",
+      "start": 115.665,
+      "end": 115.805,
+      "scene": "08"
+    },
+    {
+      "text": "hơn,",
+      "start": 115.885,
+      "end": 116.045,
+      "scene": "08"
+    },
+    {
+      "text": "ép",
+      "start": 116.365,
+      "end": 116.426,
+      "scene": "08"
+    },
+    {
+      "text": "bẹp",
+      "start": 116.486,
+      "end": 116.626,
+      "scene": "08"
+    },
+    {
+      "text": "cả",
+      "start": 116.706,
+      "end": 116.806,
+      "scene": "08"
+    },
+    {
+      "text": "một",
+      "start": 116.846,
+      "end": 116.966,
+      "scene": "08"
+    },
+    {
+      "text": "vùng",
+      "start": 117.026,
+      "end": 117.166,
+      "scene": "08"
+    },
+    {
+      "text": "mô",
+      "start": 117.246,
+      "end": 117.406,
+      "scene": "08"
+    },
+    {
+      "text": "trước",
+      "start": 117.526,
+      "end": 117.666,
+      "scene": "08"
+    },
+    {
+      "text": "khi",
+      "start": 117.706,
+      "end": 117.826,
+      "scene": "08"
+    },
+    {
+      "text": "xuyên",
+      "start": 117.907,
+      "end": 118.067,
+      "scene": "08"
+    },
+    {
+      "text": "qua.",
+      "start": 118.127,
+      "end": 118.347,
+      "scene": "08"
+    },
+    {
+      "text": "Năm",
+      "start": 118.927,
+      "end": 119.047,
+      "scene": "08"
+    },
+    {
+      "text": "2025,",
+      "start": 119.428,
+      "end": 120.108,
+      "scene": "08"
+    },
+    {
+      "text": "các",
+      "start": 120.448,
+      "end": 120.568,
+      "scene": "08"
+    },
+    {
+      "text": "nhà",
+      "start": 120.608,
+      "end": 120.729,
+      "scene": "08"
+    },
+    {
+      "text": "khoa",
+      "start": 120.769,
+      "end": 120.909,
+      "scene": "08"
+    },
+    {
+      "text": "học",
+      "start": 120.929,
+      "end": 121.049,
+      "scene": "08"
+    },
+    {
+      "text": "ở",
+      "start": 121.189,
+      "end": 121.229,
+      "scene": "08"
+    },
+    {
+      "text": "Đại",
+      "start": 121.249,
+      "end": 121.369,
+      "scene": "08"
+    },
+    {
+      "text": "học",
+      "start": 121.409,
+      "end": 121.509,
+      "scene": "08"
+    },
+    {
+      "text": "Cornell",
+      "start": 121.569,
+      "end": 121.949,
+      "scene": "08"
+    },
+    {
+      "text": "đã",
+      "start": 122.049,
+      "end": 122.149,
+      "scene": "08"
+    },
+    {
+      "text": "quay",
+      "start": 122.19,
+      "end": 122.33,
+      "scene": "08"
+    },
+    {
+      "text": "chậm",
+      "start": 122.37,
+      "end": 122.51,
+      "scene": "08"
+    },
+    {
+      "text": "cảnh",
+      "start": 122.59,
+      "end": 122.73,
+      "scene": "08"
+    },
+    {
+      "text": "này.",
+      "start": 122.77,
+      "end": 122.93,
+      "scene": "08"
+    },
+    {
+      "text": "Máy",
+      "start": 123.47,
+      "end": 123.59,
+      "scene": "08"
+    },
+    {
+      "text": "quay",
+      "start": 123.651,
+      "end": 123.791,
+      "scene": "08"
+    },
+    {
+      "text": "của",
+      "start": 123.851,
+      "end": 123.971,
+      "scene": "08"
+    },
+    {
+      "text": "họ",
+      "start": 124.011,
+      "end": 124.111,
+      "scene": "08"
+    },
+    {
+      "text": "chụp",
+      "start": 124.191,
+      "end": 124.331,
+      "scene": "08"
+    },
+    {
+      "text": "hàng",
+      "start": 124.391,
+      "end": 124.511,
+      "scene": "08"
+    },
+    {
+      "text": "nghìn",
+      "start": 124.551,
+      "end": 124.691,
+      "scene": "08"
+    },
+    {
+      "text": "khung",
+      "start": 124.771,
+      "end": 124.911,
+      "scene": "08"
+    },
+    {
+      "text": "hình",
+      "start": 124.971,
+      "end": 125.092,
+      "scene": "08"
+    },
+    {
+      "text": "mỗi",
+      "start": 125.172,
+      "end": 125.312,
+      "scene": "08"
+    },
+    {
+      "text": "giây.",
+      "start": 125.392,
+      "end": 125.552,
+      "scene": "08"
+    },
+    {
+      "text": "Lưỡi",
+      "start": 126.152,
+      "end": 126.272,
+      "scene": "08"
+    },
+    {
+      "text": "dao",
+      "start": 126.332,
+      "end": 126.472,
+      "scene": "08"
+    },
+    {
+      "text": "cùn",
+      "start": 126.553,
+      "end": 126.713,
+      "scene": "08"
+    },
+    {
+      "text": "nhất",
+      "start": 126.773,
+      "end": 126.913,
+      "scene": "08"
+    },
+    {
+      "text": "làm",
+      "start": 127.093,
+      "end": 127.213,
+      "scene": "08"
+    },
+    {
+      "text": "số",
+      "start": 127.273,
+      "end": 127.413,
+      "scene": "08"
+    },
+    {
+      "text": "giọt",
+      "start": 127.473,
+      "end": 127.613,
+      "scene": "08"
+    },
+    {
+      "text": "bắn",
+      "start": 127.693,
+      "end": 127.833,
+      "scene": "08"
+    },
+    {
+      "text": "ra",
+      "start": 127.913,
+      "end": 128.054,
+      "scene": "08"
+    },
+    {
+      "text": "nhiều",
+      "start": 128.114,
+      "end": 128.274,
+      "scene": "08"
+    },
+    {
+      "text": "gấp",
+      "start": 128.354,
+      "end": 128.474,
+      "scene": "08"
+    },
+    {
+      "text": "khoảng",
+      "start": 128.534,
+      "end": 128.714,
+      "scene": "08"
+    },
+    {
+      "text": "bốn",
+      "start": 128.814,
+      "end": 128.954,
+      "scene": "08"
+    },
+    {
+      "text": "mươi",
+      "start": 128.994,
+      "end": 129.114,
+      "scene": "08"
+    },
+    {
+      "text": "lần",
+      "start": 129.134,
+      "end": 129.254,
+      "scene": "08"
+    },
+    {
+      "text": "lưỡi",
+      "start": 129.334,
+      "end": 129.455,
+      "scene": "08"
+    },
+    {
+      "text": "sắc",
+      "start": 129.495,
+      "end": 129.615,
+      "scene": "08"
+    },
+    {
+      "text": "nhất.",
+      "start": 129.675,
+      "end": 129.815,
+      "scene": "08"
+    },
+    {
+      "text": "Có",
+      "start": 130.275,
+      "end": 130.375,
+      "scene": "08"
+    },
+    {
+      "text": "những",
+      "start": 130.395,
+      "end": 130.535,
+      "scene": "08"
+    },
+    {
+      "text": "giọt",
+      "start": 130.575,
+      "end": 130.715,
+      "scene": "08"
+    },
+    {
+      "text": "bay",
+      "start": 130.775,
+      "end": 130.896,
+      "scene": "08"
+    },
+    {
+      "text": "đi",
+      "start": 130.976,
+      "end": 131.156,
+      "scene": "08"
+    },
+    {
+      "text": "với",
+      "start": 131.256,
+      "end": 131.376,
+      "scene": "08"
+    },
+    {
+      "text": "tốc",
+      "start": 131.436,
+      "end": 131.556,
+      "scene": "08"
+    },
+    {
+      "text": "độ",
+      "start": 131.596,
+      "end": 131.736,
+      "scene": "08"
+    },
+    {
+      "text": "tới",
+      "start": 131.856,
+      "end": 131.976,
+      "scene": "08"
+    },
+    {
+      "text": "bốn",
+      "start": 132.036,
+      "end": 132.156,
+      "scene": "08"
+    },
+    {
+      "text": "mươi",
+      "start": 132.196,
+      "end": 132.337,
+      "scene": "08"
+    },
+    {
+      "text": "mét",
+      "start": 132.357,
+      "end": 132.517,
+      "scene": "08"
+    },
+    {
+      "text": "mỗi",
+      "start": 132.617,
+      "end": 132.757,
+      "scene": "08"
+    },
+    {
+      "text": "giây.",
+      "start": 132.817,
+      "end": 132.977,
+      "scene": "08"
+    },
+    {
+      "text": "Còn",
+      "start": 133.417,
+      "end": 133.577,
+      "scene": "08"
+    },
+    {
+      "text": "tốc",
+      "start": 133.698,
+      "end": 133.818,
+      "scene": "08"
+    },
+    {
+      "text": "độ",
+      "start": 133.858,
+      "end": 133.978,
+      "scene": "08"
+    },
+    {
+      "text": "cắt?",
+      "start": 134.038,
+      "end": 134.198,
+      "scene": "08"
+    },
+    {
+      "text": "Cắt",
+      "start": 134.418,
+      "end": 134.538,
+      "scene": "08"
+    },
+    {
+      "text": "càng",
+      "start": 134.618,
+      "end": 134.778,
+      "scene": "08"
+    },
+    {
+      "text": "nhanh,",
+      "start": 134.838,
+      "end": 135.018,
+      "scene": "08"
+    },
+    {
+      "text": "số",
+      "start": 135.279,
+      "end": 135.419,
+      "scene": "08"
+    },
+    {
+      "text": "giọt",
+      "start": 135.459,
+      "end": 135.619,
+      "scene": "08"
+    },
+    {
+      "text": "cũng",
+      "start": 135.679,
+      "end": 135.819,
+      "scene": "08"
+    },
+    {
+      "text": "càng",
+      "start": 135.859,
+      "end": 135.999,
+      "scene": "08"
+    },
+    {
+      "text": "tăng,",
+      "start": 136.079,
+      "end": 136.239,
+      "scene": "08"
+    },
+    {
+      "text": "khoảng",
+      "start": 136.459,
+      "end": 136.64,
+      "scene": "08"
+    },
+    {
+      "text": "bốn",
+      "start": 136.72,
+      "end": 136.86,
+      "scene": "08"
+    },
+    {
+      "text": "lần.",
+      "start": 136.92,
+      "end": 137.08,
+      "scene": "08"
+    },
+    {
+      "text": "Giờ",
+      "start": 137.82,
+      "end": 137.98,
+      "scene": "09"
+    },
+    {
+      "text": "hãy",
+      "start": 138.02,
+      "end": 138.14,
+      "scene": "09"
+    },
+    {
+      "text": "loại",
+      "start": 138.18,
+      "end": 138.32,
+      "scene": "09"
+    },
+    {
+      "text": "trừ",
+      "start": 138.38,
+      "end": 138.56,
+      "scene": "09"
+    },
+    {
+      "text": "từng",
+      "start": 138.661,
+      "end": 138.781,
+      "scene": "09"
+    },
+    {
+      "text": "phương",
+      "start": 138.841,
+      "end": 139.001,
+      "scene": "09"
+    },
+    {
+      "text": "án.",
+      "start": 139.121,
+      "end": 139.201,
+      "scene": "09"
+    },
+    {
+      "text": "Phương",
+      "start": 139.501,
+      "end": 139.661,
+      "scene": "09"
+    },
+    {
+      "text": "án",
+      "start": 139.741,
+      "end": 139.801,
+      "scene": "09"
+    },
+    {
+      "text": "A:",
+      "start": 139.981,
+      "end": 140.061,
+      "scene": "09"
+    },
+    {
+      "text": "dao",
+      "start": 140.281,
+      "end": 140.402,
+      "scene": "09"
+    },
+    {
+      "text": "cùn",
+      "start": 140.462,
+      "end": 140.622,
+      "scene": "09"
+    },
+    {
+      "text": "lại",
+      "start": 140.722,
+      "end": 140.822,
+      "scene": "09"
+    },
+    {
+      "text": "cắt",
+      "start": 140.882,
+      "end": 141.002,
+      "scene": "09"
+    },
+    {
+      "text": "nhanh.",
+      "start": 141.062,
+      "end": 141.222,
+      "scene": "09"
+    },
+    {
+      "text": "Cả",
+      "start": 141.562,
+      "end": 141.702,
+      "scene": "09"
+    },
+    {
+      "text": "hai",
+      "start": 141.742,
+      "end": 141.862,
+      "scene": "09"
+    },
+    {
+      "text": "yếu",
+      "start": 141.942,
+      "end": 142.043,
+      "scene": "09"
+    },
+    {
+      "text": "tố",
+      "start": 142.103,
+      "end": 142.243,
+      "scene": "09"
+    },
+    {
+      "text": "đều",
+      "start": 142.303,
+      "end": 142.443,
+      "scene": "09"
+    },
+    {
+      "text": "xấu.",
+      "start": 142.543,
+      "end": 142.723,
+      "scene": "09"
+    },
+    {
+      "text": "Loại.",
+      "start": 143.043,
+      "end": 143.223,
+      "scene": "09"
+    },
+    {
+      "text": "Phương",
+      "start": 143.343,
+      "end": 143.503,
+      "scene": "09"
+    },
+    {
+      "text": "án",
+      "start": 143.563,
+      "end": 143.643,
+      "scene": "09"
+    },
+    {
+      "text": "C:",
+      "start": 143.744,
+      "end": 143.944,
+      "scene": "09"
+    },
+    {
+      "text": "cắt",
+      "start": 144.044,
+      "end": 144.164,
+      "scene": "09"
+    },
+    {
+      "text": "chậm",
+      "start": 144.244,
+      "end": 144.384,
+      "scene": "09"
+    },
+    {
+      "text": "thì",
+      "start": 144.504,
+      "end": 144.624,
+      "scene": "09"
+    },
+    {
+      "text": "đỡ",
+      "start": 144.664,
+      "end": 144.804,
+      "scene": "09"
+    },
+    {
+      "text": "hơn,",
+      "start": 144.844,
+      "end": 145.004,
+      "scene": "09"
+    },
+    {
+      "text": "nhưng",
+      "start": 145.284,
+      "end": 145.424,
+      "scene": "09"
+    },
+    {
+      "text": "mũi",
+      "start": 145.444,
+      "end": 145.585,
+      "scene": "09"
+    },
+    {
+      "text": "dao",
+      "start": 145.625,
+      "end": 145.745,
+      "scene": "09"
+    },
+    {
+      "text": "tù",
+      "start": 145.805,
+      "end": 145.985,
+      "scene": "09"
+    },
+    {
+      "text": "vẫn",
+      "start": 146.065,
+      "end": 146.185,
+      "scene": "09"
+    },
+    {
+      "text": "ép",
+      "start": 146.285,
+      "end": 146.325,
+      "scene": "09"
+    },
+    {
+      "text": "vỡ",
+      "start": 146.405,
+      "end": 146.545,
+      "scene": "09"
+    },
+    {
+      "text": "rất",
+      "start": 146.605,
+      "end": 146.705,
+      "scene": "09"
+    },
+    {
+      "text": "nhiều",
+      "start": 146.765,
+      "end": 146.905,
+      "scene": "09"
+    },
+    {
+      "text": "tế",
+      "start": 146.945,
+      "end": 147.065,
+      "scene": "09"
+    },
+    {
+      "text": "bào.",
+      "start": 147.105,
+      "end": 147.286,
+      "scene": "09"
+    },
+    {
+      "text": "Loại.",
+      "start": 147.606,
+      "end": 147.786,
+      "scene": "09"
+    },
+    {
+      "text": "Còn",
+      "start": 147.926,
+      "end": 148.026,
+      "scene": "09"
+    },
+    {
+      "text": "lại",
+      "start": 148.066,
+      "end": 148.186,
+      "scene": "09"
+    },
+    {
+      "text": "phương",
+      "start": 148.246,
+      "end": 148.406,
+      "scene": "09"
+    },
+    {
+      "text": "án",
+      "start": 148.466,
+      "end": 148.526,
+      "scene": "09"
+    },
+    {
+      "text": "B:",
+      "start": 148.586,
+      "end": 148.766,
+      "scene": "09"
+    },
+    {
+      "text": "dao",
+      "start": 148.886,
+      "end": 149.027,
+      "scene": "09"
+    },
+    {
+      "text": "sắc,",
+      "start": 149.107,
+      "end": 149.247,
+      "scene": "09"
+    },
+    {
+      "text": "cắt",
+      "start": 149.387,
+      "end": 149.507,
+      "scene": "09"
+    },
+    {
+      "text": "chậm",
+      "start": 149.567,
+      "end": 149.707,
+      "scene": "09"
+    },
+    {
+      "text": "rãi.",
+      "start": 149.787,
+      "end": 149.987,
+      "scene": "09"
+    },
+    {
+      "text": "Ít",
+      "start": 150.587,
+      "end": 150.648,
+      "scene": "09"
+    },
+    {
+      "text": "tế",
+      "start": 150.708,
+      "end": 150.828,
+      "scene": "09"
+    },
+    {
+      "text": "bào",
+      "start": 150.888,
+      "end": 151.048,
+      "scene": "09"
+    },
+    {
+      "text": "vỡ",
+      "start": 151.148,
+      "end": 151.288,
+      "scene": "09"
+    },
+    {
+      "text": "nhất,",
+      "start": 151.328,
+      "end": 151.488,
+      "scene": "09"
+    },
+    {
+      "text": "ít",
+      "start": 151.788,
+      "end": 151.848,
+      "scene": "09"
+    },
+    {
+      "text": "nước",
+      "start": 151.908,
+      "end": 152.028,
+      "scene": "09"
+    },
+    {
+      "text": "hành",
+      "start": 152.068,
+      "end": 152.208,
+      "scene": "09"
+    },
+    {
+      "text": "bắn",
+      "start": 152.308,
+      "end": 152.449,
+      "scene": "09"
+    },
+    {
+      "text": "ra",
+      "start": 152.509,
+      "end": 152.629,
+      "scene": "09"
+    },
+    {
+      "text": "nhất,",
+      "start": 152.649,
+      "end": 152.809,
+      "scene": "09"
+    },
+    {
+      "text": "và",
+      "start": 153.049,
+      "end": 153.169,
+      "scene": "09"
+    },
+    {
+      "text": "ít",
+      "start": 153.289,
+      "end": 153.349,
+      "scene": "09"
+    },
+    {
+      "text": "nguyên",
+      "start": 153.409,
+      "end": 153.569,
+      "scene": "09"
+    },
+    {
+      "text": "liệu",
+      "start": 153.589,
+      "end": 153.749,
+      "scene": "09"
+    },
+    {
+      "text": "để",
+      "start": 153.929,
+      "end": 154.049,
+      "scene": "09"
+    },
+    {
+      "text": "tạo",
+      "start": 154.13,
+      "end": 154.27,
+      "scene": "09"
+    },
+    {
+      "text": "khí",
+      "start": 154.33,
+      "end": 154.47,
+      "scene": "09"
+    },
+    {
+      "text": "cay",
+      "start": 154.53,
+      "end": 154.67,
+      "scene": "09"
+    },
+    {
+      "text": "nhất.",
+      "start": 154.69,
+      "end": 154.85,
+      "scene": "09"
+    },
+    {
+      "text": "Đáp",
+      "start": 155.491,
+      "end": 155.611,
+      "scene": "10"
+    },
+    {
+      "text": "án",
+      "start": 155.731,
+      "end": 155.792,
+      "scene": "10"
+    },
+    {
+      "text": "là",
+      "start": 155.872,
+      "end": 155.992,
+      "scene": "10"
+    },
+    {
+      "text": "B.",
+      "start": 156.073,
+      "end": 156.273,
+      "scene": "10"
+    },
+    {
+      "text": "Bạn",
+      "start": 156.635,
+      "end": 156.775,
+      "scene": "10"
+    },
+    {
+      "text": "chọn",
+      "start": 156.815,
+      "end": 156.956,
+      "scene": "10"
+    },
+    {
+      "text": "con",
+      "start": 157.016,
+      "end": 157.136,
+      "scene": "10"
+    },
+    {
+      "text": "dao",
+      "start": 157.197,
+      "end": 157.317,
+      "scene": "10"
+    },
+    {
+      "text": "sắc,",
+      "start": 157.377,
+      "end": 157.538,
+      "scene": "10"
+    },
+    {
+      "text": "cắt",
+      "start": 157.678,
+      "end": 157.799,
+      "scene": "10"
+    },
+    {
+      "text": "từng",
+      "start": 157.859,
+      "end": 158.0,
+      "scene": "10"
+    },
+    {
+      "text": "nhát",
+      "start": 158.06,
+      "end": 158.2,
+      "scene": "10"
+    },
+    {
+      "text": "chậm",
+      "start": 158.261,
+      "end": 158.401,
+      "scene": "10"
+    },
+    {
+      "text": "rãi.",
+      "start": 158.461,
+      "end": 158.642,
+      "scene": "10"
+    },
+    {
+      "text": "Rổ",
+      "start": 158.923,
+      "end": 159.063,
+      "scene": "10"
+    },
+    {
+      "text": "hành",
+      "start": 159.104,
+      "end": 159.244,
+      "scene": "10"
+    },
+    {
+      "text": "vơi",
+      "start": 159.324,
+      "end": 159.445,
+      "scene": "10"
+    },
+    {
+      "text": "dần,",
+      "start": 159.505,
+      "end": 159.666,
+      "scene": "10"
+    },
+    {
+      "text": "còn",
+      "start": 159.766,
+      "end": 159.886,
+      "scene": "10"
+    },
+    {
+      "text": "mắt",
+      "start": 159.927,
+      "end": 160.047,
+      "scene": "10"
+    },
+    {
+      "text": "bạn",
+      "start": 160.127,
+      "end": 160.248,
+      "scene": "10"
+    },
+    {
+      "text": "vẫn",
+      "start": 160.328,
+      "end": 160.448,
+      "scene": "10"
+    },
+    {
+      "text": "ráo.",
+      "start": 160.509,
+      "end": 160.689,
+      "scene": "10"
+    },
+    {
+      "text": "Còn",
+      "start": 161.31,
+      "end": 161.43,
+      "scene": "11"
+    },
+    {
+      "text": "mẹo",
+      "start": 161.49,
+      "end": 161.63,
+      "scene": "11"
+    },
+    {
+      "text": "quen",
+      "start": 161.73,
+      "end": 161.89,
+      "scene": "11"
+    },
+    {
+      "text": "thuộc:",
+      "start": 161.95,
+      "end": 162.13,
+      "scene": "11"
+    },
+    {
+      "text": "cho",
+      "start": 162.43,
+      "end": 162.55,
+      "scene": "11"
+    },
+    {
+      "text": "hành",
+      "start": 162.59,
+      "end": 162.71,
+      "scene": "11"
+    },
+    {
+      "text": "vào",
+      "start": 162.77,
+      "end": 162.87,
+      "scene": "11"
+    },
+    {
+      "text": "tủ",
+      "start": 162.95,
+      "end": 163.091,
+      "scene": "11"
+    },
+    {
+      "text": "lạnh",
+      "start": 163.151,
+      "end": 163.271,
+      "scene": "11"
+    },
+    {
+      "text": "trước",
+      "start": 163.411,
+      "end": 163.531,
+      "scene": "11"
+    },
+    {
+      "text": "khi",
+      "start": 163.571,
+      "end": 163.691,
+      "scene": "11"
+    },
+    {
+      "text": "cắt?",
+      "start": 163.771,
+      "end": 163.911,
+      "scene": "11"
+    },
+    {
+      "text": "Trong",
+      "start": 164.371,
+      "end": 164.511,
+      "scene": "11"
+    },
+    {
+      "text": "cùng",
+      "start": 164.551,
+      "end": 164.691,
+      "scene": "11"
+    },
+    {
+      "text": "thí",
+      "start": 164.751,
+      "end": 164.891,
+      "scene": "11"
+    },
+    {
+      "text": "nghiệm,",
+      "start": 164.931,
+      "end": 165.131,
+      "scene": "11"
+    },
+    {
+      "text": "hành",
+      "start": 165.311,
+      "end": 165.451,
+      "scene": "11"
+    },
+    {
+      "text": "ướp",
+      "start": 165.591,
+      "end": 165.691,
+      "scene": "11"
+    },
+    {
+      "text": "lạnh",
+      "start": 165.771,
+      "end": 165.891,
+      "scene": "11"
+    },
+    {
+      "text": "không",
+      "start": 165.971,
+      "end": 166.111,
+      "scene": "11"
+    },
+    {
+      "text": "hề",
+      "start": 166.151,
+      "end": 166.271,
+      "scene": "11"
+    },
+    {
+      "text": "bắn",
+      "start": 166.311,
+      "end": 166.431,
+      "scene": "11"
+    },
+    {
+      "text": "ra",
+      "start": 166.512,
+      "end": 166.612,
+      "scene": "11"
+    },
+    {
+      "text": "ít",
+      "start": 166.712,
+      "end": 166.772,
+      "scene": "11"
+    },
+    {
+      "text": "giọt",
+      "start": 166.832,
+      "end": 166.972,
+      "scene": "11"
+    },
+    {
+      "text": "hơn.",
+      "start": 167.032,
+      "end": 167.232,
+      "scene": "11"
+    },
+    {
+      "text": "Lượng",
+      "start": 167.832,
+      "end": 167.972,
+      "scene": "11"
+    },
+    {
+      "text": "nước",
+      "start": 168.012,
+      "end": 168.152,
+      "scene": "11"
+    },
+    {
+      "text": "bắn",
+      "start": 168.252,
+      "end": 168.372,
+      "scene": "11"
+    },
+    {
+      "text": "ra",
+      "start": 168.412,
+      "end": 168.532,
+      "scene": "11"
+    },
+    {
+      "text": "thậm",
+      "start": 168.592,
+      "end": 168.712,
+      "scene": "11"
+    },
+    {
+      "text": "chí",
+      "start": 168.792,
+      "end": 168.932,
+      "scene": "11"
+    },
+    {
+      "text": "còn",
+      "start": 169.012,
+      "end": 169.132,
+      "scene": "11"
+    },
+    {
+      "text": "nhiều",
+      "start": 169.192,
+      "end": 169.372,
+      "scene": "11"
+    },
+    {
+      "text": "hơn.",
+      "start": 169.452,
+      "end": 169.632,
+      "scene": "11"
+    },
+    {
+      "text": "Chính",
+      "start": 170.113,
+      "end": 170.253,
+      "scene": "11"
+    },
+    {
+      "text": "các",
+      "start": 170.293,
+      "end": 170.393,
+      "scene": "11"
+    },
+    {
+      "text": "tác",
+      "start": 170.433,
+      "end": 170.533,
+      "scene": "11"
+    },
+    {
+      "text": "giả",
+      "start": 170.593,
+      "end": 170.733,
+      "scene": "11"
+    },
+    {
+      "text": "nói",
+      "start": 170.833,
+      "end": 170.953,
+      "scene": "11"
+    },
+    {
+      "text": "cần",
+      "start": 171.053,
+      "end": 171.193,
+      "scene": "11"
+    },
+    {
+      "text": "thêm",
+      "start": 171.253,
+      "end": 171.413,
+      "scene": "11"
+    },
+    {
+      "text": "thí",
+      "start": 171.493,
+      "end": 171.613,
+      "scene": "11"
+    },
+    {
+      "text": "nghiệm.",
+      "start": 171.653,
+      "end": 171.853,
+      "scene": "11"
+    },
+    {
+      "text": "Nghĩa",
+      "start": 172.193,
+      "end": 172.333,
+      "scene": "11"
+    },
+    {
+      "text": "là",
+      "start": 172.393,
+      "end": 172.493,
+      "scene": "11"
+    },
+    {
+      "text": "mẹo",
+      "start": 172.513,
+      "end": 172.653,
+      "scene": "11"
+    },
+    {
+      "text": "này",
+      "start": 172.713,
+      "end": 172.853,
+      "scene": "11"
+    },
+    {
+      "text": "chưa",
+      "start": 172.993,
+      "end": 173.133,
+      "scene": "11"
+    },
+    {
+      "text": "được",
+      "start": 173.153,
+      "end": 173.273,
+      "scene": "11"
+    },
+    {
+      "text": "chứng",
+      "start": 173.313,
+      "end": 173.474,
+      "scene": "11"
+    },
+    {
+      "text": "minh.",
+      "start": 173.514,
+      "end": 173.674,
+      "scene": "11"
+    },
+    {
+      "text": "Và",
+      "start": 174.234,
+      "end": 174.334,
+      "scene": "11"
+    },
+    {
+      "text": "còn",
+      "start": 174.374,
+      "end": 174.494,
+      "scene": "11"
+    },
+    {
+      "text": "một",
+      "start": 174.534,
+      "end": 174.654,
+      "scene": "11"
+    },
+    {
+      "text": "điều",
+      "start": 174.694,
+      "end": 174.854,
+      "scene": "11"
+    },
+    {
+      "text": "bất",
+      "start": 174.954,
+      "end": 175.054,
+      "scene": "11"
+    },
+    {
+      "text": "ngờ",
+      "start": 175.114,
+      "end": 175.274,
+      "scene": "11"
+    },
+    {
+      "text": "nữa.",
+      "start": 175.334,
+      "end": 175.514,
+      "scene": "11"
+    },
+    {
+      "text": "Mãi",
+      "start": 175.914,
+      "end": 176.054,
+      "scene": "11"
+    },
+    {
+      "text": "tới",
+      "start": 176.094,
+      "end": 176.214,
+      "scene": "11"
+    },
+    {
+      "text": "năm",
+      "start": 176.234,
+      "end": 176.354,
+      "scene": "11"
+    },
+    {
+      "text": "2002,",
+      "start": 176.754,
+      "end": 177.415,
+      "scene": "11"
+    },
+    {
+      "text": "các",
+      "start": 177.795,
+      "end": 177.915,
+      "scene": "11"
+    },
+    {
+      "text": "nhà",
+      "start": 177.935,
+      "end": 178.075,
+      "scene": "11"
+    },
+    {
+      "text": "khoa",
+      "start": 178.115,
+      "end": 178.255,
+      "scene": "11"
+    },
+    {
+      "text": "học",
+      "start": 178.275,
+      "end": 178.395,
+      "scene": "11"
+    },
+    {
+      "text": "mới",
+      "start": 178.495,
+      "end": 178.615,
+      "scene": "11"
+    },
+    {
+      "text": "phát",
+      "start": 178.655,
+      "end": 178.795,
+      "scene": "11"
+    },
+    {
+      "text": "hiện",
+      "start": 178.835,
+      "end": 178.975,
+      "scene": "11"
+    },
+    {
+      "text": "ra",
+      "start": 179.055,
+      "end": 179.175,
+      "scene": "11"
+    },
+    {
+      "text": "enzyme",
+      "start": 179.315,
+      "end": 179.595,
+      "scene": "11"
+    },
+    {
+      "text": "thứ",
+      "start": 179.675,
+      "end": 179.815,
+      "scene": "11"
+    },
+    {
+      "text": "hai,",
+      "start": 179.855,
+      "end": 180.035,
+      "scene": "11"
+    },
+    {
+      "text": "enzyme",
+      "start": 180.315,
+      "end": 180.596,
+      "scene": "11"
+    },
+    {
+      "text": "chuyên",
+      "start": 180.656,
+      "end": 180.816,
+      "scene": "11"
+    },
+    {
+      "text": "tạo",
+      "start": 180.876,
+      "end": 181.016,
+      "scene": "11"
+    },
+    {
+      "text": "khí",
+      "start": 181.076,
+      "end": 181.236,
+      "scene": "11"
+    },
+    {
+      "text": "cay.",
+      "start": 181.316,
+      "end": 181.496,
+      "scene": "11"
+    },
+    {
+      "text": "Trước",
+      "start": 181.776,
+      "end": 181.916,
+      "scene": "11"
+    },
+    {
+      "text": "đó,",
+      "start": 181.976,
+      "end": 182.156,
+      "scene": "11"
+    },
+    {
+      "text": "người",
+      "start": 182.256,
+      "end": 182.396,
+      "scene": "11"
+    },
+    {
+      "text": "ta",
+      "start": 182.436,
+      "end": 182.536,
+      "scene": "11"
+    },
+    {
+      "text": "tưởng",
+      "start": 182.596,
+      "end": 182.736,
+      "scene": "11"
+    },
+    {
+      "text": "khí",
+      "start": 182.816,
+      "end": 182.956,
+      "scene": "11"
+    },
+    {
+      "text": "cay",
+      "start": 183.036,
+      "end": 183.176,
+      "scene": "11"
+    },
+    {
+      "text": "tự",
+      "start": 183.256,
+      "end": 183.376,
+      "scene": "11"
+    },
+    {
+      "text": "sinh",
+      "start": 183.436,
+      "end": 183.576,
+      "scene": "11"
+    },
+    {
+      "text": "ra.",
+      "start": 183.636,
+      "end": 183.836,
+      "scene": "11"
+    },
+    {
+      "text": "Phát",
+      "start": 184.377,
+      "end": 184.497,
+      "scene": "11"
+    },
+    {
+      "text": "hiện",
+      "start": 184.557,
+      "end": 184.677,
+      "scene": "11"
+    },
+    {
+      "text": "ấy",
+      "start": 184.797,
+      "end": 184.857,
+      "scene": "11"
+    },
+    {
+      "text": "mang",
+      "start": 184.957,
+      "end": 185.077,
+      "scene": "11"
+    },
+    {
+      "text": "về",
+      "start": 185.137,
+      "end": 185.277,
+      "scene": "11"
+    },
+    {
+      "text": "cho",
+      "start": 185.317,
+      "end": 185.437,
+      "scene": "11"
+    },
+    {
+      "text": "nhóm",
+      "start": 185.477,
+      "end": 185.637,
+      "scene": "11"
+    },
+    {
+      "text": "nghiên",
+      "start": 185.677,
+      "end": 185.837,
+      "scene": "11"
+    },
+    {
+      "text": "cứu",
+      "start": 185.897,
+      "end": 186.017,
+      "scene": "11"
+    },
+    {
+      "text": "Nhật",
+      "start": 186.077,
+      "end": 186.217,
+      "scene": "11"
+    },
+    {
+      "text": "Bản",
+      "start": 186.257,
+      "end": 186.397,
+      "scene": "11"
+    },
+    {
+      "text": "giải",
+      "start": 186.477,
+      "end": 186.597,
+      "scene": "11"
+    },
+    {
+      "text": "Ig",
+      "start": 186.697,
+      "end": 186.777,
+      "scene": "11"
+    },
+    {
+      "text": "Nobel.",
+      "start": 186.877,
+      "end": 187.217,
+      "scene": "11"
+    },
+    {
+      "text": "Đó",
+      "start": 187.698,
+      "end": 187.838,
+      "scene": "11"
+    },
+    {
+      "text": "là",
+      "start": 187.878,
+      "end": 187.978,
+      "scene": "11"
+    },
+    {
+      "text": "giải",
+      "start": 188.018,
+      "end": 188.138,
+      "scene": "11"
+    },
+    {
+      "text": "thưởng",
+      "start": 188.178,
+      "end": 188.358,
+      "scene": "11"
+    },
+    {
+      "text": "cho",
+      "start": 188.418,
+      "end": 188.538,
+      "scene": "11"
+    },
+    {
+      "text": "những",
+      "start": 188.558,
+      "end": 188.678,
+      "scene": "11"
+    },
+    {
+      "text": "nghiên",
+      "start": 188.718,
+      "end": 188.878,
+      "scene": "11"
+    },
+    {
+      "text": "cứu",
+      "start": 188.938,
+      "end": 189.118,
+      "scene": "11"
+    },
+    {
+      "text": "khiến",
+      "start": 189.218,
+      "end": 189.358,
+      "scene": "11"
+    },
+    {
+      "text": "người",
+      "start": 189.398,
+      "end": 189.558,
+      "scene": "11"
+    },
+    {
+      "text": "ta",
+      "start": 189.598,
+      "end": 189.698,
+      "scene": "11"
+    },
+    {
+      "text": "bật",
+      "start": 189.778,
+      "end": 189.898,
+      "scene": "11"
+    },
+    {
+      "text": "cười,",
+      "start": 189.978,
+      "end": 190.178,
+      "scene": "11"
+    },
+    {
+      "text": "rồi",
+      "start": 190.478,
+      "end": 190.618,
+      "scene": "11"
+    },
+    {
+      "text": "suy",
+      "start": 190.698,
+      "end": 190.838,
+      "scene": "11"
+    },
+    {
+      "text": "nghĩ.",
+      "start": 190.878,
+      "end": 191.059,
+      "scene": "11"
+    },
+    {
+      "text": "Khi",
+      "start": 191.519,
+      "end": 191.659,
+      "scene": "11"
+    },
+    {
+      "text": "tắt",
+      "start": 191.739,
+      "end": 191.859,
+      "scene": "11"
+    },
+    {
+      "text": "gen",
+      "start": 191.919,
+      "end": 192.139,
+      "scene": "11"
+    },
+    {
+      "text": "của",
+      "start": 192.239,
+      "end": 192.379,
+      "scene": "11"
+    },
+    {
+      "text": "enzyme",
+      "start": 192.479,
+      "end": 192.739,
+      "scene": "11"
+    },
+    {
+      "text": "này,",
+      "start": 192.779,
+      "end": 192.939,
+      "scene": "11"
+    },
+    {
+      "text": "các",
+      "start": 193.199,
+      "end": 193.319,
+      "scene": "11"
+    },
+    {
+      "text": "nhà",
+      "start": 193.359,
+      "end": 193.499,
+      "scene": "11"
+    },
+    {
+      "text": "khoa",
+      "start": 193.539,
+      "end": 193.679,
+      "scene": "11"
+    },
+    {
+      "text": "học",
+      "start": 193.699,
+      "end": 193.799,
+      "scene": "11"
+    },
+    {
+      "text": "tạo",
+      "start": 193.939,
+      "end": 194.059,
+      "scene": "11"
+    },
+    {
+      "text": "ra",
+      "start": 194.159,
+      "end": 194.279,
+      "scene": "11"
+    },
+    {
+      "text": "những",
+      "start": 194.299,
+      "end": 194.44,
+      "scene": "11"
+    },
+    {
+      "text": "củ",
+      "start": 194.48,
+      "end": 194.6,
+      "scene": "11"
+    },
+    {
+      "text": "hành",
+      "start": 194.64,
+      "end": 194.78,
+      "scene": "11"
+    },
+    {
+      "text": "sinh",
+      "start": 194.86,
+      "end": 195.0,
+      "scene": "11"
+    },
+    {
+      "text": "ra",
+      "start": 195.04,
+      "end": 195.16,
+      "scene": "11"
+    },
+    {
+      "text": "rất",
+      "start": 195.22,
+      "end": 195.32,
+      "scene": "11"
+    },
+    {
+      "text": "ít",
+      "start": 195.44,
+      "end": 195.5,
+      "scene": "11"
+    },
+    {
+      "text": "khí",
+      "start": 195.58,
+      "end": 195.72,
+      "scene": "11"
+    },
+    {
+      "text": "cay.",
+      "start": 195.8,
+      "end": 195.94,
+      "scene": "11"
+    },
+    {
+      "text": "Bảy",
+      "start": 196.64,
+      "end": 196.761,
+      "scene": "12"
+    },
+    {
+      "text": "giờ.",
+      "start": 196.861,
+      "end": 197.062,
+      "scene": "12"
+    },
+    {
+      "text": "Khách",
+      "start": 197.162,
+      "end": 197.303,
+      "scene": "12"
+    },
+    {
+      "text": "tới.",
+      "start": 197.383,
+      "end": 197.563,
+      "scene": "12"
+    },
+    {
+      "text": "Bạn",
+      "start": 197.764,
+      "end": 197.884,
+      "scene": "12"
+    },
+    {
+      "text": "bưng",
+      "start": 197.985,
+      "end": 198.105,
+      "scene": "12"
+    },
+    {
+      "text": "đĩa",
+      "start": 198.145,
+      "end": 198.266,
+      "scene": "12"
+    },
+    {
+      "text": "hành",
+      "start": 198.306,
+      "end": 198.446,
+      "scene": "12"
+    },
+    {
+      "text": "ra,",
+      "start": 198.526,
+      "end": 198.727,
+      "scene": "12"
+    },
+    {
+      "text": "mắt",
+      "start": 198.827,
+      "end": 198.928,
+      "scene": "12"
+    },
+    {
+      "text": "ráo",
+      "start": 198.988,
+      "end": 199.108,
+      "scene": "12"
+    },
+    {
+      "text": "hoảnh,",
+      "start": 199.148,
+      "end": 199.309,
+      "scene": "12"
+    },
+    {
+      "text": "đầy",
+      "start": 199.55,
+      "end": 199.67,
+      "scene": "12"
+    },
+    {
+      "text": "tự",
+      "start": 199.73,
+      "end": 199.871,
+      "scene": "12"
+    },
+    {
+      "text": "hào.",
+      "start": 199.931,
+      "end": 200.112,
+      "scene": "12"
+    },
+    {
+      "text": "Rồi",
+      "start": 200.473,
+      "end": 200.593,
+      "scene": "12"
+    },
+    {
+      "text": "bạn",
+      "start": 200.613,
+      "end": 200.734,
+      "scene": "12"
+    },
+    {
+      "text": "chợt",
+      "start": 200.774,
+      "end": 200.934,
+      "scene": "12"
+    },
+    {
+      "text": "nhớ",
+      "start": 201.014,
+      "end": 201.155,
+      "scene": "12"
+    },
+    {
+      "text": "ra:",
+      "start": 201.215,
+      "end": 201.416,
+      "scene": "12"
+    },
+    {
+      "text": "nồi",
+      "start": 201.576,
+      "end": 201.717,
+      "scene": "12"
+    },
+    {
+      "text": "cơm",
+      "start": 201.817,
+      "end": 201.957,
+      "scene": "12"
+    },
+    {
+      "text": "vẫn",
+      "start": 201.998,
+      "end": 202.098,
+      "scene": "12"
+    },
+    {
+      "text": "chưa",
+      "start": 202.178,
+      "end": 202.319,
+      "scene": "12"
+    },
+    {
+      "text": "cắm.",
+      "start": 202.359,
+      "end": 202.499,
+      "scene": "12"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Sáu giờ chiều.",
+      "start": 4.54,
+      "end": 5.141,
+      "scene": "02"
+    },
+    {
+      "text": "Bảy giờ khách tới.",
+      "start": 5.541,
+      "end": 6.282,
+      "scene": "02"
+    },
+    {
+      "text": "Trên thớt của bạn là một rổ hành tây, và con dao vừa chạm vào củ đầu tiên.",
+      "start": 6.662,
+      "end": 10.205,
+      "scene": "02"
+    },
+    {
+      "text": "Chỉ vài giây sau, mắt bạn bắt đầu cay.",
+      "start": 10.546,
+      "end": 12.447,
+      "scene": "02"
+    },
+    {
+      "text": "Rồi nước mắt chảy ròng ròng, dù bạn chẳng buồn chuyện gì.",
+      "start": 12.788,
+      "end": 15.27,
+      "scene": "02"
+    },
+    {
+      "text": "Trong rổ vẫn còn hai mươi củ.",
+      "start": 15.65,
+      "end": 16.932,
+      "scene": "02"
+    },
+    {
+      "text": "Trong ngăn kéo có hai con dao: một con sắc, một con đã cùn.",
+      "start": 17.472,
+      "end": 20.475,
+      "scene": "02"
+    },
+    {
+      "text": "Cắt nhanh cho xong, hay cắt chậm cho chắc?",
+      "start": 20.755,
+      "end": 22.797,
+      "scene": "02"
+    },
+    {
+      "text": "Chọn sai, bạn sẽ đón khách với đôi mắt đỏ hoe.",
+      "start": 23.157,
+      "end": 25.76,
+      "scene": "02"
+    },
+    {
+      "text": "Trước khi chọn, bạn cần biết ba điều.",
+      "start": 26.42,
+      "end": 28.121,
+      "scene": "03"
+    },
+    {
+      "text": "Một.",
+      "start": 28.521,
+      "end": 28.661,
+      "scene": "03"
+    },
+    {
+      "text": "Mỗi tế bào hành cất hai chất ở hai ngăn riêng biệt.",
+      "start": 28.741,
+      "end": 31.122,
+      "scene": "03"
+    },
+    {
+      "text": "Khi tế bào còn nguyên, chúng gần như không gặp nhau.",
+      "start": 31.482,
+      "end": 33.683,
+      "scene": "03"
+    },
+    {
+      "text": "Chỉ khi tế bào vỡ, hai chất mới trộn vào nhau.",
+      "start": 34.023,
+      "end": 36.203,
+      "scene": "03"
+    },
+    {
+      "text": "Một chuỗi phản ứng chớp nhoáng tạo ra khí cay.",
+      "start": 36.523,
+      "end": 38.444,
+      "scene": "03"
+    },
+    {
+      "text": "Hai.",
+      "start": 38.684,
+      "end": 38.884,
+      "scene": "03"
+    },
+    {
+      "text": "Khí này bay lên và chạm vào bề mặt mắt bạn.",
+      "start": 39.424,
+      "end": 41.645,
+      "scene": "03"
+    },
+    {
+      "text": "Ở đó có những đầu dây thần kinh rất nhạy, và chúng lập tức báo động.",
+      "start": 42.205,
+      "end": 45.166,
+      "scene": "03"
+    },
+    {
+      "text": "Ba.",
+      "start": 45.487,
+      "end": 45.707,
+      "scene": "03"
+    },
+    {
+      "text": "Khi lưỡi dao ấn xuống, lớp vỏ dai của củ hành chống lại.",
+      "start": 45.967,
+      "end": 48.768,
+      "scene": "03"
+    },
+    {
+      "text": "Mô hành bị đè nén một lúc rồi mới đứt.",
+      "start": 49.088,
+      "end": 51.108,
+      "scene": "03"
+    },
+    {
+      "text": "Bị nén càng mạnh, càng nhiều tế bào vỡ tung, và nước hành bắn ra càng nhiều.",
+      "start": 51.629,
+      "end": 55.33,
+      "scene": "03"
+    },
+    {
+      "text": "Vậy bạn sẽ cắt thế nào?",
+      "start": 55.99,
+      "end": 56.993,
+      "scene": "04"
+    },
+    {
+      "text": "A, dao cùn, cắt thật nhanh.",
+      "start": 57.394,
+      "end": 58.698,
+      "scene": "04"
+    },
+    {
+      "text": "B, dao sắc, cắt chậm rãi.",
+      "start": 59.019,
+      "end": 60.343,
+      "scene": "04"
+    },
+    {
+      "text": "Hay C, dao cùn, cắt chậm và nhẹ tay?",
+      "start": 60.543,
+      "end": 62.449,
+      "scene": "04"
+    },
+    {
+      "text": "Tạm dừng video và thử đoán nhé.",
+      "start": 63.25,
+      "end": 64.927,
+      "scene": "05"
+    },
+    {
+      "text": "Chìa khóa nằm ở điều thứ nhất.",
+      "start": 73.63,
+      "end": 74.973,
+      "scene": "06"
+    },
+    {
+      "text": "Khí cay không có sẵn trong củ hành.",
+      "start": 75.354,
+      "end": 76.897,
+      "scene": "06"
+    },
+    {
+      "text": "Nó chỉ được tạo ra khi tế bào vỡ.",
+      "start": 77.278,
+      "end": 78.922,
+      "scene": "06"
+    },
+    {
+      "text": "Vậy câu hỏi thật sự là: cách nào làm vỡ ít tế bào nhất?",
+      "start": 79.343,
+      "end": 82.47,
+      "scene": "06"
+    },
+    {
+      "text": "Hãy phóng to vào một tế bào hành.",
+      "start": 83.03,
+      "end": 84.471,
+      "scene": "07"
+    },
+    {
+      "text": "Ở một ngăn là những phân tử chứa lưu huỳnh.",
+      "start": 85.011,
+      "end": 86.832,
+      "scene": "07"
+    },
+    {
+      "text": "Ở ngăn kia là một enzyme, giống như một chiếc kéo phân tử.",
+      "start": 87.292,
+      "end": 90.213,
+      "scene": "07"
+    },
+    {
+      "text": "Khi màng ngăn rách, chiếc kéo cắt các phân tử lưu huỳnh thành một chất trung gian.",
+      "start": 90.473,
+      "end": 94.094,
+      "scene": "07"
+    },
+    {
+      "text": "Rồi một enzyme thứ hai nhanh tay biến chất trung gian ấy thành khí cay.",
+      "start": 94.675,
+      "end": 97.636,
+      "scene": "07"
+    },
+    {
+      "text": "Khí bay lên mắt.",
+      "start": 98.116,
+      "end": 98.796,
+      "scene": "07"
+    },
+    {
+      "text": "Dây thần kinh ở giác mạc báo về não.",
+      "start": 99.116,
+      "end": 100.797,
+      "scene": "07"
+    },
+    {
+      "text": "Và não ra lệnh cho tuyến lệ: xả nước, rửa sạch nó đi.",
+      "start": 101.297,
+      "end": 104.158,
+      "scene": "07"
+    },
+    {
+      "text": "Nước mắt lúc này không phải vì buồn.",
+      "start": 104.599,
+      "end": 106.139,
+      "scene": "07"
+    },
+    {
+      "text": "Đó là một phản xạ bảo vệ.",
+      "start": 106.619,
+      "end": 107.94,
+      "scene": "07"
+    },
+    {
+      "text": "Giờ hãy nhìn lưỡi dao thật gần.",
+      "start": 108.6,
+      "end": 109.921,
+      "scene": "08"
+    },
+    {
+      "text": "Lưỡi dao sắc có mũi rất mỏng.",
+      "start": 110.421,
+      "end": 111.762,
+      "scene": "08"
+    },
+    {
+      "text": "Nó cắt gọn qua từng tế bào.",
+      "start": 112.083,
+      "end": 113.383,
+      "scene": "08"
+    },
+    {
+      "text": "Lưỡi dao cùn có mũi tù.",
+      "start": 113.724,
+      "end": 114.904,
+      "scene": "08"
+    },
+    {
+      "text": "Nó phải đè mạnh hơn, ép bẹp cả một vùng mô trước khi xuyên qua.",
+      "start": 115.205,
+      "end": 118.347,
+      "scene": "08"
+    },
+    {
+      "text": "Năm 2025, các nhà khoa học ở Đại học Cornell đã quay chậm cảnh này.",
+      "start": 118.927,
+      "end": 122.93,
+      "scene": "08"
+    },
+    {
+      "text": "Máy quay của họ chụp hàng nghìn khung hình mỗi giây.",
+      "start": 123.47,
+      "end": 125.552,
+      "scene": "08"
+    },
+    {
+      "text": "Lưỡi dao cùn nhất làm số giọt bắn ra nhiều gấp khoảng bốn mươi lần lưỡi sắc nhất.",
+      "start": 126.152,
+      "end": 129.815,
+      "scene": "08"
+    },
+    {
+      "text": "Có những giọt bay đi với tốc độ tới bốn mươi mét mỗi giây.",
+      "start": 130.275,
+      "end": 132.977,
+      "scene": "08"
+    },
+    {
+      "text": "Còn tốc độ cắt?",
+      "start": 133.417,
+      "end": 134.198,
+      "scene": "08"
+    },
+    {
+      "text": "Cắt càng nhanh, số giọt cũng càng tăng, khoảng bốn lần.",
+      "start": 134.418,
+      "end": 137.08,
+      "scene": "08"
+    },
+    {
+      "text": "Giờ hãy loại trừ từng phương án.",
+      "start": 137.82,
+      "end": 139.201,
+      "scene": "09"
+    },
+    {
+      "text": "Phương án A: dao cùn lại cắt nhanh.",
+      "start": 139.501,
+      "end": 141.222,
+      "scene": "09"
+    },
+    {
+      "text": "Cả hai yếu tố đều xấu.",
+      "start": 141.562,
+      "end": 142.723,
+      "scene": "09"
+    },
+    {
+      "text": "Loại.",
+      "start": 143.043,
+      "end": 143.223,
+      "scene": "09"
+    },
+    {
+      "text": "Phương án C: cắt chậm thì đỡ hơn, nhưng mũi dao tù vẫn ép vỡ rất nhiều tế bào.",
+      "start": 143.343,
+      "end": 147.286,
+      "scene": "09"
+    },
+    {
+      "text": "Loại.",
+      "start": 147.606,
+      "end": 147.786,
+      "scene": "09"
+    },
+    {
+      "text": "Còn lại phương án B: dao sắc, cắt chậm rãi.",
+      "start": 147.926,
+      "end": 149.987,
+      "scene": "09"
+    },
+    {
+      "text": "Ít tế bào vỡ nhất, ít nước hành bắn ra nhất, và ít nguyên liệu để tạo khí cay nhất.",
+      "start": 150.587,
+      "end": 154.85,
+      "scene": "09"
+    },
+    {
+      "text": "Đáp án là B.",
+      "start": 155.491,
+      "end": 156.273,
+      "scene": "10"
+    },
+    {
+      "text": "Bạn chọn con dao sắc, cắt từng nhát chậm rãi.",
+      "start": 156.635,
+      "end": 158.642,
+      "scene": "10"
+    },
+    {
+      "text": "Rổ hành vơi dần, còn mắt bạn vẫn ráo.",
+      "start": 158.923,
+      "end": 160.689,
+      "scene": "10"
+    },
+    {
+      "text": "Còn mẹo quen thuộc: cho hành vào tủ lạnh trước khi cắt?",
+      "start": 161.31,
+      "end": 163.911,
+      "scene": "11"
+    },
+    {
+      "text": "Trong cùng thí nghiệm, hành ướp lạnh không hề bắn ra ít giọt hơn.",
+      "start": 164.371,
+      "end": 167.232,
+      "scene": "11"
+    },
+    {
+      "text": "Lượng nước bắn ra thậm chí còn nhiều hơn.",
+      "start": 167.832,
+      "end": 169.632,
+      "scene": "11"
+    },
+    {
+      "text": "Chính các tác giả nói cần thêm thí nghiệm.",
+      "start": 170.113,
+      "end": 171.853,
+      "scene": "11"
+    },
+    {
+      "text": "Nghĩa là mẹo này chưa được chứng minh.",
+      "start": 172.193,
+      "end": 173.674,
+      "scene": "11"
+    },
+    {
+      "text": "Và còn một điều bất ngờ nữa.",
+      "start": 174.234,
+      "end": 175.514,
+      "scene": "11"
+    },
+    {
+      "text": "Mãi tới năm 2002, các nhà khoa học mới phát hiện ra enzyme thứ hai, enzyme chuyên tạo khí cay.",
+      "start": 175.914,
+      "end": 181.496,
+      "scene": "11"
+    },
+    {
+      "text": "Trước đó, người ta tưởng khí cay tự sinh ra.",
+      "start": 181.776,
+      "end": 183.836,
+      "scene": "11"
+    },
+    {
+      "text": "Phát hiện ấy mang về cho nhóm nghiên cứu Nhật Bản giải Ig Nobel.",
+      "start": 184.377,
+      "end": 187.217,
+      "scene": "11"
+    },
+    {
+      "text": "Đó là giải thưởng cho những nghiên cứu khiến người ta bật cười, rồi suy nghĩ.",
+      "start": 187.698,
+      "end": 191.059,
+      "scene": "11"
+    },
+    {
+      "text": "Khi tắt gen của enzyme này, các nhà khoa học tạo ra những củ hành sinh ra rất ít khí cay.",
+      "start": 191.519,
+      "end": 195.94,
+      "scene": "11"
+    },
+    {
+      "text": "Bảy giờ.",
+      "start": 196.64,
+      "end": 197.062,
+      "scene": "12"
+    },
+    {
+      "text": "Khách tới.",
+      "start": 197.162,
+      "end": 197.563,
+      "scene": "12"
+    },
+    {
+      "text": "Bạn bưng đĩa hành ra, mắt ráo hoảnh, đầy tự hào.",
+      "start": 197.764,
+      "end": 200.112,
+      "scene": "12"
+    },
+    {
+      "text": "Rồi bạn chợt nhớ ra: nồi cơm vẫn chưa cắm.",
+      "start": 200.473,
+      "end": 202.499,
+      "scene": "12"
+    }
+  ]
+}

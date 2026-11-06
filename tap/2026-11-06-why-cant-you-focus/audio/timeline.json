@@ -1,0 +1,5675 @@
+{
+  "voice": "iP95p4xoKVk53GoZ742B",
+  "sample_rate": 48000,
+  "duration": 487.553,
+  "scenes": [
+    {
+      "id": "01",
+      "title": "Title",
+      "start": 0.0,
+      "end": 4.4,
+      "speech_end": 0.0,
+      "min_duration": 4.0,
+      "visual": [
+        "Thẻ giấy: \"Why can't you focus on reading this?\" — chữ hơi rung, đèn rọi quét qua."
+      ],
+      "text": "",
+      "say_text": "",
+      "tokens": []
+    },
+    {
+      "id": "02",
+      "title": "Opening story",
+      "start": 4.4,
+      "end": 39.151,
+      "speech_end": 38.751,
+      "min_duration": null,
+      "visual": [
+        "van-phong.jpg — cậu bé ngồi đọc; điện thoại rung; đồng hồ; các tab trình duyệt."
+      ],
+      "text": "Two in the afternoon. You have one article to read before a meeting. Just twelve pages. How hard can it be? You read the first paragraph. Then your phone buzzes. It's nothing. Just a sale on shoes you'll never buy. You go back to the article. Wait, where were you? You read the same paragraph again. And again. Your eyes reach the bottom of the page, but your mind is thinking about dinner. You open a new tab, just to check one thing. Forty minutes later, you're still on page two. You scroll back up and realize you can't remember a single thing from page one. Is something wrong with your brain?",
+      "say_text": "Two in the afternoon. You have one article to read before a meeting. Just twelve pages. How hard can it be? You read the first paragraph. Then your phone buzzes. It's nothing. Just a sale on shoes you'll never buy. You go back to the article. Wait, where were you? You read the same paragraph again. And again. Your eyes reach the bottom of the page, but your mind is thinking about dinner. You open a new tab, just to check one thing. Forty minutes later, you're still on page two. You scroll back up and realize you can't remember a single thing from page one. Is something wrong with your brain?",
+      "tokens": [
+        {
+          "show": "Two",
+          "say": "Two"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "afternoon.",
+          "say": "afternoon."
+        },
+        {
+          "show": "You",
+          "say": "You"
+        },
+        {
+          "show": "have",
+          "say": "have"
+        },
+        {
+          "show": "one",
+          "say": "one"
+        },
+        {
+          "show": "article",
+          "say": "article"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "read",
+          "say": "read"
+        },
+        {
+          "show": "before",
+          "say": "before"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "meeting.",
+          "say": "meeting."
+        },
+        {
+          "show": "Just",
+          "say": "Just"
+        },
+        {
+          "show": "twelve",
+          "say": "twelve"
+        },
+        {
+          "show": "pages.",
+          "say": "pages."
+        },
+        {
+          "show": "How",
+          "say": "How"
+        },
+        {
+          "show": "hard",
+          "say": "hard"
+        },
+        {
+          "show": "can",
+          "say": "can"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "be?",
+          "say": "be?"
+        },
+        {
+          "show": "You",
+          "say": "You"
+        },
+        {
+          "show": "read",
+          "say": "read"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "first",
+          "say": "first"
+        },
+        {
+          "show": "paragraph.",
+          "say": "paragraph."
+        },
+        {
+          "show": "Then",
+          "say": "Then"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "phone",
+          "say": "phone"
+        },
+        {
+          "show": "buzzes.",
+          "say": "buzzes."
+        },
+        {
+          "show": "It's",
+          "say": "It's"
+        },
+        {
+          "show": "nothing.",
+          "say": "nothing."
+        },
+        {
+          "show": "Just",
+          "say": "Just"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "sale",
+          "say": "sale"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "shoes",
+          "say": "shoes"
+        },
+        {
+          "show": "you'll",
+          "say": "you'll"
+        },
+        {
+          "show": "never",
+          "say": "never"
+        },
+        {
+          "show": "buy.",
+          "say": "buy."
+        },
+        {
+          "show": "You",
+          "say": "You"
+        },
+        {
+          "show": "go",
+          "say": "go"
+        },
+        {
+          "show": "back",
+          "say": "back"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "article.",
+          "say": "article."
+        },
+        {
+          "show": "Wait,",
+          "say": "Wait,"
+        },
+        {
+          "show": "where",
+          "say": "where"
+        },
+        {
+          "show": "were",
+          "say": "were"
+        },
+        {
+          "show": "you?",
+          "say": "you?"
+        },
+        {
+          "show": "You",
+          "say": "You"
+        },
+        {
+          "show": "read",
+          "say": "read"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "same",
+          "say": "same"
+        },
+        {
+          "show": "paragraph",
+          "say": "paragraph"
+        },
+        {
+          "show": "again.",
+          "say": "again."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "again.",
+          "say": "again."
+        },
+        {
+          "show": "Your",
+          "say": "Your"
+        },
+        {
+          "show": "eyes",
+          "say": "eyes"
+        },
+        {
+          "show": "reach",
+          "say": "reach"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "bottom",
+          "say": "bottom"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "page,",
+          "say": "page,"
+        },
+        {
+          "show": "but",
+          "say": "but"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "mind",
+          "say": "mind"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "thinking",
+          "say": "thinking"
+        },
+        {
+          "show": "about",
+          "say": "about"
+        },
+        {
+          "show": "dinner.",
+          "say": "dinner."
+        },
+        {
+          "show": "You",
+          "say": "You"
+        },
+        {
+          "show": "open",
+          "say": "open"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "new",
+          "say": "new"
+        },
+        {
+          "show": "tab,",
+          "say": "tab,"
+        },
+        {
+          "show": "just",
+          "say": "just"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "check",
+          "say": "check"
+        },
+        {
+          "show": "one",
+          "say": "one"
+        },
+        {
+          "show": "thing.",
+          "say": "thing."
+        },
+        {
+          "show": "Forty",
+          "say": "Forty"
+        },
+        {
+          "show": "minutes",
+          "say": "minutes"
+        },
+        {
+          "show": "later,",
+          "say": "later,"
+        },
+        {
+          "show": "you're",
+          "say": "you're"
+        },
+        {
+          "show": "still",
+          "say": "still"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "page",
+          "say": "page"
+        },
+        {
+          "show": "two.",
+          "say": "two."
+        },
+        {
+          "show": "You",
+          "say": "You"
+        },
+        {
+          "show": "scroll",
+          "say": "scroll"
+        },
+        {
+          "show": "back",
+          "say": "back"
+        },
+        {
+          "show": "up",
+          "say": "up"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "realize",
+          "say": "realize"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "can't",
+          "say": "can't"
+        },
+        {
+          "show": "remember",
+          "say": "remember"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "single",
+          "say": "single"
+        },
+        {
+          "show": "thing",
+          "say": "thing"
+        },
+        {
+          "show": "from",
+          "say": "from"
+        },
+        {
+          "show": "page",
+          "say": "page"
+        },
+        {
+          "show": "one.",
+          "say": "one."
+        },
+        {
+          "show": "Is",
+          "say": "Is"
+        },
+        {
+          "show": "something",
+          "say": "something"
+        },
+        {
+          "show": "wrong",
+          "say": "wrong"
+        },
+        {
+          "show": "with",
+          "say": "with"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "brain?",
+          "say": "brain?"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "The goldfish claim",
+      "start": 39.151,
+      "end": 63.035,
+      "speech_end": 62.635,
+      "min_duration": null,
+      "visual": [
+        "Bể cá vàng; nhãn \"HUMANS: 8 SECONDS?\" vs \"GOLDFISH: 9 SECONDS?\"; dấu hỏi; sau đó tem \"NO STUDY BEHIND IT\"."
+      ],
+      "text": "You may have heard a scary fact. Humans now have an attention span of eight seconds, shorter than a goldfish. It's been repeated in news stories, talks and ads all over the world. But when BBC reporters went looking for the study behind it, they couldn't find one. The report that spread the number didn't contain the research behind it. And nobody had measured a goldfish's attention span either. So if it's not a goldfish brain, what's going on?",
+      "say_text": "You may have heard a scary fact. Humans now have an attention span of eight seconds, shorter than a goldfish. It's been repeated in news stories, talks and ads all over the world. But when BBC reporters went looking for the study behind it, they couldn't find one. The report that spread the number didn't contain the research behind it. And nobody had measured a goldfish's attention span either. So if it's not a goldfish brain, what's going on?",
+      "tokens": [
+        {
+          "show": "You",
+          "say": "You"
+        },
+        {
+          "show": "may",
+          "say": "may"
+        },
+        {
+          "show": "have",
+          "say": "have"
+        },
+        {
+          "show": "heard",
+          "say": "heard"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "scary",
+          "say": "scary"
+        },
+        {
+          "show": "fact.",
+          "say": "fact."
+        },
+        {
+          "show": "Humans",
+          "say": "Humans"
+        },
+        {
+          "show": "now",
+          "say": "now"
+        },
+        {
+          "show": "have",
+          "say": "have"
+        },
+        {
+          "show": "an",
+          "say": "an"
+        },
+        {
+          "show": "attention",
+          "say": "attention"
+        },
+        {
+          "show": "span",
+          "say": "span"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "eight",
+          "say": "eight"
+        },
+        {
+          "show": "seconds,",
+          "say": "seconds,"
+        },
+        {
+          "show": "shorter",
+          "say": "shorter"
+        },
+        {
+          "show": "than",
+          "say": "than"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "goldfish.",
+          "say": "goldfish."
+        },
+        {
+          "show": "It's",
+          "say": "It's"
+        },
+        {
+          "show": "been",
+          "say": "been"
+        },
+        {
+          "show": "repeated",
+          "say": "repeated"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "news",
+          "say": "news"
+        },
+        {
+          "show": "stories,",
+          "say": "stories,"
+        },
+        {
+          "show": "talks",
+          "say": "talks"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "ads",
+          "say": "ads"
+        },
+        {
+          "show": "all",
+          "say": "all"
+        },
+        {
+          "show": "over",
+          "say": "over"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "world.",
+          "say": "world."
+        },
+        {
+          "show": "But",
+          "say": "But"
+        },
+        {
+          "show": "when",
+          "say": "when"
+        },
+        {
+          "show": "BBC",
+          "say": "BBC"
+        },
+        {
+          "show": "reporters",
+          "say": "reporters"
+        },
+        {
+          "show": "went",
+          "say": "went"
+        },
+        {
+          "show": "looking",
+          "say": "looking"
+        },
+        {
+          "show": "for",
+          "say": "for"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "study",
+          "say": "study"
+        },
+        {
+          "show": "behind",
+          "say": "behind"
+        },
+        {
+          "show": "it,",
+          "say": "it,"
+        },
+        {
+          "show": "they",
+          "say": "they"
+        },
+        {
+          "show": "couldn't",
+          "say": "couldn't"
+        },
+        {
+          "show": "find",
+          "say": "find"
+        },
+        {
+          "show": "one.",
+          "say": "one."
+        },
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "report",
+          "say": "report"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "spread",
+          "say": "spread"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "number",
+          "say": "number"
+        },
+        {
+          "show": "didn't",
+          "say": "didn't"
+        },
+        {
+          "show": "contain",
+          "say": "contain"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "research",
+          "say": "research"
+        },
+        {
+          "show": "behind",
+          "say": "behind"
+        },
+        {
+          "show": "it.",
+          "say": "it."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "nobody",
+          "say": "nobody"
+        },
+        {
+          "show": "had",
+          "say": "had"
+        },
+        {
+          "show": "measured",
+          "say": "measured"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "goldfish's",
+          "say": "goldfish's"
+        },
+        {
+          "show": "attention",
+          "say": "attention"
+        },
+        {
+          "show": "span",
+          "say": "span"
+        },
+        {
+          "show": "either.",
+          "say": "either."
+        },
+        {
+          "show": "So",
+          "say": "So"
+        },
+        {
+          "show": "if",
+          "say": "if"
+        },
+        {
+          "show": "it's",
+          "say": "it's"
+        },
+        {
+          "show": "not",
+          "say": "not"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "goldfish",
+          "say": "goldfish"
+        },
+        {
+          "show": "brain,",
+          "say": "brain,"
+        },
+        {
+          "show": "what's",
+          "say": "what's"
+        },
+        {
+          "show": "going",
+          "say": "going"
+        },
+        {
+          "show": "on?",
+          "say": "on?"
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "title": "Clue one: the wandering mind",
+      "start": 63.035,
+      "end": 108.026,
+      "speech_end": 107.626,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: điện thoại hỏi ngẫu nhiên \"What are you thinking about?\"; vòng tròn 47%; sau đó trang sách với mắt chạy dọc chữ nhưng bong bóng nghĩ về đồ ăn; nhãn \"≈ 1 IN 5 CHECK-INS\"."
+      ],
+      "text": "Let's collect some clues. Clue one. In a famous study, an app pinged thousands of people at random moments and asked what they were thinking about. Nearly half the time, forty-seven percent, they were thinking about something other than what they were doing. Reading is no exception. When researchers interrupt people reading a story and ask, \"Were you on task?\", the answer is often no. In several studies, around one in five times. And here's the strange part. During these moments, the eyes keep moving across the words. Your eyes are reading. Your mind is not. Your eyes even stop slowing down for hard or unusual words, as if they were on autopilot. And readers who zone out more often do worse on questions about the text afterward.",
+      "say_text": "Let's collect some clues. Clue one. In a famous study, an app pinged thousands of people at random moments and asked what they were thinking about. Nearly half the time, forty-seven percent, they were thinking about something other than what they were doing. Reading is no exception. When researchers interrupt people reading a story and ask, \"Were you on task?\", the answer is often no. In several studies, around one in five times. And here's the strange part. During these moments, the eyes keep moving across the words. Your eyes are reading. Your mind is not. Your eyes even stop slowing down for hard or unusual words, as if they were on autopilot. And readers who zone out more often do worse on questions about the text afterward.",
+      "tokens": [
+        {
+          "show": "Let's",
+          "say": "Let's"
+        },
+        {
+          "show": "collect",
+          "say": "collect"
+        },
+        {
+          "show": "some",
+          "say": "some"
+        },
+        {
+          "show": "clues.",
+          "say": "clues."
+        },
+        {
+          "show": "Clue",
+          "say": "Clue"
+        },
+        {
+          "show": "one.",
+          "say": "one."
+        },
+        {
+          "show": "In",
+          "say": "In"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "famous",
+          "say": "famous"
+        },
+        {
+          "show": "study,",
+          "say": "study,"
+        },
+        {
+          "show": "an",
+          "say": "an"
+        },
+        {
+          "show": "app",
+          "say": "app"
+        },
+        {
+          "show": "pinged",
+          "say": "pinged"
+        },
+        {
+          "show": "thousands",
+          "say": "thousands"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "people",
+          "say": "people"
+        },
+        {
+          "show": "at",
+          "say": "at"
+        },
+        {
+          "show": "random",
+          "say": "random"
+        },
+        {
+          "show": "moments",
+          "say": "moments"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "asked",
+          "say": "asked"
+        },
+        {
+          "show": "what",
+          "say": "what"
+        },
+        {
+          "show": "they",
+          "say": "they"
+        },
+        {
+          "show": "were",
+          "say": "were"
+        },
+        {
+          "show": "thinking",
+          "say": "thinking"
+        },
+        {
+          "show": "about.",
+          "say": "about."
+        },
+        {
+          "show": "Nearly",
+          "say": "Nearly"
+        },
+        {
+          "show": "half",
+          "say": "half"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "time,",
+          "say": "time,"
+        },
+        {
+          "show": "forty-seven",
+          "say": "forty-seven"
+        },
+        {
+          "show": "percent,",
+          "say": "percent,"
+        },
+        {
+          "show": "they",
+          "say": "they"
+        },
+        {
+          "show": "were",
+          "say": "were"
+        },
+        {
+          "show": "thinking",
+          "say": "thinking"
+        },
+        {
+          "show": "about",
+          "say": "about"
+        },
+        {
+          "show": "something",
+          "say": "something"
+        },
+        {
+          "show": "other",
+          "say": "other"
+        },
+        {
+          "show": "than",
+          "say": "than"
+        },
+        {
+          "show": "what",
+          "say": "what"
+        },
+        {
+          "show": "they",
+          "say": "they"
+        },
+        {
+          "show": "were",
+          "say": "were"
+        },
+        {
+          "show": "doing.",
+          "say": "doing."
+        },
+        {
+          "show": "Reading",
+          "say": "Reading"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "no",
+          "say": "no"
+        },
+        {
+          "show": "exception.",
+          "say": "exception."
+        },
+        {
+          "show": "When",
+          "say": "When"
+        },
+        {
+          "show": "researchers",
+          "say": "researchers"
+        },
+        {
+          "show": "interrupt",
+          "say": "interrupt"
+        },
+        {
+          "show": "people",
+          "say": "people"
+        },
+        {
+          "show": "reading",
+          "say": "reading"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "story",
+          "say": "story"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "ask,",
+          "say": "ask,"
+        },
+        {
+          "show": "\"Were",
+          "say": "\"Were"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "task?\",",
+          "say": "task?\","
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "answer",
+          "say": "answer"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "often",
+          "say": "often"
+        },
+        {
+          "show": "no.",
+          "say": "no."
+        },
+        {
+          "show": "In",
+          "say": "In"
+        },
+        {
+          "show": "several",
+          "say": "several"
+        },
+        {
+          "show": "studies,",
+          "say": "studies,"
+        },
+        {
+          "show": "around",
+          "say": "around"
+        },
+        {
+          "show": "one",
+          "say": "one"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "five",
+          "say": "five"
+        },
+        {
+          "show": "times.",
+          "say": "times."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "here's",
+          "say": "here's"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "strange",
+          "say": "strange"
+        },
+        {
+          "show": "part.",
+          "say": "part."
+        },
+        {
+          "show": "During",
+          "say": "During"
+        },
+        {
+          "show": "these",
+          "say": "these"
+        },
+        {
+          "show": "moments,",
+          "say": "moments,"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "eyes",
+          "say": "eyes"
+        },
+        {
+          "show": "keep",
+          "say": "keep"
+        },
+        {
+          "show": "moving",
+          "say": "moving"
+        },
+        {
+          "show": "across",
+          "say": "across"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "words.",
+          "say": "words."
+        },
+        {
+          "show": "Your",
+          "say": "Your"
+        },
+        {
+          "show": "eyes",
+          "say": "eyes"
+        },
+        {
+          "show": "are",
+          "say": "are"
+        },
+        {
+          "show": "reading.",
+          "say": "reading."
+        },
+        {
+          "show": "Your",
+          "say": "Your"
+        },
+        {
+          "show": "mind",
+          "say": "mind"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "not.",
+          "say": "not."
+        },
+        {
+          "show": "Your",
+          "say": "Your"
+        },
+        {
+          "show": "eyes",
+          "say": "eyes"
+        },
+        {
+          "show": "even",
+          "say": "even"
+        },
+        {
+          "show": "stop",
+          "say": "stop"
+        },
+        {
+          "show": "slowing",
+          "say": "slowing"
+        },
+        {
+          "show": "down",
+          "say": "down"
+        },
+        {
+          "show": "for",
+          "say": "for"
+        },
+        {
+          "show": "hard",
+          "say": "hard"
+        },
+        {
+          "show": "or",
+          "say": "or"
+        },
+        {
+          "show": "unusual",
+          "say": "unusual"
+        },
+        {
+          "show": "words,",
+          "say": "words,"
+        },
+        {
+          "show": "as",
+          "say": "as"
+        },
+        {
+          "show": "if",
+          "say": "if"
+        },
+        {
+          "show": "they",
+          "say": "they"
+        },
+        {
+          "show": "were",
+          "say": "were"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "autopilot.",
+          "say": "autopilot."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "readers",
+          "say": "readers"
+        },
+        {
+          "show": "who",
+          "say": "who"
+        },
+        {
+          "show": "zone",
+          "say": "zone"
+        },
+        {
+          "show": "out",
+          "say": "out"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "often",
+          "say": "often"
+        },
+        {
+          "show": "do",
+          "say": "do"
+        },
+        {
+          "show": "worse",
+          "say": "worse"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "questions",
+          "say": "questions"
+        },
+        {
+          "show": "about",
+          "say": "about"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "text",
+          "say": "text"
+        },
+        {
+          "show": "afterward.",
+          "say": "afterward."
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "title": "Clue two: the buzz",
+      "start": 108.026,
+      "end": 126.216,
+      "speech_end": 125.816,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: người làm bài kiểm tra chú ý trên máy tính; điện thoại úp bàn rung; không chạm vào; số lỗi tăng; nhãn \"JUST THE BUZZ\"."
+      ],
+      "text": "Clue two. In a 2015 experiment, people did a task that needed close attention. Some of them got a text message or a call on their phone during the task. They didn't answer it. They didn't even touch the phone. Yet they made noticeably more mistakes, about as many as people who actually used their phones.",
+      "say_text": "Clue two. In a 2015 experiment, people did a task that needed close attention. Some of them got a text message or a call on their phone during the task. They didn't answer it. They didn't even touch the phone. Yet they made noticeably more mistakes, about as many as people who actually used their phones.",
+      "tokens": [
+        {
+          "show": "Clue",
+          "say": "Clue"
+        },
+        {
+          "show": "two.",
+          "say": "two."
+        },
+        {
+          "show": "In",
+          "say": "In"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "2015",
+          "say": "2015"
+        },
+        {
+          "show": "experiment,",
+          "say": "experiment,"
+        },
+        {
+          "show": "people",
+          "say": "people"
+        },
+        {
+          "show": "did",
+          "say": "did"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "task",
+          "say": "task"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "needed",
+          "say": "needed"
+        },
+        {
+          "show": "close",
+          "say": "close"
+        },
+        {
+          "show": "attention.",
+          "say": "attention."
+        },
+        {
+          "show": "Some",
+          "say": "Some"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "them",
+          "say": "them"
+        },
+        {
+          "show": "got",
+          "say": "got"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "text",
+          "say": "text"
+        },
+        {
+          "show": "message",
+          "say": "message"
+        },
+        {
+          "show": "or",
+          "say": "or"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "call",
+          "say": "call"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "their",
+          "say": "their"
+        },
+        {
+          "show": "phone",
+          "say": "phone"
+        },
+        {
+          "show": "during",
+          "say": "during"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "task.",
+          "say": "task."
+        },
+        {
+          "show": "They",
+          "say": "They"
+        },
+        {
+          "show": "didn't",
+          "say": "didn't"
+        },
+        {
+          "show": "answer",
+          "say": "answer"
+        },
+        {
+          "show": "it.",
+          "say": "it."
+        },
+        {
+          "show": "They",
+          "say": "They"
+        },
+        {
+          "show": "didn't",
+          "say": "didn't"
+        },
+        {
+          "show": "even",
+          "say": "even"
+        },
+        {
+          "show": "touch",
+          "say": "touch"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "phone.",
+          "say": "phone."
+        },
+        {
+          "show": "Yet",
+          "say": "Yet"
+        },
+        {
+          "show": "they",
+          "say": "they"
+        },
+        {
+          "show": "made",
+          "say": "made"
+        },
+        {
+          "show": "noticeably",
+          "say": "noticeably"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "mistakes,",
+          "say": "mistakes,"
+        },
+        {
+          "show": "about",
+          "say": "about"
+        },
+        {
+          "show": "as",
+          "say": "as"
+        },
+        {
+          "show": "many",
+          "say": "many"
+        },
+        {
+          "show": "as",
+          "say": "as"
+        },
+        {
+          "show": "people",
+          "say": "people"
+        },
+        {
+          "show": "who",
+          "say": "who"
+        },
+        {
+          "show": "actually",
+          "say": "actually"
+        },
+        {
+          "show": "used",
+          "say": "used"
+        },
+        {
+          "show": "their",
+          "say": "their"
+        },
+        {
+          "show": "phones.",
+          "say": "phones."
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "title": "Clue three: the switch",
+      "start": 126.216,
+      "end": 145.371,
+      "speech_end": 144.971,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: hai thẻ việc A/B; mũi tên qua lại; đồng hồ cát \"SWITCH COST\"; sau đó bóng mờ của việc cũ lơ lửng \"ATTENTION RESIDUE\"."
+      ],
+      "text": "Clue three. Every time you switch from one task to another, your brain pays a small time cost to change its rules. The more complex the tasks, the bigger the cost. And when you switch away from something unfinished, part of your attention stays stuck on it. Researchers call this attention residue.",
+      "say_text": "Clue three. Every time you switch from one task to another, your brain pays a small time cost to change its rules. The more complex the tasks, the bigger the cost. And when you switch away from something unfinished, part of your attention stays stuck on it. Researchers call this attention residue.",
+      "tokens": [
+        {
+          "show": "Clue",
+          "say": "Clue"
+        },
+        {
+          "show": "three.",
+          "say": "three."
+        },
+        {
+          "show": "Every",
+          "say": "Every"
+        },
+        {
+          "show": "time",
+          "say": "time"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "switch",
+          "say": "switch"
+        },
+        {
+          "show": "from",
+          "say": "from"
+        },
+        {
+          "show": "one",
+          "say": "one"
+        },
+        {
+          "show": "task",
+          "say": "task"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "another,",
+          "say": "another,"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "brain",
+          "say": "brain"
+        },
+        {
+          "show": "pays",
+          "say": "pays"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "small",
+          "say": "small"
+        },
+        {
+          "show": "time",
+          "say": "time"
+        },
+        {
+          "show": "cost",
+          "say": "cost"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "change",
+          "say": "change"
+        },
+        {
+          "show": "its",
+          "say": "its"
+        },
+        {
+          "show": "rules.",
+          "say": "rules."
+        },
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "complex",
+          "say": "complex"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "tasks,",
+          "say": "tasks,"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "bigger",
+          "say": "bigger"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "cost.",
+          "say": "cost."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "when",
+          "say": "when"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "switch",
+          "say": "switch"
+        },
+        {
+          "show": "away",
+          "say": "away"
+        },
+        {
+          "show": "from",
+          "say": "from"
+        },
+        {
+          "show": "something",
+          "say": "something"
+        },
+        {
+          "show": "unfinished,",
+          "say": "unfinished,"
+        },
+        {
+          "show": "part",
+          "say": "part"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "attention",
+          "say": "attention"
+        },
+        {
+          "show": "stays",
+          "say": "stays"
+        },
+        {
+          "show": "stuck",
+          "say": "stuck"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "it.",
+          "say": "it."
+        },
+        {
+          "show": "Researchers",
+          "say": "Researchers"
+        },
+        {
+          "show": "call",
+          "say": "call"
+        },
+        {
+          "show": "this",
+          "say": "this"
+        },
+        {
+          "show": "attention",
+          "say": "attention"
+        },
+        {
+          "show": "residue.",
+          "say": "residue."
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "title": "Clue four: paper or screen",
+      "start": 145.371,
+      "end": 162.438,
+      "speech_end": 162.038,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: sách giấy vs máy tính bảng; cột hiểu bài nhỉnh hơn ở giấy; nhãn \"SMALL EDGE FOR PAPER\" và \"SCREEN READERS: MORE OVERCONFIDENT\"."
+      ],
+      "text": "Clue four. A large review compared reading on paper with reading on screens. On average, people understood informational texts a little better on paper. The gap was bigger when they were in a hurry. And people reading on screens were more likely to overestimate how much they'd understood.",
+      "say_text": "Clue four. A large review compared reading on paper with reading on screens. On average, people understood informational texts a little better on paper. The gap was bigger when they were in a hurry. And people reading on screens were more likely to overestimate how much they'd understood.",
+      "tokens": [
+        {
+          "show": "Clue",
+          "say": "Clue"
+        },
+        {
+          "show": "four.",
+          "say": "four."
+        },
+        {
+          "show": "A",
+          "say": "A"
+        },
+        {
+          "show": "large",
+          "say": "large"
+        },
+        {
+          "show": "review",
+          "say": "review"
+        },
+        {
+          "show": "compared",
+          "say": "compared"
+        },
+        {
+          "show": "reading",
+          "say": "reading"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "paper",
+          "say": "paper"
+        },
+        {
+          "show": "with",
+          "say": "with"
+        },
+        {
+          "show": "reading",
+          "say": "reading"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "screens.",
+          "say": "screens."
+        },
+        {
+          "show": "On",
+          "say": "On"
+        },
+        {
+          "show": "average,",
+          "say": "average,"
+        },
+        {
+          "show": "people",
+          "say": "people"
+        },
+        {
+          "show": "understood",
+          "say": "understood"
+        },
+        {
+          "show": "informational",
+          "say": "informational"
+        },
+        {
+          "show": "texts",
+          "say": "texts"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "little",
+          "say": "little"
+        },
+        {
+          "show": "better",
+          "say": "better"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "paper.",
+          "say": "paper."
+        },
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "gap",
+          "say": "gap"
+        },
+        {
+          "show": "was",
+          "say": "was"
+        },
+        {
+          "show": "bigger",
+          "say": "bigger"
+        },
+        {
+          "show": "when",
+          "say": "when"
+        },
+        {
+          "show": "they",
+          "say": "they"
+        },
+        {
+          "show": "were",
+          "say": "were"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "hurry.",
+          "say": "hurry."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "people",
+          "say": "people"
+        },
+        {
+          "show": "reading",
+          "say": "reading"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "screens",
+          "say": "screens"
+        },
+        {
+          "show": "were",
+          "say": "were"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "likely",
+          "say": "likely"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "overestimate",
+          "say": "overestimate"
+        },
+        {
+          "show": "how",
+          "say": "how"
+        },
+        {
+          "show": "much",
+          "say": "much"
+        },
+        {
+          "show": "they'd",
+          "say": "they'd"
+        },
+        {
+          "show": "understood.",
+          "say": "understood."
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "title": "The question",
+      "start": 162.438,
+      "end": 179.687,
+      "speech_end": 179.287,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: ba phương án A/B/C có biểu tượng."
+      ],
+      "text": "So why can't you focus on reading? A: your attention span has shrunk to less than a goldfish's. B: your phone has permanently damaged your brain. Or C: your attention is like a spotlight that keeps getting pulled away, and every trip back costs you a little.",
+      "say_text": "So why can't you focus on reading? A: your attention span has shrunk to less than a goldfish's. B: your phone has permanently damaged your brain. Or C: your attention is like a spotlight that keeps getting pulled away, and every trip back costs you a little.",
+      "tokens": [
+        {
+          "show": "So",
+          "say": "So"
+        },
+        {
+          "show": "why",
+          "say": "why"
+        },
+        {
+          "show": "can't",
+          "say": "can't"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "focus",
+          "say": "focus"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "reading?",
+          "say": "reading?"
+        },
+        {
+          "show": "A:",
+          "say": "A:"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "attention",
+          "say": "attention"
+        },
+        {
+          "show": "span",
+          "say": "span"
+        },
+        {
+          "show": "has",
+          "say": "has"
+        },
+        {
+          "show": "shrunk",
+          "say": "shrunk"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "less",
+          "say": "less"
+        },
+        {
+          "show": "than",
+          "say": "than"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "goldfish's.",
+          "say": "goldfish's."
+        },
+        {
+          "show": "B:",
+          "say": "B:"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "phone",
+          "say": "phone"
+        },
+        {
+          "show": "has",
+          "say": "has"
+        },
+        {
+          "show": "permanently",
+          "say": "permanently"
+        },
+        {
+          "show": "damaged",
+          "say": "damaged"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "brain.",
+          "say": "brain."
+        },
+        {
+          "show": "Or",
+          "say": "Or"
+        },
+        {
+          "show": "C:",
+          "say": "C:"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "attention",
+          "say": "attention"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "like",
+          "say": "like"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "spotlight",
+          "say": "spotlight"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "keeps",
+          "say": "keeps"
+        },
+        {
+          "show": "getting",
+          "say": "getting"
+        },
+        {
+          "show": "pulled",
+          "say": "pulled"
+        },
+        {
+          "show": "away,",
+          "say": "away,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "every",
+          "say": "every"
+        },
+        {
+          "show": "trip",
+          "say": "trip"
+        },
+        {
+          "show": "back",
+          "say": "back"
+        },
+        {
+          "show": "costs",
+          "say": "costs"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "little.",
+          "say": "little."
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "title": "Take a guess",
+      "start": 179.687,
+      "end": 190.087,
+      "speech_end": 181.254,
+      "min_duration": 10.0,
+      "visual": [
+        "Thẻ tóm tắt bốn manh mối + ba phương án + đếm ngược 3‑2‑1."
+      ],
+      "text": "Pause the video and take a guess.",
+      "say_text": "Pause the video and take a guess.",
+      "tokens": [
+        {
+          "show": "Pause",
+          "say": "Pause"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "video",
+          "say": "video"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "take",
+          "say": "take"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "guess.",
+          "say": "guess."
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "The key",
+      "start": 190.087,
+      "end": 203.417,
+      "speech_end": 203.017,
+      "min_duration": null,
+      "visual": [
+        "Cậu bé trong bong bóng suy nghĩ; bình \"ATTENTION TANK\" bị gạch, đổi thành đèn rọi."
+      ],
+      "text": "The key is this. Attention isn't a tank that slowly runs empty. It's more like a spotlight that you keep aiming, and that keeps getting pulled off target. To see why reading suffers so much, let's look at what reading asks of that spotlight.",
+      "say_text": "The key is this. Attention isn't a tank that slowly runs empty. It's more like a spotlight that you keep aiming, and that keeps getting pulled off target. To see why reading suffers so much, let's look at what reading asks of that spotlight.",
+      "tokens": [
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "key",
+          "say": "key"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "this.",
+          "say": "this."
+        },
+        {
+          "show": "Attention",
+          "say": "Attention"
+        },
+        {
+          "show": "isn't",
+          "say": "isn't"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "tank",
+          "say": "tank"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "slowly",
+          "say": "slowly"
+        },
+        {
+          "show": "runs",
+          "say": "runs"
+        },
+        {
+          "show": "empty.",
+          "say": "empty."
+        },
+        {
+          "show": "It's",
+          "say": "It's"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "like",
+          "say": "like"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "spotlight",
+          "say": "spotlight"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "keep",
+          "say": "keep"
+        },
+        {
+          "show": "aiming,",
+          "say": "aiming,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "keeps",
+          "say": "keeps"
+        },
+        {
+          "show": "getting",
+          "say": "getting"
+        },
+        {
+          "show": "pulled",
+          "say": "pulled"
+        },
+        {
+          "show": "off",
+          "say": "off"
+        },
+        {
+          "show": "target.",
+          "say": "target."
+        },
+        {
+          "show": "To",
+          "say": "To"
+        },
+        {
+          "show": "see",
+          "say": "see"
+        },
+        {
+          "show": "why",
+          "say": "why"
+        },
+        {
+          "show": "reading",
+          "say": "reading"
+        },
+        {
+          "show": "suffers",
+          "say": "suffers"
+        },
+        {
+          "show": "so",
+          "say": "so"
+        },
+        {
+          "show": "much,",
+          "say": "much,"
+        },
+        {
+          "show": "let's",
+          "say": "let's"
+        },
+        {
+          "show": "look",
+          "say": "look"
+        },
+        {
+          "show": "at",
+          "say": "at"
+        },
+        {
+          "show": "what",
+          "say": "what"
+        },
+        {
+          "show": "reading",
+          "say": "reading"
+        },
+        {
+          "show": "asks",
+          "say": "asks"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "spotlight.",
+          "say": "spotlight."
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Reading is a chain",
+      "start": 203.417,
+      "end": 228.66,
+      "speech_end": 228.26,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: các câu nối thành chuỗi; \"IDEA 1 → IDEA 2 → IDEA 3\"; khi đứt một mắt xích, quay lại đọc lại."
+      ],
+      "text": "Reading isn't just seeing words. To understand a paragraph, your brain holds on to the last few ideas and links each new sentence to them. It builds a little model of what the text is saying. That chain is fragile. If your spotlight drifts for even a few sentences, a link goes missing. Then the next sentence makes no sense, and you have to go back. That's why you read the same paragraph three times.",
+      "say_text": "Reading isn't just seeing words. To understand a paragraph, your brain holds on to the last few ideas and links each new sentence to them. It builds a little model of what the text is saying. That chain is fragile. If your spotlight drifts for even a few sentences, a link goes missing. Then the next sentence makes no sense, and you have to go back. That's why you read the same paragraph three times.",
+      "tokens": [
+        {
+          "show": "Reading",
+          "say": "Reading"
+        },
+        {
+          "show": "isn't",
+          "say": "isn't"
+        },
+        {
+          "show": "just",
+          "say": "just"
+        },
+        {
+          "show": "seeing",
+          "say": "seeing"
+        },
+        {
+          "show": "words.",
+          "say": "words."
+        },
+        {
+          "show": "To",
+          "say": "To"
+        },
+        {
+          "show": "understand",
+          "say": "understand"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "paragraph,",
+          "say": "paragraph,"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "brain",
+          "say": "brain"
+        },
+        {
+          "show": "holds",
+          "say": "holds"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "last",
+          "say": "last"
+        },
+        {
+          "show": "few",
+          "say": "few"
+        },
+        {
+          "show": "ideas",
+          "say": "ideas"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "links",
+          "say": "links"
+        },
+        {
+          "show": "each",
+          "say": "each"
+        },
+        {
+          "show": "new",
+          "say": "new"
+        },
+        {
+          "show": "sentence",
+          "say": "sentence"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "them.",
+          "say": "them."
+        },
+        {
+          "show": "It",
+          "say": "It"
+        },
+        {
+          "show": "builds",
+          "say": "builds"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "little",
+          "say": "little"
+        },
+        {
+          "show": "model",
+          "say": "model"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "what",
+          "say": "what"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "text",
+          "say": "text"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "saying.",
+          "say": "saying."
+        },
+        {
+          "show": "That",
+          "say": "That"
+        },
+        {
+          "show": "chain",
+          "say": "chain"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "fragile.",
+          "say": "fragile."
+        },
+        {
+          "show": "If",
+          "say": "If"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "spotlight",
+          "say": "spotlight"
+        },
+        {
+          "show": "drifts",
+          "say": "drifts"
+        },
+        {
+          "show": "for",
+          "say": "for"
+        },
+        {
+          "show": "even",
+          "say": "even"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "few",
+          "say": "few"
+        },
+        {
+          "show": "sentences,",
+          "say": "sentences,"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "link",
+          "say": "link"
+        },
+        {
+          "show": "goes",
+          "say": "goes"
+        },
+        {
+          "show": "missing.",
+          "say": "missing."
+        },
+        {
+          "show": "Then",
+          "say": "Then"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "next",
+          "say": "next"
+        },
+        {
+          "show": "sentence",
+          "say": "sentence"
+        },
+        {
+          "show": "makes",
+          "say": "makes"
+        },
+        {
+          "show": "no",
+          "say": "no"
+        },
+        {
+          "show": "sense,",
+          "say": "sense,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "have",
+          "say": "have"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "go",
+          "say": "go"
+        },
+        {
+          "show": "back.",
+          "say": "back."
+        },
+        {
+          "show": "That's",
+          "say": "That's"
+        },
+        {
+          "show": "why",
+          "say": "why"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "read",
+          "say": "read"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "same",
+          "say": "same"
+        },
+        {
+          "show": "paragraph",
+          "say": "paragraph"
+        },
+        {
+          "show": "three",
+          "say": "three"
+        },
+        {
+          "show": "times.",
+          "say": "times."
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Pull number one: your own mind",
+      "start": 228.66,
+      "end": 257.35,
+      "speech_end": 256.95,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: não với vùng \"DEFAULT MODE NETWORK\" sáng lên khi trôi; văn khó → trôi nhiều hơn; nhãn \"YOU OFTEN DON'T NOTICE\"."
+      ],
+      "text": "The first thing pulling your spotlight is your own mind. When your attention drifts inward, a set of brain areas called the default mode network becomes more active. It's busy with memories, plans and daydreams. Mind wandering isn't a defect. It helps you plan and imagine. But while reading, it quietly steals the thread. And often you don't notice until a page later. The harder or more boring the text, the more often the mind slips away.",
+      "say_text": "The first thing pulling your spotlight is your own mind. When your attention drifts inward, a set of brain areas called the default mode network becomes more active. It's busy with memories, plans and daydreams. Mind wandering isn't a defect. It helps you plan and imagine. But while reading, it quietly steals the thread. And often you don't notice until a page later. The harder or more boring the text, the more often the mind slips away.",
+      "tokens": [
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "first",
+          "say": "first"
+        },
+        {
+          "show": "thing",
+          "say": "thing"
+        },
+        {
+          "show": "pulling",
+          "say": "pulling"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "spotlight",
+          "say": "spotlight"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "own",
+          "say": "own"
+        },
+        {
+          "show": "mind.",
+          "say": "mind."
+        },
+        {
+          "show": "When",
+          "say": "When"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "attention",
+          "say": "attention"
+        },
+        {
+          "show": "drifts",
+          "say": "drifts"
+        },
+        {
+          "show": "inward,",
+          "say": "inward,"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "set",
+          "say": "set"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "brain",
+          "say": "brain"
+        },
+        {
+          "show": "areas",
+          "say": "areas"
+        },
+        {
+          "show": "called",
+          "say": "called"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "default",
+          "say": "default"
+        },
+        {
+          "show": "mode",
+          "say": "mode"
+        },
+        {
+          "show": "network",
+          "say": "network"
+        },
+        {
+          "show": "becomes",
+          "say": "becomes"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "active.",
+          "say": "active."
+        },
+        {
+          "show": "It's",
+          "say": "It's"
+        },
+        {
+          "show": "busy",
+          "say": "busy"
+        },
+        {
+          "show": "with",
+          "say": "with"
+        },
+        {
+          "show": "memories,",
+          "say": "memories,"
+        },
+        {
+          "show": "plans",
+          "say": "plans"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "daydreams.",
+          "say": "daydreams."
+        },
+        {
+          "show": "Mind",
+          "say": "Mind"
+        },
+        {
+          "show": "wandering",
+          "say": "wandering"
+        },
+        {
+          "show": "isn't",
+          "say": "isn't"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "defect.",
+          "say": "defect."
+        },
+        {
+          "show": "It",
+          "say": "It"
+        },
+        {
+          "show": "helps",
+          "say": "helps"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "plan",
+          "say": "plan"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "imagine.",
+          "say": "imagine."
+        },
+        {
+          "show": "But",
+          "say": "But"
+        },
+        {
+          "show": "while",
+          "say": "while"
+        },
+        {
+          "show": "reading,",
+          "say": "reading,"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "quietly",
+          "say": "quietly"
+        },
+        {
+          "show": "steals",
+          "say": "steals"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "thread.",
+          "say": "thread."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "often",
+          "say": "often"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "don't",
+          "say": "don't"
+        },
+        {
+          "show": "notice",
+          "say": "notice"
+        },
+        {
+          "show": "until",
+          "say": "until"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "page",
+          "say": "page"
+        },
+        {
+          "show": "later.",
+          "say": "later."
+        },
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "harder",
+          "say": "harder"
+        },
+        {
+          "show": "or",
+          "say": "or"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "boring",
+          "say": "boring"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "text,",
+          "say": "text,"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "often",
+          "say": "often"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "mind",
+          "say": "mind"
+        },
+        {
+          "show": "slips",
+          "say": "slips"
+        },
+        {
+          "show": "away.",
+          "say": "away."
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Pull number two: cues",
+      "start": 257.35,
+      "end": 292.833,
+      "speech_end": 292.433,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: điện thoại phát sóng rung; mũi tên kéo đèn rọi; tuần bật thông báo vs tuần tắt; nhãn \"MORE INATTENTION WITH ALERTS ON\"; sau đó điện thoại nằm im với dấu \"?\" và tem \"DIDN'T REPLICATE\"."
+      ],
+      "text": "The second pull comes from cues around you. A buzz or a ping is designed to grab attention, and it works. Even if you ignore it, your mind starts wondering who it was. In one experiment, students spent one week with phone alerts on and another with alerts off. With alerts on, they reported more inattention. What about a silent phone just sitting on your desk? A 2017 study claimed that even its mere presence drains your brainpower. But later, careful attempts to repeat that study did not find the effect. So it's the buzzing, more than the phone itself, that we have good evidence against.",
+      "say_text": "The second pull comes from cues around you. A buzz or a ping is designed to grab attention, and it works. Even if you ignore it, your mind starts wondering who it was. In one experiment, students spent one week with phone alerts on and another with alerts off. With alerts on, they reported more inattention. What about a silent phone just sitting on your desk? A 2017 study claimed that even its mere presence drains your brainpower. But later, careful attempts to repeat that study did not find the effect. So it's the buzzing, more than the phone itself, that we have good evidence against.",
+      "tokens": [
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "second",
+          "say": "second"
+        },
+        {
+          "show": "pull",
+          "say": "pull"
+        },
+        {
+          "show": "comes",
+          "say": "comes"
+        },
+        {
+          "show": "from",
+          "say": "from"
+        },
+        {
+          "show": "cues",
+          "say": "cues"
+        },
+        {
+          "show": "around",
+          "say": "around"
+        },
+        {
+          "show": "you.",
+          "say": "you."
+        },
+        {
+          "show": "A",
+          "say": "A"
+        },
+        {
+          "show": "buzz",
+          "say": "buzz"
+        },
+        {
+          "show": "or",
+          "say": "or"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "ping",
+          "say": "ping"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "designed",
+          "say": "designed"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "grab",
+          "say": "grab"
+        },
+        {
+          "show": "attention,",
+          "say": "attention,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "works.",
+          "say": "works."
+        },
+        {
+          "show": "Even",
+          "say": "Even"
+        },
+        {
+          "show": "if",
+          "say": "if"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "ignore",
+          "say": "ignore"
+        },
+        {
+          "show": "it,",
+          "say": "it,"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "mind",
+          "say": "mind"
+        },
+        {
+          "show": "starts",
+          "say": "starts"
+        },
+        {
+          "show": "wondering",
+          "say": "wondering"
+        },
+        {
+          "show": "who",
+          "say": "who"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "was.",
+          "say": "was."
+        },
+        {
+          "show": "In",
+          "say": "In"
+        },
+        {
+          "show": "one",
+          "say": "one"
+        },
+        {
+          "show": "experiment,",
+          "say": "experiment,"
+        },
+        {
+          "show": "students",
+          "say": "students"
+        },
+        {
+          "show": "spent",
+          "say": "spent"
+        },
+        {
+          "show": "one",
+          "say": "one"
+        },
+        {
+          "show": "week",
+          "say": "week"
+        },
+        {
+          "show": "with",
+          "say": "with"
+        },
+        {
+          "show": "phone",
+          "say": "phone"
+        },
+        {
+          "show": "alerts",
+          "say": "alerts"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "another",
+          "say": "another"
+        },
+        {
+          "show": "with",
+          "say": "with"
+        },
+        {
+          "show": "alerts",
+          "say": "alerts"
+        },
+        {
+          "show": "off.",
+          "say": "off."
+        },
+        {
+          "show": "With",
+          "say": "With"
+        },
+        {
+          "show": "alerts",
+          "say": "alerts"
+        },
+        {
+          "show": "on,",
+          "say": "on,"
+        },
+        {
+          "show": "they",
+          "say": "they"
+        },
+        {
+          "show": "reported",
+          "say": "reported"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "inattention.",
+          "say": "inattention."
+        },
+        {
+          "show": "What",
+          "say": "What"
+        },
+        {
+          "show": "about",
+          "say": "about"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "silent",
+          "say": "silent"
+        },
+        {
+          "show": "phone",
+          "say": "phone"
+        },
+        {
+          "show": "just",
+          "say": "just"
+        },
+        {
+          "show": "sitting",
+          "say": "sitting"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "desk?",
+          "say": "desk?"
+        },
+        {
+          "show": "A",
+          "say": "A"
+        },
+        {
+          "show": "2017",
+          "say": "2017"
+        },
+        {
+          "show": "study",
+          "say": "study"
+        },
+        {
+          "show": "claimed",
+          "say": "claimed"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "even",
+          "say": "even"
+        },
+        {
+          "show": "its",
+          "say": "its"
+        },
+        {
+          "show": "mere",
+          "say": "mere"
+        },
+        {
+          "show": "presence",
+          "say": "presence"
+        },
+        {
+          "show": "drains",
+          "say": "drains"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "brainpower.",
+          "say": "brainpower."
+        },
+        {
+          "show": "But",
+          "say": "But"
+        },
+        {
+          "show": "later,",
+          "say": "later,"
+        },
+        {
+          "show": "careful",
+          "say": "careful"
+        },
+        {
+          "show": "attempts",
+          "say": "attempts"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "repeat",
+          "say": "repeat"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "study",
+          "say": "study"
+        },
+        {
+          "show": "did",
+          "say": "did"
+        },
+        {
+          "show": "not",
+          "say": "not"
+        },
+        {
+          "show": "find",
+          "say": "find"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "effect.",
+          "say": "effect."
+        },
+        {
+          "show": "So",
+          "say": "So"
+        },
+        {
+          "show": "it's",
+          "say": "it's"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "buzzing,",
+          "say": "buzzing,"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "than",
+          "say": "than"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "phone",
+          "say": "phone"
+        },
+        {
+          "show": "itself,",
+          "say": "itself,"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "we",
+          "say": "we"
+        },
+        {
+          "show": "have",
+          "say": "have"
+        },
+        {
+          "show": "good",
+          "say": "good"
+        },
+        {
+          "show": "evidence",
+          "say": "evidence"
+        },
+        {
+          "show": "against.",
+          "say": "against."
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Pull number three: switching",
+      "start": 292.833,
+      "end": 306.634,
+      "speech_end": 306.234,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: thanh tab trình duyệt; mỗi lần chuyển, đèn rọi phải \"khởi động lại\"; bóng mờ việc cũ; nhãn \"EACH RETURN COSTS\"."
+      ],
+      "text": "The third pull is switching. Opening a new tab feels like it takes one second. But coming back means reloading the chain of ideas you were holding. Part of your mind is still on the email you didn't finish. Do that twenty times, and forty minutes disappear.",
+      "say_text": "The third pull is switching. Opening a new tab feels like it takes one second. But coming back means reloading the chain of ideas you were holding. Part of your mind is still on the email you didn't finish. Do that twenty times, and forty minutes disappear.",
+      "tokens": [
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "third",
+          "say": "third"
+        },
+        {
+          "show": "pull",
+          "say": "pull"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "switching.",
+          "say": "switching."
+        },
+        {
+          "show": "Opening",
+          "say": "Opening"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "new",
+          "say": "new"
+        },
+        {
+          "show": "tab",
+          "say": "tab"
+        },
+        {
+          "show": "feels",
+          "say": "feels"
+        },
+        {
+          "show": "like",
+          "say": "like"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "takes",
+          "say": "takes"
+        },
+        {
+          "show": "one",
+          "say": "one"
+        },
+        {
+          "show": "second.",
+          "say": "second."
+        },
+        {
+          "show": "But",
+          "say": "But"
+        },
+        {
+          "show": "coming",
+          "say": "coming"
+        },
+        {
+          "show": "back",
+          "say": "back"
+        },
+        {
+          "show": "means",
+          "say": "means"
+        },
+        {
+          "show": "reloading",
+          "say": "reloading"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "chain",
+          "say": "chain"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "ideas",
+          "say": "ideas"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "were",
+          "say": "were"
+        },
+        {
+          "show": "holding.",
+          "say": "holding."
+        },
+        {
+          "show": "Part",
+          "say": "Part"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "mind",
+          "say": "mind"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "still",
+          "say": "still"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "email",
+          "say": "email"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "didn't",
+          "say": "didn't"
+        },
+        {
+          "show": "finish.",
+          "say": "finish."
+        },
+        {
+          "show": "Do",
+          "say": "Do"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "twenty",
+          "say": "twenty"
+        },
+        {
+          "show": "times,",
+          "say": "times,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "forty",
+          "say": "forty"
+        },
+        {
+          "show": "minutes",
+          "say": "minutes"
+        },
+        {
+          "show": "disappear.",
+          "say": "disappear."
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Pull number four: screens",
+      "start": 306.634,
+      "end": 331.641,
+      "speech_end": 331.241,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: máy tính bảng với ngón tay lướt nhanh; mắt nhảy cóc theo hình chữ F; nhãn \"SKIM MODE?\"; tem \"STILL BEING TESTED\"."
+      ],
+      "text": "The fourth pull may be the screen itself. We do a lot of quick, shallow reading on screens: messages, feeds, headlines. One idea is that we carry that skimming habit over to everything we read on a screen. We read faster, and we check our own understanding less. That could explain why screen readers in the review felt more confident than they should have. But this is still an idea being tested, not a settled fact.",
+      "say_text": "The fourth pull may be the screen itself. We do a lot of quick, shallow reading on screens: messages, feeds, headlines. One idea is that we carry that skimming habit over to everything we read on a screen. We read faster, and we check our own understanding less. That could explain why screen readers in the review felt more confident than they should have. But this is still an idea being tested, not a settled fact.",
+      "tokens": [
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "fourth",
+          "say": "fourth"
+        },
+        {
+          "show": "pull",
+          "say": "pull"
+        },
+        {
+          "show": "may",
+          "say": "may"
+        },
+        {
+          "show": "be",
+          "say": "be"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "screen",
+          "say": "screen"
+        },
+        {
+          "show": "itself.",
+          "say": "itself."
+        },
+        {
+          "show": "We",
+          "say": "We"
+        },
+        {
+          "show": "do",
+          "say": "do"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "lot",
+          "say": "lot"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "quick,",
+          "say": "quick,"
+        },
+        {
+          "show": "shallow",
+          "say": "shallow"
+        },
+        {
+          "show": "reading",
+          "say": "reading"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "screens:",
+          "say": "screens:"
+        },
+        {
+          "show": "messages,",
+          "say": "messages,"
+        },
+        {
+          "show": "feeds,",
+          "say": "feeds,"
+        },
+        {
+          "show": "headlines.",
+          "say": "headlines."
+        },
+        {
+          "show": "One",
+          "say": "One"
+        },
+        {
+          "show": "idea",
+          "say": "idea"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "we",
+          "say": "we"
+        },
+        {
+          "show": "carry",
+          "say": "carry"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "skimming",
+          "say": "skimming"
+        },
+        {
+          "show": "habit",
+          "say": "habit"
+        },
+        {
+          "show": "over",
+          "say": "over"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "everything",
+          "say": "everything"
+        },
+        {
+          "show": "we",
+          "say": "we"
+        },
+        {
+          "show": "read",
+          "say": "read"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "screen.",
+          "say": "screen."
+        },
+        {
+          "show": "We",
+          "say": "We"
+        },
+        {
+          "show": "read",
+          "say": "read"
+        },
+        {
+          "show": "faster,",
+          "say": "faster,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "we",
+          "say": "we"
+        },
+        {
+          "show": "check",
+          "say": "check"
+        },
+        {
+          "show": "our",
+          "say": "our"
+        },
+        {
+          "show": "own",
+          "say": "own"
+        },
+        {
+          "show": "understanding",
+          "say": "understanding"
+        },
+        {
+          "show": "less.",
+          "say": "less."
+        },
+        {
+          "show": "That",
+          "say": "That"
+        },
+        {
+          "show": "could",
+          "say": "could"
+        },
+        {
+          "show": "explain",
+          "say": "explain"
+        },
+        {
+          "show": "why",
+          "say": "why"
+        },
+        {
+          "show": "screen",
+          "say": "screen"
+        },
+        {
+          "show": "readers",
+          "say": "readers"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "review",
+          "say": "review"
+        },
+        {
+          "show": "felt",
+          "say": "felt"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "confident",
+          "say": "confident"
+        },
+        {
+          "show": "than",
+          "say": "than"
+        },
+        {
+          "show": "they",
+          "say": "they"
+        },
+        {
+          "show": "should",
+          "say": "should"
+        },
+        {
+          "show": "have.",
+          "say": "have."
+        },
+        {
+          "show": "But",
+          "say": "But"
+        },
+        {
+          "show": "this",
+          "say": "this"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "still",
+          "say": "still"
+        },
+        {
+          "show": "an",
+          "say": "an"
+        },
+        {
+          "show": "idea",
+          "say": "idea"
+        },
+        {
+          "show": "being",
+          "say": "being"
+        },
+        {
+          "show": "tested,",
+          "say": "tested,"
+        },
+        {
+          "show": "not",
+          "say": "not"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "settled",
+          "say": "settled"
+        },
+        {
+          "show": "fact.",
+          "say": "fact."
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "title": "Long stretches",
+      "start": 331.641,
+      "end": 349.125,
+      "speech_end": 348.725,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: đường hiệu suất tụt dần theo thời gian (nhóm không nghỉ) vs đường phẳng (nhóm có nghỉ ngắn); nhãn \"BRIEF BREAKS\"."
+      ],
+      "text": "There's one more thing. When people do a single focused task for a long time, their performance tends to slip. In a small 2011 study, people who took two very short breaks from a fifty-minute task didn't show that slip. So stepping away for a moment, on purpose, can help you come back sharper.",
+      "say_text": "There's one more thing. When people do a single focused task for a long time, their performance tends to slip. In a small 2011 study, people who took two very short breaks from a fifty-minute task didn't show that slip. So stepping away for a moment, on purpose, can help you come back sharper.",
+      "tokens": [
+        {
+          "show": "There's",
+          "say": "There's"
+        },
+        {
+          "show": "one",
+          "say": "one"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "thing.",
+          "say": "thing."
+        },
+        {
+          "show": "When",
+          "say": "When"
+        },
+        {
+          "show": "people",
+          "say": "people"
+        },
+        {
+          "show": "do",
+          "say": "do"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "single",
+          "say": "single"
+        },
+        {
+          "show": "focused",
+          "say": "focused"
+        },
+        {
+          "show": "task",
+          "say": "task"
+        },
+        {
+          "show": "for",
+          "say": "for"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "long",
+          "say": "long"
+        },
+        {
+          "show": "time,",
+          "say": "time,"
+        },
+        {
+          "show": "their",
+          "say": "their"
+        },
+        {
+          "show": "performance",
+          "say": "performance"
+        },
+        {
+          "show": "tends",
+          "say": "tends"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "slip.",
+          "say": "slip."
+        },
+        {
+          "show": "In",
+          "say": "In"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "small",
+          "say": "small"
+        },
+        {
+          "show": "2011",
+          "say": "2011"
+        },
+        {
+          "show": "study,",
+          "say": "study,"
+        },
+        {
+          "show": "people",
+          "say": "people"
+        },
+        {
+          "show": "who",
+          "say": "who"
+        },
+        {
+          "show": "took",
+          "say": "took"
+        },
+        {
+          "show": "two",
+          "say": "two"
+        },
+        {
+          "show": "very",
+          "say": "very"
+        },
+        {
+          "show": "short",
+          "say": "short"
+        },
+        {
+          "show": "breaks",
+          "say": "breaks"
+        },
+        {
+          "show": "from",
+          "say": "from"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "fifty-minute",
+          "say": "fifty-minute"
+        },
+        {
+          "show": "task",
+          "say": "task"
+        },
+        {
+          "show": "didn't",
+          "say": "didn't"
+        },
+        {
+          "show": "show",
+          "say": "show"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "slip.",
+          "say": "slip."
+        },
+        {
+          "show": "So",
+          "say": "So"
+        },
+        {
+          "show": "stepping",
+          "say": "stepping"
+        },
+        {
+          "show": "away",
+          "say": "away"
+        },
+        {
+          "show": "for",
+          "say": "for"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "moment,",
+          "say": "moment,"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "purpose,",
+          "say": "purpose,"
+        },
+        {
+          "show": "can",
+          "say": "can"
+        },
+        {
+          "show": "help",
+          "say": "help"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "come",
+          "say": "come"
+        },
+        {
+          "show": "back",
+          "say": "back"
+        },
+        {
+          "show": "sharper.",
+          "say": "sharper."
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Is multitasking rewiring you?",
+      "start": 349.125,
+      "end": 373.636,
+      "speech_end": 373.236,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: người dùng nhiều màn hình cùng lúc; biểu đồ năm 2009 cột lớn, rồi các nghiên cứu sau cột nhỏ dần; nhãn \"SMALL LINK · STILL UNCLEAR\"."
+      ],
+      "text": "What about people who juggle many screens all day? A well-known 2009 study found that heavy media multitaskers were worse at ignoring distractions. It made headlines. But when other scientists tried to repeat it, the results were mixed. Pooling many studies, the link turned out to be small, and it may be even smaller than it looks. So we can't say that multitasking has rewired anyone's brain.",
+      "say_text": "What about people who juggle many screens all day? A well-known 2009 study found that heavy media multitaskers were worse at ignoring distractions. It made headlines. But when other scientists tried to repeat it, the results were mixed. Pooling many studies, the link turned out to be small, and it may be even smaller than it looks. So we can't say that multitasking has rewired anyone's brain.",
+      "tokens": [
+        {
+          "show": "What",
+          "say": "What"
+        },
+        {
+          "show": "about",
+          "say": "about"
+        },
+        {
+          "show": "people",
+          "say": "people"
+        },
+        {
+          "show": "who",
+          "say": "who"
+        },
+        {
+          "show": "juggle",
+          "say": "juggle"
+        },
+        {
+          "show": "many",
+          "say": "many"
+        },
+        {
+          "show": "screens",
+          "say": "screens"
+        },
+        {
+          "show": "all",
+          "say": "all"
+        },
+        {
+          "show": "day?",
+          "say": "day?"
+        },
+        {
+          "show": "A",
+          "say": "A"
+        },
+        {
+          "show": "well-known",
+          "say": "well-known"
+        },
+        {
+          "show": "2009",
+          "say": "2009"
+        },
+        {
+          "show": "study",
+          "say": "study"
+        },
+        {
+          "show": "found",
+          "say": "found"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "heavy",
+          "say": "heavy"
+        },
+        {
+          "show": "media",
+          "say": "media"
+        },
+        {
+          "show": "multitaskers",
+          "say": "multitaskers"
+        },
+        {
+          "show": "were",
+          "say": "were"
+        },
+        {
+          "show": "worse",
+          "say": "worse"
+        },
+        {
+          "show": "at",
+          "say": "at"
+        },
+        {
+          "show": "ignoring",
+          "say": "ignoring"
+        },
+        {
+          "show": "distractions.",
+          "say": "distractions."
+        },
+        {
+          "show": "It",
+          "say": "It"
+        },
+        {
+          "show": "made",
+          "say": "made"
+        },
+        {
+          "show": "headlines.",
+          "say": "headlines."
+        },
+        {
+          "show": "But",
+          "say": "But"
+        },
+        {
+          "show": "when",
+          "say": "when"
+        },
+        {
+          "show": "other",
+          "say": "other"
+        },
+        {
+          "show": "scientists",
+          "say": "scientists"
+        },
+        {
+          "show": "tried",
+          "say": "tried"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "repeat",
+          "say": "repeat"
+        },
+        {
+          "show": "it,",
+          "say": "it,"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "results",
+          "say": "results"
+        },
+        {
+          "show": "were",
+          "say": "were"
+        },
+        {
+          "show": "mixed.",
+          "say": "mixed."
+        },
+        {
+          "show": "Pooling",
+          "say": "Pooling"
+        },
+        {
+          "show": "many",
+          "say": "many"
+        },
+        {
+          "show": "studies,",
+          "say": "studies,"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "link",
+          "say": "link"
+        },
+        {
+          "show": "turned",
+          "say": "turned"
+        },
+        {
+          "show": "out",
+          "say": "out"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "be",
+          "say": "be"
+        },
+        {
+          "show": "small,",
+          "say": "small,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "may",
+          "say": "may"
+        },
+        {
+          "show": "be",
+          "say": "be"
+        },
+        {
+          "show": "even",
+          "say": "even"
+        },
+        {
+          "show": "smaller",
+          "say": "smaller"
+        },
+        {
+          "show": "than",
+          "say": "than"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "looks.",
+          "say": "looks."
+        },
+        {
+          "show": "So",
+          "say": "So"
+        },
+        {
+          "show": "we",
+          "say": "we"
+        },
+        {
+          "show": "can't",
+          "say": "can't"
+        },
+        {
+          "show": "say",
+          "say": "say"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "multitasking",
+          "say": "multitasking"
+        },
+        {
+          "show": "has",
+          "say": "has"
+        },
+        {
+          "show": "rewired",
+          "say": "rewired"
+        },
+        {
+          "show": "anyone's",
+          "say": "anyone's"
+        },
+        {
+          "show": "brain.",
+          "say": "brain."
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Can you train it?",
+      "start": 373.636,
+      "end": 399.349,
+      "speech_end": 398.949,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: hai lớp học — \"MINDFULNESS\" vs \"NUTRITION\"; sau hai tuần, nhóm chánh niệm ít trôi hơn, điểm đọc hiểu cao hơn; nhãn \"SMALL STUDY · 48 STUDENTS\"."
+      ],
+      "text": "Can you train your spotlight? In a 2013 study, forty-eight students took a two-week class. Half learned mindfulness: noticing when the mind drifts and gently bringing it back. The other half took a class on nutrition. Afterward, the mindfulness group's minds wandered less, and they scored higher on a reading comprehension test. It was a small study, but it suggests that noticing the drift is a skill you can practice.",
+      "say_text": "Can you train your spotlight? In a 2013 study, forty-eight students took a two-week class. Half learned mindfulness: noticing when the mind drifts and gently bringing it back. The other half took a class on nutrition. Afterward, the mindfulness group's minds wandered less, and they scored higher on a reading comprehension test. It was a small study, but it suggests that noticing the drift is a skill you can practice.",
+      "tokens": [
+        {
+          "show": "Can",
+          "say": "Can"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "train",
+          "say": "train"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "spotlight?",
+          "say": "spotlight?"
+        },
+        {
+          "show": "In",
+          "say": "In"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "2013",
+          "say": "2013"
+        },
+        {
+          "show": "study,",
+          "say": "study,"
+        },
+        {
+          "show": "forty-eight",
+          "say": "forty-eight"
+        },
+        {
+          "show": "students",
+          "say": "students"
+        },
+        {
+          "show": "took",
+          "say": "took"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "two-week",
+          "say": "two-week"
+        },
+        {
+          "show": "class.",
+          "say": "class."
+        },
+        {
+          "show": "Half",
+          "say": "Half"
+        },
+        {
+          "show": "learned",
+          "say": "learned"
+        },
+        {
+          "show": "mindfulness:",
+          "say": "mindfulness:"
+        },
+        {
+          "show": "noticing",
+          "say": "noticing"
+        },
+        {
+          "show": "when",
+          "say": "when"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "mind",
+          "say": "mind"
+        },
+        {
+          "show": "drifts",
+          "say": "drifts"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "gently",
+          "say": "gently"
+        },
+        {
+          "show": "bringing",
+          "say": "bringing"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "back.",
+          "say": "back."
+        },
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "other",
+          "say": "other"
+        },
+        {
+          "show": "half",
+          "say": "half"
+        },
+        {
+          "show": "took",
+          "say": "took"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "class",
+          "say": "class"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "nutrition.",
+          "say": "nutrition."
+        },
+        {
+          "show": "Afterward,",
+          "say": "Afterward,"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "mindfulness",
+          "say": "mindfulness"
+        },
+        {
+          "show": "group's",
+          "say": "group's"
+        },
+        {
+          "show": "minds",
+          "say": "minds"
+        },
+        {
+          "show": "wandered",
+          "say": "wandered"
+        },
+        {
+          "show": "less,",
+          "say": "less,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "they",
+          "say": "they"
+        },
+        {
+          "show": "scored",
+          "say": "scored"
+        },
+        {
+          "show": "higher",
+          "say": "higher"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "reading",
+          "say": "reading"
+        },
+        {
+          "show": "comprehension",
+          "say": "comprehension"
+        },
+        {
+          "show": "test.",
+          "say": "test."
+        },
+        {
+          "show": "It",
+          "say": "It"
+        },
+        {
+          "show": "was",
+          "say": "was"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "small",
+          "say": "small"
+        },
+        {
+          "show": "study,",
+          "say": "study,"
+        },
+        {
+          "show": "but",
+          "say": "but"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "suggests",
+          "say": "suggests"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "noticing",
+          "say": "noticing"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "drift",
+          "say": "drift"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "skill",
+          "say": "skill"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "can",
+          "say": "can"
+        },
+        {
+          "show": "practice.",
+          "say": "practice."
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "title": "The answer",
+      "start": 399.349,
+      "end": 420.594,
+      "speech_end": 420.194,
+      "min_duration": null,
+      "visual": [
+        "Phương án C sáng lên, A và B bị gạch; nhãn \"SPOTLIGHT\"."
+      ],
+      "text": "So, back to the question. The answer is C. The eight-second goldfish fact has no study behind it. And there's no solid evidence that your phone has permanently broken your brain. Your attention is a spotlight, and today's world keeps tugging it away. And it's not just you. Remember, people's minds drift nearly half the time, whatever they're doing.",
+      "say_text": "So, back to the question. The answer is C. The eight-second goldfish fact has no study behind it. And there's no solid evidence that your phone has permanently broken your brain. Your attention is a spotlight, and today's world keeps tugging it away. And it's not just you. Remember, people's minds drift nearly half the time, whatever they're doing.",
+      "tokens": [
+        {
+          "show": "So,",
+          "say": "So,"
+        },
+        {
+          "show": "back",
+          "say": "back"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "question.",
+          "say": "question."
+        },
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "answer",
+          "say": "answer"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "C.",
+          "say": "C."
+        },
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "eight-second",
+          "say": "eight-second"
+        },
+        {
+          "show": "goldfish",
+          "say": "goldfish"
+        },
+        {
+          "show": "fact",
+          "say": "fact"
+        },
+        {
+          "show": "has",
+          "say": "has"
+        },
+        {
+          "show": "no",
+          "say": "no"
+        },
+        {
+          "show": "study",
+          "say": "study"
+        },
+        {
+          "show": "behind",
+          "say": "behind"
+        },
+        {
+          "show": "it.",
+          "say": "it."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "there's",
+          "say": "there's"
+        },
+        {
+          "show": "no",
+          "say": "no"
+        },
+        {
+          "show": "solid",
+          "say": "solid"
+        },
+        {
+          "show": "evidence",
+          "say": "evidence"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "phone",
+          "say": "phone"
+        },
+        {
+          "show": "has",
+          "say": "has"
+        },
+        {
+          "show": "permanently",
+          "say": "permanently"
+        },
+        {
+          "show": "broken",
+          "say": "broken"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "brain.",
+          "say": "brain."
+        },
+        {
+          "show": "Your",
+          "say": "Your"
+        },
+        {
+          "show": "attention",
+          "say": "attention"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "spotlight,",
+          "say": "spotlight,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "today's",
+          "say": "today's"
+        },
+        {
+          "show": "world",
+          "say": "world"
+        },
+        {
+          "show": "keeps",
+          "say": "keeps"
+        },
+        {
+          "show": "tugging",
+          "say": "tugging"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "away.",
+          "say": "away."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "it's",
+          "say": "it's"
+        },
+        {
+          "show": "not",
+          "say": "not"
+        },
+        {
+          "show": "just",
+          "say": "just"
+        },
+        {
+          "show": "you.",
+          "say": "you."
+        },
+        {
+          "show": "Remember,",
+          "say": "Remember,"
+        },
+        {
+          "show": "people's",
+          "say": "people's"
+        },
+        {
+          "show": "minds",
+          "say": "minds"
+        },
+        {
+          "show": "drift",
+          "say": "drift"
+        },
+        {
+          "show": "nearly",
+          "say": "nearly"
+        },
+        {
+          "show": "half",
+          "say": "half"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "time,",
+          "say": "time,"
+        },
+        {
+          "show": "whatever",
+          "say": "whatever"
+        },
+        {
+          "show": "they're",
+          "say": "they're"
+        },
+        {
+          "show": "doing.",
+          "say": "doing."
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "title": "How to hold the spotlight",
+      "start": 420.594,
+      "end": 445.523,
+      "speech_end": 445.123,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: năm mẹo dạng biểu tượng hiện lần lượt."
+      ],
+      "text": "The good news is that you can make the spotlight easier to hold. Turn off notifications while you read, and put your phone out of reach. Keep one tab open. One task at a time. For text that really matters, consider paper, and give yourself enough time. When you notice you've drifted, go back to the last sentence you remember, not the whole page. And take short, planned breaks before your focus runs down.",
+      "say_text": "The good news is that you can make the spotlight easier to hold. Turn off notifications while you read, and put your phone out of reach. Keep one tab open. One task at a time. For text that really matters, consider paper, and give yourself enough time. When you notice you've drifted, go back to the last sentence you remember, not the whole page. And take short, planned breaks before your focus runs down.",
+      "tokens": [
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "good",
+          "say": "good"
+        },
+        {
+          "show": "news",
+          "say": "news"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "can",
+          "say": "can"
+        },
+        {
+          "show": "make",
+          "say": "make"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "spotlight",
+          "say": "spotlight"
+        },
+        {
+          "show": "easier",
+          "say": "easier"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "hold.",
+          "say": "hold."
+        },
+        {
+          "show": "Turn",
+          "say": "Turn"
+        },
+        {
+          "show": "off",
+          "say": "off"
+        },
+        {
+          "show": "notifications",
+          "say": "notifications"
+        },
+        {
+          "show": "while",
+          "say": "while"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "read,",
+          "say": "read,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "put",
+          "say": "put"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "phone",
+          "say": "phone"
+        },
+        {
+          "show": "out",
+          "say": "out"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "reach.",
+          "say": "reach."
+        },
+        {
+          "show": "Keep",
+          "say": "Keep"
+        },
+        {
+          "show": "one",
+          "say": "one"
+        },
+        {
+          "show": "tab",
+          "say": "tab"
+        },
+        {
+          "show": "open.",
+          "say": "open."
+        },
+        {
+          "show": "One",
+          "say": "One"
+        },
+        {
+          "show": "task",
+          "say": "task"
+        },
+        {
+          "show": "at",
+          "say": "at"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "time.",
+          "say": "time."
+        },
+        {
+          "show": "For",
+          "say": "For"
+        },
+        {
+          "show": "text",
+          "say": "text"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "really",
+          "say": "really"
+        },
+        {
+          "show": "matters,",
+          "say": "matters,"
+        },
+        {
+          "show": "consider",
+          "say": "consider"
+        },
+        {
+          "show": "paper,",
+          "say": "paper,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "give",
+          "say": "give"
+        },
+        {
+          "show": "yourself",
+          "say": "yourself"
+        },
+        {
+          "show": "enough",
+          "say": "enough"
+        },
+        {
+          "show": "time.",
+          "say": "time."
+        },
+        {
+          "show": "When",
+          "say": "When"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "notice",
+          "say": "notice"
+        },
+        {
+          "show": "you've",
+          "say": "you've"
+        },
+        {
+          "show": "drifted,",
+          "say": "drifted,"
+        },
+        {
+          "show": "go",
+          "say": "go"
+        },
+        {
+          "show": "back",
+          "say": "back"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "last",
+          "say": "last"
+        },
+        {
+          "show": "sentence",
+          "say": "sentence"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "remember,",
+          "say": "remember,"
+        },
+        {
+          "show": "not",
+          "say": "not"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "whole",
+          "say": "whole"
+        },
+        {
+          "show": "page.",
+          "say": "page."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "take",
+          "say": "take"
+        },
+        {
+          "show": "short,",
+          "say": "short,"
+        },
+        {
+          "show": "planned",
+          "say": "planned"
+        },
+        {
+          "show": "breaks",
+          "say": "breaks"
+        },
+        {
+          "show": "before",
+          "say": "before"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "focus",
+          "say": "focus"
+        },
+        {
+          "show": "runs",
+          "say": "runs"
+        },
+        {
+          "show": "down.",
+          "say": "down."
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "title": "Back to the article",
+      "start": 445.523,
+      "end": 467.553,
+      "speech_end": 467.153,
+      "min_duration": null,
+      "visual": [
+        "van-phong.jpg — điện thoại úp, đặt xa; cậu bé đọc; đồng hồ; nhãn \"PAGE 12 ✓\"; cậu bé vui."
+      ],
+      "text": "So, the next afternoon, you try again. Phone on silent, in the drawer. One tab. Twenty-five minutes of reading, then a two-minute stretch. By three o'clock, you're on the last page. And this time, you can actually remember what page one was about. And if your mind wandered during this video, that's normal. Just rewind ten seconds.",
+      "say_text": "So, the next afternoon, you try again. Phone on silent, in the drawer. One tab. Twenty-five minutes of reading, then a two-minute stretch. By three o'clock, you're on the last page. And this time, you can actually remember what page one was about. And if your mind wandered during this video, that's normal. Just rewind ten seconds.",
+      "tokens": [
+        {
+          "show": "So,",
+          "say": "So,"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "next",
+          "say": "next"
+        },
+        {
+          "show": "afternoon,",
+          "say": "afternoon,"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "try",
+          "say": "try"
+        },
+        {
+          "show": "again.",
+          "say": "again."
+        },
+        {
+          "show": "Phone",
+          "say": "Phone"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "silent,",
+          "say": "silent,"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "drawer.",
+          "say": "drawer."
+        },
+        {
+          "show": "One",
+          "say": "One"
+        },
+        {
+          "show": "tab.",
+          "say": "tab."
+        },
+        {
+          "show": "Twenty-five",
+          "say": "Twenty-five"
+        },
+        {
+          "show": "minutes",
+          "say": "minutes"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "reading,",
+          "say": "reading,"
+        },
+        {
+          "show": "then",
+          "say": "then"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "two-minute",
+          "say": "two-minute"
+        },
+        {
+          "show": "stretch.",
+          "say": "stretch."
+        },
+        {
+          "show": "By",
+          "say": "By"
+        },
+        {
+          "show": "three",
+          "say": "three"
+        },
+        {
+          "show": "o'clock,",
+          "say": "o'clock,"
+        },
+        {
+          "show": "you're",
+          "say": "you're"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "last",
+          "say": "last"
+        },
+        {
+          "show": "page.",
+          "say": "page."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "this",
+          "say": "this"
+        },
+        {
+          "show": "time,",
+          "say": "time,"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "can",
+          "say": "can"
+        },
+        {
+          "show": "actually",
+          "say": "actually"
+        },
+        {
+          "show": "remember",
+          "say": "remember"
+        },
+        {
+          "show": "what",
+          "say": "what"
+        },
+        {
+          "show": "page",
+          "say": "page"
+        },
+        {
+          "show": "one",
+          "say": "one"
+        },
+        {
+          "show": "was",
+          "say": "was"
+        },
+        {
+          "show": "about.",
+          "say": "about."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "if",
+          "say": "if"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "mind",
+          "say": "mind"
+        },
+        {
+          "show": "wandered",
+          "say": "wandered"
+        },
+        {
+          "show": "during",
+          "say": "during"
+        },
+        {
+          "show": "this",
+          "say": "this"
+        },
+        {
+          "show": "video,",
+          "say": "video,"
+        },
+        {
+          "show": "that's",
+          "say": "that's"
+        },
+        {
+          "show": "normal.",
+          "say": "normal."
+        },
+        {
+          "show": "Just",
+          "say": "Just"
+        },
+        {
+          "show": "rewind",
+          "say": "rewind"
+        },
+        {
+          "show": "ten",
+          "say": "ten"
+        },
+        {
+          "show": "seconds.",
+          "say": "seconds."
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "title": "End card",
+      "start": 467.553,
+      "end": 487.553,
+      "speech_end": 467.553,
+      "min_duration": 20.0,
+      "visual": [
+        "Thẻ giấy: \"Your attention isn't broken. It's being pulled.\" + nguồn chính; nhân vật vẫy tay."
+      ],
+      "text": "",
+      "say_text": "",
+      "tokens": []
+    }
+  ]
+}

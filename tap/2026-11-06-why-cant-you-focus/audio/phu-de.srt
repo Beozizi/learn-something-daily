@@ -1,0 +1,963 @@
+1
+00:00:04,520 --> 00:00:05,280
+Two in the afternoon.
+
+2
+00:00:05,800 --> 00:00:07,281
+You have one article to read before a
+
+3
+00:00:07,321 --> 00:00:07,581
+meeting.
+
+4
+00:00:07,901 --> 00:00:08,781
+Just twelve pages.
+
+5
+00:00:09,102 --> 00:00:09,942
+How hard can it be?
+
+6
+00:00:10,562 --> 00:00:11,702
+You read the first paragraph.
+
+7
+00:00:12,343 --> 00:00:13,183
+Then your phone buzzes.
+
+8
+00:00:13,563 --> 00:00:14,023
+It's nothing.
+
+9
+00:00:14,063 --> 00:00:15,764
+Just a sale on shoes you'll never buy.
+
+10
+00:00:16,604 --> 00:00:17,604
+You go back to the article.
+
+11
+00:00:17,964 --> 00:00:19,085
+Wait, where were you?
+
+12
+00:00:19,945 --> 00:00:21,205
+You read the same paragraph again.
+
+13
+00:00:21,746 --> 00:00:22,186
+And again.
+
+14
+00:00:23,046 --> 00:00:24,546
+Your eyes reach the bottom of the page,
+
+15
+00:00:24,606 --> 00:00:26,527
+but your mind is thinking about dinner.
+
+16
+00:00:27,247 --> 00:00:28,208
+You open a new tab,
+
+17
+00:00:28,288 --> 00:00:29,228
+just to check one thing.
+
+18
+00:00:29,948 --> 00:00:31,729
+Forty minutes later, you're still on page
+
+19
+00:00:31,789 --> 00:00:32,029
+two.
+
+20
+00:00:32,669 --> 00:00:34,150
+You scroll back up and realize you can't
+
+21
+00:00:34,190 --> 00:00:36,110
+remember a single thing from page one.
+
+22
+00:00:36,830 --> 00:00:38,071
+Is something wrong with your brain?
+
+23
+00:00:39,251 --> 00:00:40,452
+You may have heard a scary fact.
+
+24
+00:00:40,973 --> 00:00:42,695
+Humans now have an attention span of eight
+
+25
+00:00:42,775 --> 00:00:44,577
+seconds, shorter than a goldfish.
+
+26
+00:00:45,177 --> 00:00:46,619
+It's been repeated in news stories,
+
+27
+00:00:46,679 --> 00:00:48,501
+talks and ads all over the world.
+
+28
+00:00:49,321 --> 00:00:51,223
+But when BBC reporters went looking for the
+
+29
+00:00:51,263 --> 00:00:53,085
+study behind it, they couldn't find one.
+
+30
+00:00:53,786 --> 00:00:55,708
+The report that spread the number didn't contain
+
+31
+00:00:55,728 --> 00:00:56,669
+the research behind it.
+
+32
+00:00:57,270 --> 00:00:59,312
+And nobody had measured a goldfish's attention
+
+33
+00:00:59,352 --> 00:00:59,912
+span either.
+
+34
+00:01:00,673 --> 00:01:01,954
+So if it's not a goldfish brain,
+
+35
+00:01:01,974 --> 00:01:02,615
+what's going on?
+
+36
+00:01:03,035 --> 00:01:04,428
+Let's collect some clues.
+
+37
+00:01:04,428 --> 00:01:05,125
+Clue one.
+
+38
+00:01:05,125 --> 00:01:06,519
+In a famous study,
+
+39
+00:01:06,519 --> 00:01:09,306
+an app pinged thousands of people at random
+
+40
+00:01:09,306 --> 00:01:11,744
+moments and asked what they were thinking
+
+41
+00:01:11,744 --> 00:01:12,093
+about.
+
+42
+00:01:12,093 --> 00:01:13,486
+Nearly half the time,
+
+43
+00:01:13,486 --> 00:01:15,576
+forty-seven percent, they were thinking about
+
+44
+00:01:15,576 --> 00:01:18,015
+something other than what they were doing.
+
+45
+00:01:18,015 --> 00:01:19,408
+Reading is no exception.
+
+46
+00:01:19,408 --> 00:01:21,150
+When researchers interrupt people reading
+
+47
+00:01:21,150 --> 00:01:22,544
+a story and ask,
+
+48
+00:01:22,544 --> 00:01:23,937
+"Were you on task?",
+
+49
+00:01:23,937 --> 00:01:25,679
+the answer is often no.
+
+50
+00:01:25,679 --> 00:01:28,466
+In several studies, around one in five times.
+
+51
+00:01:28,466 --> 00:01:30,208
+And here's the strange part.
+
+52
+00:01:30,208 --> 00:01:32,646
+During these moments, the eyes keep moving
+
+53
+00:01:32,646 --> 00:01:33,691
+across the words.
+
+54
+00:01:33,691 --> 00:01:35,085
+Your eyes are reading.
+
+55
+00:01:35,085 --> 00:01:36,478
+Your mind is not.
+
+56
+00:01:36,478 --> 00:01:39,265
+Your eyes even stop slowing down for hard
+
+57
+00:01:39,265 --> 00:01:42,052
+or unusual words, as if they were on
+
+58
+00:01:42,052 --> 00:01:42,400
+autopilot.
+
+59
+00:01:42,400 --> 00:01:45,187
+And readers who zone out more often do
+
+60
+00:01:45,187 --> 00:01:47,626
+worse on questions about the text afterward.
+
+61
+00:01:48,106 --> 00:01:48,586
+Clue two.
+
+62
+00:01:48,967 --> 00:01:50,147
+In a 2015 experiment,
+
+63
+00:01:50,647 --> 00:01:52,929
+people did a task that needed close attention.
+
+64
+00:01:53,689 --> 00:01:55,170
+Some of them got a text message or
+
+65
+00:01:55,230 --> 00:01:56,811
+a call on their phone during the task.
+
+66
+00:01:57,471 --> 00:01:58,172
+They didn't answer it.
+
+67
+00:01:58,692 --> 00:02:00,013
+They didn't even touch the phone.
+
+68
+00:02:00,733 --> 00:02:02,694
+Yet they made noticeably more mistakes,
+
+69
+00:02:03,395 --> 00:02:05,176
+about as many as people who actually used
+
+70
+00:02:05,196 --> 00:02:05,716
+their phones.
+
+71
+00:02:06,296 --> 00:02:06,796
+Clue three.
+
+72
+00:02:07,517 --> 00:02:09,338
+Every time you switch from one task to
+
+73
+00:02:09,379 --> 00:02:12,021
+another, your brain pays a small time cost
+
+74
+00:02:12,061 --> 00:02:12,941
+to change its rules.
+
+75
+00:02:13,762 --> 00:02:15,083
+The more complex the tasks,
+
+76
+00:02:15,704 --> 00:02:16,664
+the bigger the cost.
+
+77
+00:02:17,525 --> 00:02:19,447
+And when you switch away from something unfinished,
+
+78
+00:02:19,967 --> 00:02:21,768
+part of your attention stays stuck on it.
+
+79
+00:02:22,449 --> 00:02:24,951
+Researchers call this attention residue.
+
+80
+00:02:25,471 --> 00:02:26,031
+Clue four.
+
+81
+00:02:26,712 --> 00:02:29,013
+A large review compared reading on paper with
+
+82
+00:02:29,173 --> 00:02:30,053
+reading on screens.
+
+83
+00:02:30,753 --> 00:02:32,454
+On average, people understood informational
+
+84
+00:02:32,514 --> 00:02:34,055
+texts a little better on paper.
+
+85
+00:02:34,755 --> 00:02:36,256
+The gap was bigger when they were in
+
+86
+00:02:36,276 --> 00:02:36,616
+a hurry.
+
+87
+00:02:37,636 --> 00:02:39,657
+And people reading on screens were more likely
+
+88
+00:02:39,697 --> 00:02:41,998
+to overestimate how much they'd understood.
+
+89
+00:02:42,558 --> 00:02:44,079
+So why can't you focus on reading?
+
+90
+00:02:45,099 --> 00:02:48,121
+A: your attention span has shrunk to less
+
+91
+00:02:48,181 --> 00:02:49,142
+than a goldfish's.
+
+92
+00:02:49,782 --> 00:02:52,263
+B: your phone has permanently damaged your
+
+93
+00:02:52,303 --> 00:02:52,643
+brain.
+
+94
+00:02:53,164 --> 00:02:55,705
+Or C: your attention is like a spotlight
+
+95
+00:02:55,745 --> 00:02:56,966
+that keeps getting pulled away,
+
+96
+00:02:57,446 --> 00:02:59,267
+and every trip back costs you a little.
+
+97
+00:02:59,787 --> 00:03:01,113
+Pause the video and take a guess.
+
+98
+00:03:10,167 --> 00:03:10,808
+The key is this.
+
+99
+00:03:11,308 --> 00:03:13,610
+Attention isn't a tank that slowly runs empty.
+
+100
+00:03:14,310 --> 00:03:15,711
+It's more like a spotlight that you keep
+
+101
+00:03:15,831 --> 00:03:17,573
+aiming, and that keeps getting pulled off
+
+102
+00:03:17,613 --> 00:03:17,973
+target.
+
+103
+00:03:18,754 --> 00:03:20,275
+To see why reading suffers so much,
+
+104
+00:03:20,655 --> 00:03:22,457
+let's look at what reading asks of that
+
+105
+00:03:22,537 --> 00:03:22,997
+spotlight.
+
+106
+00:03:23,597 --> 00:03:25,519
+Reading isn't just seeing words.
+
+107
+00:03:26,099 --> 00:03:27,180
+To understand a paragraph,
+
+108
+00:03:27,661 --> 00:03:29,383
+your brain holds on to the last few
+
+109
+00:03:29,463 --> 00:03:32,425
+ideas and links each new sentence to them.
+
+110
+00:03:33,286 --> 00:03:34,788
+It builds a little model of what the
+
+111
+00:03:34,848 --> 00:03:35,568
+text is saying.
+
+112
+00:03:36,429 --> 00:03:37,410
+That chain is fragile.
+
+113
+00:03:37,950 --> 00:03:39,632
+If your spotlight drifts for even a few
+
+114
+00:03:39,692 --> 00:03:41,794
+sentences, a link goes missing.
+
+115
+00:03:42,555 --> 00:03:43,936
+Then the next sentence makes no sense,
+
+116
+00:03:44,396 --> 00:03:45,297
+and you have to go back.
+
+117
+00:03:46,038 --> 00:03:47,800
+That's why you read the same paragraph three
+
+118
+00:03:47,860 --> 00:03:48,160
+times.
+
+119
+00:03:48,780 --> 00:03:50,381
+The first thing pulling your spotlight is
+
+120
+00:03:50,421 --> 00:03:51,081
+your own mind.
+
+121
+00:03:51,801 --> 00:03:53,062
+When your attention drifts inward,
+
+122
+00:03:53,422 --> 00:03:55,743
+a set of brain areas called the default
+
+123
+00:03:55,843 --> 00:03:57,963
+mode network becomes more active.
+
+124
+00:03:58,824 --> 00:03:59,944
+It's busy with memories,
+
+125
+00:04:00,224 --> 00:04:01,384
+plans and daydreams.
+
+126
+00:04:02,265 --> 00:04:03,745
+Mind wandering isn't a defect.
+
+127
+00:04:04,185 --> 00:04:05,606
+It helps you plan and imagine.
+
+128
+00:04:06,246 --> 00:04:09,147
+But while reading, it quietly steals the thread.
+
+129
+00:04:10,048 --> 00:04:11,928
+And often you don't notice until a page
+
+130
+00:04:11,988 --> 00:04:12,268
+later.
+
+131
+00:04:12,969 --> 00:04:14,849
+The harder or more boring the text,
+
+132
+00:04:15,289 --> 00:04:16,890
+the more often the mind slips away.
+
+133
+00:04:17,470 --> 00:04:19,692
+The second pull comes from cues around you.
+
+134
+00:04:20,232 --> 00:04:21,853
+A buzz or a ping is designed to
+
+135
+00:04:21,893 --> 00:04:23,094
+grab attention, and it works.
+
+136
+00:04:23,874 --> 00:04:24,695
+Even if you ignore it,
+
+137
+00:04:24,935 --> 00:04:26,376
+your mind starts wondering who it was.
+
+138
+00:04:27,216 --> 00:04:29,138
+In one experiment, students spent one week
+
+139
+00:04:29,158 --> 00:04:31,579
+with phone alerts on and another with alerts
+
+140
+00:04:31,719 --> 00:04:31,860
+off.
+
+141
+00:04:32,620 --> 00:04:35,122
+With alerts on, they reported more inattention.
+
+142
+00:04:36,242 --> 00:04:38,064
+What about a silent phone just sitting on
+
+143
+00:04:38,084 --> 00:04:39,785
+your desk?
+
+144
+00:04:39,905 --> 00:04:41,746
+A 2017 study claimed that even its mere
+
+145
+00:04:41,886 --> 00:04:43,387
+presence drains your brainpower.
+
+146
+00:04:44,068 --> 00:04:46,389
+But later, careful attempts to repeat that
+
+147
+00:04:46,469 --> 00:04:48,050
+study did not find the effect.
+
+148
+00:04:48,430 --> 00:04:49,251
+So it's the buzzing,
+
+149
+00:04:49,511 --> 00:04:50,512
+more than the phone itself,
+
+150
+00:04:50,952 --> 00:04:52,333
+that we have good evidence against.
+
+151
+00:04:52,953 --> 00:04:54,355
+The third pull is switching.
+
+152
+00:04:55,056 --> 00:04:56,399
+Opening a new tab feels like it takes
+
+153
+00:04:56,559 --> 00:04:57,120
+one second.
+
+154
+00:04:57,480 --> 00:04:59,383
+But coming back means reloading the chain
+
+155
+00:04:59,403 --> 00:05:00,445
+of ideas you were holding.
+
+156
+00:05:01,146 --> 00:05:02,228
+Part of your mind is still on the
+
+157
+00:05:02,308 --> 00:05:03,289
+email you didn't finish.
+
+158
+00:05:03,930 --> 00:05:04,792
+Do that twenty times,
+
+159
+00:05:04,832 --> 00:05:06,154
+and forty minutes disappear.
+
+160
+00:05:06,734 --> 00:05:08,575
+The fourth pull may be the screen itself.
+
+161
+00:05:09,415 --> 00:05:10,155
+We do a lot of quick,
+
+162
+00:05:10,355 --> 00:05:11,575
+shallow reading on screens:
+
+163
+00:05:11,875 --> 00:05:13,576
+messages, feeds, headlines.
+
+164
+00:05:14,236 --> 00:05:15,917
+One idea is that we carry that skimming
+
+165
+00:05:15,977 --> 00:05:17,817
+habit over to everything we read on a
+
+166
+00:05:17,857 --> 00:05:18,197
+screen.
+
+167
+00:05:18,877 --> 00:05:20,838
+We read faster, and we check our own
+
+168
+00:05:20,898 --> 00:05:21,738
+understanding less.
+
+169
+00:05:22,759 --> 00:05:24,539
+That could explain why screen readers in the
+
+170
+00:05:24,579 --> 00:05:26,760
+review felt more confident than they should
+
+171
+00:05:26,780 --> 00:05:27,000
+have.
+
+172
+00:05:27,940 --> 00:05:29,681
+But this is still an idea being tested,
+
+173
+00:05:30,201 --> 00:05:31,121
+not a settled fact.
+
+174
+00:05:31,701 --> 00:05:32,442
+There's one more thing.
+
+175
+00:05:33,043 --> 00:05:35,066
+When people do a single focused task for
+
+176
+00:05:35,106 --> 00:05:37,569
+a long time, their performance tends to slip.
+
+177
+00:05:38,270 --> 00:05:39,752
+In a small 2011 study,
+
+178
+00:05:40,113 --> 00:05:41,996
+people who took two very short breaks from
+
+179
+00:05:42,036 --> 00:05:44,239
+a fifty-minute task didn't show that slip.
+
+180
+00:05:45,020 --> 00:05:46,221
+So stepping away for a moment,
+
+181
+00:05:46,442 --> 00:05:48,685
+on purpose, can help you come back sharper.
+
+182
+00:05:49,245 --> 00:05:51,066
+What about people who juggle many screens
+
+183
+00:05:51,126 --> 00:05:51,466
+all day?
+
+184
+00:05:52,386 --> 00:05:55,248
+A well-known 2009 study found that heavy media
+
+185
+00:05:55,288 --> 00:05:58,269
+multitaskers were worse at ignoring distractions.
+
+186
+00:05:59,190 --> 00:05:59,890
+It made headlines.
+
+187
+00:06:00,610 --> 00:06:02,111
+But when other scientists tried to repeat
+
+188
+00:06:02,151 --> 00:06:03,512
+it, the results were mixed.
+
+189
+00:06:04,292 --> 00:06:06,193
+Pooling many studies, the link turned out
+
+190
+00:06:06,233 --> 00:06:08,154
+to be small, and it may be even
+
+191
+00:06:08,294 --> 00:06:09,234
+smaller than it looks.
+
+192
+00:06:09,975 --> 00:06:12,296
+So we can't say that multitasking has rewired
+
+193
+00:06:12,456 --> 00:06:13,176
+anyone's brain.
+
+194
+00:06:13,696 --> 00:06:15,097
+Can you train your spotlight?
+
+195
+00:06:16,257 --> 00:06:17,418
+In a 2013 study,
+
+196
+00:06:17,538 --> 00:06:19,719
+forty-eight students took a two-week class.
+
+197
+00:06:20,500 --> 00:06:22,661
+Half learned mindfulness: noticing when the
+
+198
+00:06:22,701 --> 00:06:24,642
+mind drifts and gently bringing it back.
+
+199
+00:06:25,442 --> 00:06:27,083
+The other half took a class on nutrition.
+
+200
+00:06:27,903 --> 00:06:30,104
+Afterward, the mindfulness group's minds wandered
+
+201
+00:06:30,144 --> 00:06:32,206
+less, and they scored higher on a reading
+
+202
+00:06:32,246 --> 00:06:33,086
+comprehension test.
+
+203
+00:06:33,946 --> 00:06:34,787
+It was a small study,
+
+204
+00:06:34,827 --> 00:06:37,288
+but it suggests that noticing the drift is
+
+205
+00:06:37,348 --> 00:06:38,829
+a skill you can practice.
+
+206
+00:06:39,449 --> 00:06:40,609
+So, back to the question.
+
+207
+00:06:41,249 --> 00:06:42,590
+The answer is C.
+
+208
+00:06:43,390 --> 00:06:45,490
+The eight-second goldfish fact has no study
+
+209
+00:06:45,530 --> 00:06:45,891
+behind it.
+
+210
+00:06:46,231 --> 00:06:47,991
+And there's no solid evidence that your phone
+
+211
+00:06:48,011 --> 00:06:49,751
+has permanently broken your brain.
+
+212
+00:06:50,632 --> 00:06:52,172
+Your attention is a spotlight,
+
+213
+00:06:52,672 --> 00:06:54,573
+and today's world keeps tugging it away.
+
+214
+00:06:55,073 --> 00:06:55,873
+And it's not just you.
+
+215
+00:06:56,393 --> 00:06:58,594
+Remember, people's minds drift nearly half
+
+216
+00:06:58,634 --> 00:07:00,174
+the time, whatever they're doing.
+
+217
+00:07:00,714 --> 00:07:01,975
+The good news is that you can make
+
+218
+00:07:02,015 --> 00:07:03,555
+the spotlight easier to hold.
+
+219
+00:07:04,255 --> 00:07:05,856
+Turn off notifications while you read,
+
+220
+00:07:06,296 --> 00:07:07,697
+and put your phone out of reach.
+
+221
+00:07:08,597 --> 00:07:09,597
+Keep one tab open.
+
+222
+00:07:10,138 --> 00:07:11,198
+One task at a time.
+
+223
+00:07:11,918 --> 00:07:12,999
+For text that really matters,
+
+224
+00:07:13,059 --> 00:07:15,680
+consider paper, and give yourself enough time.
+
+225
+00:07:16,380 --> 00:07:17,440
+When you notice you've drifted,
+
+226
+00:07:17,840 --> 00:07:19,481
+go back to the last sentence you remember,
+
+227
+00:07:19,981 --> 00:07:20,781
+not the whole page.
+
+228
+00:07:21,582 --> 00:07:24,143
+And take short, planned breaks before your
+
+229
+00:07:24,183 --> 00:07:25,023
+focus runs down.
+
+230
+00:07:25,623 --> 00:07:26,543
+So, the next afternoon,
+
+231
+00:07:26,924 --> 00:07:27,544
+you try again.
+
+232
+00:07:28,144 --> 00:07:29,865
+Phone on silent, in the drawer.
+
+233
+00:07:30,485 --> 00:07:30,966
+One tab.
+
+234
+00:07:31,486 --> 00:07:32,646
+Twenty-five minutes of reading,
+
+235
+00:07:33,006 --> 00:07:34,287
+then a two-minute stretch.
+
+236
+00:07:35,027 --> 00:07:37,048
+By three o'clock, you're on the last page.
+
+237
+00:07:37,749 --> 00:07:39,650
+And this time, you can actually remember what
+
+238
+00:07:39,710 --> 00:07:40,690
+page one was about.
+
+239
+00:07:41,610 --> 00:07:43,311
+And if your mind wandered during this video,
+
+240
+00:07:43,611 --> 00:07:44,192
+that's normal.
+
+241
+00:07:44,872 --> 00:07:46,553
+Just rewind ten seconds.
