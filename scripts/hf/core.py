@@ -254,6 +254,8 @@ def audio_tag(id_, src, start, dur, track, fade_in=0.0, fade_out=0.0, points=Non
 def prep_audio(bgm_files=()):
     """Chuẩn hóa lời đọc về -16 LUFS (đỉnh -1,5 dB); chép hiệu ứng âm dùng chung và nhạc nền vào assets/."""
     src, dst = EP / "audio" / "loi-doc.wav", VID / "assets" / "loi-doc.wav"
+    if not src.exists():
+        sys.exit(f"Thiếu {src} — chạy lồng tiếng (long-tieng.py) trước. Tập cũ lấy từ repo không kèm âm thanh.")
     dst.parent.mkdir(exist_ok=True)
     if not dst.exists() or dst.stat().st_mtime < src.stat().st_mtime:
         subprocess.run([FFMPEG, "-y", "-loglevel", "error", "-i", str(src), "-af", "loudnorm=I=-16:TP=-1.5:LRA=11",

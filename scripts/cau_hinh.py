@@ -40,7 +40,8 @@ FFPROBE = tool("ffprobe")
 
 
 def venv_python(role):
-    path = CFG.get("venv", {}).get(role) or TOOLS / f"venv-{role}"
+    # mặc định giống cai-dat.ps1: WhisperX riêng một venv, còn lại dùng chung venv-chung
+    path = CFG.get("venv", {}).get(role) or TOOLS / ("venv-align" if role == "align" else "venv-chung")
     return Path(path) / "Scripts" / "python.exe"
 
 
