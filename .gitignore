@@ -29,3 +29,6 @@ tap/*/video-doc/**/*.mp4
 # Thử nghiệm không dùng nữa (parallax đã bỏ), gói skill cũ
 assets/phan-tich-3d/
 skill-dong-goi/
+
+# Key YouTube Data API (khảo sát thị trường)
+.youtube_key.txt
