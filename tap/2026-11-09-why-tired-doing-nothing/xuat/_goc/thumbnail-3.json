@@ -1,0 +1,24 @@
+{
+  "nguon": "OpenAI Images API (gpt-image-2) — ảnh do AI tạo, ghi 'Ảnh minh họa' khi dùng",
+  "ngay": "2026-11-09",
+  "prompt": "YouTube thumbnail, 16:9 composition, bold and readable at small size. Use the exact same boy character from the first reference image (same face, round glasses, messy brown hair, mustard yellow sweater, navy shorts) in the same clean children's-book illustration style. Keep all text and the face inside the central area, away from the top and bottom 15% of the image (it will be cropped to 16:9). Big chunky white or yellow sans-serif text with a thick dark outline, spelled exactly as given, no other text, no logo. Text: \"REST ISN'T RESTING\" on the right half. Split image: on the left the boy yawning on a couch surrounded by floating phone screens and a clock showing 6 PM; a big glowing warning light above him. Bold orange to teal gradient background.",
+  "ref": [
+    "assets/nhan-vat/cau-be-kinh/goc-chatgpt.png",
+    "assets/boi-canh/phong-khach.png"
+  ],
+  "size": "1536x1024",
+  "quality": "high",
+  "usage": {
+    "input_tokens": 3234,
+    "input_tokens_details": {
+      "image_tokens": 3057,
+      "text_tokens": 177
+    },
+    "output_tokens": 5488,
+    "output_tokens_details": {
+      "image_tokens": 5488,
+      "text_tokens": 0
+    },
+    "total_tokens": 8722
+  }
+}

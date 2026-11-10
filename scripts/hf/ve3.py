@@ -278,3 +278,92 @@ def donut(id_, cx, cy, r, frac, color=CORAL, rest="#1D4262"):
     return g(id_, f'<circle cx="{cx}" cy="{cy}" r="{r}" fill="none" stroke="{rest}" stroke-width="{r * 0.36:.0f}"/>'
                   f'<circle id="{id_}-arc" cx="{cx}" cy="{cy}" r="{r}" fill="none" stroke="{color}" stroke-width="{r * 0.36:.0f}" '
                   f'pathLength="1" stroke-dasharray="{frac} 1" stroke-dashoffset="{frac}" transform="rotate(-90 {cx} {cy})"/>')
+
+
+# ---------------------------------------------------------------- tập Why stay up on your phone
+FEED_COLORS = ["#F7A8B8", "#A8E6CF", "#F7D774", "#C9D6E3", "#FFB38A", "#B9A8F7"]
+
+
+def feed(id_, cx, cy, s=1.0, n=14):
+    """Điện thoại lớn có dòng tin cuộn không đáy: tween #id_-strip theo y (âm) để cuộn."""
+    cards = "".join(f'<rect x="-104" y="{-150 + k * 118}" width="208" height="102" rx="14" fill="{FEED_COLORS[k % 6]}" stroke="{INK}" stroke-width="4"/>'
+                    f'<circle cx="-70" cy="{-120 + k * 118}" r="16" fill="{WHITE}"/>'
+                    f'<rect x="-44" y="{-128 + k * 118}" width="120" height="14" rx="7" fill="{WHITE}"/>'
+                    f'<rect x="-84" y="{-92 + k * 118}" width="160" height="12" rx="6" fill="{WHITE}" opacity=".7"/>' for k in range(n))
+    return place(cx, cy, g(id_, f'<defs><clipPath id="{id_}-clip"><rect x="-116" y="-196" width="232" height="392" rx="14"/></clipPath></defs>'
+                                f'<rect x="-136" y="-226" width="272" height="452" rx="34" fill="{INK}"/>'
+                                f'<rect x="-116" y="-196" width="232" height="392" rx="14" fill="#E9F3FB"/>'
+                                f'<g clip-path="url(#{id_}-clip)"><g id="{id_}-strip">{cards}</g></g>'
+                                f'<circle cy="210" r="7" fill="{GREY}"/>'), s)
+
+
+def pedal(id_, cx, cy, label, color, s=1.0):
+    """Bàn đạp (ga/phanh): co giãn #id_ theo scale để to/nhỏ."""
+    return place(cx, cy, g(id_, f'<rect x="-80" y="-130" width="160" height="260" rx="30" fill="{color}" stroke="{INK}" stroke-width="{SW}"/>'
+                                + "".join(f'<rect x="-54" y="{-96 + k * 44}" width="108" height="16" rx="8" fill="{INK}" opacity=".35"/>' for k in range(5))
+                                + text(0, 200, label, 44, 900, color, "middle")), s)
+
+
+def day_bar(prefix, x, y, w, segs, h=90):
+    """Thanh ngày 24 giờ: segs = [(phần, màu, nhãn)]; mỗi đoạn #prefix-s{k}."""
+    out, x0 = [], x
+    for k, (frac, color, lab) in enumerate(segs):
+        sw = w * frac
+        out.append(g(f"{prefix}-s{k}", f'<rect x="{x0:.0f}" y="{y}" width="{sw:.0f}" height="{h}" fill="{color}" stroke="{INK}" stroke-width="5"/>'
+                     + text(x0 + sw / 2, y + h / 2 + 12, lab, 30, 900, INK, "middle")))
+        x0 += sw
+    return "".join(out)
+
+
+def age_curve(id_, x, y, w, h):
+    """Đường giờ ngủ theo tuổi (10 → 60): muộn dần, đỉnh ~20, rồi sớm dần. pathLength=1 để vẽ dần."""
+    ax = lambda age: x + w * (age - 10) / 50
+    pts = [(10, 0.15), (13, 0.42), (16, 0.72), (18, 0.9), (20, 1.0), (23, 0.9), (30, 0.68), (40, 0.48), (50, 0.34), (60, 0.24)]
+    d = "M" + " L".join(f"{ax(a):.0f} {y + h - h * v:.0f}" for a, v in pts)
+    return (f'<path id="{id_}" d="{d}" fill="none" stroke="{YELLOW}" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" '
+            f'pathLength="1" stroke-dasharray="1 1.2" stroke-dashoffset="1.1"/>')
+
+
+# ---- tập Why are you tired after a day of doing nothing? (2026-11-09)
+
+def bike(id_, cx, cy, s=1.0, color=TEAL):
+    """Xe đạp tập tại chỗ; bánh đà #id_-wheel xoay quanh tâm (0, 40)."""
+    return place(cx, cy, g(id_, f'<path d="M-150 150 H150" stroke="{INK}" stroke-width="18" stroke-linecap="round"/>'
+                                f'<path d="M-110 150 L-40 -40 M60 150 L20 -20 L-40 -40 M-40 -40 L-60 -100 M20 -20 L60 -110" '
+                                f'stroke="{color}" stroke-width="22" stroke-linecap="round" fill="none"/>'
+                                f'<rect x="-100" y="-118" width="80" height="22" rx="11" fill="{INK}"/>'
+                                f'<path d="M40 -120 H95" stroke="{INK}" stroke-width="16" stroke-linecap="round"/>'
+                                f'<g id="{id_}-wheel"><circle cx="0" cy="40" r="70" fill="#1D4262" stroke="{INK}" stroke-width="{SW}"/>'
+                                f'<path d="M0 -30 V110 M-70 40 H70" stroke="{GREY}" stroke-width="8"/></g>'
+                                f'<circle cx="0" cy="40" r="12" fill="{YELLOW}" stroke="{INK}" stroke-width="5"/>'), s)
+
+
+def shock_button(id_, cx, cy, s=1.0):
+    """Nút bấm đỏ có tia sét; #id_-cap nhấn xuống bằng y."""
+    bolt = f'<path d="M14 -150 L-26 -84 H6 L-14 -24 L34 -98 H2 Z" fill="{YELLOW}" stroke="{INK}" stroke-width="5" stroke-linejoin="round"/>'
+    return place(cx, cy, g(id_, f'<rect x="-110" y="10" width="220" height="70" rx="18" fill="{GREY}" stroke="{INK}" stroke-width="{SW}"/>'
+                                f'<g id="{id_}-cap"><ellipse cx="0" cy="10" rx="80" ry="34" fill="{CORAL}" stroke="{INK}" stroke-width="{SW}"/></g>'
+                                + g(f"{id_}-bolt", bolt)), s)
+
+
+def heartbeat(id_, x, y, w, gaps, color=CORAL, width=8):
+    """Đường nhịp tim từ (x, y) dài w; gaps = khoảng cách giữa các nhịp (tăng dần = tim chậm dần). pathLength=1."""
+    d, px = [f"M{x} {y}"], x
+    for gp in gaps:
+        if px + gp + 60 > x + w:
+            break
+        px += gp
+        d.append(f"L{px} {y} L{px + 12} {y - 70} L{px + 26} {y + 50} L{px + 38} {y - 20} L{px + 50} {y}")
+        px += 50
+    d.append(f"L{x + w} {y}")
+    return (f'<path id="{id_}" d="{" ".join(d)}" fill="none" stroke="{color}" stroke-width="{width}" stroke-linecap="round" '
+            f'stroke-linejoin="round" pathLength="1" stroke-dasharray="1 1.2" stroke-dashoffset="1.1"/>')
+
+
+def pressure_curve(id_, x, y, w, h, color=YELLOW):
+    """Áp lực ngủ tăng dần theo giờ thức (bão hòa); pathLength=1 để vẽ dần."""
+    import math
+    pts = [(x + w * k / 20, y + h - h * (1 - math.exp(-2.2 * k / 20)) / (1 - math.exp(-2.2))) for k in range(21)]
+    d = "M" + " L".join(f"{px:.0f} {py:.0f}" for px, py in pts)
+    return (f'<path id="{id_}" d="{d}" fill="none" stroke="{color}" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" '
+            f'pathLength="1" stroke-dasharray="1 1.2" stroke-dashoffset="1.1"/>')

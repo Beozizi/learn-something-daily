@@ -88,9 +88,14 @@ def group(words: list[dict], is_break) -> list[dict]:
     return groups
 
 
+def het_cau(text: str) -> bool:
+    """Chữ kết thúc câu. Chữ viết tắt một chữ cái ("E." trong "E. coli") không tính."""
+    return text.endswith(SENTENCE_END) and not (len(text) == 2 and text[0].isupper())
+
+
 def cue_break(current: list[dict], word: dict) -> bool:
     chars = sum(len(w["text"]) + 1 for w in current)
-    return (word["text"].endswith(SENTENCE_END) or len(current) >= MAX_CUE_WORDS
+    return (het_cau(word["text"]) or len(current) >= MAX_CUE_WORDS
             or chars >= MAX_CUE_CHARS or (word["text"].endswith((",", ";", ":")) and len(current) >= 4))
 
 
@@ -122,7 +127,7 @@ def main() -> None:
         if scene["text"]:
             words += align_scene(scene, model, metadata, audio, device)
 
-    sentences = group(words, lambda cur, w: w["text"].endswith(SENTENCE_END))
+    sentences = group(words, lambda cur, w: het_cau(w["text"]))
     (audio_dir / "words.json").write_text(
         json.dumps({"words": words, "sentences": sentences}, ensure_ascii=False, indent=2),
         encoding="utf-8")

@@ -1,0 +1,6084 @@
+{
+  "voice": "iP95p4xoKVk53GoZ742B",
+  "sample_rate": 48000,
+  "duration": 501.551,
+  "scenes": [
+    {
+      "id": "01",
+      "title": "Title",
+      "start": 0.0,
+      "end": 4.4,
+      "speech_end": 0.0,
+      "min_duration": 4.0,
+      "visual": [
+        "Thẻ giấy: \"Why do you stay up late on your phone?\" — ánh sáng xanh nhạt hắt từ dưới lên như màn hình."
+      ],
+      "text": "",
+      "say_text": "",
+      "tokens": []
+    },
+    {
+      "id": "02",
+      "title": "Opening story",
+      "start": 4.4,
+      "end": 35.468,
+      "speech_end": 35.068,
+      "min_duration": null,
+      "visual": [
+        "phong-ngu.jpg — cậu bé nằm, tư thế dien-thoai; đồng hồ 23:00 → 23:47 → 00:58 → 01:40; báo thức \"7:00\"; mắt díp lại."
+      ],
+      "text": "Eleven at night. You're in bed, and you are exhausted. Your alarm is set for seven. You know you should sleep. So you pick up your phone. Just to check one thing. One video. Then another. Then a message, then a feed. Your eyes are burning. You tell yourself, just one more. You look up at the clock. It's one forty in the morning. The next day, you drag yourself through class or work. And that night? You do it all over again. You're not even enjoying it that much. So why can't you just put the phone down?",
+      "say_text": "Eleven at night. You're in bed, and you are exhausted. Your alarm is set for seven. You know you should sleep. So you pick up your phone. Just to check one thing. One video. Then another. Then a message, then a feed. Your eyes are burning. You tell yourself, just one more. You look up at the clock. It's one forty in the morning. The next day, you drag yourself through class or work. And that night? You do it all over again. You're not even enjoying it that much. So why can't you just put the phone down?",
+      "tokens": [
+        {
+          "show": "Eleven",
+          "say": "Eleven"
+        },
+        {
+          "show": "at",
+          "say": "at"
+        },
+        {
+          "show": "night.",
+          "say": "night."
+        },
+        {
+          "show": "You're",
+          "say": "You're"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "bed,",
+          "say": "bed,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "are",
+          "say": "are"
+        },
+        {
+          "show": "exhausted.",
+          "say": "exhausted."
+        },
+        {
+          "show": "Your",
+          "say": "Your"
+        },
+        {
+          "show": "alarm",
+          "say": "alarm"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "set",
+          "say": "set"
+        },
+        {
+          "show": "for",
+          "say": "for"
+        },
+        {
+          "show": "seven.",
+          "say": "seven."
+        },
+        {
+          "show": "You",
+          "say": "You"
+        },
+        {
+          "show": "know",
+          "say": "know"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "should",
+          "say": "should"
+        },
+        {
+          "show": "sleep.",
+          "say": "sleep."
+        },
+        {
+          "show": "So",
+          "say": "So"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "pick",
+          "say": "pick"
+        },
+        {
+          "show": "up",
+          "say": "up"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "phone.",
+          "say": "phone."
+        },
+        {
+          "show": "Just",
+          "say": "Just"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "check",
+          "say": "check"
+        },
+        {
+          "show": "one",
+          "say": "one"
+        },
+        {
+          "show": "thing.",
+          "say": "thing."
+        },
+        {
+          "show": "One",
+          "say": "One"
+        },
+        {
+          "show": "video.",
+          "say": "video."
+        },
+        {
+          "show": "Then",
+          "say": "Then"
+        },
+        {
+          "show": "another.",
+          "say": "another."
+        },
+        {
+          "show": "Then",
+          "say": "Then"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "message,",
+          "say": "message,"
+        },
+        {
+          "show": "then",
+          "say": "then"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "feed.",
+          "say": "feed."
+        },
+        {
+          "show": "Your",
+          "say": "Your"
+        },
+        {
+          "show": "eyes",
+          "say": "eyes"
+        },
+        {
+          "show": "are",
+          "say": "are"
+        },
+        {
+          "show": "burning.",
+          "say": "burning."
+        },
+        {
+          "show": "You",
+          "say": "You"
+        },
+        {
+          "show": "tell",
+          "say": "tell"
+        },
+        {
+          "show": "yourself,",
+          "say": "yourself,"
+        },
+        {
+          "show": "just",
+          "say": "just"
+        },
+        {
+          "show": "one",
+          "say": "one"
+        },
+        {
+          "show": "more.",
+          "say": "more."
+        },
+        {
+          "show": "You",
+          "say": "You"
+        },
+        {
+          "show": "look",
+          "say": "look"
+        },
+        {
+          "show": "up",
+          "say": "up"
+        },
+        {
+          "show": "at",
+          "say": "at"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "clock.",
+          "say": "clock."
+        },
+        {
+          "show": "It's",
+          "say": "It's"
+        },
+        {
+          "show": "one",
+          "say": "one"
+        },
+        {
+          "show": "forty",
+          "say": "forty"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "morning.",
+          "say": "morning."
+        },
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "next",
+          "say": "next"
+        },
+        {
+          "show": "day,",
+          "say": "day,"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "drag",
+          "say": "drag"
+        },
+        {
+          "show": "yourself",
+          "say": "yourself"
+        },
+        {
+          "show": "through",
+          "say": "through"
+        },
+        {
+          "show": "class",
+          "say": "class"
+        },
+        {
+          "show": "or",
+          "say": "or"
+        },
+        {
+          "show": "work.",
+          "say": "work."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "night?",
+          "say": "night?"
+        },
+        {
+          "show": "You",
+          "say": "You"
+        },
+        {
+          "show": "do",
+          "say": "do"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "all",
+          "say": "all"
+        },
+        {
+          "show": "over",
+          "say": "over"
+        },
+        {
+          "show": "again.",
+          "say": "again."
+        },
+        {
+          "show": "You're",
+          "say": "You're"
+        },
+        {
+          "show": "not",
+          "say": "not"
+        },
+        {
+          "show": "even",
+          "say": "even"
+        },
+        {
+          "show": "enjoying",
+          "say": "enjoying"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "much.",
+          "say": "much."
+        },
+        {
+          "show": "So",
+          "say": "So"
+        },
+        {
+          "show": "why",
+          "say": "why"
+        },
+        {
+          "show": "can't",
+          "say": "can't"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "just",
+          "say": "just"
+        },
+        {
+          "show": "put",
+          "say": "put"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "phone",
+          "say": "phone"
+        },
+        {
+          "show": "down?",
+          "say": "down?"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "Not a rare problem",
+      "start": 35.468,
+      "end": 52.638,
+      "speech_end": 52.238,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: tên gọi \"BEDTIME PROCRASTINATION\" viết lên; cụm người; câu trích trong bong bóng: \"I want to go to bed on time, but I just don't.\" [1]"
+      ],
+      "text": "If this sounds like you, you're far from alone. In twenty fourteen, researchers in the Netherlands gave it a name. Bedtime procrastination. It means going to bed later than you planned, when nothing is actually stopping you. No baby crying. No deadline. Just you, and a glowing screen.",
+      "say_text": "If this sounds like you, you're far from alone. In twenty fourteen, researchers in the Netherlands gave it a name. Bedtime procrastination. It means going to bed later than you planned, when nothing is actually stopping you. No baby crying. No deadline. Just you, and a glowing screen.",
+      "tokens": [
+        {
+          "show": "If",
+          "say": "If"
+        },
+        {
+          "show": "this",
+          "say": "this"
+        },
+        {
+          "show": "sounds",
+          "say": "sounds"
+        },
+        {
+          "show": "like",
+          "say": "like"
+        },
+        {
+          "show": "you,",
+          "say": "you,"
+        },
+        {
+          "show": "you're",
+          "say": "you're"
+        },
+        {
+          "show": "far",
+          "say": "far"
+        },
+        {
+          "show": "from",
+          "say": "from"
+        },
+        {
+          "show": "alone.",
+          "say": "alone."
+        },
+        {
+          "show": "In",
+          "say": "In"
+        },
+        {
+          "show": "twenty",
+          "say": "twenty"
+        },
+        {
+          "show": "fourteen,",
+          "say": "fourteen,"
+        },
+        {
+          "show": "researchers",
+          "say": "researchers"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "Netherlands",
+          "say": "Netherlands"
+        },
+        {
+          "show": "gave",
+          "say": "gave"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "name.",
+          "say": "name."
+        },
+        {
+          "show": "Bedtime",
+          "say": "Bedtime"
+        },
+        {
+          "show": "procrastination.",
+          "say": "procrastination."
+        },
+        {
+          "show": "It",
+          "say": "It"
+        },
+        {
+          "show": "means",
+          "say": "means"
+        },
+        {
+          "show": "going",
+          "say": "going"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "bed",
+          "say": "bed"
+        },
+        {
+          "show": "later",
+          "say": "later"
+        },
+        {
+          "show": "than",
+          "say": "than"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "planned,",
+          "say": "planned,"
+        },
+        {
+          "show": "when",
+          "say": "when"
+        },
+        {
+          "show": "nothing",
+          "say": "nothing"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "actually",
+          "say": "actually"
+        },
+        {
+          "show": "stopping",
+          "say": "stopping"
+        },
+        {
+          "show": "you.",
+          "say": "you."
+        },
+        {
+          "show": "No",
+          "say": "No"
+        },
+        {
+          "show": "baby",
+          "say": "baby"
+        },
+        {
+          "show": "crying.",
+          "say": "crying."
+        },
+        {
+          "show": "No",
+          "say": "No"
+        },
+        {
+          "show": "deadline.",
+          "say": "deadline."
+        },
+        {
+          "show": "Just",
+          "say": "Just"
+        },
+        {
+          "show": "you,",
+          "say": "you,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "glowing",
+          "say": "glowing"
+        },
+        {
+          "show": "screen.",
+          "say": "screen."
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "title": "Clue one: not about sleep",
+      "start": 52.638,
+      "end": 76.993,
+      "speech_end": 76.593,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: giường bên trái \"SLEEP\" (không gạch); bên phải danh sách việc đang làm, mũi tên \"STOP?\" bị kẹt; hai thanh tương quan nhỏ. [1]"
+      ],
+      "text": "Let's collect some clues. Clue one. People who delay their bedtime often agree with a simple sentence. I want to go to bed on time, but I just don't. In surveys, putting off bedtime was linked to sleeping too little and feeling tired the next day. But the researchers noticed something. People weren't saying they didn't want to sleep. They seemed to struggle with stopping whatever they were doing.",
+      "say_text": "Let's collect some clues. Clue one. People who delay their bedtime often agree with a simple sentence. I want to go to bed on time, but I just don't. In surveys, putting off bedtime was linked to sleeping too little and feeling tired the next day. But the researchers noticed something. People weren't saying they didn't want to sleep. They seemed to struggle with stopping whatever they were doing.",
+      "tokens": [
+        {
+          "show": "Let's",
+          "say": "Let's"
+        },
+        {
+          "show": "collect",
+          "say": "collect"
+        },
+        {
+          "show": "some",
+          "say": "some"
+        },
+        {
+          "show": "clues.",
+          "say": "clues."
+        },
+        {
+          "show": "Clue",
+          "say": "Clue"
+        },
+        {
+          "show": "one.",
+          "say": "one."
+        },
+        {
+          "show": "People",
+          "say": "People"
+        },
+        {
+          "show": "who",
+          "say": "who"
+        },
+        {
+          "show": "delay",
+          "say": "delay"
+        },
+        {
+          "show": "their",
+          "say": "their"
+        },
+        {
+          "show": "bedtime",
+          "say": "bedtime"
+        },
+        {
+          "show": "often",
+          "say": "often"
+        },
+        {
+          "show": "agree",
+          "say": "agree"
+        },
+        {
+          "show": "with",
+          "say": "with"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "simple",
+          "say": "simple"
+        },
+        {
+          "show": "sentence.",
+          "say": "sentence."
+        },
+        {
+          "show": "I",
+          "say": "I"
+        },
+        {
+          "show": "want",
+          "say": "want"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "go",
+          "say": "go"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "bed",
+          "say": "bed"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "time,",
+          "say": "time,"
+        },
+        {
+          "show": "but",
+          "say": "but"
+        },
+        {
+          "show": "I",
+          "say": "I"
+        },
+        {
+          "show": "just",
+          "say": "just"
+        },
+        {
+          "show": "don't.",
+          "say": "don't."
+        },
+        {
+          "show": "In",
+          "say": "In"
+        },
+        {
+          "show": "surveys,",
+          "say": "surveys,"
+        },
+        {
+          "show": "putting",
+          "say": "putting"
+        },
+        {
+          "show": "off",
+          "say": "off"
+        },
+        {
+          "show": "bedtime",
+          "say": "bedtime"
+        },
+        {
+          "show": "was",
+          "say": "was"
+        },
+        {
+          "show": "linked",
+          "say": "linked"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "sleeping",
+          "say": "sleeping"
+        },
+        {
+          "show": "too",
+          "say": "too"
+        },
+        {
+          "show": "little",
+          "say": "little"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "feeling",
+          "say": "feeling"
+        },
+        {
+          "show": "tired",
+          "say": "tired"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "next",
+          "say": "next"
+        },
+        {
+          "show": "day.",
+          "say": "day."
+        },
+        {
+          "show": "But",
+          "say": "But"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "researchers",
+          "say": "researchers"
+        },
+        {
+          "show": "noticed",
+          "say": "noticed"
+        },
+        {
+          "show": "something.",
+          "say": "something."
+        },
+        {
+          "show": "People",
+          "say": "People"
+        },
+        {
+          "show": "weren't",
+          "say": "weren't"
+        },
+        {
+          "show": "saying",
+          "say": "saying"
+        },
+        {
+          "show": "they",
+          "say": "they"
+        },
+        {
+          "show": "didn't",
+          "say": "didn't"
+        },
+        {
+          "show": "want",
+          "say": "want"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "sleep.",
+          "say": "sleep."
+        },
+        {
+          "show": "They",
+          "say": "They"
+        },
+        {
+          "show": "seemed",
+          "say": "seemed"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "struggle",
+          "say": "struggle"
+        },
+        {
+          "show": "with",
+          "say": "with"
+        },
+        {
+          "show": "stopping",
+          "say": "stopping"
+        },
+        {
+          "show": "whatever",
+          "say": "whatever"
+        },
+        {
+          "show": "they",
+          "say": "they"
+        },
+        {
+          "show": "were",
+          "say": "were"
+        },
+        {
+          "show": "doing.",
+          "say": "doing."
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "title": "Clue two: three kinds of late",
+      "start": 76.993,
+      "end": 98.082,
+      "speech_end": 97.682,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: ba thẻ: \"ON PURPOSE\" (cậu bé ôm ly cacao, đồng hồ tự do), \"LOST TRACK\" (đồng hồ tan chảy mờ), \"WAITING TO FEEL SLEEPY\" (cừu đếm). [3]"
+      ],
+      "text": "Clue two. Another team sat down with seventeen people who often went to bed late. They asked them why. Some stayed up on purpose. Evening was the only time that felt like their own. Some simply lost track of time. They were absorbed, and suddenly it was two in the morning. And a few waited until they felt really sleepy, so they wouldn't lie awake in bed.",
+      "say_text": "Clue two. Another team sat down with seventeen people who often went to bed late. They asked them why. Some stayed up on purpose. Evening was the only time that felt like their own. Some simply lost track of time. They were absorbed, and suddenly it was two in the morning. And a few waited until they felt really sleepy, so they wouldn't lie awake in bed.",
+      "tokens": [
+        {
+          "show": "Clue",
+          "say": "Clue"
+        },
+        {
+          "show": "two.",
+          "say": "two."
+        },
+        {
+          "show": "Another",
+          "say": "Another"
+        },
+        {
+          "show": "team",
+          "say": "team"
+        },
+        {
+          "show": "sat",
+          "say": "sat"
+        },
+        {
+          "show": "down",
+          "say": "down"
+        },
+        {
+          "show": "with",
+          "say": "with"
+        },
+        {
+          "show": "seventeen",
+          "say": "seventeen"
+        },
+        {
+          "show": "people",
+          "say": "people"
+        },
+        {
+          "show": "who",
+          "say": "who"
+        },
+        {
+          "show": "often",
+          "say": "often"
+        },
+        {
+          "show": "went",
+          "say": "went"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "bed",
+          "say": "bed"
+        },
+        {
+          "show": "late.",
+          "say": "late."
+        },
+        {
+          "show": "They",
+          "say": "They"
+        },
+        {
+          "show": "asked",
+          "say": "asked"
+        },
+        {
+          "show": "them",
+          "say": "them"
+        },
+        {
+          "show": "why.",
+          "say": "why."
+        },
+        {
+          "show": "Some",
+          "say": "Some"
+        },
+        {
+          "show": "stayed",
+          "say": "stayed"
+        },
+        {
+          "show": "up",
+          "say": "up"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "purpose.",
+          "say": "purpose."
+        },
+        {
+          "show": "Evening",
+          "say": "Evening"
+        },
+        {
+          "show": "was",
+          "say": "was"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "only",
+          "say": "only"
+        },
+        {
+          "show": "time",
+          "say": "time"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "felt",
+          "say": "felt"
+        },
+        {
+          "show": "like",
+          "say": "like"
+        },
+        {
+          "show": "their",
+          "say": "their"
+        },
+        {
+          "show": "own.",
+          "say": "own."
+        },
+        {
+          "show": "Some",
+          "say": "Some"
+        },
+        {
+          "show": "simply",
+          "say": "simply"
+        },
+        {
+          "show": "lost",
+          "say": "lost"
+        },
+        {
+          "show": "track",
+          "say": "track"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "time.",
+          "say": "time."
+        },
+        {
+          "show": "They",
+          "say": "They"
+        },
+        {
+          "show": "were",
+          "say": "were"
+        },
+        {
+          "show": "absorbed,",
+          "say": "absorbed,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "suddenly",
+          "say": "suddenly"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "was",
+          "say": "was"
+        },
+        {
+          "show": "two",
+          "say": "two"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "morning.",
+          "say": "morning."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "few",
+          "say": "few"
+        },
+        {
+          "show": "waited",
+          "say": "waited"
+        },
+        {
+          "show": "until",
+          "say": "until"
+        },
+        {
+          "show": "they",
+          "say": "they"
+        },
+        {
+          "show": "felt",
+          "say": "felt"
+        },
+        {
+          "show": "really",
+          "say": "really"
+        },
+        {
+          "show": "sleepy,",
+          "say": "sleepy,"
+        },
+        {
+          "show": "so",
+          "say": "so"
+        },
+        {
+          "show": "they",
+          "say": "they"
+        },
+        {
+          "show": "wouldn't",
+          "say": "wouldn't"
+        },
+        {
+          "show": "lie",
+          "say": "lie"
+        },
+        {
+          "show": "awake",
+          "say": "awake"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "bed.",
+          "say": "bed."
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "title": "Clue three: the color of the screen",
+      "start": 98.082,
+      "end": 125.074,
+      "speech_end": 124.674,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: ba nhóm cột: \"NO PHONE\", \"PHONE + NIGHT SHIFT\", \"PHONE\"; ba cột gần bằng nhau; nhãn \"167 YOUNG ADULTS · 7 NIGHTS\". [6]"
+      ],
+      "text": "Clue three. Many phones have a night mode that makes the screen warmer and less blue. In twenty twenty-one, a study tested it on one hundred sixty-seven young adults. For a week, some used their phone before bed with night mode on. Some used it with night mode off. And some didn't use a phone at all. Their sleep was tracked with a band on the wrist. Across the whole group, sleep looked about the same in all three groups.",
+      "say_text": "Clue three. Many phones have a night mode that makes the screen warmer and less blue. In twenty twenty-one, a study tested it on one hundred sixty-seven young adults. For a week, some used their phone before bed with night mode on. Some used it with night mode off. And some didn't use a phone at all. Their sleep was tracked with a band on the wrist. Across the whole group, sleep looked about the same in all three groups.",
+      "tokens": [
+        {
+          "show": "Clue",
+          "say": "Clue"
+        },
+        {
+          "show": "three.",
+          "say": "three."
+        },
+        {
+          "show": "Many",
+          "say": "Many"
+        },
+        {
+          "show": "phones",
+          "say": "phones"
+        },
+        {
+          "show": "have",
+          "say": "have"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "night",
+          "say": "night"
+        },
+        {
+          "show": "mode",
+          "say": "mode"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "makes",
+          "say": "makes"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "screen",
+          "say": "screen"
+        },
+        {
+          "show": "warmer",
+          "say": "warmer"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "less",
+          "say": "less"
+        },
+        {
+          "show": "blue.",
+          "say": "blue."
+        },
+        {
+          "show": "In",
+          "say": "In"
+        },
+        {
+          "show": "twenty",
+          "say": "twenty"
+        },
+        {
+          "show": "twenty-one,",
+          "say": "twenty-one,"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "study",
+          "say": "study"
+        },
+        {
+          "show": "tested",
+          "say": "tested"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "one",
+          "say": "one"
+        },
+        {
+          "show": "hundred",
+          "say": "hundred"
+        },
+        {
+          "show": "sixty-seven",
+          "say": "sixty-seven"
+        },
+        {
+          "show": "young",
+          "say": "young"
+        },
+        {
+          "show": "adults.",
+          "say": "adults."
+        },
+        {
+          "show": "For",
+          "say": "For"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "week,",
+          "say": "week,"
+        },
+        {
+          "show": "some",
+          "say": "some"
+        },
+        {
+          "show": "used",
+          "say": "used"
+        },
+        {
+          "show": "their",
+          "say": "their"
+        },
+        {
+          "show": "phone",
+          "say": "phone"
+        },
+        {
+          "show": "before",
+          "say": "before"
+        },
+        {
+          "show": "bed",
+          "say": "bed"
+        },
+        {
+          "show": "with",
+          "say": "with"
+        },
+        {
+          "show": "night",
+          "say": "night"
+        },
+        {
+          "show": "mode",
+          "say": "mode"
+        },
+        {
+          "show": "on.",
+          "say": "on."
+        },
+        {
+          "show": "Some",
+          "say": "Some"
+        },
+        {
+          "show": "used",
+          "say": "used"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "with",
+          "say": "with"
+        },
+        {
+          "show": "night",
+          "say": "night"
+        },
+        {
+          "show": "mode",
+          "say": "mode"
+        },
+        {
+          "show": "off.",
+          "say": "off."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "some",
+          "say": "some"
+        },
+        {
+          "show": "didn't",
+          "say": "didn't"
+        },
+        {
+          "show": "use",
+          "say": "use"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "phone",
+          "say": "phone"
+        },
+        {
+          "show": "at",
+          "say": "at"
+        },
+        {
+          "show": "all.",
+          "say": "all."
+        },
+        {
+          "show": "Their",
+          "say": "Their"
+        },
+        {
+          "show": "sleep",
+          "say": "sleep"
+        },
+        {
+          "show": "was",
+          "say": "was"
+        },
+        {
+          "show": "tracked",
+          "say": "tracked"
+        },
+        {
+          "show": "with",
+          "say": "with"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "band",
+          "say": "band"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "wrist.",
+          "say": "wrist."
+        },
+        {
+          "show": "Across",
+          "say": "Across"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "whole",
+          "say": "whole"
+        },
+        {
+          "show": "group,",
+          "say": "group,"
+        },
+        {
+          "show": "sleep",
+          "say": "sleep"
+        },
+        {
+          "show": "looked",
+          "say": "looked"
+        },
+        {
+          "show": "about",
+          "say": "about"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "same",
+          "say": "same"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "all",
+          "say": "all"
+        },
+        {
+          "show": "three",
+          "say": "three"
+        },
+        {
+          "show": "groups.",
+          "say": "groups."
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "title": "Clue four: the tired brain",
+      "start": 125.074,
+      "end": 151.283,
+      "speech_end": 150.883,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: não; vùng thưởng sáng rực \"REWARD ▲\"; vùng trán mờ dần \"BRAKES ▼\"; hình ảnh dễ chịu được đánh dấu tick nhiều hơn. [7]"
+      ],
+      "text": "Clue four. In a brain scanning study, some young adults stayed awake all night. The next day, they rated a series of pictures in the scanner. In the sleep-deprived group, the brain's reward areas reacted more strongly to pleasant pictures. At the same time, those reward areas were less linked to regions at the front of the brain. Those front regions help you weigh choices and put on the brakes. And the tired group judged more of the pictures as pleasant.",
+      "say_text": "Clue four. In a brain scanning study, some young adults stayed awake all night. The next day, they rated a series of pictures in the scanner. In the sleep-deprived group, the brain's reward areas reacted more strongly to pleasant pictures. At the same time, those reward areas were less linked to regions at the front of the brain. Those front regions help you weigh choices and put on the brakes. And the tired group judged more of the pictures as pleasant.",
+      "tokens": [
+        {
+          "show": "Clue",
+          "say": "Clue"
+        },
+        {
+          "show": "four.",
+          "say": "four."
+        },
+        {
+          "show": "In",
+          "say": "In"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "brain",
+          "say": "brain"
+        },
+        {
+          "show": "scanning",
+          "say": "scanning"
+        },
+        {
+          "show": "study,",
+          "say": "study,"
+        },
+        {
+          "show": "some",
+          "say": "some"
+        },
+        {
+          "show": "young",
+          "say": "young"
+        },
+        {
+          "show": "adults",
+          "say": "adults"
+        },
+        {
+          "show": "stayed",
+          "say": "stayed"
+        },
+        {
+          "show": "awake",
+          "say": "awake"
+        },
+        {
+          "show": "all",
+          "say": "all"
+        },
+        {
+          "show": "night.",
+          "say": "night."
+        },
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "next",
+          "say": "next"
+        },
+        {
+          "show": "day,",
+          "say": "day,"
+        },
+        {
+          "show": "they",
+          "say": "they"
+        },
+        {
+          "show": "rated",
+          "say": "rated"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "series",
+          "say": "series"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "pictures",
+          "say": "pictures"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "scanner.",
+          "say": "scanner."
+        },
+        {
+          "show": "In",
+          "say": "In"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "sleep-deprived",
+          "say": "sleep-deprived"
+        },
+        {
+          "show": "group,",
+          "say": "group,"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "brain's",
+          "say": "brain's"
+        },
+        {
+          "show": "reward",
+          "say": "reward"
+        },
+        {
+          "show": "areas",
+          "say": "areas"
+        },
+        {
+          "show": "reacted",
+          "say": "reacted"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "strongly",
+          "say": "strongly"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "pleasant",
+          "say": "pleasant"
+        },
+        {
+          "show": "pictures.",
+          "say": "pictures."
+        },
+        {
+          "show": "At",
+          "say": "At"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "same",
+          "say": "same"
+        },
+        {
+          "show": "time,",
+          "say": "time,"
+        },
+        {
+          "show": "those",
+          "say": "those"
+        },
+        {
+          "show": "reward",
+          "say": "reward"
+        },
+        {
+          "show": "areas",
+          "say": "areas"
+        },
+        {
+          "show": "were",
+          "say": "were"
+        },
+        {
+          "show": "less",
+          "say": "less"
+        },
+        {
+          "show": "linked",
+          "say": "linked"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "regions",
+          "say": "regions"
+        },
+        {
+          "show": "at",
+          "say": "at"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "front",
+          "say": "front"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "brain.",
+          "say": "brain."
+        },
+        {
+          "show": "Those",
+          "say": "Those"
+        },
+        {
+          "show": "front",
+          "say": "front"
+        },
+        {
+          "show": "regions",
+          "say": "regions"
+        },
+        {
+          "show": "help",
+          "say": "help"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "weigh",
+          "say": "weigh"
+        },
+        {
+          "show": "choices",
+          "say": "choices"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "put",
+          "say": "put"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "brakes.",
+          "say": "brakes."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "tired",
+          "say": "tired"
+        },
+        {
+          "show": "group",
+          "say": "group"
+        },
+        {
+          "show": "judged",
+          "say": "judged"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "pictures",
+          "say": "pictures"
+        },
+        {
+          "show": "as",
+          "say": "as"
+        },
+        {
+          "show": "pleasant.",
+          "say": "pleasant."
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "title": "The question",
+      "start": 151.283,
+      "end": 170.518,
+      "speech_end": 170.118,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: ba phương án A/B/C có biểu tượng (bóng đèn xanh / bàn đạp phanh + đồng hồ / viên thuốc trên điện thoại)."
+      ],
+      "text": "So why do you stay up on your phone, even when you're exhausted? A: the blue light from the screen keeps your brain awake. B: you're not avoiding sleep, you're avoiding stopping, and a tired brain is bad at stopping. Or C: your phone is as addictive as a drug and has hijacked your brain.",
+      "say_text": "So why do you stay up on your phone, even when you're exhausted? A: the blue light from the screen keeps your brain awake. B: you're not avoiding sleep, you're avoiding stopping, and a tired brain is bad at stopping. Or C: your phone is as addictive as a drug and has hijacked your brain.",
+      "tokens": [
+        {
+          "show": "So",
+          "say": "So"
+        },
+        {
+          "show": "why",
+          "say": "why"
+        },
+        {
+          "show": "do",
+          "say": "do"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "stay",
+          "say": "stay"
+        },
+        {
+          "show": "up",
+          "say": "up"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "phone,",
+          "say": "phone,"
+        },
+        {
+          "show": "even",
+          "say": "even"
+        },
+        {
+          "show": "when",
+          "say": "when"
+        },
+        {
+          "show": "you're",
+          "say": "you're"
+        },
+        {
+          "show": "exhausted?",
+          "say": "exhausted?"
+        },
+        {
+          "show": "A:",
+          "say": "A:"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "blue",
+          "say": "blue"
+        },
+        {
+          "show": "light",
+          "say": "light"
+        },
+        {
+          "show": "from",
+          "say": "from"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "screen",
+          "say": "screen"
+        },
+        {
+          "show": "keeps",
+          "say": "keeps"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "brain",
+          "say": "brain"
+        },
+        {
+          "show": "awake.",
+          "say": "awake."
+        },
+        {
+          "show": "B:",
+          "say": "B:"
+        },
+        {
+          "show": "you're",
+          "say": "you're"
+        },
+        {
+          "show": "not",
+          "say": "not"
+        },
+        {
+          "show": "avoiding",
+          "say": "avoiding"
+        },
+        {
+          "show": "sleep,",
+          "say": "sleep,"
+        },
+        {
+          "show": "you're",
+          "say": "you're"
+        },
+        {
+          "show": "avoiding",
+          "say": "avoiding"
+        },
+        {
+          "show": "stopping,",
+          "say": "stopping,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "tired",
+          "say": "tired"
+        },
+        {
+          "show": "brain",
+          "say": "brain"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "bad",
+          "say": "bad"
+        },
+        {
+          "show": "at",
+          "say": "at"
+        },
+        {
+          "show": "stopping.",
+          "say": "stopping."
+        },
+        {
+          "show": "Or",
+          "say": "Or"
+        },
+        {
+          "show": "C:",
+          "say": "C:"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "phone",
+          "say": "phone"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "as",
+          "say": "as"
+        },
+        {
+          "show": "addictive",
+          "say": "addictive"
+        },
+        {
+          "show": "as",
+          "say": "as"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "drug",
+          "say": "drug"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "has",
+          "say": "has"
+        },
+        {
+          "show": "hijacked",
+          "say": "hijacked"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "brain.",
+          "say": "brain."
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "title": "Take a guess",
+      "start": 170.518,
+      "end": 180.918,
+      "speech_end": 172.555,
+      "min_duration": 10.0,
+      "visual": [
+        "Thẻ tóm tắt bốn manh mối + ba phương án + đếm ngược 3‑2‑1."
+      ],
+      "text": "Pause the video and take a guess.",
+      "say_text": "Pause the video and take a guess.",
+      "tokens": [
+        {
+          "show": "Pause",
+          "say": "Pause"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "video",
+          "say": "video"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "take",
+          "say": "take"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "guess.",
+          "say": "guess."
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "The key",
+      "start": 180.918,
+      "end": 192.08,
+      "speech_end": 191.68,
+      "min_duration": null,
+      "visual": [
+        "Cậu bé trong bong bóng suy nghĩ; chữ \"GO TO SLEEP\" đổi thành \"STOP\"."
+      ],
+      "text": "The key is this. Going to sleep isn't something that just happens to you when you're tired. It's a decision. A decision to stop. And at night, three things are working against that decision.",
+      "say_text": "The key is this. Going to sleep isn't something that just happens to you when you're tired. It's a decision. A decision to stop. And at night, three things are working against that decision.",
+      "tokens": [
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "key",
+          "say": "key"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "this.",
+          "say": "this."
+        },
+        {
+          "show": "Going",
+          "say": "Going"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "sleep",
+          "say": "sleep"
+        },
+        {
+          "show": "isn't",
+          "say": "isn't"
+        },
+        {
+          "show": "something",
+          "say": "something"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "just",
+          "say": "just"
+        },
+        {
+          "show": "happens",
+          "say": "happens"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "when",
+          "say": "when"
+        },
+        {
+          "show": "you're",
+          "say": "you're"
+        },
+        {
+          "show": "tired.",
+          "say": "tired."
+        },
+        {
+          "show": "It's",
+          "say": "It's"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "decision.",
+          "say": "decision."
+        },
+        {
+          "show": "A",
+          "say": "A"
+        },
+        {
+          "show": "decision",
+          "say": "decision"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "stop.",
+          "say": "stop."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "at",
+          "say": "at"
+        },
+        {
+          "show": "night,",
+          "say": "night,"
+        },
+        {
+          "show": "three",
+          "say": "three"
+        },
+        {
+          "show": "things",
+          "say": "things"
+        },
+        {
+          "show": "are",
+          "say": "are"
+        },
+        {
+          "show": "working",
+          "say": "working"
+        },
+        {
+          "show": "against",
+          "say": "against"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "decision.",
+          "say": "decision."
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Force one: your own time",
+      "start": 192.08,
+      "end": 217.558,
+      "speech_end": 217.158,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: thanh ngày 24 giờ chia màu: học/làm, việc nhà, người khác cần; chỉ khúc cuối tối màu \"YOURS\"; mũi tên kéo khúc đó dài ra qua nửa đêm. [3]"
+      ],
+      "text": "The first force is time that feels like yours. Think about a busy day. Classes, work, chores, people who need something from you. For many people, the only free hours come at the very end. Going to sleep means ending them. So you stretch them, a little at a time. Online, people call this revenge bedtime procrastination, taking back the day you didn't get. It's the on-purpose group from clue two.",
+      "say_text": "The first force is time that feels like yours. Think about a busy day. Classes, work, chores, people who need something from you. For many people, the only free hours come at the very end. Going to sleep means ending them. So you stretch them, a little at a time. Online, people call this revenge bedtime procrastination, taking back the day you didn't get. It's the on-purpose group from clue two.",
+      "tokens": [
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "first",
+          "say": "first"
+        },
+        {
+          "show": "force",
+          "say": "force"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "time",
+          "say": "time"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "feels",
+          "say": "feels"
+        },
+        {
+          "show": "like",
+          "say": "like"
+        },
+        {
+          "show": "yours.",
+          "say": "yours."
+        },
+        {
+          "show": "Think",
+          "say": "Think"
+        },
+        {
+          "show": "about",
+          "say": "about"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "busy",
+          "say": "busy"
+        },
+        {
+          "show": "day.",
+          "say": "day."
+        },
+        {
+          "show": "Classes,",
+          "say": "Classes,"
+        },
+        {
+          "show": "work,",
+          "say": "work,"
+        },
+        {
+          "show": "chores,",
+          "say": "chores,"
+        },
+        {
+          "show": "people",
+          "say": "people"
+        },
+        {
+          "show": "who",
+          "say": "who"
+        },
+        {
+          "show": "need",
+          "say": "need"
+        },
+        {
+          "show": "something",
+          "say": "something"
+        },
+        {
+          "show": "from",
+          "say": "from"
+        },
+        {
+          "show": "you.",
+          "say": "you."
+        },
+        {
+          "show": "For",
+          "say": "For"
+        },
+        {
+          "show": "many",
+          "say": "many"
+        },
+        {
+          "show": "people,",
+          "say": "people,"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "only",
+          "say": "only"
+        },
+        {
+          "show": "free",
+          "say": "free"
+        },
+        {
+          "show": "hours",
+          "say": "hours"
+        },
+        {
+          "show": "come",
+          "say": "come"
+        },
+        {
+          "show": "at",
+          "say": "at"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "very",
+          "say": "very"
+        },
+        {
+          "show": "end.",
+          "say": "end."
+        },
+        {
+          "show": "Going",
+          "say": "Going"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "sleep",
+          "say": "sleep"
+        },
+        {
+          "show": "means",
+          "say": "means"
+        },
+        {
+          "show": "ending",
+          "say": "ending"
+        },
+        {
+          "show": "them.",
+          "say": "them."
+        },
+        {
+          "show": "So",
+          "say": "So"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "stretch",
+          "say": "stretch"
+        },
+        {
+          "show": "them,",
+          "say": "them,"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "little",
+          "say": "little"
+        },
+        {
+          "show": "at",
+          "say": "at"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "time.",
+          "say": "time."
+        },
+        {
+          "show": "Online,",
+          "say": "Online,"
+        },
+        {
+          "show": "people",
+          "say": "people"
+        },
+        {
+          "show": "call",
+          "say": "call"
+        },
+        {
+          "show": "this",
+          "say": "this"
+        },
+        {
+          "show": "revenge",
+          "say": "revenge"
+        },
+        {
+          "show": "bedtime",
+          "say": "bedtime"
+        },
+        {
+          "show": "procrastination,",
+          "say": "procrastination,"
+        },
+        {
+          "show": "taking",
+          "say": "taking"
+        },
+        {
+          "show": "back",
+          "say": "back"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "day",
+          "say": "day"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "didn't",
+          "say": "didn't"
+        },
+        {
+          "show": "get.",
+          "say": "get."
+        },
+        {
+          "show": "It's",
+          "say": "It's"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "on-purpose",
+          "say": "on-purpose"
+        },
+        {
+          "show": "group",
+          "say": "group"
+        },
+        {
+          "show": "from",
+          "say": "from"
+        },
+        {
+          "show": "clue",
+          "say": "clue"
+        },
+        {
+          "show": "two.",
+          "say": "two."
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Force two: no last page",
+      "start": 217.558,
+      "end": 253.745,
+      "speech_end": 253.345,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: một cuốn sách có trang cuối \"THE END\"; bên cạnh cuộn feed dài vô tận chạy mãi xuống dưới, không có đáy; các mũi tên \"WHY PEOPLE STOPPED\" đều chỉ ra ngoài điện thoại (biểu tượng chung: tin nhắn, lịch hẹn, việc khác). [8][9]"
+      ],
+      "text": "The second force is that nothing ever ends. A book has a last page. A TV show used to end at the hour. But a feed has no bottom. And the next video starts before you decide. So what makes people stop? In one study, researchers followed forty-six people's scrolling for a week. Most reasons for stopping came from outside the app. Life got in the way. A message, a place to be, something else to do. Late at night, in bed, those interruptions rarely come. In another study, a reminder popped up after fifteen minutes of scrolling. People noticed it, but they often kept scrolling anyway.",
+      "say_text": "The second force is that nothing ever ends. A book has a last page. A TV show used to end at the hour. But a feed has no bottom. And the next video starts before you decide. So what makes people stop? In one study, researchers followed forty-six people's scrolling for a week. Most reasons for stopping came from outside the app. Life got in the way. A message, a place to be, something else to do. Late at night, in bed, those interruptions rarely come. In another study, a reminder popped up after fifteen minutes of scrolling. People noticed it, but they often kept scrolling anyway.",
+      "tokens": [
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "second",
+          "say": "second"
+        },
+        {
+          "show": "force",
+          "say": "force"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "nothing",
+          "say": "nothing"
+        },
+        {
+          "show": "ever",
+          "say": "ever"
+        },
+        {
+          "show": "ends.",
+          "say": "ends."
+        },
+        {
+          "show": "A",
+          "say": "A"
+        },
+        {
+          "show": "book",
+          "say": "book"
+        },
+        {
+          "show": "has",
+          "say": "has"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "last",
+          "say": "last"
+        },
+        {
+          "show": "page.",
+          "say": "page."
+        },
+        {
+          "show": "A",
+          "say": "A"
+        },
+        {
+          "show": "TV",
+          "say": "TV"
+        },
+        {
+          "show": "show",
+          "say": "show"
+        },
+        {
+          "show": "used",
+          "say": "used"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "end",
+          "say": "end"
+        },
+        {
+          "show": "at",
+          "say": "at"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "hour.",
+          "say": "hour."
+        },
+        {
+          "show": "But",
+          "say": "But"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "feed",
+          "say": "feed"
+        },
+        {
+          "show": "has",
+          "say": "has"
+        },
+        {
+          "show": "no",
+          "say": "no"
+        },
+        {
+          "show": "bottom.",
+          "say": "bottom."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "next",
+          "say": "next"
+        },
+        {
+          "show": "video",
+          "say": "video"
+        },
+        {
+          "show": "starts",
+          "say": "starts"
+        },
+        {
+          "show": "before",
+          "say": "before"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "decide.",
+          "say": "decide."
+        },
+        {
+          "show": "So",
+          "say": "So"
+        },
+        {
+          "show": "what",
+          "say": "what"
+        },
+        {
+          "show": "makes",
+          "say": "makes"
+        },
+        {
+          "show": "people",
+          "say": "people"
+        },
+        {
+          "show": "stop?",
+          "say": "stop?"
+        },
+        {
+          "show": "In",
+          "say": "In"
+        },
+        {
+          "show": "one",
+          "say": "one"
+        },
+        {
+          "show": "study,",
+          "say": "study,"
+        },
+        {
+          "show": "researchers",
+          "say": "researchers"
+        },
+        {
+          "show": "followed",
+          "say": "followed"
+        },
+        {
+          "show": "forty-six",
+          "say": "forty-six"
+        },
+        {
+          "show": "people's",
+          "say": "people's"
+        },
+        {
+          "show": "scrolling",
+          "say": "scrolling"
+        },
+        {
+          "show": "for",
+          "say": "for"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "week.",
+          "say": "week."
+        },
+        {
+          "show": "Most",
+          "say": "Most"
+        },
+        {
+          "show": "reasons",
+          "say": "reasons"
+        },
+        {
+          "show": "for",
+          "say": "for"
+        },
+        {
+          "show": "stopping",
+          "say": "stopping"
+        },
+        {
+          "show": "came",
+          "say": "came"
+        },
+        {
+          "show": "from",
+          "say": "from"
+        },
+        {
+          "show": "outside",
+          "say": "outside"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "app.",
+          "say": "app."
+        },
+        {
+          "show": "Life",
+          "say": "Life"
+        },
+        {
+          "show": "got",
+          "say": "got"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "way.",
+          "say": "way."
+        },
+        {
+          "show": "A",
+          "say": "A"
+        },
+        {
+          "show": "message,",
+          "say": "message,"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "place",
+          "say": "place"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "be,",
+          "say": "be,"
+        },
+        {
+          "show": "something",
+          "say": "something"
+        },
+        {
+          "show": "else",
+          "say": "else"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "do.",
+          "say": "do."
+        },
+        {
+          "show": "Late",
+          "say": "Late"
+        },
+        {
+          "show": "at",
+          "say": "at"
+        },
+        {
+          "show": "night,",
+          "say": "night,"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "bed,",
+          "say": "bed,"
+        },
+        {
+          "show": "those",
+          "say": "those"
+        },
+        {
+          "show": "interruptions",
+          "say": "interruptions"
+        },
+        {
+          "show": "rarely",
+          "say": "rarely"
+        },
+        {
+          "show": "come.",
+          "say": "come."
+        },
+        {
+          "show": "In",
+          "say": "In"
+        },
+        {
+          "show": "another",
+          "say": "another"
+        },
+        {
+          "show": "study,",
+          "say": "study,"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "reminder",
+          "say": "reminder"
+        },
+        {
+          "show": "popped",
+          "say": "popped"
+        },
+        {
+          "show": "up",
+          "say": "up"
+        },
+        {
+          "show": "after",
+          "say": "after"
+        },
+        {
+          "show": "fifteen",
+          "say": "fifteen"
+        },
+        {
+          "show": "minutes",
+          "say": "minutes"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "scrolling.",
+          "say": "scrolling."
+        },
+        {
+          "show": "People",
+          "say": "People"
+        },
+        {
+          "show": "noticed",
+          "say": "noticed"
+        },
+        {
+          "show": "it,",
+          "say": "it,"
+        },
+        {
+          "show": "but",
+          "say": "but"
+        },
+        {
+          "show": "they",
+          "say": "they"
+        },
+        {
+          "show": "often",
+          "say": "often"
+        },
+        {
+          "show": "kept",
+          "say": "kept"
+        },
+        {
+          "show": "scrolling",
+          "say": "scrolling"
+        },
+        {
+          "show": "anyway.",
+          "say": "anyway."
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Force three: more gas, less brake",
+      "start": 253.745,
+      "end": 279.066,
+      "speech_end": 278.666,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: hai bàn đạp; \"GAS\" lớn dần, \"BRAKE\" nhỏ dần theo đồng hồ từ 21:00 tới 01:00. [1][7]"
+      ],
+      "text": "The third force is the tired brain from clue four. Remember, sleep loss turned up the brain's response to reward. And it loosened the link to the regions that help you hold back. That's like more gas and less brake. And here's the timing problem. The decision to go to bed comes at the very end of the day. It's exactly when you're most tired. So the moment you most need your brakes is the moment they're weakest.",
+      "say_text": "The third force is the tired brain from clue four. Remember, sleep loss turned up the brain's response to reward. And it loosened the link to the regions that help you hold back. That's like more gas and less brake. And here's the timing problem. The decision to go to bed comes at the very end of the day. It's exactly when you're most tired. So the moment you most need your brakes is the moment they're weakest.",
+      "tokens": [
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "third",
+          "say": "third"
+        },
+        {
+          "show": "force",
+          "say": "force"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "tired",
+          "say": "tired"
+        },
+        {
+          "show": "brain",
+          "say": "brain"
+        },
+        {
+          "show": "from",
+          "say": "from"
+        },
+        {
+          "show": "clue",
+          "say": "clue"
+        },
+        {
+          "show": "four.",
+          "say": "four."
+        },
+        {
+          "show": "Remember,",
+          "say": "Remember,"
+        },
+        {
+          "show": "sleep",
+          "say": "sleep"
+        },
+        {
+          "show": "loss",
+          "say": "loss"
+        },
+        {
+          "show": "turned",
+          "say": "turned"
+        },
+        {
+          "show": "up",
+          "say": "up"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "brain's",
+          "say": "brain's"
+        },
+        {
+          "show": "response",
+          "say": "response"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "reward.",
+          "say": "reward."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "loosened",
+          "say": "loosened"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "link",
+          "say": "link"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "regions",
+          "say": "regions"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "help",
+          "say": "help"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "hold",
+          "say": "hold"
+        },
+        {
+          "show": "back.",
+          "say": "back."
+        },
+        {
+          "show": "That's",
+          "say": "That's"
+        },
+        {
+          "show": "like",
+          "say": "like"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "gas",
+          "say": "gas"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "less",
+          "say": "less"
+        },
+        {
+          "show": "brake.",
+          "say": "brake."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "here's",
+          "say": "here's"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "timing",
+          "say": "timing"
+        },
+        {
+          "show": "problem.",
+          "say": "problem."
+        },
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "decision",
+          "say": "decision"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "go",
+          "say": "go"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "bed",
+          "say": "bed"
+        },
+        {
+          "show": "comes",
+          "say": "comes"
+        },
+        {
+          "show": "at",
+          "say": "at"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "very",
+          "say": "very"
+        },
+        {
+          "show": "end",
+          "say": "end"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "day.",
+          "say": "day."
+        },
+        {
+          "show": "It's",
+          "say": "It's"
+        },
+        {
+          "show": "exactly",
+          "say": "exactly"
+        },
+        {
+          "show": "when",
+          "say": "when"
+        },
+        {
+          "show": "you're",
+          "say": "you're"
+        },
+        {
+          "show": "most",
+          "say": "most"
+        },
+        {
+          "show": "tired.",
+          "say": "tired."
+        },
+        {
+          "show": "So",
+          "say": "So"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "moment",
+          "say": "moment"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "most",
+          "say": "most"
+        },
+        {
+          "show": "need",
+          "say": "need"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "brakes",
+          "say": "brakes"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "moment",
+          "say": "moment"
+        },
+        {
+          "show": "they're",
+          "say": "they're"
+        },
+        {
+          "show": "weakest.",
+          "say": "weakest."
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Is willpower a fuel tank?",
+      "start": 279.066,
+      "end": 300.625,
+      "speech_end": 300.225,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: bình xăng \"WILLPOWER\" rơi dần → dấu hỏi; nhãn \"23 LABS · 2,141 PEOPLE\"; kim gần số 0. [11]"
+      ],
+      "text": "You might have heard that willpower is like fuel, and by night your tank is empty. That idea was popular for years. But when twenty-three labs repeated a key experiment with over two thousand people, the effect almost vanished. So scientists still debate why self-control feels harder at night. Tiredness is a strong suspect. A magic fuel tank, probably not.",
+      "say_text": "You might have heard that willpower is like fuel, and by night your tank is empty. That idea was popular for years. But when twenty-three labs repeated a key experiment with over two thousand people, the effect almost vanished. So scientists still debate why self-control feels harder at night. Tiredness is a strong suspect. A magic fuel tank, probably not.",
+      "tokens": [
+        {
+          "show": "You",
+          "say": "You"
+        },
+        {
+          "show": "might",
+          "say": "might"
+        },
+        {
+          "show": "have",
+          "say": "have"
+        },
+        {
+          "show": "heard",
+          "say": "heard"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "willpower",
+          "say": "willpower"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "like",
+          "say": "like"
+        },
+        {
+          "show": "fuel,",
+          "say": "fuel,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "by",
+          "say": "by"
+        },
+        {
+          "show": "night",
+          "say": "night"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "tank",
+          "say": "tank"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "empty.",
+          "say": "empty."
+        },
+        {
+          "show": "That",
+          "say": "That"
+        },
+        {
+          "show": "idea",
+          "say": "idea"
+        },
+        {
+          "show": "was",
+          "say": "was"
+        },
+        {
+          "show": "popular",
+          "say": "popular"
+        },
+        {
+          "show": "for",
+          "say": "for"
+        },
+        {
+          "show": "years.",
+          "say": "years."
+        },
+        {
+          "show": "But",
+          "say": "But"
+        },
+        {
+          "show": "when",
+          "say": "when"
+        },
+        {
+          "show": "twenty-three",
+          "say": "twenty-three"
+        },
+        {
+          "show": "labs",
+          "say": "labs"
+        },
+        {
+          "show": "repeated",
+          "say": "repeated"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "key",
+          "say": "key"
+        },
+        {
+          "show": "experiment",
+          "say": "experiment"
+        },
+        {
+          "show": "with",
+          "say": "with"
+        },
+        {
+          "show": "over",
+          "say": "over"
+        },
+        {
+          "show": "two",
+          "say": "two"
+        },
+        {
+          "show": "thousand",
+          "say": "thousand"
+        },
+        {
+          "show": "people,",
+          "say": "people,"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "effect",
+          "say": "effect"
+        },
+        {
+          "show": "almost",
+          "say": "almost"
+        },
+        {
+          "show": "vanished.",
+          "say": "vanished."
+        },
+        {
+          "show": "So",
+          "say": "So"
+        },
+        {
+          "show": "scientists",
+          "say": "scientists"
+        },
+        {
+          "show": "still",
+          "say": "still"
+        },
+        {
+          "show": "debate",
+          "say": "debate"
+        },
+        {
+          "show": "why",
+          "say": "why"
+        },
+        {
+          "show": "self-control",
+          "say": "self-control"
+        },
+        {
+          "show": "feels",
+          "say": "feels"
+        },
+        {
+          "show": "harder",
+          "say": "harder"
+        },
+        {
+          "show": "at",
+          "say": "at"
+        },
+        {
+          "show": "night.",
+          "say": "night."
+        },
+        {
+          "show": "Tiredness",
+          "say": "Tiredness"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "strong",
+          "say": "strong"
+        },
+        {
+          "show": "suspect.",
+          "say": "suspect."
+        },
+        {
+          "show": "A",
+          "say": "A"
+        },
+        {
+          "show": "magic",
+          "say": "magic"
+        },
+        {
+          "show": "fuel",
+          "say": "fuel"
+        },
+        {
+          "show": "tank,",
+          "say": "tank,"
+        },
+        {
+          "show": "probably",
+          "say": "probably"
+        },
+        {
+          "show": "not.",
+          "say": "not."
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "title": "The busy mind",
+      "start": 300.625,
+      "end": 319.233,
+      "speech_end": 318.833,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: đầu người nằm trên gối, bên trong là các bong bóng ý nghĩ quay vòng: tập phim, tin nhắn, cảnh hài; nhãn \"MIND STILL RUNNING\". [4]"
+      ],
+      "text": "There's one more thing the phone does. It keeps your mind busy right up to the moment you close your eyes. A survey of young adults found that frequent binge-watching was linked to worse sleep. The link ran through a busy mind. People's thoughts were still racing when they tried to sleep. It wasn't their bodies that stayed wired, it was their heads.",
+      "say_text": "There's one more thing the phone does. It keeps your mind busy right up to the moment you close your eyes. A survey of young adults found that frequent binge-watching was linked to worse sleep. The link ran through a busy mind. People's thoughts were still racing when they tried to sleep. It wasn't their bodies that stayed wired, it was their heads.",
+      "tokens": [
+        {
+          "show": "There's",
+          "say": "There's"
+        },
+        {
+          "show": "one",
+          "say": "one"
+        },
+        {
+          "show": "more",
+          "say": "more"
+        },
+        {
+          "show": "thing",
+          "say": "thing"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "phone",
+          "say": "phone"
+        },
+        {
+          "show": "does.",
+          "say": "does."
+        },
+        {
+          "show": "It",
+          "say": "It"
+        },
+        {
+          "show": "keeps",
+          "say": "keeps"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "mind",
+          "say": "mind"
+        },
+        {
+          "show": "busy",
+          "say": "busy"
+        },
+        {
+          "show": "right",
+          "say": "right"
+        },
+        {
+          "show": "up",
+          "say": "up"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "moment",
+          "say": "moment"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "close",
+          "say": "close"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "eyes.",
+          "say": "eyes."
+        },
+        {
+          "show": "A",
+          "say": "A"
+        },
+        {
+          "show": "survey",
+          "say": "survey"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "young",
+          "say": "young"
+        },
+        {
+          "show": "adults",
+          "say": "adults"
+        },
+        {
+          "show": "found",
+          "say": "found"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "frequent",
+          "say": "frequent"
+        },
+        {
+          "show": "binge-watching",
+          "say": "binge-watching"
+        },
+        {
+          "show": "was",
+          "say": "was"
+        },
+        {
+          "show": "linked",
+          "say": "linked"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "worse",
+          "say": "worse"
+        },
+        {
+          "show": "sleep.",
+          "say": "sleep."
+        },
+        {
+          "show": "The",
+          "say": "The"
+        },
+        {
+          "show": "link",
+          "say": "link"
+        },
+        {
+          "show": "ran",
+          "say": "ran"
+        },
+        {
+          "show": "through",
+          "say": "through"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "busy",
+          "say": "busy"
+        },
+        {
+          "show": "mind.",
+          "say": "mind."
+        },
+        {
+          "show": "People's",
+          "say": "People's"
+        },
+        {
+          "show": "thoughts",
+          "say": "thoughts"
+        },
+        {
+          "show": "were",
+          "say": "were"
+        },
+        {
+          "show": "still",
+          "say": "still"
+        },
+        {
+          "show": "racing",
+          "say": "racing"
+        },
+        {
+          "show": "when",
+          "say": "when"
+        },
+        {
+          "show": "they",
+          "say": "they"
+        },
+        {
+          "show": "tried",
+          "say": "tried"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "sleep.",
+          "say": "sleep."
+        },
+        {
+          "show": "It",
+          "say": "It"
+        },
+        {
+          "show": "wasn't",
+          "say": "wasn't"
+        },
+        {
+          "show": "their",
+          "say": "their"
+        },
+        {
+          "show": "bodies",
+          "say": "bodies"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "stayed",
+          "say": "stayed"
+        },
+        {
+          "show": "wired,",
+          "say": "wired,"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "was",
+          "say": "was"
+        },
+        {
+          "show": "their",
+          "say": "their"
+        },
+        {
+          "show": "heads.",
+          "say": "heads."
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "title": "What about blue light?",
+      "start": 319.233,
+      "end": 351.763,
+      "speech_end": 351.363,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: quyển sách giấy vs máy tính bảng; đồng hồ \"≈ 10 MIN\"; mũi tên melatonin đi xuống; sau đó nhắc lại ba cột Night Shift. [5][6]"
+      ],
+      "text": "So is blue light innocent? Not quite. In one lab study, twelve adults read on a tablet for four hours before bed, five nights in a row. Compared with a printed book, they made less of the sleep hormone melatonin. Their body clock shifted later, and they took about ten minutes longer to fall asleep. That's real. But it's four hours of bright reading, in a lab. And remember the night mode study. In everyday life, the color of the screen didn't seem to be the main problem. Light is one piece. It's just not the biggest one.",
+      "say_text": "So is blue light innocent? Not quite. In one lab study, twelve adults read on a tablet for four hours before bed, five nights in a row. Compared with a printed book, they made less of the sleep hormone melatonin. Their body clock shifted later, and they took about ten minutes longer to fall asleep. That's real. But it's four hours of bright reading, in a lab. And remember the night mode study. In everyday life, the color of the screen didn't seem to be the main problem. Light is one piece. It's just not the biggest one.",
+      "tokens": [
+        {
+          "show": "So",
+          "say": "So"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "blue",
+          "say": "blue"
+        },
+        {
+          "show": "light",
+          "say": "light"
+        },
+        {
+          "show": "innocent?",
+          "say": "innocent?"
+        },
+        {
+          "show": "Not",
+          "say": "Not"
+        },
+        {
+          "show": "quite.",
+          "say": "quite."
+        },
+        {
+          "show": "In",
+          "say": "In"
+        },
+        {
+          "show": "one",
+          "say": "one"
+        },
+        {
+          "show": "lab",
+          "say": "lab"
+        },
+        {
+          "show": "study,",
+          "say": "study,"
+        },
+        {
+          "show": "twelve",
+          "say": "twelve"
+        },
+        {
+          "show": "adults",
+          "say": "adults"
+        },
+        {
+          "show": "read",
+          "say": "read"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "tablet",
+          "say": "tablet"
+        },
+        {
+          "show": "for",
+          "say": "for"
+        },
+        {
+          "show": "four",
+          "say": "four"
+        },
+        {
+          "show": "hours",
+          "say": "hours"
+        },
+        {
+          "show": "before",
+          "say": "before"
+        },
+        {
+          "show": "bed,",
+          "say": "bed,"
+        },
+        {
+          "show": "five",
+          "say": "five"
+        },
+        {
+          "show": "nights",
+          "say": "nights"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "row.",
+          "say": "row."
+        },
+        {
+          "show": "Compared",
+          "say": "Compared"
+        },
+        {
+          "show": "with",
+          "say": "with"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "printed",
+          "say": "printed"
+        },
+        {
+          "show": "book,",
+          "say": "book,"
+        },
+        {
+          "show": "they",
+          "say": "they"
+        },
+        {
+          "show": "made",
+          "say": "made"
+        },
+        {
+          "show": "less",
+          "say": "less"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "sleep",
+          "say": "sleep"
+        },
+        {
+          "show": "hormone",
+          "say": "hormone"
+        },
+        {
+          "show": "melatonin.",
+          "say": "melatonin."
+        },
+        {
+          "show": "Their",
+          "say": "Their"
+        },
+        {
+          "show": "body",
+          "say": "body"
+        },
+        {
+          "show": "clock",
+          "say": "clock"
+        },
+        {
+          "show": "shifted",
+          "say": "shifted"
+        },
+        {
+          "show": "later,",
+          "say": "later,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "they",
+          "say": "they"
+        },
+        {
+          "show": "took",
+          "say": "took"
+        },
+        {
+          "show": "about",
+          "say": "about"
+        },
+        {
+          "show": "ten",
+          "say": "ten"
+        },
+        {
+          "show": "minutes",
+          "say": "minutes"
+        },
+        {
+          "show": "longer",
+          "say": "longer"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "fall",
+          "say": "fall"
+        },
+        {
+          "show": "asleep.",
+          "say": "asleep."
+        },
+        {
+          "show": "That's",
+          "say": "That's"
+        },
+        {
+          "show": "real.",
+          "say": "real."
+        },
+        {
+          "show": "But",
+          "say": "But"
+        },
+        {
+          "show": "it's",
+          "say": "it's"
+        },
+        {
+          "show": "four",
+          "say": "four"
+        },
+        {
+          "show": "hours",
+          "say": "hours"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "bright",
+          "say": "bright"
+        },
+        {
+          "show": "reading,",
+          "say": "reading,"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "lab.",
+          "say": "lab."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "remember",
+          "say": "remember"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "night",
+          "say": "night"
+        },
+        {
+          "show": "mode",
+          "say": "mode"
+        },
+        {
+          "show": "study.",
+          "say": "study."
+        },
+        {
+          "show": "In",
+          "say": "In"
+        },
+        {
+          "show": "everyday",
+          "say": "everyday"
+        },
+        {
+          "show": "life,",
+          "say": "life,"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "color",
+          "say": "color"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "screen",
+          "say": "screen"
+        },
+        {
+          "show": "didn't",
+          "say": "didn't"
+        },
+        {
+          "show": "seem",
+          "say": "seem"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "be",
+          "say": "be"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "main",
+          "say": "main"
+        },
+        {
+          "show": "problem.",
+          "say": "problem."
+        },
+        {
+          "show": "Light",
+          "say": "Light"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "one",
+          "say": "one"
+        },
+        {
+          "show": "piece.",
+          "say": "piece."
+        },
+        {
+          "show": "It's",
+          "say": "It's"
+        },
+        {
+          "show": "just",
+          "say": "just"
+        },
+        {
+          "show": "not",
+          "say": "not"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "biggest",
+          "say": "biggest"
+        },
+        {
+          "show": "one.",
+          "say": "one."
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Why it hits young people harder",
+      "start": 351.763,
+      "end": 377.006,
+      "speech_end": 376.606,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: biểu đồ đường giờ ngủ theo tuổi; đường đi lên muộn dần từ 10 tuổi, đỉnh khoảng 20, rồi đi xuống; chấm \"≈ 20\". [12]"
+      ],
+      "text": "If you're a teenager or in your early twenties, there's another reason. A survey of about twenty-five thousand people tracked when people naturally sleep at different ages. Through the teenage years, the body clock drifts later and later. It peaks around age twenty, then slowly moves earlier again. So your body may not feel sleepy at ten, even when you're tired. Combine a late body clock with an early alarm, and the evening gets very long.",
+      "say_text": "If you're a teenager or in your early twenties, there's another reason. A survey of about twenty-five thousand people tracked when people naturally sleep at different ages. Through the teenage years, the body clock drifts later and later. It peaks around age twenty, then slowly moves earlier again. So your body may not feel sleepy at ten, even when you're tired. Combine a late body clock with an early alarm, and the evening gets very long.",
+      "tokens": [
+        {
+          "show": "If",
+          "say": "If"
+        },
+        {
+          "show": "you're",
+          "say": "you're"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "teenager",
+          "say": "teenager"
+        },
+        {
+          "show": "or",
+          "say": "or"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "early",
+          "say": "early"
+        },
+        {
+          "show": "twenties,",
+          "say": "twenties,"
+        },
+        {
+          "show": "there's",
+          "say": "there's"
+        },
+        {
+          "show": "another",
+          "say": "another"
+        },
+        {
+          "show": "reason.",
+          "say": "reason."
+        },
+        {
+          "show": "A",
+          "say": "A"
+        },
+        {
+          "show": "survey",
+          "say": "survey"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "about",
+          "say": "about"
+        },
+        {
+          "show": "twenty-five",
+          "say": "twenty-five"
+        },
+        {
+          "show": "thousand",
+          "say": "thousand"
+        },
+        {
+          "show": "people",
+          "say": "people"
+        },
+        {
+          "show": "tracked",
+          "say": "tracked"
+        },
+        {
+          "show": "when",
+          "say": "when"
+        },
+        {
+          "show": "people",
+          "say": "people"
+        },
+        {
+          "show": "naturally",
+          "say": "naturally"
+        },
+        {
+          "show": "sleep",
+          "say": "sleep"
+        },
+        {
+          "show": "at",
+          "say": "at"
+        },
+        {
+          "show": "different",
+          "say": "different"
+        },
+        {
+          "show": "ages.",
+          "say": "ages."
+        },
+        {
+          "show": "Through",
+          "say": "Through"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "teenage",
+          "say": "teenage"
+        },
+        {
+          "show": "years,",
+          "say": "years,"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "body",
+          "say": "body"
+        },
+        {
+          "show": "clock",
+          "say": "clock"
+        },
+        {
+          "show": "drifts",
+          "say": "drifts"
+        },
+        {
+          "show": "later",
+          "say": "later"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "later.",
+          "say": "later."
+        },
+        {
+          "show": "It",
+          "say": "It"
+        },
+        {
+          "show": "peaks",
+          "say": "peaks"
+        },
+        {
+          "show": "around",
+          "say": "around"
+        },
+        {
+          "show": "age",
+          "say": "age"
+        },
+        {
+          "show": "twenty,",
+          "say": "twenty,"
+        },
+        {
+          "show": "then",
+          "say": "then"
+        },
+        {
+          "show": "slowly",
+          "say": "slowly"
+        },
+        {
+          "show": "moves",
+          "say": "moves"
+        },
+        {
+          "show": "earlier",
+          "say": "earlier"
+        },
+        {
+          "show": "again.",
+          "say": "again."
+        },
+        {
+          "show": "So",
+          "say": "So"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "body",
+          "say": "body"
+        },
+        {
+          "show": "may",
+          "say": "may"
+        },
+        {
+          "show": "not",
+          "say": "not"
+        },
+        {
+          "show": "feel",
+          "say": "feel"
+        },
+        {
+          "show": "sleepy",
+          "say": "sleepy"
+        },
+        {
+          "show": "at",
+          "say": "at"
+        },
+        {
+          "show": "ten,",
+          "say": "ten,"
+        },
+        {
+          "show": "even",
+          "say": "even"
+        },
+        {
+          "show": "when",
+          "say": "when"
+        },
+        {
+          "show": "you're",
+          "say": "you're"
+        },
+        {
+          "show": "tired.",
+          "say": "tired."
+        },
+        {
+          "show": "Combine",
+          "say": "Combine"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "late",
+          "say": "late"
+        },
+        {
+          "show": "body",
+          "say": "body"
+        },
+        {
+          "show": "clock",
+          "say": "clock"
+        },
+        {
+          "show": "with",
+          "say": "with"
+        },
+        {
+          "show": "an",
+          "say": "an"
+        },
+        {
+          "show": "early",
+          "say": "early"
+        },
+        {
+          "show": "alarm,",
+          "say": "alarm,"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "evening",
+          "say": "evening"
+        },
+        {
+          "show": "gets",
+          "say": "gets"
+        },
+        {
+          "show": "very",
+          "say": "very"
+        },
+        {
+          "show": "long.",
+          "say": "long."
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Are phones ruining a generation?",
+      "start": 377.006,
+      "end": 419.202,
+      "speech_end": 418.802,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: cân hai đĩa: \"SCREENS\" và \"WELL-BEING\"; mũi tên nhỏ; nhãn \"STILL DEBATED\"; sau đó điện thoại đặt trên tủ đầu giường, không sáng, nhãn \"IN THE ROOM\". [10][15][13]"
+      ],
+      "text": "Does that mean phones are destroying young people's minds? That's still debated among scientists. One large analysis of data on over three hundred thousand teens found the average link with well-being was very small. Other researchers argue it's bigger for some people. Sleep is where the evidence is clearer. A review of twenty studies and over a hundred twenty thousand children and teens found a consistent link. Using a device at bedtime was tied to roughly double the odds of not sleeping enough. Even having the device in the bedroom, without using it, was linked to less sleep. These studies show links, not proof of cause. But the pattern keeps showing up.",
+      "say_text": "Does that mean phones are destroying young people's minds? That's still debated among scientists. One large analysis of data on over three hundred thousand teens found the average link with well-being was very small. Other researchers argue it's bigger for some people. Sleep is where the evidence is clearer. A review of twenty studies and over a hundred twenty thousand children and teens found a consistent link. Using a device at bedtime was tied to roughly double the odds of not sleeping enough. Even having the device in the bedroom, without using it, was linked to less sleep. These studies show links, not proof of cause. But the pattern keeps showing up.",
+      "tokens": [
+        {
+          "show": "Does",
+          "say": "Does"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "mean",
+          "say": "mean"
+        },
+        {
+          "show": "phones",
+          "say": "phones"
+        },
+        {
+          "show": "are",
+          "say": "are"
+        },
+        {
+          "show": "destroying",
+          "say": "destroying"
+        },
+        {
+          "show": "young",
+          "say": "young"
+        },
+        {
+          "show": "people's",
+          "say": "people's"
+        },
+        {
+          "show": "minds?",
+          "say": "minds?"
+        },
+        {
+          "show": "That's",
+          "say": "That's"
+        },
+        {
+          "show": "still",
+          "say": "still"
+        },
+        {
+          "show": "debated",
+          "say": "debated"
+        },
+        {
+          "show": "among",
+          "say": "among"
+        },
+        {
+          "show": "scientists.",
+          "say": "scientists."
+        },
+        {
+          "show": "One",
+          "say": "One"
+        },
+        {
+          "show": "large",
+          "say": "large"
+        },
+        {
+          "show": "analysis",
+          "say": "analysis"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "data",
+          "say": "data"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "over",
+          "say": "over"
+        },
+        {
+          "show": "three",
+          "say": "three"
+        },
+        {
+          "show": "hundred",
+          "say": "hundred"
+        },
+        {
+          "show": "thousand",
+          "say": "thousand"
+        },
+        {
+          "show": "teens",
+          "say": "teens"
+        },
+        {
+          "show": "found",
+          "say": "found"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "average",
+          "say": "average"
+        },
+        {
+          "show": "link",
+          "say": "link"
+        },
+        {
+          "show": "with",
+          "say": "with"
+        },
+        {
+          "show": "well-being",
+          "say": "well-being"
+        },
+        {
+          "show": "was",
+          "say": "was"
+        },
+        {
+          "show": "very",
+          "say": "very"
+        },
+        {
+          "show": "small.",
+          "say": "small."
+        },
+        {
+          "show": "Other",
+          "say": "Other"
+        },
+        {
+          "show": "researchers",
+          "say": "researchers"
+        },
+        {
+          "show": "argue",
+          "say": "argue"
+        },
+        {
+          "show": "it's",
+          "say": "it's"
+        },
+        {
+          "show": "bigger",
+          "say": "bigger"
+        },
+        {
+          "show": "for",
+          "say": "for"
+        },
+        {
+          "show": "some",
+          "say": "some"
+        },
+        {
+          "show": "people.",
+          "say": "people."
+        },
+        {
+          "show": "Sleep",
+          "say": "Sleep"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "where",
+          "say": "where"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "evidence",
+          "say": "evidence"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "clearer.",
+          "say": "clearer."
+        },
+        {
+          "show": "A",
+          "say": "A"
+        },
+        {
+          "show": "review",
+          "say": "review"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "twenty",
+          "say": "twenty"
+        },
+        {
+          "show": "studies",
+          "say": "studies"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "over",
+          "say": "over"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "hundred",
+          "say": "hundred"
+        },
+        {
+          "show": "twenty",
+          "say": "twenty"
+        },
+        {
+          "show": "thousand",
+          "say": "thousand"
+        },
+        {
+          "show": "children",
+          "say": "children"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "teens",
+          "say": "teens"
+        },
+        {
+          "show": "found",
+          "say": "found"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "consistent",
+          "say": "consistent"
+        },
+        {
+          "show": "link.",
+          "say": "link."
+        },
+        {
+          "show": "Using",
+          "say": "Using"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "device",
+          "say": "device"
+        },
+        {
+          "show": "at",
+          "say": "at"
+        },
+        {
+          "show": "bedtime",
+          "say": "bedtime"
+        },
+        {
+          "show": "was",
+          "say": "was"
+        },
+        {
+          "show": "tied",
+          "say": "tied"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "roughly",
+          "say": "roughly"
+        },
+        {
+          "show": "double",
+          "say": "double"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "odds",
+          "say": "odds"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "not",
+          "say": "not"
+        },
+        {
+          "show": "sleeping",
+          "say": "sleeping"
+        },
+        {
+          "show": "enough.",
+          "say": "enough."
+        },
+        {
+          "show": "Even",
+          "say": "Even"
+        },
+        {
+          "show": "having",
+          "say": "having"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "device",
+          "say": "device"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "bedroom,",
+          "say": "bedroom,"
+        },
+        {
+          "show": "without",
+          "say": "without"
+        },
+        {
+          "show": "using",
+          "say": "using"
+        },
+        {
+          "show": "it,",
+          "say": "it,"
+        },
+        {
+          "show": "was",
+          "say": "was"
+        },
+        {
+          "show": "linked",
+          "say": "linked"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "less",
+          "say": "less"
+        },
+        {
+          "show": "sleep.",
+          "say": "sleep."
+        },
+        {
+          "show": "These",
+          "say": "These"
+        },
+        {
+          "show": "studies",
+          "say": "studies"
+        },
+        {
+          "show": "show",
+          "say": "show"
+        },
+        {
+          "show": "links,",
+          "say": "links,"
+        },
+        {
+          "show": "not",
+          "say": "not"
+        },
+        {
+          "show": "proof",
+          "say": "proof"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "cause.",
+          "say": "cause."
+        },
+        {
+          "show": "But",
+          "say": "But"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "pattern",
+          "say": "pattern"
+        },
+        {
+          "show": "keeps",
+          "say": "keeps"
+        },
+        {
+          "show": "showing",
+          "say": "showing"
+        },
+        {
+          "show": "up.",
+          "say": "up."
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "title": "The answer",
+      "start": 419.202,
+      "end": 434.91,
+      "speech_end": 434.51,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: phương án B sáng lên; A thu nhỏ \"A SMALL PIECE\"; C có nhãn \"TOO SIMPLE\"."
+      ],
+      "text": "So the answer is B. You're not really avoiding sleep. You're avoiding the end of your day. And you make that choice when your brain is tired, in front of a screen with no last page. Blue light plays a small part. And calling it a drug addiction is too simple.",
+      "say_text": "So the answer is B. You're not really avoiding sleep. You're avoiding the end of your day. And you make that choice when your brain is tired, in front of a screen with no last page. Blue light plays a small part. And calling it a drug addiction is too simple.",
+      "tokens": [
+        {
+          "show": "So",
+          "say": "So"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "answer",
+          "say": "answer"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "B.",
+          "say": "B."
+        },
+        {
+          "show": "You're",
+          "say": "You're"
+        },
+        {
+          "show": "not",
+          "say": "not"
+        },
+        {
+          "show": "really",
+          "say": "really"
+        },
+        {
+          "show": "avoiding",
+          "say": "avoiding"
+        },
+        {
+          "show": "sleep.",
+          "say": "sleep."
+        },
+        {
+          "show": "You're",
+          "say": "You're"
+        },
+        {
+          "show": "avoiding",
+          "say": "avoiding"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "end",
+          "say": "end"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "day.",
+          "say": "day."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "make",
+          "say": "make"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "choice",
+          "say": "choice"
+        },
+        {
+          "show": "when",
+          "say": "when"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "brain",
+          "say": "brain"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "tired,",
+          "say": "tired,"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "front",
+          "say": "front"
+        },
+        {
+          "show": "of",
+          "say": "of"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "screen",
+          "say": "screen"
+        },
+        {
+          "show": "with",
+          "say": "with"
+        },
+        {
+          "show": "no",
+          "say": "no"
+        },
+        {
+          "show": "last",
+          "say": "last"
+        },
+        {
+          "show": "page.",
+          "say": "page."
+        },
+        {
+          "show": "Blue",
+          "say": "Blue"
+        },
+        {
+          "show": "light",
+          "say": "light"
+        },
+        {
+          "show": "plays",
+          "say": "plays"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "small",
+          "say": "small"
+        },
+        {
+          "show": "part.",
+          "say": "part."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "calling",
+          "say": "calling"
+        },
+        {
+          "show": "it",
+          "say": "it"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "drug",
+          "say": "drug"
+        },
+        {
+          "show": "addiction",
+          "say": "addiction"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "too",
+          "say": "too"
+        },
+        {
+          "show": "simple.",
+          "say": "simple."
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "title": "How to make stopping easier",
+      "start": 434.91,
+      "end": 473.422,
+      "speech_end": 473.022,
+      "min_duration": null,
+      "visual": [
+        "BẢNG: bốn thẻ hiện lần lượt: ổ sạc ngoài cửa phòng ngủ; báo thức \"BED IN 30 MIN\"; đánh dấu \"LAST EPISODE\"; cốc trà + sách lúc 19:00 \"ME TIME EARLIER\"; nhãn nhỏ \"38 PEOPLE · 4 WEEKS\". [14][13][8][3]"
+      ],
+      "text": "So how do you make stopping easier? Don't count on willpower at one in the morning. Make the decision earlier. Charge your phone outside your bedroom, so stopping happens by default. Set an alarm that says it's time for bed, not just time to wake up. Pick your stopping point before you start. This episode, then lights out. And try to find some time for yourself earlier in the day. In a small trial, thirty-eight people stopped using their phones thirty minutes before bed for four weeks. Compared with a group that kept their habits, they reported falling asleep faster and sleeping longer. It's a small study. But it's an easy experiment to try on yourself.",
+      "say_text": "So how do you make stopping easier? Don't count on willpower at one in the morning. Make the decision earlier. Charge your phone outside your bedroom, so stopping happens by default. Set an alarm that says it's time for bed, not just time to wake up. Pick your stopping point before you start. This episode, then lights out. And try to find some time for yourself earlier in the day. In a small trial, thirty-eight people stopped using their phones thirty minutes before bed for four weeks. Compared with a group that kept their habits, they reported falling asleep faster and sleeping longer. It's a small study. But it's an easy experiment to try on yourself.",
+      "tokens": [
+        {
+          "show": "So",
+          "say": "So"
+        },
+        {
+          "show": "how",
+          "say": "how"
+        },
+        {
+          "show": "do",
+          "say": "do"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "make",
+          "say": "make"
+        },
+        {
+          "show": "stopping",
+          "say": "stopping"
+        },
+        {
+          "show": "easier?",
+          "say": "easier?"
+        },
+        {
+          "show": "Don't",
+          "say": "Don't"
+        },
+        {
+          "show": "count",
+          "say": "count"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "willpower",
+          "say": "willpower"
+        },
+        {
+          "show": "at",
+          "say": "at"
+        },
+        {
+          "show": "one",
+          "say": "one"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "morning.",
+          "say": "morning."
+        },
+        {
+          "show": "Make",
+          "say": "Make"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "decision",
+          "say": "decision"
+        },
+        {
+          "show": "earlier.",
+          "say": "earlier."
+        },
+        {
+          "show": "Charge",
+          "say": "Charge"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "phone",
+          "say": "phone"
+        },
+        {
+          "show": "outside",
+          "say": "outside"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "bedroom,",
+          "say": "bedroom,"
+        },
+        {
+          "show": "so",
+          "say": "so"
+        },
+        {
+          "show": "stopping",
+          "say": "stopping"
+        },
+        {
+          "show": "happens",
+          "say": "happens"
+        },
+        {
+          "show": "by",
+          "say": "by"
+        },
+        {
+          "show": "default.",
+          "say": "default."
+        },
+        {
+          "show": "Set",
+          "say": "Set"
+        },
+        {
+          "show": "an",
+          "say": "an"
+        },
+        {
+          "show": "alarm",
+          "say": "alarm"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "says",
+          "say": "says"
+        },
+        {
+          "show": "it's",
+          "say": "it's"
+        },
+        {
+          "show": "time",
+          "say": "time"
+        },
+        {
+          "show": "for",
+          "say": "for"
+        },
+        {
+          "show": "bed,",
+          "say": "bed,"
+        },
+        {
+          "show": "not",
+          "say": "not"
+        },
+        {
+          "show": "just",
+          "say": "just"
+        },
+        {
+          "show": "time",
+          "say": "time"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "wake",
+          "say": "wake"
+        },
+        {
+          "show": "up.",
+          "say": "up."
+        },
+        {
+          "show": "Pick",
+          "say": "Pick"
+        },
+        {
+          "show": "your",
+          "say": "your"
+        },
+        {
+          "show": "stopping",
+          "say": "stopping"
+        },
+        {
+          "show": "point",
+          "say": "point"
+        },
+        {
+          "show": "before",
+          "say": "before"
+        },
+        {
+          "show": "you",
+          "say": "you"
+        },
+        {
+          "show": "start.",
+          "say": "start."
+        },
+        {
+          "show": "This",
+          "say": "This"
+        },
+        {
+          "show": "episode,",
+          "say": "episode,"
+        },
+        {
+          "show": "then",
+          "say": "then"
+        },
+        {
+          "show": "lights",
+          "say": "lights"
+        },
+        {
+          "show": "out.",
+          "say": "out."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "try",
+          "say": "try"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "find",
+          "say": "find"
+        },
+        {
+          "show": "some",
+          "say": "some"
+        },
+        {
+          "show": "time",
+          "say": "time"
+        },
+        {
+          "show": "for",
+          "say": "for"
+        },
+        {
+          "show": "yourself",
+          "say": "yourself"
+        },
+        {
+          "show": "earlier",
+          "say": "earlier"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "day.",
+          "say": "day."
+        },
+        {
+          "show": "In",
+          "say": "In"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "small",
+          "say": "small"
+        },
+        {
+          "show": "trial,",
+          "say": "trial,"
+        },
+        {
+          "show": "thirty-eight",
+          "say": "thirty-eight"
+        },
+        {
+          "show": "people",
+          "say": "people"
+        },
+        {
+          "show": "stopped",
+          "say": "stopped"
+        },
+        {
+          "show": "using",
+          "say": "using"
+        },
+        {
+          "show": "their",
+          "say": "their"
+        },
+        {
+          "show": "phones",
+          "say": "phones"
+        },
+        {
+          "show": "thirty",
+          "say": "thirty"
+        },
+        {
+          "show": "minutes",
+          "say": "minutes"
+        },
+        {
+          "show": "before",
+          "say": "before"
+        },
+        {
+          "show": "bed",
+          "say": "bed"
+        },
+        {
+          "show": "for",
+          "say": "for"
+        },
+        {
+          "show": "four",
+          "say": "four"
+        },
+        {
+          "show": "weeks.",
+          "say": "weeks."
+        },
+        {
+          "show": "Compared",
+          "say": "Compared"
+        },
+        {
+          "show": "with",
+          "say": "with"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "group",
+          "say": "group"
+        },
+        {
+          "show": "that",
+          "say": "that"
+        },
+        {
+          "show": "kept",
+          "say": "kept"
+        },
+        {
+          "show": "their",
+          "say": "their"
+        },
+        {
+          "show": "habits,",
+          "say": "habits,"
+        },
+        {
+          "show": "they",
+          "say": "they"
+        },
+        {
+          "show": "reported",
+          "say": "reported"
+        },
+        {
+          "show": "falling",
+          "say": "falling"
+        },
+        {
+          "show": "asleep",
+          "say": "asleep"
+        },
+        {
+          "show": "faster",
+          "say": "faster"
+        },
+        {
+          "show": "and",
+          "say": "and"
+        },
+        {
+          "show": "sleeping",
+          "say": "sleeping"
+        },
+        {
+          "show": "longer.",
+          "say": "longer."
+        },
+        {
+          "show": "It's",
+          "say": "It's"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "small",
+          "say": "small"
+        },
+        {
+          "show": "study.",
+          "say": "study."
+        },
+        {
+          "show": "But",
+          "say": "But"
+        },
+        {
+          "show": "it's",
+          "say": "it's"
+        },
+        {
+          "show": "an",
+          "say": "an"
+        },
+        {
+          "show": "easy",
+          "say": "easy"
+        },
+        {
+          "show": "experiment",
+          "say": "experiment"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "try",
+          "say": "try"
+        },
+        {
+          "show": "on",
+          "say": "on"
+        },
+        {
+          "show": "yourself.",
+          "say": "yourself."
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "title": "Back to bed",
+      "start": 473.422,
+      "end": 485.551,
+      "speech_end": 485.151,
+      "min_duration": null,
+      "visual": [
+        "phong-ngu-ngu.jpg — điện thoại úp trên bàn ngoài cửa, đang sạc; cậu bé ngủ; đồng hồ 23:15; sáng ra tươi tỉnh."
+      ],
+      "text": "Eleven at night. Your phone is charging in the hallway. You lie in bed, a little bored. You think about checking one thing. But it's way over there. Ten minutes later, you're asleep.",
+      "say_text": "Eleven at night. Your phone is charging in the hallway. You lie in bed, a little bored. You think about checking one thing. But it's way over there. Ten minutes later, you're asleep.",
+      "tokens": [
+        {
+          "show": "Eleven",
+          "say": "Eleven"
+        },
+        {
+          "show": "at",
+          "say": "at"
+        },
+        {
+          "show": "night.",
+          "say": "night."
+        },
+        {
+          "show": "Your",
+          "say": "Your"
+        },
+        {
+          "show": "phone",
+          "say": "phone"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "charging",
+          "say": "charging"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "hallway.",
+          "say": "hallway."
+        },
+        {
+          "show": "You",
+          "say": "You"
+        },
+        {
+          "show": "lie",
+          "say": "lie"
+        },
+        {
+          "show": "in",
+          "say": "in"
+        },
+        {
+          "show": "bed,",
+          "say": "bed,"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "little",
+          "say": "little"
+        },
+        {
+          "show": "bored.",
+          "say": "bored."
+        },
+        {
+          "show": "You",
+          "say": "You"
+        },
+        {
+          "show": "think",
+          "say": "think"
+        },
+        {
+          "show": "about",
+          "say": "about"
+        },
+        {
+          "show": "checking",
+          "say": "checking"
+        },
+        {
+          "show": "one",
+          "say": "one"
+        },
+        {
+          "show": "thing.",
+          "say": "thing."
+        },
+        {
+          "show": "But",
+          "say": "But"
+        },
+        {
+          "show": "it's",
+          "say": "it's"
+        },
+        {
+          "show": "way",
+          "say": "way"
+        },
+        {
+          "show": "over",
+          "say": "over"
+        },
+        {
+          "show": "there.",
+          "say": "there."
+        },
+        {
+          "show": "Ten",
+          "say": "Ten"
+        },
+        {
+          "show": "minutes",
+          "say": "minutes"
+        },
+        {
+          "show": "later,",
+          "say": "later,"
+        },
+        {
+          "show": "you're",
+          "say": "you're"
+        },
+        {
+          "show": "asleep.",
+          "say": "asleep."
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "title": "End card",
+      "start": 485.551,
+      "end": 501.551,
+      "speech_end": 496.549,
+      "min_duration": 16.0,
+      "visual": [
+        "Thẻ cuối: nguồn chính (Kroese 2014; Nauts 2019; Duraccio 2021; Gujar 2011; Rixen 2023; Hagger 2016; Chang 2015; Carter 2016; He 2020); dòng khuyến cáo: \"This video is for general education, not medical advice. If you have trouble sleeping for weeks, or feel low or anxious most days, talk to a doctor or a mental health professional.\"; \"Learn Something Daily\"."
+      ],
+      "text": "This video is for learning, not medical advice. If poor sleep, low mood or worry last for weeks, talk to a doctor or a counselor. Sweet dreams. And put the phone down.",
+      "say_text": "This video is for learning, not medical advice. If poor sleep, low mood or worry last for weeks, talk to a doctor or a counselor. Sweet dreams. And put the phone down.",
+      "tokens": [
+        {
+          "show": "This",
+          "say": "This"
+        },
+        {
+          "show": "video",
+          "say": "video"
+        },
+        {
+          "show": "is",
+          "say": "is"
+        },
+        {
+          "show": "for",
+          "say": "for"
+        },
+        {
+          "show": "learning,",
+          "say": "learning,"
+        },
+        {
+          "show": "not",
+          "say": "not"
+        },
+        {
+          "show": "medical",
+          "say": "medical"
+        },
+        {
+          "show": "advice.",
+          "say": "advice."
+        },
+        {
+          "show": "If",
+          "say": "If"
+        },
+        {
+          "show": "poor",
+          "say": "poor"
+        },
+        {
+          "show": "sleep,",
+          "say": "sleep,"
+        },
+        {
+          "show": "low",
+          "say": "low"
+        },
+        {
+          "show": "mood",
+          "say": "mood"
+        },
+        {
+          "show": "or",
+          "say": "or"
+        },
+        {
+          "show": "worry",
+          "say": "worry"
+        },
+        {
+          "show": "last",
+          "say": "last"
+        },
+        {
+          "show": "for",
+          "say": "for"
+        },
+        {
+          "show": "weeks,",
+          "say": "weeks,"
+        },
+        {
+          "show": "talk",
+          "say": "talk"
+        },
+        {
+          "show": "to",
+          "say": "to"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "doctor",
+          "say": "doctor"
+        },
+        {
+          "show": "or",
+          "say": "or"
+        },
+        {
+          "show": "a",
+          "say": "a"
+        },
+        {
+          "show": "counselor.",
+          "say": "counselor."
+        },
+        {
+          "show": "Sweet",
+          "say": "Sweet"
+        },
+        {
+          "show": "dreams.",
+          "say": "dreams."
+        },
+        {
+          "show": "And",
+          "say": "And"
+        },
+        {
+          "show": "put",
+          "say": "put"
+        },
+        {
+          "show": "the",
+          "say": "the"
+        },
+        {
+          "show": "phone",
+          "say": "phone"
+        },
+        {
+          "show": "down.",
+          "say": "down."
+        }
+      ]
+    }
+  ]
+}

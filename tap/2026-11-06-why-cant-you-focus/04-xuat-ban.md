@@ -45,8 +45,16 @@ Illustrations: AI-generated (ChatGPT image generation). Voice: AI voice (GenMax 
 | Bản | Ý tưởng (chữ · cảm xúc · đồ vật · nền) | Chọn |
 |-----|------------------------------------------|------|
 | 1 | "NOT A GOLDFISH BRAIN" · phật ý, chỉ tay · bể cá vàng gạch chéo · xanh ngọc | |
-| 2 | "WHY CAN'T YOU FOCUS?" · bực, gãi đầu · điện thoại rung đầy thông báo · vàng cam | |
+| 2 | "WHY CAN'T YOU FOCUS?" · bực, gãi đầu · điện thoại rung đầy thông báo · vàng cam | ✅ |
 | 3 | "WHO STOLE YOUR FOCUS?" · bất ngờ · điện thoại giật luồng đèn pin khỏi trang sách · xanh đêm (biểu tượng play đỏ trên màn hình hơi giống YouTube) | |
 
 - [x] Chữ đúng chính tả, đọc được ở 320×180 (`xuat\thumbnail-nho.jpg`)
 - [x] Đã ghi vào `hinh\giay-phep.md`
+
+## Đã đăng
+
+SEO áp dụng 09/11/2026 theo `tap\seo-youtube-2026-11-09.md` (kênh @LearnSomethingDaily98, category Science & Technology, ngôn ngữ English, playlist "The Science of Everyday Life").
+
+| Nền tảng | Ngày | Link | Lượt xem 24h | Lượt xem 7 ngày |
+|----------|------|------|--------------|-----------------|
+| YouTube | lên lịch 10/11/2026 | https://youtu.be/1wDkOV-G-K8 | | |

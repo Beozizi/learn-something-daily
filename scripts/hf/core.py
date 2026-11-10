@@ -346,7 +346,8 @@ def subtitles(srt=None, bottom=46, size=42):
     return c
 
 
-def run(builders, music_fn=None, bgm_files=(), subs=False):
+def run(builders, music_fn=None, bgm_files=(), subs=False, mau=False):
+    """mau=True: đẩy mọi mã màu theo day_mau (nền tối hơn, màu đậm hơn); ảnh chạy riêng scripts/hf/day_mau.py."""
     sys.stdout.reconfigure(encoding="utf-8")
     (VID / "compositions").mkdir(exist_ok=True)
     fonts = VID / "assets" / "fonts"
@@ -357,4 +358,8 @@ def run(builders, music_fn=None, bgm_files=(), subs=False):
         c.write()
     prep_audio(bgm_files)
     write_index(comps, music_fn() if music_fn else "")
+    if mau:
+        from .day_mau import day_html
+        for f in [VID / "index.html"] + [VID / "compositions" / f"{c.cid}.html" for c in comps]:
+            f.write_text(day_html(f.read_text(encoding="utf-8")), encoding="utf-8")
     print(f"{len(comps)} cảnh · {DURATION:.1f} giây → {VID}")

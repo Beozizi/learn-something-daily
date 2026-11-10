@@ -43,9 +43,17 @@ Sound effect: "knife_chop.wav" by deleted_user_877451 (Freesound), CC BY 3.0 —
 ## Thumbnail (ChatGPT, 3 phương án — `xuat\thumbnail-N.jpg`, 1280×720)
 | Bản | Ý tưởng (chữ · cảm xúc · đồ vật · nền) | Chọn |
 |-----|------------------------------------------|------|
-| 1 | "8 GLASSES? NOT QUITE" · ngạc nhiên, cầm ly · hàng 8 ly + dấu hỏi đỏ · xanh dương | |
+| 1 | "8 GLASSES? NOT QUITE" · ngạc nhiên, cầm ly · hàng 8 ly + dấu hỏi đỏ · xanh dương | ✅ |
 | 2 | "HOW MUCH WATER?" · khát, tò mò · giọt nước khổng lồ có dấu hỏi · cam vàng | |
 | 3 | "8 GLASSES A DAY?" · hoảng, giữ thăng bằng · tháp ly (ChatGPT vẽ 7 ly, sửa lại vẫn 7) · xanh ngọc | |
 
 - [x] Chữ đúng chính tả, đọc được ở 320×180 (`xuat\thumbnail-nho.jpg`)
 - [x] Đã ghi vào `hinh\giay-phep.md`
+
+## Đã đăng
+
+SEO áp dụng 09/11/2026 theo `tap\seo-youtube-2026-11-09.md` (kênh @LearnSomethingDaily98, category Science & Technology, ngôn ngữ English, playlist "The Science of Everyday Life").
+
+| Nền tảng | Ngày | Link | Lượt xem 24h | Lượt xem 7 ngày |
+|----------|------|------|--------------|-----------------|
+| YouTube | bản nháp (riêng tư) | https://youtu.be/OO1R8Qiutdw | | |

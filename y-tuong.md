@@ -30,8 +30,8 @@ Hướng chủ kênh chọn ngày 07/11/2026. Ưu tiên theo khảo sát 25 kên
 
 | Ý tưởng | Nhóm | Tò mò | Đời thường | Bất ngờ | Nguồn | Hình ảnh | Đố được | Tổng | Trạng thái |
 |---------|------|:-----:|:----------:|:-------:|:-----:|:--------:|:-------:|:----:|------------|
-| Why do you stay up late on your phone even when you're exhausted? | Điện thoại | 3 | 3 | 2 | 2 | 3 | 3 | 16 | chờ |
-| Why are you tired after a day of doing nothing? | Mệt mỏi | 3 | 3 | 3 | 2 | 2 | 3 | 16 | chờ |
+| Why do you stay up late on your phone even when you're exhausted? | Điện thoại | 3 | 3 | 2 | 3 | 3 | 3 | 17 | xong 07/11 — `tap6-11-07-why-stay-up-on-your-phone` (8:22, chưa đăng; bản dọc chưa làm) |
+| Why are you tired after a day of doing nothing? | Mệt mỏi | 3 | 3 | 3 | 3 | 2 | 3 | 17 | xong 09/11 — `tap\2026-11-09-why-tired-doing-nothing` (8:11, chưa đăng; bản dọc chưa làm) |
 | Why does a breakup hurt like physical pain? | Quan hệ | 3 | 3 | 3 | 2 | 3 | 2 | 16 | chờ |
 | Why does your heart race before you speak in public? | Lo âu | 2 | 3 | 2 | 3 | 3 | 3 | 16 | chờ |
 | Why can't you stop scrolling short videos? | Điện thoại | 3 | 3 | 2 | 2 | 3 | 2 | 15 | chờ (tác động lên giới trẻ còn tranh cãi, nói rõ) |

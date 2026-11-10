@@ -1,0 +1,9402 @@
+{
+  "words": [
+    {
+      "text": "It's",
+      "start": 4.5,
+      "end": 4.64,
+      "scene": "02"
+    },
+    {
+      "text": "Sunday.",
+      "start": 4.68,
+      "end": 5.02,
+      "scene": "02"
+    },
+    {
+      "text": "You",
+      "start": 5.04,
+      "end": 5.14,
+      "scene": "02"
+    },
+    {
+      "text": "wake",
+      "start": 5.16,
+      "end": 5.3,
+      "scene": "02"
+    },
+    {
+      "text": "up",
+      "start": 5.34,
+      "end": 5.42,
+      "scene": "02"
+    },
+    {
+      "text": "at",
+      "start": 5.44,
+      "end": 5.48,
+      "scene": "02"
+    },
+    {
+      "text": "eleven.",
+      "start": 5.54,
+      "end": 5.84,
+      "scene": "02"
+    },
+    {
+      "text": "No",
+      "start": 5.88,
+      "end": 6.0,
+      "scene": "02"
+    },
+    {
+      "text": "plans.",
+      "start": 6.06,
+      "end": 6.481,
+      "scene": "02"
+    },
+    {
+      "text": "No",
+      "start": 6.941,
+      "end": 7.041,
+      "scene": "02"
+    },
+    {
+      "text": "homework",
+      "start": 7.081,
+      "end": 7.381,
+      "scene": "02"
+    },
+    {
+      "text": "due.",
+      "start": 7.421,
+      "end": 7.621,
+      "scene": "02"
+    },
+    {
+      "text": "Nobody",
+      "start": 8.101,
+      "end": 8.361,
+      "scene": "02"
+    },
+    {
+      "text": "needs",
+      "start": 8.401,
+      "end": 8.561,
+      "scene": "02"
+    },
+    {
+      "text": "you",
+      "start": 8.581,
+      "end": 8.681,
+      "scene": "02"
+    },
+    {
+      "text": "for",
+      "start": 8.701,
+      "end": 8.801,
+      "scene": "02"
+    },
+    {
+      "text": "anything.",
+      "start": 8.841,
+      "end": 9.181,
+      "scene": "02"
+    },
+    {
+      "text": "You",
+      "start": 10.242,
+      "end": 10.342,
+      "scene": "02"
+    },
+    {
+      "text": "move",
+      "start": 10.382,
+      "end": 10.542,
+      "scene": "02"
+    },
+    {
+      "text": "from",
+      "start": 10.562,
+      "end": 10.702,
+      "scene": "02"
+    },
+    {
+      "text": "the",
+      "start": 10.722,
+      "end": 10.802,
+      "scene": "02"
+    },
+    {
+      "text": "bed",
+      "start": 10.842,
+      "end": 11.082,
+      "scene": "02"
+    },
+    {
+      "text": "to",
+      "start": 11.202,
+      "end": 11.302,
+      "scene": "02"
+    },
+    {
+      "text": "the",
+      "start": 11.322,
+      "end": 11.402,
+      "scene": "02"
+    },
+    {
+      "text": "couch.",
+      "start": 11.442,
+      "end": 11.782,
+      "scene": "02"
+    },
+    {
+      "text": "A",
+      "start": 12.322,
+      "end": 12.382,
+      "scene": "02"
+    },
+    {
+      "text": "show.",
+      "start": 12.422,
+      "end": 12.722,
+      "scene": "02"
+    },
+    {
+      "text": "Your",
+      "start": 13.182,
+      "end": 13.322,
+      "scene": "02"
+    },
+    {
+      "text": "phone.",
+      "start": 13.362,
+      "end": 13.702,
+      "scene": "02"
+    },
+    {
+      "text": "Another",
+      "start": 14.123,
+      "end": 14.403,
+      "scene": "02"
+    },
+    {
+      "text": "show.",
+      "start": 14.443,
+      "end": 14.723,
+      "scene": "02"
+    },
+    {
+      "text": "A",
+      "start": 15.023,
+      "end": 15.063,
+      "scene": "02"
+    },
+    {
+      "text": "snack.",
+      "start": 15.123,
+      "end": 15.483,
+      "scene": "02"
+    },
+    {
+      "text": "You",
+      "start": 16.123,
+      "end": 16.203,
+      "scene": "02"
+    },
+    {
+      "text": "never",
+      "start": 16.243,
+      "end": 16.383,
+      "scene": "02"
+    },
+    {
+      "text": "even",
+      "start": 16.443,
+      "end": 16.583,
+      "scene": "02"
+    },
+    {
+      "text": "leave",
+      "start": 16.623,
+      "end": 16.763,
+      "scene": "02"
+    },
+    {
+      "text": "the",
+      "start": 16.803,
+      "end": 16.863,
+      "scene": "02"
+    },
+    {
+      "text": "house.",
+      "start": 16.903,
+      "end": 17.203,
+      "scene": "02"
+    },
+    {
+      "text": "By",
+      "start": 18.304,
+      "end": 18.424,
+      "scene": "02"
+    },
+    {
+      "text": "six",
+      "start": 18.504,
+      "end": 18.684,
+      "scene": "02"
+    },
+    {
+      "text": "in",
+      "start": 18.704,
+      "end": 18.764,
+      "scene": "02"
+    },
+    {
+      "text": "the",
+      "start": 18.804,
+      "end": 18.864,
+      "scene": "02"
+    },
+    {
+      "text": "evening,",
+      "start": 18.944,
+      "end": 19.164,
+      "scene": "02"
+    },
+    {
+      "text": "something",
+      "start": 19.184,
+      "end": 19.464,
+      "scene": "02"
+    },
+    {
+      "text": "strange",
+      "start": 19.744,
+      "end": 20.164,
+      "scene": "02"
+    },
+    {
+      "text": "happens.",
+      "start": 20.204,
+      "end": 20.584,
+      "scene": "02"
+    },
+    {
+      "text": "You",
+      "start": 20.964,
+      "end": 21.084,
+      "scene": "02"
+    },
+    {
+      "text": "feel",
+      "start": 21.104,
+      "end": 21.264,
+      "scene": "02"
+    },
+    {
+      "text": "exhausted.",
+      "start": 21.324,
+      "end": 21.945,
+      "scene": "02"
+    },
+    {
+      "text": "Heavy.",
+      "start": 22.065,
+      "end": 22.385,
+      "scene": "02"
+    },
+    {
+      "text": "Like",
+      "start": 22.925,
+      "end": 23.045,
+      "scene": "02"
+    },
+    {
+      "text": "you",
+      "start": 23.065,
+      "end": 23.185,
+      "scene": "02"
+    },
+    {
+      "text": "ran",
+      "start": 23.225,
+      "end": 23.365,
+      "scene": "02"
+    },
+    {
+      "text": "a",
+      "start": 23.385,
+      "end": 23.425,
+      "scene": "02"
+    },
+    {
+      "text": "marathon.",
+      "start": 23.445,
+      "end": 23.925,
+      "scene": "02"
+    },
+    {
+      "text": "But",
+      "start": 24.665,
+      "end": 24.765,
+      "scene": "02"
+    },
+    {
+      "text": "you",
+      "start": 24.785,
+      "end": 24.865,
+      "scene": "02"
+    },
+    {
+      "text": "didn't",
+      "start": 24.885,
+      "end": 25.045,
+      "scene": "02"
+    },
+    {
+      "text": "run",
+      "start": 25.085,
+      "end": 25.225,
+      "scene": "02"
+    },
+    {
+      "text": "anything.",
+      "start": 25.285,
+      "end": 25.586,
+      "scene": "02"
+    },
+    {
+      "text": "You",
+      "start": 25.626,
+      "end": 25.766,
+      "scene": "02"
+    },
+    {
+      "text": "barely",
+      "start": 26.106,
+      "end": 26.426,
+      "scene": "02"
+    },
+    {
+      "text": "stood",
+      "start": 26.466,
+      "end": 26.686,
+      "scene": "02"
+    },
+    {
+      "text": "up.",
+      "start": 26.766,
+      "end": 26.866,
+      "scene": "02"
+    },
+    {
+      "text": "Now",
+      "start": 27.926,
+      "end": 28.046,
+      "scene": "03"
+    },
+    {
+      "text": "think",
+      "start": 28.086,
+      "end": 28.206,
+      "scene": "03"
+    },
+    {
+      "text": "about",
+      "start": 28.246,
+      "end": 28.406,
+      "scene": "03"
+    },
+    {
+      "text": "Monday.",
+      "start": 28.446,
+      "end": 28.766,
+      "scene": "03"
+    },
+    {
+      "text": "School",
+      "start": 29.347,
+      "end": 29.607,
+      "scene": "03"
+    },
+    {
+      "text": "all",
+      "start": 29.627,
+      "end": 29.747,
+      "scene": "03"
+    },
+    {
+      "text": "day.",
+      "start": 29.787,
+      "end": 29.967,
+      "scene": "03"
+    },
+    {
+      "text": "Then",
+      "start": 30.387,
+      "end": 30.547,
+      "scene": "03"
+    },
+    {
+      "text": "football",
+      "start": 30.627,
+      "end": 31.027,
+      "scene": "03"
+    },
+    {
+      "text": "after",
+      "start": 31.067,
+      "end": 31.267,
+      "scene": "03"
+    },
+    {
+      "text": "class.",
+      "start": 31.307,
+      "end": 31.628,
+      "scene": "03"
+    },
+    {
+      "text": "You",
+      "start": 31.888,
+      "end": 31.988,
+      "scene": "03"
+    },
+    {
+      "text": "should",
+      "start": 32.028,
+      "end": 32.208,
+      "scene": "03"
+    },
+    {
+      "text": "be",
+      "start": 32.248,
+      "end": 32.328,
+      "scene": "03"
+    },
+    {
+      "text": "wrecked.",
+      "start": 32.448,
+      "end": 32.768,
+      "scene": "03"
+    },
+    {
+      "text": "And",
+      "start": 33.168,
+      "end": 33.268,
+      "scene": "03"
+    },
+    {
+      "text": "yet,",
+      "start": 33.308,
+      "end": 33.488,
+      "scene": "03"
+    },
+    {
+      "text": "that",
+      "start": 33.909,
+      "end": 34.069,
+      "scene": "03"
+    },
+    {
+      "text": "evening,",
+      "start": 34.129,
+      "end": 34.429,
+      "scene": "03"
+    },
+    {
+      "text": "you",
+      "start": 34.909,
+      "end": 35.069,
+      "scene": "03"
+    },
+    {
+      "text": "feel",
+      "start": 35.129,
+      "end": 35.349,
+      "scene": "03"
+    },
+    {
+      "text": "more",
+      "start": 35.469,
+      "end": 35.689,
+      "scene": "03"
+    },
+    {
+      "text": "awake.",
+      "start": 35.769,
+      "end": 36.15,
+      "scene": "03"
+    },
+    {
+      "text": "A",
+      "start": 37.19,
+      "end": 37.23,
+      "scene": "03"
+    },
+    {
+      "text": "busy",
+      "start": 37.29,
+      "end": 37.55,
+      "scene": "03"
+    },
+    {
+      "text": "day",
+      "start": 37.61,
+      "end": 37.83,
+      "scene": "03"
+    },
+    {
+      "text": "leaves",
+      "start": 37.93,
+      "end": 38.15,
+      "scene": "03"
+    },
+    {
+      "text": "you",
+      "start": 38.17,
+      "end": 38.291,
+      "scene": "03"
+    },
+    {
+      "text": "buzzing.",
+      "start": 38.451,
+      "end": 38.871,
+      "scene": "03"
+    },
+    {
+      "text": "An",
+      "start": 39.691,
+      "end": 39.771,
+      "scene": "03"
+    },
+    {
+      "text": "empty",
+      "start": 39.851,
+      "end": 40.091,
+      "scene": "03"
+    },
+    {
+      "text": "day",
+      "start": 40.111,
+      "end": 40.271,
+      "scene": "03"
+    },
+    {
+      "text": "leaves",
+      "start": 40.331,
+      "end": 40.512,
+      "scene": "03"
+    },
+    {
+      "text": "you",
+      "start": 40.532,
+      "end": 40.652,
+      "scene": "03"
+    },
+    {
+      "text": "drained.",
+      "start": 40.732,
+      "end": 41.212,
+      "scene": "03"
+    },
+    {
+      "text": "That's",
+      "start": 42.012,
+      "end": 42.192,
+      "scene": "03"
+    },
+    {
+      "text": "backwards,",
+      "start": 42.252,
+      "end": 42.692,
+      "scene": "03"
+    },
+    {
+      "text": "isn't",
+      "start": 42.752,
+      "end": 42.953,
+      "scene": "03"
+    },
+    {
+      "text": "it?",
+      "start": 42.993,
+      "end": 43.053,
+      "scene": "03"
+    },
+    {
+      "text": "If",
+      "start": 43.593,
+      "end": 43.673,
+      "scene": "03"
+    },
+    {
+      "text": "tiredness",
+      "start": 43.733,
+      "end": 44.133,
+      "scene": "03"
+    },
+    {
+      "text": "meant",
+      "start": 44.173,
+      "end": 44.293,
+      "scene": "03"
+    },
+    {
+      "text": "you",
+      "start": 44.313,
+      "end": 44.453,
+      "scene": "03"
+    },
+    {
+      "text": "used",
+      "start": 44.573,
+      "end": 44.753,
+      "scene": "03"
+    },
+    {
+      "text": "up",
+      "start": 44.793,
+      "end": 44.873,
+      "scene": "03"
+    },
+    {
+      "text": "your",
+      "start": 44.893,
+      "end": 45.013,
+      "scene": "03"
+    },
+    {
+      "text": "energy,",
+      "start": 45.053,
+      "end": 45.374,
+      "scene": "03"
+    },
+    {
+      "text": "resting",
+      "start": 45.894,
+      "end": 46.274,
+      "scene": "03"
+    },
+    {
+      "text": "should",
+      "start": 46.314,
+      "end": 46.474,
+      "scene": "03"
+    },
+    {
+      "text": "fill",
+      "start": 46.554,
+      "end": 46.774,
+      "scene": "03"
+    },
+    {
+      "text": "you",
+      "start": 46.814,
+      "end": 46.914,
+      "scene": "03"
+    },
+    {
+      "text": "up.",
+      "start": 47.014,
+      "end": 47.094,
+      "scene": "03"
+    },
+    {
+      "text": "So",
+      "start": 47.815,
+      "end": 47.935,
+      "scene": "03"
+    },
+    {
+      "text": "what's",
+      "start": 47.955,
+      "end": 48.115,
+      "scene": "03"
+    },
+    {
+      "text": "going",
+      "start": 48.155,
+      "end": 48.355,
+      "scene": "03"
+    },
+    {
+      "text": "on?",
+      "start": 48.455,
+      "end": 48.535,
+      "scene": "03"
+    },
+    {
+      "text": "Let's",
+      "start": 49.055,
+      "end": 49.255,
+      "scene": "04"
+    },
+    {
+      "text": "collect",
+      "start": 49.295,
+      "end": 49.515,
+      "scene": "04"
+    },
+    {
+      "text": "some",
+      "start": 49.555,
+      "end": 49.675,
+      "scene": "04"
+    },
+    {
+      "text": "clues.",
+      "start": 49.735,
+      "end": 50.015,
+      "scene": "04"
+    },
+    {
+      "text": "Clue",
+      "start": 50.676,
+      "end": 50.876,
+      "scene": "04"
+    },
+    {
+      "text": "one.",
+      "start": 50.976,
+      "end": 51.116,
+      "scene": "04"
+    },
+    {
+      "text": "Your",
+      "start": 52.036,
+      "end": 52.176,
+      "scene": "04"
+    },
+    {
+      "text": "brain",
+      "start": 52.216,
+      "end": 52.416,
+      "scene": "04"
+    },
+    {
+      "text": "is",
+      "start": 52.456,
+      "end": 52.536,
+      "scene": "04"
+    },
+    {
+      "text": "about",
+      "start": 52.576,
+      "end": 52.757,
+      "scene": "04"
+    },
+    {
+      "text": "two",
+      "start": 52.837,
+      "end": 52.977,
+      "scene": "04"
+    },
+    {
+      "text": "percent",
+      "start": 53.017,
+      "end": 53.277,
+      "scene": "04"
+    },
+    {
+      "text": "of",
+      "start": 53.297,
+      "end": 53.337,
+      "scene": "04"
+    },
+    {
+      "text": "your",
+      "start": 53.377,
+      "end": 53.477,
+      "scene": "04"
+    },
+    {
+      "text": "body",
+      "start": 53.517,
+      "end": 53.737,
+      "scene": "04"
+    },
+    {
+      "text": "weight.",
+      "start": 53.757,
+      "end": 53.957,
+      "scene": "04"
+    },
+    {
+      "text": "But",
+      "start": 54.557,
+      "end": 54.657,
+      "scene": "04"
+    },
+    {
+      "text": "it",
+      "start": 54.697,
+      "end": 54.737,
+      "scene": "04"
+    },
+    {
+      "text": "uses",
+      "start": 54.837,
+      "end": 55.058,
+      "scene": "04"
+    },
+    {
+      "text": "about",
+      "start": 55.118,
+      "end": 55.278,
+      "scene": "04"
+    },
+    {
+      "text": "twenty",
+      "start": 55.458,
+      "end": 55.758,
+      "scene": "04"
+    },
+    {
+      "text": "percent",
+      "start": 55.818,
+      "end": 56.178,
+      "scene": "04"
+    },
+    {
+      "text": "of",
+      "start": 56.198,
+      "end": 56.258,
+      "scene": "04"
+    },
+    {
+      "text": "your",
+      "start": 56.298,
+      "end": 56.398,
+      "scene": "04"
+    },
+    {
+      "text": "body's",
+      "start": 56.438,
+      "end": 56.738,
+      "scene": "04"
+    },
+    {
+      "text": "energy.",
+      "start": 56.778,
+      "end": 57.098,
+      "scene": "04"
+    },
+    {
+      "text": "Here's",
+      "start": 57.579,
+      "end": 57.799,
+      "scene": "04"
+    },
+    {
+      "text": "the",
+      "start": 57.839,
+      "end": 57.939,
+      "scene": "04"
+    },
+    {
+      "text": "surprise.",
+      "start": 57.979,
+      "end": 58.399,
+      "scene": "04"
+    },
+    {
+      "text": "It",
+      "start": 58.799,
+      "end": 58.859,
+      "scene": "04"
+    },
+    {
+      "text": "uses",
+      "start": 58.999,
+      "end": 59.239,
+      "scene": "04"
+    },
+    {
+      "text": "that",
+      "start": 59.299,
+      "end": 59.419,
+      "scene": "04"
+    },
+    {
+      "text": "energy",
+      "start": 59.499,
+      "end": 59.799,
+      "scene": "04"
+    },
+    {
+      "text": "all",
+      "start": 60.1,
+      "end": 60.26,
+      "scene": "04"
+    },
+    {
+      "text": "the",
+      "start": 60.3,
+      "end": 60.38,
+      "scene": "04"
+    },
+    {
+      "text": "time,",
+      "start": 60.44,
+      "end": 60.68,
+      "scene": "04"
+    },
+    {
+      "text": "even",
+      "start": 60.82,
+      "end": 61.0,
+      "scene": "04"
+    },
+    {
+      "text": "at",
+      "start": 61.04,
+      "end": 61.12,
+      "scene": "04"
+    },
+    {
+      "text": "rest.",
+      "start": 61.16,
+      "end": 61.46,
+      "scene": "04"
+    },
+    {
+      "text": "When",
+      "start": 62.321,
+      "end": 62.421,
+      "scene": "04"
+    },
+    {
+      "text": "you",
+      "start": 62.461,
+      "end": 62.561,
+      "scene": "04"
+    },
+    {
+      "text": "do",
+      "start": 62.581,
+      "end": 62.701,
+      "scene": "04"
+    },
+    {
+      "text": "a",
+      "start": 62.761,
+      "end": 62.801,
+      "scene": "04"
+    },
+    {
+      "text": "hard",
+      "start": 62.861,
+      "end": 63.081,
+      "scene": "04"
+    },
+    {
+      "text": "mental",
+      "start": 63.121,
+      "end": 63.381,
+      "scene": "04"
+    },
+    {
+      "text": "task,",
+      "start": 63.421,
+      "end": 63.741,
+      "scene": "04"
+    },
+    {
+      "text": "the",
+      "start": 64.041,
+      "end": 64.121,
+      "scene": "04"
+    },
+    {
+      "text": "change",
+      "start": 64.161,
+      "end": 64.381,
+      "scene": "04"
+    },
+    {
+      "text": "is",
+      "start": 64.441,
+      "end": 64.501,
+      "scene": "04"
+    },
+    {
+      "text": "small.",
+      "start": 64.561,
+      "end": 64.862,
+      "scene": "04"
+    },
+    {
+      "text": "Blood",
+      "start": 65.562,
+      "end": 65.782,
+      "scene": "04"
+    },
+    {
+      "text": "flow",
+      "start": 65.822,
+      "end": 66.022,
+      "scene": "04"
+    },
+    {
+      "text": "to",
+      "start": 66.062,
+      "end": 66.142,
+      "scene": "04"
+    },
+    {
+      "text": "the",
+      "start": 66.162,
+      "end": 66.242,
+      "scene": "04"
+    },
+    {
+      "text": "busy",
+      "start": 66.282,
+      "end": 66.522,
+      "scene": "04"
+    },
+    {
+      "text": "brain",
+      "start": 66.582,
+      "end": 66.822,
+      "scene": "04"
+    },
+    {
+      "text": "areas",
+      "start": 66.882,
+      "end": 67.203,
+      "scene": "04"
+    },
+    {
+      "text": "often",
+      "start": 67.623,
+      "end": 67.863,
+      "scene": "04"
+    },
+    {
+      "text": "rises",
+      "start": 67.903,
+      "end": 68.223,
+      "scene": "04"
+    },
+    {
+      "text": "by",
+      "start": 68.283,
+      "end": 68.403,
+      "scene": "04"
+    },
+    {
+      "text": "five",
+      "start": 68.503,
+      "end": 68.743,
+      "scene": "04"
+    },
+    {
+      "text": "percent",
+      "start": 68.783,
+      "end": 69.083,
+      "scene": "04"
+    },
+    {
+      "text": "or",
+      "start": 69.123,
+      "end": 69.203,
+      "scene": "04"
+    },
+    {
+      "text": "less.",
+      "start": 69.223,
+      "end": 69.483,
+      "scene": "04"
+    },
+    {
+      "text": "Lying",
+      "start": 70.344,
+      "end": 70.564,
+      "scene": "04"
+    },
+    {
+      "text": "on",
+      "start": 70.604,
+      "end": 70.644,
+      "scene": "04"
+    },
+    {
+      "text": "the",
+      "start": 70.684,
+      "end": 70.744,
+      "scene": "04"
+    },
+    {
+      "text": "couch",
+      "start": 70.784,
+      "end": 71.024,
+      "scene": "04"
+    },
+    {
+      "text": "doesn't",
+      "start": 71.064,
+      "end": 71.324,
+      "scene": "04"
+    },
+    {
+      "text": "switch",
+      "start": 71.364,
+      "end": 71.584,
+      "scene": "04"
+    },
+    {
+      "text": "your",
+      "start": 71.604,
+      "end": 71.724,
+      "scene": "04"
+    },
+    {
+      "text": "brain",
+      "start": 71.764,
+      "end": 71.985,
+      "scene": "04"
+    },
+    {
+      "text": "into",
+      "start": 72.025,
+      "end": 72.185,
+      "scene": "04"
+    },
+    {
+      "text": "power",
+      "start": 72.265,
+      "end": 72.565,
+      "scene": "04"
+    },
+    {
+      "text": "saving",
+      "start": 72.605,
+      "end": 72.905,
+      "scene": "04"
+    },
+    {
+      "text": "mode.",
+      "start": 72.945,
+      "end": 73.145,
+      "scene": "04"
+    },
+    {
+      "text": "Clue",
+      "start": 73.625,
+      "end": 73.825,
+      "scene": "05"
+    },
+    {
+      "text": "two.",
+      "start": 73.885,
+      "end": 74.105,
+      "scene": "05"
+    },
+    {
+      "text": "In",
+      "start": 74.846,
+      "end": 74.926,
+      "scene": "05"
+    },
+    {
+      "text": "one",
+      "start": 75.006,
+      "end": 75.106,
+      "scene": "05"
+    },
+    {
+      "text": "study,",
+      "start": 75.146,
+      "end": 75.426,
+      "scene": "05"
+    },
+    {
+      "text": "people",
+      "start": 75.466,
+      "end": 75.686,
+      "scene": "05"
+    },
+    {
+      "text": "did",
+      "start": 75.726,
+      "end": 75.846,
+      "scene": "05"
+    },
+    {
+      "text": "a",
+      "start": 75.886,
+      "end": 75.906,
+      "scene": "05"
+    },
+    {
+      "text": "long,",
+      "start": 75.987,
+      "end": 76.327,
+      "scene": "05"
+    },
+    {
+      "text": "dull",
+      "start": 76.467,
+      "end": 76.767,
+      "scene": "05"
+    },
+    {
+      "text": "monitoring",
+      "start": 76.847,
+      "end": 77.347,
+      "scene": "05"
+    },
+    {
+      "text": "task.",
+      "start": 77.407,
+      "end": 77.768,
+      "scene": "05"
+    },
+    {
+      "text": "They",
+      "start": 78.148,
+      "end": 78.268,
+      "scene": "05"
+    },
+    {
+      "text": "watched",
+      "start": 78.288,
+      "end": 78.528,
+      "scene": "05"
+    },
+    {
+      "text": "a",
+      "start": 78.608,
+      "end": 78.628,
+      "scene": "05"
+    },
+    {
+      "text": "screen",
+      "start": 78.668,
+      "end": 79.048,
+      "scene": "05"
+    },
+    {
+      "text": "and",
+      "start": 79.469,
+      "end": 79.569,
+      "scene": "05"
+    },
+    {
+      "text": "responded",
+      "start": 79.609,
+      "end": 80.009,
+      "scene": "05"
+    },
+    {
+      "text": "to",
+      "start": 80.049,
+      "end": 80.129,
+      "scene": "05"
+    },
+    {
+      "text": "targets",
+      "start": 80.189,
+      "end": 80.569,
+      "scene": "05"
+    },
+    {
+      "text": "for",
+      "start": 80.609,
+      "end": 80.729,
+      "scene": "05"
+    },
+    {
+      "text": "over",
+      "start": 80.789,
+      "end": 80.93,
+      "scene": "05"
+    },
+    {
+      "text": "an",
+      "start": 80.95,
+      "end": 81.01,
+      "scene": "05"
+    },
+    {
+      "text": "hour.",
+      "start": 81.05,
+      "end": 81.27,
+      "scene": "05"
+    },
+    {
+      "text": "As",
+      "start": 82.09,
+      "end": 82.17,
+      "scene": "05"
+    },
+    {
+      "text": "time",
+      "start": 82.23,
+      "end": 82.41,
+      "scene": "05"
+    },
+    {
+      "text": "went",
+      "start": 82.43,
+      "end": 82.551,
+      "scene": "05"
+    },
+    {
+      "text": "on,",
+      "start": 82.651,
+      "end": 82.771,
+      "scene": "05"
+    },
+    {
+      "text": "their",
+      "start": 82.791,
+      "end": 82.931,
+      "scene": "05"
+    },
+    {
+      "text": "reactions",
+      "start": 82.951,
+      "end": 83.351,
+      "scene": "05"
+    },
+    {
+      "text": "got",
+      "start": 83.391,
+      "end": 83.551,
+      "scene": "05"
+    },
+    {
+      "text": "slower.",
+      "start": 83.611,
+      "end": 83.971,
+      "scene": "05"
+    },
+    {
+      "text": "Their",
+      "start": 84.412,
+      "end": 84.552,
+      "scene": "05"
+    },
+    {
+      "text": "heart",
+      "start": 84.592,
+      "end": 84.752,
+      "scene": "05"
+    },
+    {
+      "text": "rate",
+      "start": 84.792,
+      "end": 84.972,
+      "scene": "05"
+    },
+    {
+      "text": "slowed",
+      "start": 85.012,
+      "end": 85.232,
+      "scene": "05"
+    },
+    {
+      "text": "down",
+      "start": 85.252,
+      "end": 85.432,
+      "scene": "05"
+    },
+    {
+      "text": "too.",
+      "start": 85.492,
+      "end": 85.733,
+      "scene": "05"
+    },
+    {
+      "text": "Their",
+      "start": 86.333,
+      "end": 86.513,
+      "scene": "05"
+    },
+    {
+      "text": "bodies",
+      "start": 86.593,
+      "end": 86.933,
+      "scene": "05"
+    },
+    {
+      "text": "were",
+      "start": 86.973,
+      "end": 87.113,
+      "scene": "05"
+    },
+    {
+      "text": "winding",
+      "start": 87.193,
+      "end": 87.574,
+      "scene": "05"
+    },
+    {
+      "text": "down,",
+      "start": 87.614,
+      "end": 87.894,
+      "scene": "05"
+    },
+    {
+      "text": "not",
+      "start": 88.434,
+      "end": 88.634,
+      "scene": "05"
+    },
+    {
+      "text": "working",
+      "start": 88.714,
+      "end": 89.055,
+      "scene": "05"
+    },
+    {
+      "text": "harder.",
+      "start": 89.135,
+      "end": 89.475,
+      "scene": "05"
+    },
+    {
+      "text": "And",
+      "start": 90.215,
+      "end": 90.295,
+      "scene": "05"
+    },
+    {
+      "text": "when",
+      "start": 90.335,
+      "end": 90.435,
+      "scene": "05"
+    },
+    {
+      "text": "the",
+      "start": 90.455,
+      "end": 90.535,
+      "scene": "05"
+    },
+    {
+      "text": "researchers",
+      "start": 90.576,
+      "end": 91.076,
+      "scene": "05"
+    },
+    {
+      "text": "asked",
+      "start": 91.176,
+      "end": 91.376,
+      "scene": "05"
+    },
+    {
+      "text": "how",
+      "start": 91.416,
+      "end": 91.536,
+      "scene": "05"
+    },
+    {
+      "text": "it",
+      "start": 91.576,
+      "end": 91.636,
+      "scene": "05"
+    },
+    {
+      "text": "felt?",
+      "start": 91.696,
+      "end": 91.956,
+      "scene": "05"
+    },
+    {
+      "text": "It",
+      "start": 92.757,
+      "end": 92.817,
+      "scene": "05"
+    },
+    {
+      "text": "sounded",
+      "start": 92.877,
+      "end": 93.197,
+      "scene": "05"
+    },
+    {
+      "text": "less",
+      "start": 93.297,
+      "end": 93.497,
+      "scene": "05"
+    },
+    {
+      "text": "like",
+      "start": 93.557,
+      "end": 93.717,
+      "scene": "05"
+    },
+    {
+      "text": "hard",
+      "start": 93.798,
+      "end": 94.018,
+      "scene": "05"
+    },
+    {
+      "text": "work,",
+      "start": 94.058,
+      "end": 94.318,
+      "scene": "05"
+    },
+    {
+      "text": "and",
+      "start": 94.818,
+      "end": 94.918,
+      "scene": "05"
+    },
+    {
+      "text": "more",
+      "start": 94.958,
+      "end": 95.158,
+      "scene": "05"
+    },
+    {
+      "text": "like",
+      "start": 95.198,
+      "end": 95.398,
+      "scene": "05"
+    },
+    {
+      "text": "boredom.",
+      "start": 95.759,
+      "end": 96.139,
+      "scene": "05"
+    },
+    {
+      "text": "Clue",
+      "start": 96.719,
+      "end": 96.939,
+      "scene": "06"
+    },
+    {
+      "text": "three.",
+      "start": 96.999,
+      "end": 97.279,
+      "scene": "06"
+    },
+    {
+      "text": "In",
+      "start": 98.12,
+      "end": 98.18,
+      "scene": "06"
+    },
+    {
+      "text": "twenty",
+      "start": 98.24,
+      "end": 98.44,
+      "scene": "06"
+    },
+    {
+      "text": "fourteen,",
+      "start": 98.46,
+      "end": 98.881,
+      "scene": "06"
+    },
+    {
+      "text": "psychologists",
+      "start": 99.341,
+      "end": 99.941,
+      "scene": "06"
+    },
+    {
+      "text": "asked",
+      "start": 100.021,
+      "end": 100.182,
+      "scene": "06"
+    },
+    {
+      "text": "people",
+      "start": 100.222,
+      "end": 100.422,
+      "scene": "06"
+    },
+    {
+      "text": "to",
+      "start": 100.462,
+      "end": 100.522,
+      "scene": "06"
+    },
+    {
+      "text": "do",
+      "start": 100.562,
+      "end": 100.662,
+      "scene": "06"
+    },
+    {
+      "text": "something",
+      "start": 100.702,
+      "end": 100.942,
+      "scene": "06"
+    },
+    {
+      "text": "very",
+      "start": 101.062,
+      "end": 101.322,
+      "scene": "06"
+    },
+    {
+      "text": "simple.",
+      "start": 101.382,
+      "end": 101.663,
+      "scene": "06"
+    },
+    {
+      "text": "Sit",
+      "start": 102.463,
+      "end": 102.623,
+      "scene": "06"
+    },
+    {
+      "text": "alone",
+      "start": 102.663,
+      "end": 102.884,
+      "scene": "06"
+    },
+    {
+      "text": "in",
+      "start": 102.924,
+      "end": 102.984,
+      "scene": "06"
+    },
+    {
+      "text": "a",
+      "start": 103.024,
+      "end": 103.064,
+      "scene": "06"
+    },
+    {
+      "text": "room",
+      "start": 103.124,
+      "end": 103.324,
+      "scene": "06"
+    },
+    {
+      "text": "for",
+      "start": 103.384,
+      "end": 103.524,
+      "scene": "06"
+    },
+    {
+      "text": "six",
+      "start": 103.644,
+      "end": 103.884,
+      "scene": "06"
+    },
+    {
+      "text": "to",
+      "start": 103.904,
+      "end": 103.964,
+      "scene": "06"
+    },
+    {
+      "text": "fifteen",
+      "start": 104.024,
+      "end": 104.425,
+      "scene": "06"
+    },
+    {
+      "text": "minutes.",
+      "start": 104.445,
+      "end": 104.705,
+      "scene": "06"
+    },
+    {
+      "text": "No",
+      "start": 105.325,
+      "end": 105.485,
+      "scene": "06"
+    },
+    {
+      "text": "phone.",
+      "start": 105.525,
+      "end": 105.826,
+      "scene": "06"
+    },
+    {
+      "text": "Just",
+      "start": 106.206,
+      "end": 106.446,
+      "scene": "06"
+    },
+    {
+      "text": "think.",
+      "start": 106.766,
+      "end": 107.027,
+      "scene": "06"
+    },
+    {
+      "text": "Most",
+      "start": 108.067,
+      "end": 108.227,
+      "scene": "06"
+    },
+    {
+      "text": "people",
+      "start": 108.267,
+      "end": 108.448,
+      "scene": "06"
+    },
+    {
+      "text": "did",
+      "start": 108.488,
+      "end": 108.608,
+      "scene": "06"
+    },
+    {
+      "text": "not",
+      "start": 108.628,
+      "end": 108.748,
+      "scene": "06"
+    },
+    {
+      "text": "enjoy",
+      "start": 108.788,
+      "end": 109.068,
+      "scene": "06"
+    },
+    {
+      "text": "it.",
+      "start": 109.108,
+      "end": 109.188,
+      "scene": "06"
+    },
+    {
+      "text": "In",
+      "start": 109.969,
+      "end": 110.029,
+      "scene": "06"
+    },
+    {
+      "text": "one",
+      "start": 110.129,
+      "end": 110.209,
+      "scene": "06"
+    },
+    {
+      "text": "version,",
+      "start": 110.249,
+      "end": 110.549,
+      "scene": "06"
+    },
+    {
+      "text": "people",
+      "start": 110.589,
+      "end": 110.749,
+      "scene": "06"
+    },
+    {
+      "text": "could",
+      "start": 110.789,
+      "end": 110.889,
+      "scene": "06"
+    },
+    {
+      "text": "press",
+      "start": 110.909,
+      "end": 111.089,
+      "scene": "06"
+    },
+    {
+      "text": "a",
+      "start": 111.129,
+      "end": 111.17,
+      "scene": "06"
+    },
+    {
+      "text": "button",
+      "start": 111.21,
+      "end": 111.45,
+      "scene": "06"
+    },
+    {
+      "text": "to",
+      "start": 111.49,
+      "end": 111.55,
+      "scene": "06"
+    },
+    {
+      "text": "give",
+      "start": 111.57,
+      "end": 111.67,
+      "scene": "06"
+    },
+    {
+      "text": "themselves",
+      "start": 111.71,
+      "end": 112.09,
+      "scene": "06"
+    },
+    {
+      "text": "a",
+      "start": 112.15,
+      "end": 112.19,
+      "scene": "06"
+    },
+    {
+      "text": "mild",
+      "start": 112.29,
+      "end": 112.671,
+      "scene": "06"
+    },
+    {
+      "text": "electric",
+      "start": 112.791,
+      "end": 113.191,
+      "scene": "06"
+    },
+    {
+      "text": "shock.",
+      "start": 113.251,
+      "end": 113.571,
+      "scene": "06"
+    },
+    {
+      "text": "Twelve",
+      "start": 114.432,
+      "end": 114.712,
+      "scene": "06"
+    },
+    {
+      "text": "out",
+      "start": 114.752,
+      "end": 114.832,
+      "scene": "06"
+    },
+    {
+      "text": "of",
+      "start": 114.852,
+      "end": 114.912,
+      "scene": "06"
+    },
+    {
+      "text": "eighteen",
+      "start": 114.972,
+      "end": 115.333,
+      "scene": "06"
+    },
+    {
+      "text": "men",
+      "start": 115.373,
+      "end": 115.553,
+      "scene": "06"
+    },
+    {
+      "text": "pressed",
+      "start": 115.633,
+      "end": 115.873,
+      "scene": "06"
+    },
+    {
+      "text": "it",
+      "start": 115.913,
+      "end": 115.973,
+      "scene": "06"
+    },
+    {
+      "text": "at",
+      "start": 115.993,
+      "end": 116.053,
+      "scene": "06"
+    },
+    {
+      "text": "least",
+      "start": 116.073,
+      "end": 116.273,
+      "scene": "06"
+    },
+    {
+      "text": "once.",
+      "start": 116.413,
+      "end": 116.593,
+      "scene": "06"
+    },
+    {
+      "text": "So",
+      "start": 117.514,
+      "end": 117.634,
+      "scene": "06"
+    },
+    {
+      "text": "did",
+      "start": 117.674,
+      "end": 117.794,
+      "scene": "06"
+    },
+    {
+      "text": "six",
+      "start": 117.954,
+      "end": 118.195,
+      "scene": "06"
+    },
+    {
+      "text": "out",
+      "start": 118.235,
+      "end": 118.315,
+      "scene": "06"
+    },
+    {
+      "text": "of",
+      "start": 118.335,
+      "end": 118.395,
+      "scene": "06"
+    },
+    {
+      "text": "twenty-four",
+      "start": 118.455,
+      "end": 118.915,
+      "scene": "06"
+    },
+    {
+      "text": "women.",
+      "start": 118.955,
+      "end": 119.195,
+      "scene": "06"
+    },
+    {
+      "text": "Some",
+      "start": 120.156,
+      "end": 120.296,
+      "scene": "06"
+    },
+    {
+      "text": "people",
+      "start": 120.336,
+      "end": 120.536,
+      "scene": "06"
+    },
+    {
+      "text": "chose",
+      "start": 120.576,
+      "end": 120.816,
+      "scene": "06"
+    },
+    {
+      "text": "pain",
+      "start": 120.877,
+      "end": 121.197,
+      "scene": "06"
+    },
+    {
+      "text": "over",
+      "start": 121.657,
+      "end": 121.817,
+      "scene": "06"
+    },
+    {
+      "text": "doing",
+      "start": 121.877,
+      "end": 122.097,
+      "scene": "06"
+    },
+    {
+      "text": "nothing",
+      "start": 122.197,
+      "end": 122.518,
+      "scene": "06"
+    },
+    {
+      "text": "at",
+      "start": 122.558,
+      "end": 122.598,
+      "scene": "06"
+    },
+    {
+      "text": "all.",
+      "start": 122.698,
+      "end": 122.818,
+      "scene": "06"
+    },
+    {
+      "text": "Clue",
+      "start": 123.378,
+      "end": 123.598,
+      "scene": "07"
+    },
+    {
+      "text": "four.",
+      "start": 123.658,
+      "end": 123.918,
+      "scene": "07"
+    },
+    {
+      "text": "Researchers",
+      "start": 124.619,
+      "end": 125.099,
+      "scene": "07"
+    },
+    {
+      "text": "found",
+      "start": 125.139,
+      "end": 125.379,
+      "scene": "07"
+    },
+    {
+      "text": "thirty-six",
+      "start": 125.46,
+      "end": 125.94,
+      "scene": "07"
+    },
+    {
+      "text": "young",
+      "start": 125.98,
+      "end": 126.12,
+      "scene": "07"
+    },
+    {
+      "text": "adults",
+      "start": 126.16,
+      "end": 126.44,
+      "scene": "07"
+    },
+    {
+      "text": "who",
+      "start": 126.48,
+      "end": 126.6,
+      "scene": "07"
+    },
+    {
+      "text": "felt",
+      "start": 126.66,
+      "end": 126.84,
+      "scene": "07"
+    },
+    {
+      "text": "tired",
+      "start": 126.961,
+      "end": 127.401,
+      "scene": "07"
+    },
+    {
+      "text": "all",
+      "start": 127.741,
+      "end": 127.941,
+      "scene": "07"
+    },
+    {
+      "text": "the",
+      "start": 128.001,
+      "end": 128.081,
+      "scene": "07"
+    },
+    {
+      "text": "time.",
+      "start": 128.121,
+      "end": 128.362,
+      "scene": "07"
+    },
+    {
+      "text": "They",
+      "start": 129.022,
+      "end": 129.142,
+      "scene": "07"
+    },
+    {
+      "text": "were",
+      "start": 129.182,
+      "end": 129.282,
+      "scene": "07"
+    },
+    {
+      "text": "healthy,",
+      "start": 129.322,
+      "end": 129.662,
+      "scene": "07"
+    },
+    {
+      "text": "but",
+      "start": 130.103,
+      "end": 130.243,
+      "scene": "07"
+    },
+    {
+      "text": "they",
+      "start": 130.283,
+      "end": 130.423,
+      "scene": "07"
+    },
+    {
+      "text": "barely",
+      "start": 130.623,
+      "end": 130.983,
+      "scene": "07"
+    },
+    {
+      "text": "exercised.",
+      "start": 131.043,
+      "end": 131.604,
+      "scene": "07"
+    },
+    {
+      "text": "Some",
+      "start": 132.384,
+      "end": 132.565,
+      "scene": "07"
+    },
+    {
+      "text": "rode",
+      "start": 132.645,
+      "end": 132.805,
+      "scene": "07"
+    },
+    {
+      "text": "an",
+      "start": 132.845,
+      "end": 132.905,
+      "scene": "07"
+    },
+    {
+      "text": "exercise",
+      "start": 132.945,
+      "end": 133.365,
+      "scene": "07"
+    },
+    {
+      "text": "bike",
+      "start": 133.405,
+      "end": 133.585,
+      "scene": "07"
+    },
+    {
+      "text": "for",
+      "start": 133.605,
+      "end": 133.705,
+      "scene": "07"
+    },
+    {
+      "text": "twenty",
+      "start": 133.765,
+      "end": 133.986,
+      "scene": "07"
+    },
+    {
+      "text": "minutes,",
+      "start": 134.006,
+      "end": 134.266,
+      "scene": "07"
+    },
+    {
+      "text": "three",
+      "start": 134.606,
+      "end": 134.786,
+      "scene": "07"
+    },
+    {
+      "text": "times",
+      "start": 134.826,
+      "end": 135.046,
+      "scene": "07"
+    },
+    {
+      "text": "a",
+      "start": 135.086,
+      "end": 135.106,
+      "scene": "07"
+    },
+    {
+      "text": "week,",
+      "start": 135.146,
+      "end": 135.346,
+      "scene": "07"
+    },
+    {
+      "text": "for",
+      "start": 135.607,
+      "end": 135.707,
+      "scene": "07"
+    },
+    {
+      "text": "six",
+      "start": 135.767,
+      "end": 135.947,
+      "scene": "07"
+    },
+    {
+      "text": "weeks.",
+      "start": 135.987,
+      "end": 136.227,
+      "scene": "07"
+    },
+    {
+      "text": "Some",
+      "start": 136.948,
+      "end": 137.108,
+      "scene": "07"
+    },
+    {
+      "text": "rode",
+      "start": 137.168,
+      "end": 137.328,
+      "scene": "07"
+    },
+    {
+      "text": "at",
+      "start": 137.368,
+      "end": 137.428,
+      "scene": "07"
+    },
+    {
+      "text": "a",
+      "start": 137.468,
+      "end": 137.488,
+      "scene": "07"
+    },
+    {
+      "text": "moderate",
+      "start": 137.548,
+      "end": 137.848,
+      "scene": "07"
+    },
+    {
+      "text": "pace.",
+      "start": 137.888,
+      "end": 138.148,
+      "scene": "07"
+    },
+    {
+      "text": "Some",
+      "start": 138.829,
+      "end": 139.009,
+      "scene": "07"
+    },
+    {
+      "text": "rode",
+      "start": 139.069,
+      "end": 139.269,
+      "scene": "07"
+    },
+    {
+      "text": "at",
+      "start": 139.329,
+      "end": 139.409,
+      "scene": "07"
+    },
+    {
+      "text": "a",
+      "start": 139.449,
+      "end": 139.469,
+      "scene": "07"
+    },
+    {
+      "text": "very",
+      "start": 139.549,
+      "end": 139.81,
+      "scene": "07"
+    },
+    {
+      "text": "easy",
+      "start": 139.93,
+      "end": 140.15,
+      "scene": "07"
+    },
+    {
+      "text": "pace.",
+      "start": 140.21,
+      "end": 140.47,
+      "scene": "07"
+    },
+    {
+      "text": "And",
+      "start": 141.151,
+      "end": 141.251,
+      "scene": "07"
+    },
+    {
+      "text": "some",
+      "start": 141.331,
+      "end": 141.571,
+      "scene": "07"
+    },
+    {
+      "text": "didn't",
+      "start": 141.651,
+      "end": 141.871,
+      "scene": "07"
+    },
+    {
+      "text": "exercise",
+      "start": 141.931,
+      "end": 142.391,
+      "scene": "07"
+    },
+    {
+      "text": "at",
+      "start": 142.431,
+      "end": 142.472,
+      "scene": "07"
+    },
+    {
+      "text": "all.",
+      "start": 142.552,
+      "end": 142.692,
+      "scene": "07"
+    },
+    {
+      "text": "Both",
+      "start": 143.432,
+      "end": 143.632,
+      "scene": "07"
+    },
+    {
+      "text": "groups",
+      "start": 143.672,
+      "end": 143.893,
+      "scene": "07"
+    },
+    {
+      "text": "who",
+      "start": 143.913,
+      "end": 144.033,
+      "scene": "07"
+    },
+    {
+      "text": "rode",
+      "start": 144.093,
+      "end": 144.293,
+      "scene": "07"
+    },
+    {
+      "text": "felt",
+      "start": 144.353,
+      "end": 144.553,
+      "scene": "07"
+    },
+    {
+      "text": "more",
+      "start": 144.613,
+      "end": 144.813,
+      "scene": "07"
+    },
+    {
+      "text": "energetic.",
+      "start": 144.873,
+      "end": 145.394,
+      "scene": "07"
+    },
+    {
+      "text": "The",
+      "start": 146.094,
+      "end": 146.194,
+      "scene": "07"
+    },
+    {
+      "text": "easy",
+      "start": 146.294,
+      "end": 146.534,
+      "scene": "07"
+    },
+    {
+      "text": "riders",
+      "start": 146.594,
+      "end": 146.875,
+      "scene": "07"
+    },
+    {
+      "text": "felt",
+      "start": 146.935,
+      "end": 147.095,
+      "scene": "07"
+    },
+    {
+      "text": "the",
+      "start": 147.135,
+      "end": 147.215,
+      "scene": "07"
+    },
+    {
+      "text": "biggest",
+      "start": 147.315,
+      "end": 147.635,
+      "scene": "07"
+    },
+    {
+      "text": "drop",
+      "start": 147.675,
+      "end": 147.935,
+      "scene": "07"
+    },
+    {
+      "text": "in",
+      "start": 147.995,
+      "end": 148.075,
+      "scene": "07"
+    },
+    {
+      "text": "fatigue.",
+      "start": 148.135,
+      "end": 148.576,
+      "scene": "07"
+    },
+    {
+      "text": "And",
+      "start": 149.356,
+      "end": 149.436,
+      "scene": "07"
+    },
+    {
+      "text": "it",
+      "start": 149.476,
+      "end": 149.536,
+      "scene": "07"
+    },
+    {
+      "text": "wasn't",
+      "start": 149.577,
+      "end": 149.857,
+      "scene": "07"
+    },
+    {
+      "text": "because",
+      "start": 149.897,
+      "end": 150.117,
+      "scene": "07"
+    },
+    {
+      "text": "they",
+      "start": 150.157,
+      "end": 150.257,
+      "scene": "07"
+    },
+    {
+      "text": "got",
+      "start": 150.297,
+      "end": 150.437,
+      "scene": "07"
+    },
+    {
+      "text": "fitter.",
+      "start": 150.597,
+      "end": 150.917,
+      "scene": "07"
+    },
+    {
+      "text": "Their",
+      "start": 151.638,
+      "end": 151.818,
+      "scene": "07"
+    },
+    {
+      "text": "fitness",
+      "start": 151.858,
+      "end": 152.178,
+      "scene": "07"
+    },
+    {
+      "text": "change",
+      "start": 152.238,
+      "end": 152.639,
+      "scene": "07"
+    },
+    {
+      "text": "didn't",
+      "start": 153.019,
+      "end": 153.319,
+      "scene": "07"
+    },
+    {
+      "text": "explain",
+      "start": 153.399,
+      "end": 153.84,
+      "scene": "07"
+    },
+    {
+      "text": "it.",
+      "start": 153.88,
+      "end": 153.94,
+      "scene": "07"
+    },
+    {
+      "text": "So",
+      "start": 155.02,
+      "end": 155.12,
+      "scene": "08"
+    },
+    {
+      "text": "here's",
+      "start": 155.16,
+      "end": 155.32,
+      "scene": "08"
+    },
+    {
+      "text": "the",
+      "start": 155.34,
+      "end": 155.42,
+      "scene": "08"
+    },
+    {
+      "text": "question.",
+      "start": 155.441,
+      "end": 155.781,
+      "scene": "08"
+    },
+    {
+      "text": "Why",
+      "start": 156.281,
+      "end": 156.381,
+      "scene": "08"
+    },
+    {
+      "text": "do",
+      "start": 156.421,
+      "end": 156.462,
+      "scene": "08"
+    },
+    {
+      "text": "you",
+      "start": 156.482,
+      "end": 156.562,
+      "scene": "08"
+    },
+    {
+      "text": "feel",
+      "start": 156.582,
+      "end": 156.742,
+      "scene": "08"
+    },
+    {
+      "text": "tired",
+      "start": 156.842,
+      "end": 157.222,
+      "scene": "08"
+    },
+    {
+      "text": "after",
+      "start": 157.302,
+      "end": 157.503,
+      "scene": "08"
+    },
+    {
+      "text": "a",
+      "start": 157.543,
+      "end": 157.563,
+      "scene": "08"
+    },
+    {
+      "text": "day",
+      "start": 157.603,
+      "end": 157.763,
+      "scene": "08"
+    },
+    {
+      "text": "of",
+      "start": 157.803,
+      "end": 157.863,
+      "scene": "08"
+    },
+    {
+      "text": "doing",
+      "start": 157.923,
+      "end": 158.163,
+      "scene": "08"
+    },
+    {
+      "text": "nothing?",
+      "start": 158.223,
+      "end": 158.544,
+      "scene": "08"
+    },
+    {
+      "text": "Is",
+      "start": 159.204,
+      "end": 159.284,
+      "scene": "08"
+    },
+    {
+      "text": "it",
+      "start": 159.344,
+      "end": 159.404,
+      "scene": "08"
+    },
+    {
+      "text": "A.",
+      "start": 159.505,
+      "end": 159.625,
+      "scene": "08"
+    },
+    {
+      "text": "Your",
+      "start": 159.725,
+      "end": 159.865,
+      "scene": "08"
+    },
+    {
+      "text": "body",
+      "start": 159.925,
+      "end": 160.185,
+      "scene": "08"
+    },
+    {
+      "text": "still",
+      "start": 160.205,
+      "end": 160.426,
+      "scene": "08"
+    },
+    {
+      "text": "burned",
+      "start": 160.486,
+      "end": 160.726,
+      "scene": "08"
+    },
+    {
+      "text": "through",
+      "start": 160.746,
+      "end": 160.926,
+      "scene": "08"
+    },
+    {
+      "text": "its",
+      "start": 160.946,
+      "end": 161.046,
+      "scene": "08"
+    },
+    {
+      "text": "energy,",
+      "start": 161.126,
+      "end": 161.487,
+      "scene": "08"
+    },
+    {
+      "text": "and",
+      "start": 161.827,
+      "end": 161.927,
+      "scene": "08"
+    },
+    {
+      "text": "your",
+      "start": 161.947,
+      "end": 162.087,
+      "scene": "08"
+    },
+    {
+      "text": "battery",
+      "start": 162.167,
+      "end": 162.548,
+      "scene": "08"
+    },
+    {
+      "text": "ran",
+      "start": 162.608,
+      "end": 162.788,
+      "scene": "08"
+    },
+    {
+      "text": "low?",
+      "start": 162.848,
+      "end": 163.068,
+      "scene": "08"
+    },
+    {
+      "text": "B.",
+      "start": 163.709,
+      "end": 163.949,
+      "scene": "08"
+    },
+    {
+      "text": "Tiredness",
+      "start": 164.369,
+      "end": 164.93,
+      "scene": "08"
+    },
+    {
+      "text": "isn't",
+      "start": 165.07,
+      "end": 165.29,
+      "scene": "08"
+    },
+    {
+      "text": "a",
+      "start": 165.35,
+      "end": 165.37,
+      "scene": "08"
+    },
+    {
+      "text": "battery.",
+      "start": 165.411,
+      "end": 165.791,
+      "scene": "08"
+    },
+    {
+      "text": "It's",
+      "start": 166.291,
+      "end": 166.412,
+      "scene": "08"
+    },
+    {
+      "text": "a",
+      "start": 166.452,
+      "end": 166.492,
+      "scene": "08"
+    },
+    {
+      "text": "signal",
+      "start": 166.592,
+      "end": 166.892,
+      "scene": "08"
+    },
+    {
+      "text": "your",
+      "start": 166.912,
+      "end": 167.032,
+      "scene": "08"
+    },
+    {
+      "text": "brain",
+      "start": 167.072,
+      "end": 167.312,
+      "scene": "08"
+    },
+    {
+      "text": "sends,",
+      "start": 167.373,
+      "end": 167.693,
+      "scene": "08"
+    },
+    {
+      "text": "and",
+      "start": 167.833,
+      "end": 167.933,
+      "scene": "08"
+    },
+    {
+      "text": "an",
+      "start": 167.973,
+      "end": 168.033,
+      "scene": "08"
+    },
+    {
+      "text": "empty",
+      "start": 168.213,
+      "end": 168.454,
+      "scene": "08"
+    },
+    {
+      "text": "day",
+      "start": 168.494,
+      "end": 168.734,
+      "scene": "08"
+    },
+    {
+      "text": "sets",
+      "start": 168.914,
+      "end": 169.134,
+      "scene": "08"
+    },
+    {
+      "text": "it",
+      "start": 169.174,
+      "end": 169.234,
+      "scene": "08"
+    },
+    {
+      "text": "off?",
+      "start": 169.334,
+      "end": 169.475,
+      "scene": "08"
+    },
+    {
+      "text": "Or",
+      "start": 170.536,
+      "end": 170.696,
+      "scene": "08"
+    },
+    {
+      "text": "C.",
+      "start": 171.256,
+      "end": 171.517,
+      "scene": "08"
+    },
+    {
+      "text": "You",
+      "start": 172.037,
+      "end": 172.177,
+      "scene": "08"
+    },
+    {
+      "text": "slept",
+      "start": 172.257,
+      "end": 172.498,
+      "scene": "08"
+    },
+    {
+      "text": "too",
+      "start": 172.538,
+      "end": 172.658,
+      "scene": "08"
+    },
+    {
+      "text": "much,",
+      "start": 172.678,
+      "end": 172.858,
+      "scene": "08"
+    },
+    {
+      "text": "and",
+      "start": 173.359,
+      "end": 173.459,
+      "scene": "08"
+    },
+    {
+      "text": "extra",
+      "start": 173.599,
+      "end": 173.879,
+      "scene": "08"
+    },
+    {
+      "text": "sleep",
+      "start": 173.919,
+      "end": 174.119,
+      "scene": "08"
+    },
+    {
+      "text": "makes",
+      "start": 174.139,
+      "end": 174.279,
+      "scene": "08"
+    },
+    {
+      "text": "you",
+      "start": 174.319,
+      "end": 174.42,
+      "scene": "08"
+    },
+    {
+      "text": "tired?",
+      "start": 174.44,
+      "end": 174.76,
+      "scene": "08"
+    },
+    {
+      "text": "Pause",
+      "start": 175.321,
+      "end": 175.582,
+      "scene": "09"
+    },
+    {
+      "text": "the",
+      "start": 175.602,
+      "end": 175.663,
+      "scene": "09"
+    },
+    {
+      "text": "video",
+      "start": 175.703,
+      "end": 175.904,
+      "scene": "09"
+    },
+    {
+      "text": "and",
+      "start": 175.924,
+      "end": 175.985,
+      "scene": "09"
+    },
+    {
+      "text": "take",
+      "start": 176.025,
+      "end": 176.226,
+      "scene": "09"
+    },
+    {
+      "text": "a",
+      "start": 176.266,
+      "end": 176.286,
+      "scene": "09"
+    },
+    {
+      "text": "guess.",
+      "start": 176.327,
+      "end": 176.608,
+      "scene": "09"
+    },
+    {
+      "text": "Here's",
+      "start": 185.76,
+      "end": 185.96,
+      "scene": "10"
+    },
+    {
+      "text": "the",
+      "start": 186.0,
+      "end": 186.06,
+      "scene": "10"
+    },
+    {
+      "text": "key",
+      "start": 186.1,
+      "end": 186.241,
+      "scene": "10"
+    },
+    {
+      "text": "idea.",
+      "start": 186.281,
+      "end": 186.581,
+      "scene": "10"
+    },
+    {
+      "text": "Think",
+      "start": 187.142,
+      "end": 187.282,
+      "scene": "10"
+    },
+    {
+      "text": "about",
+      "start": 187.322,
+      "end": 187.502,
+      "scene": "10"
+    },
+    {
+      "text": "hunger.",
+      "start": 187.562,
+      "end": 187.882,
+      "scene": "10"
+    },
+    {
+      "text": "You",
+      "start": 188.443,
+      "end": 188.523,
+      "scene": "10"
+    },
+    {
+      "text": "don't",
+      "start": 188.543,
+      "end": 188.663,
+      "scene": "10"
+    },
+    {
+      "text": "feel",
+      "start": 188.683,
+      "end": 188.863,
+      "scene": "10"
+    },
+    {
+      "text": "hungry",
+      "start": 188.883,
+      "end": 189.164,
+      "scene": "10"
+    },
+    {
+      "text": "only",
+      "start": 189.264,
+      "end": 189.444,
+      "scene": "10"
+    },
+    {
+      "text": "when",
+      "start": 189.484,
+      "end": 189.584,
+      "scene": "10"
+    },
+    {
+      "text": "your",
+      "start": 189.604,
+      "end": 189.724,
+      "scene": "10"
+    },
+    {
+      "text": "body",
+      "start": 189.764,
+      "end": 189.984,
+      "scene": "10"
+    },
+    {
+      "text": "runs",
+      "start": 190.045,
+      "end": 190.205,
+      "scene": "10"
+    },
+    {
+      "text": "out",
+      "start": 190.245,
+      "end": 190.325,
+      "scene": "10"
+    },
+    {
+      "text": "of",
+      "start": 190.365,
+      "end": 190.425,
+      "scene": "10"
+    },
+    {
+      "text": "fuel.",
+      "start": 190.465,
+      "end": 190.765,
+      "scene": "10"
+    },
+    {
+      "text": "You",
+      "start": 191.346,
+      "end": 191.506,
+      "scene": "10"
+    },
+    {
+      "text": "feel",
+      "start": 191.546,
+      "end": 191.746,
+      "scene": "10"
+    },
+    {
+      "text": "hungry",
+      "start": 191.846,
+      "end": 192.147,
+      "scene": "10"
+    },
+    {
+      "text": "when",
+      "start": 192.187,
+      "end": 192.287,
+      "scene": "10"
+    },
+    {
+      "text": "you",
+      "start": 192.307,
+      "end": 192.447,
+      "scene": "10"
+    },
+    {
+      "text": "smell",
+      "start": 192.507,
+      "end": 192.767,
+      "scene": "10"
+    },
+    {
+      "text": "pizza.",
+      "start": 192.887,
+      "end": 193.348,
+      "scene": "10"
+    },
+    {
+      "text": "Or",
+      "start": 193.908,
+      "end": 194.009,
+      "scene": "10"
+    },
+    {
+      "text": "when",
+      "start": 194.049,
+      "end": 194.149,
+      "scene": "10"
+    },
+    {
+      "text": "it's",
+      "start": 194.169,
+      "end": 194.309,
+      "scene": "10"
+    },
+    {
+      "text": "lunchtime.",
+      "start": 194.329,
+      "end": 194.789,
+      "scene": "10"
+    },
+    {
+      "text": "Hunger",
+      "start": 195.61,
+      "end": 195.87,
+      "scene": "10"
+    },
+    {
+      "text": "is",
+      "start": 195.89,
+      "end": 195.971,
+      "scene": "10"
+    },
+    {
+      "text": "a",
+      "start": 196.011,
+      "end": 196.051,
+      "scene": "10"
+    },
+    {
+      "text": "message",
+      "start": 196.091,
+      "end": 196.371,
+      "scene": "10"
+    },
+    {
+      "text": "your",
+      "start": 196.391,
+      "end": 196.491,
+      "scene": "10"
+    },
+    {
+      "text": "brain",
+      "start": 196.511,
+      "end": 196.711,
+      "scene": "10"
+    },
+    {
+      "text": "creates",
+      "start": 196.751,
+      "end": 197.052,
+      "scene": "10"
+    },
+    {
+      "text": "to",
+      "start": 197.132,
+      "end": 197.252,
+      "scene": "10"
+    },
+    {
+      "text": "steer",
+      "start": 197.332,
+      "end": 197.592,
+      "scene": "10"
+    },
+    {
+      "text": "what",
+      "start": 197.612,
+      "end": 197.732,
+      "scene": "10"
+    },
+    {
+      "text": "you",
+      "start": 197.772,
+      "end": 197.913,
+      "scene": "10"
+    },
+    {
+      "text": "do.",
+      "start": 197.933,
+      "end": 198.153,
+      "scene": "10"
+    },
+    {
+      "text": "Many",
+      "start": 198.934,
+      "end": 199.114,
+      "scene": "10"
+    },
+    {
+      "text": "researchers",
+      "start": 199.154,
+      "end": 199.634,
+      "scene": "10"
+    },
+    {
+      "text": "think",
+      "start": 199.674,
+      "end": 199.875,
+      "scene": "10"
+    },
+    {
+      "text": "tiredness",
+      "start": 199.955,
+      "end": 200.515,
+      "scene": "10"
+    },
+    {
+      "text": "works",
+      "start": 200.555,
+      "end": 200.796,
+      "scene": "10"
+    },
+    {
+      "text": "in",
+      "start": 200.856,
+      "end": 200.916,
+      "scene": "10"
+    },
+    {
+      "text": "a",
+      "start": 200.956,
+      "end": 200.976,
+      "scene": "10"
+    },
+    {
+      "text": "similar",
+      "start": 201.056,
+      "end": 201.376,
+      "scene": "10"
+    },
+    {
+      "text": "way.",
+      "start": 201.416,
+      "end": 201.616,
+      "scene": "10"
+    },
+    {
+      "text": "It's",
+      "start": 202.217,
+      "end": 202.337,
+      "scene": "10"
+    },
+    {
+      "text": "not",
+      "start": 202.357,
+      "end": 202.497,
+      "scene": "10"
+    },
+    {
+      "text": "a",
+      "start": 202.517,
+      "end": 202.557,
+      "scene": "10"
+    },
+    {
+      "text": "fuel",
+      "start": 202.637,
+      "end": 202.878,
+      "scene": "10"
+    },
+    {
+      "text": "gauge.",
+      "start": 202.898,
+      "end": 203.178,
+      "scene": "10"
+    },
+    {
+      "text": "It's",
+      "start": 203.558,
+      "end": 203.678,
+      "scene": "10"
+    },
+    {
+      "text": "a",
+      "start": 203.718,
+      "end": 203.759,
+      "scene": "10"
+    },
+    {
+      "text": "signal.",
+      "start": 203.879,
+      "end": 204.179,
+      "scene": "10"
+    },
+    {
+      "text": "Start",
+      "start": 204.699,
+      "end": 204.859,
+      "scene": "11"
+    },
+    {
+      "text": "with",
+      "start": 204.879,
+      "end": 204.979,
+      "scene": "11"
+    },
+    {
+      "text": "the",
+      "start": 204.999,
+      "end": 205.079,
+      "scene": "11"
+    },
+    {
+      "text": "battery",
+      "start": 205.099,
+      "end": 205.42,
+      "scene": "11"
+    },
+    {
+      "text": "idea.",
+      "start": 205.48,
+      "end": 205.78,
+      "scene": "11"
+    },
+    {
+      "text": "If",
+      "start": 206.4,
+      "end": 206.46,
+      "scene": "11"
+    },
+    {
+      "text": "your",
+      "start": 206.48,
+      "end": 206.641,
+      "scene": "11"
+    },
+    {
+      "text": "brain",
+      "start": 206.701,
+      "end": 207.041,
+      "scene": "11"
+    },
+    {
+      "text": "were",
+      "start": 207.081,
+      "end": 207.241,
+      "scene": "11"
+    },
+    {
+      "text": "a",
+      "start": 207.281,
+      "end": 207.321,
+      "scene": "11"
+    },
+    {
+      "text": "phone",
+      "start": 207.441,
+      "end": 207.741,
+      "scene": "11"
+    },
+    {
+      "text": "battery,",
+      "start": 207.781,
+      "end": 208.162,
+      "scene": "11"
+    },
+    {
+      "text": "a",
+      "start": 208.522,
+      "end": 208.562,
+      "scene": "11"
+    },
+    {
+      "text": "lazy",
+      "start": 208.642,
+      "end": 208.962,
+      "scene": "11"
+    },
+    {
+      "text": "day",
+      "start": 209.002,
+      "end": 209.122,
+      "scene": "11"
+    },
+    {
+      "text": "would",
+      "start": 209.142,
+      "end": 209.282,
+      "scene": "11"
+    },
+    {
+      "text": "charge",
+      "start": 209.343,
+      "end": 209.603,
+      "scene": "11"
+    },
+    {
+      "text": "it",
+      "start": 209.643,
+      "end": 209.703,
+      "scene": "11"
+    },
+    {
+      "text": "up.",
+      "start": 209.783,
+      "end": 209.863,
+      "scene": "11"
+    },
+    {
+      "text": "But",
+      "start": 210.563,
+      "end": 210.663,
+      "scene": "11"
+    },
+    {
+      "text": "your",
+      "start": 210.684,
+      "end": 210.804,
+      "scene": "11"
+    },
+    {
+      "text": "brain",
+      "start": 210.844,
+      "end": 211.044,
+      "scene": "11"
+    },
+    {
+      "text": "uses",
+      "start": 211.104,
+      "end": 211.344,
+      "scene": "11"
+    },
+    {
+      "text": "roughly",
+      "start": 211.384,
+      "end": 211.644,
+      "scene": "11"
+    },
+    {
+      "text": "the",
+      "start": 211.684,
+      "end": 211.784,
+      "scene": "11"
+    },
+    {
+      "text": "same",
+      "start": 211.824,
+      "end": 212.025,
+      "scene": "11"
+    },
+    {
+      "text": "energy",
+      "start": 212.085,
+      "end": 212.365,
+      "scene": "11"
+    },
+    {
+      "text": "whether",
+      "start": 212.405,
+      "end": 212.665,
+      "scene": "11"
+    },
+    {
+      "text": "you're",
+      "start": 212.945,
+      "end": 213.105,
+      "scene": "11"
+    },
+    {
+      "text": "solving",
+      "start": 213.145,
+      "end": 213.466,
+      "scene": "11"
+    },
+    {
+      "text": "puzzles",
+      "start": 213.546,
+      "end": 213.926,
+      "scene": "11"
+    },
+    {
+      "text": "or",
+      "start": 214.006,
+      "end": 214.106,
+      "scene": "11"
+    },
+    {
+      "text": "staring",
+      "start": 214.206,
+      "end": 214.526,
+      "scene": "11"
+    },
+    {
+      "text": "at",
+      "start": 214.566,
+      "end": 214.626,
+      "scene": "11"
+    },
+    {
+      "text": "a",
+      "start": 214.666,
+      "end": 214.686,
+      "scene": "11"
+    },
+    {
+      "text": "wall.",
+      "start": 214.727,
+      "end": 215.047,
+      "scene": "11"
+    },
+    {
+      "text": "So",
+      "start": 215.807,
+      "end": 215.987,
+      "scene": "11"
+    },
+    {
+      "text": "a",
+      "start": 216.047,
+      "end": 216.088,
+      "scene": "11"
+    },
+    {
+      "text": "day",
+      "start": 216.128,
+      "end": 216.228,
+      "scene": "11"
+    },
+    {
+      "text": "on",
+      "start": 216.248,
+      "end": 216.308,
+      "scene": "11"
+    },
+    {
+      "text": "the",
+      "start": 216.328,
+      "end": 216.408,
+      "scene": "11"
+    },
+    {
+      "text": "couch",
+      "start": 216.428,
+      "end": 216.648,
+      "scene": "11"
+    },
+    {
+      "text": "doesn't",
+      "start": 216.688,
+      "end": 216.928,
+      "scene": "11"
+    },
+    {
+      "text": "save",
+      "start": 216.968,
+      "end": 217.148,
+      "scene": "11"
+    },
+    {
+      "text": "much",
+      "start": 217.188,
+      "end": 217.348,
+      "scene": "11"
+    },
+    {
+      "text": "fuel.",
+      "start": 217.388,
+      "end": 217.689,
+      "scene": "11"
+    },
+    {
+      "text": "And",
+      "start": 218.329,
+      "end": 218.409,
+      "scene": "11"
+    },
+    {
+      "text": "a",
+      "start": 218.449,
+      "end": 218.469,
+      "scene": "11"
+    },
+    {
+      "text": "busy",
+      "start": 218.509,
+      "end": 218.729,
+      "scene": "11"
+    },
+    {
+      "text": "day",
+      "start": 218.77,
+      "end": 218.89,
+      "scene": "11"
+    },
+    {
+      "text": "doesn't",
+      "start": 218.93,
+      "end": 219.19,
+      "scene": "11"
+    },
+    {
+      "text": "drain",
+      "start": 219.27,
+      "end": 219.53,
+      "scene": "11"
+    },
+    {
+      "text": "much",
+      "start": 219.57,
+      "end": 219.73,
+      "scene": "11"
+    },
+    {
+      "text": "extra.",
+      "start": 219.83,
+      "end": 220.171,
+      "scene": "11"
+    },
+    {
+      "text": "The",
+      "start": 220.851,
+      "end": 220.951,
+      "scene": "11"
+    },
+    {
+      "text": "feeling",
+      "start": 220.991,
+      "end": 221.251,
+      "scene": "11"
+    },
+    {
+      "text": "of",
+      "start": 221.271,
+      "end": 221.331,
+      "scene": "11"
+    },
+    {
+      "text": "tiredness",
+      "start": 221.411,
+      "end": 221.952,
+      "scene": "11"
+    },
+    {
+      "text": "must",
+      "start": 221.992,
+      "end": 222.152,
+      "scene": "11"
+    },
+    {
+      "text": "be",
+      "start": 222.192,
+      "end": 222.292,
+      "scene": "11"
+    },
+    {
+      "text": "coming",
+      "start": 222.332,
+      "end": 222.552,
+      "scene": "11"
+    },
+    {
+      "text": "from",
+      "start": 222.592,
+      "end": 222.732,
+      "scene": "11"
+    },
+    {
+      "text": "somewhere",
+      "start": 222.853,
+      "end": 223.153,
+      "scene": "11"
+    },
+    {
+      "text": "else.",
+      "start": 223.193,
+      "end": 223.353,
+      "scene": "11"
+    },
+    {
+      "text": "One",
+      "start": 224.013,
+      "end": 224.113,
+      "scene": "12"
+    },
+    {
+      "text": "influential",
+      "start": 224.153,
+      "end": 224.613,
+      "scene": "12"
+    },
+    {
+      "text": "idea",
+      "start": 224.653,
+      "end": 224.853,
+      "scene": "12"
+    },
+    {
+      "text": "goes",
+      "start": 224.894,
+      "end": 225.054,
+      "scene": "12"
+    },
+    {
+      "text": "like",
+      "start": 225.094,
+      "end": 225.214,
+      "scene": "12"
+    },
+    {
+      "text": "this.",
+      "start": 225.254,
+      "end": 225.434,
+      "scene": "12"
+    },
+    {
+      "text": "Your",
+      "start": 226.014,
+      "end": 226.134,
+      "scene": "12"
+    },
+    {
+      "text": "brain",
+      "start": 226.154,
+      "end": 226.374,
+      "scene": "12"
+    },
+    {
+      "text": "keeps",
+      "start": 226.394,
+      "end": 226.574,
+      "scene": "12"
+    },
+    {
+      "text": "asking:",
+      "start": 226.634,
+      "end": 226.934,
+      "scene": "12"
+    },
+    {
+      "text": "is",
+      "start": 227.415,
+      "end": 227.515,
+      "scene": "12"
+    },
+    {
+      "text": "this",
+      "start": 227.555,
+      "end": 227.735,
+      "scene": "12"
+    },
+    {
+      "text": "the",
+      "start": 227.795,
+      "end": 227.875,
+      "scene": "12"
+    },
+    {
+      "text": "best",
+      "start": 227.955,
+      "end": 228.195,
+      "scene": "12"
+    },
+    {
+      "text": "use",
+      "start": 228.315,
+      "end": 228.455,
+      "scene": "12"
+    },
+    {
+      "text": "of",
+      "start": 228.475,
+      "end": 228.535,
+      "scene": "12"
+    },
+    {
+      "text": "my",
+      "start": 228.595,
+      "end": 228.715,
+      "scene": "12"
+    },
+    {
+      "text": "time",
+      "start": 228.755,
+      "end": 228.975,
+      "scene": "12"
+    },
+    {
+      "text": "right",
+      "start": 229.015,
+      "end": 229.176,
+      "scene": "12"
+    },
+    {
+      "text": "now?",
+      "start": 229.216,
+      "end": 229.396,
+      "scene": "12"
+    },
+    {
+      "text": "When",
+      "start": 230.176,
+      "end": 230.296,
+      "scene": "12"
+    },
+    {
+      "text": "the",
+      "start": 230.316,
+      "end": 230.396,
+      "scene": "12"
+    },
+    {
+      "text": "answer",
+      "start": 230.456,
+      "end": 230.676,
+      "scene": "12"
+    },
+    {
+      "text": "is",
+      "start": 230.716,
+      "end": 230.816,
+      "scene": "12"
+    },
+    {
+      "text": "no,",
+      "start": 230.936,
+      "end": 231.217,
+      "scene": "12"
+    },
+    {
+      "text": "you",
+      "start": 231.637,
+      "end": 231.777,
+      "scene": "12"
+    },
+    {
+      "text": "start",
+      "start": 231.797,
+      "end": 231.977,
+      "scene": "12"
+    },
+    {
+      "text": "to",
+      "start": 232.017,
+      "end": 232.077,
+      "scene": "12"
+    },
+    {
+      "text": "feel",
+      "start": 232.117,
+      "end": 232.317,
+      "scene": "12"
+    },
+    {
+      "text": "effort",
+      "start": 232.477,
+      "end": 232.757,
+      "scene": "12"
+    },
+    {
+      "text": "and",
+      "start": 232.797,
+      "end": 232.897,
+      "scene": "12"
+    },
+    {
+      "text": "fatigue.",
+      "start": 232.937,
+      "end": 233.418,
+      "scene": "12"
+    },
+    {
+      "text": "It's",
+      "start": 234.018,
+      "end": 234.138,
+      "scene": "12"
+    },
+    {
+      "text": "your",
+      "start": 234.158,
+      "end": 234.278,
+      "scene": "12"
+    },
+    {
+      "text": "brain",
+      "start": 234.318,
+      "end": 234.598,
+      "scene": "12"
+    },
+    {
+      "text": "nudging",
+      "start": 234.778,
+      "end": 235.078,
+      "scene": "12"
+    },
+    {
+      "text": "you",
+      "start": 235.098,
+      "end": 235.198,
+      "scene": "12"
+    },
+    {
+      "text": "to",
+      "start": 235.218,
+      "end": 235.299,
+      "scene": "12"
+    },
+    {
+      "text": "switch",
+      "start": 235.399,
+      "end": 235.639,
+      "scene": "12"
+    },
+    {
+      "text": "to",
+      "start": 235.679,
+      "end": 235.759,
+      "scene": "12"
+    },
+    {
+      "text": "something",
+      "start": 235.819,
+      "end": 236.079,
+      "scene": "12"
+    },
+    {
+      "text": "else.",
+      "start": 236.159,
+      "end": 236.339,
+      "scene": "12"
+    },
+    {
+      "text": "Think",
+      "start": 237.099,
+      "end": 237.239,
+      "scene": "12"
+    },
+    {
+      "text": "of",
+      "start": 237.259,
+      "end": 237.319,
+      "scene": "12"
+    },
+    {
+      "text": "a",
+      "start": 237.38,
+      "end": 237.42,
+      "scene": "12"
+    },
+    {
+      "text": "boring",
+      "start": 237.52,
+      "end": 237.84,
+      "scene": "12"
+    },
+    {
+      "text": "class",
+      "start": 237.9,
+      "end": 238.24,
+      "scene": "12"
+    },
+    {
+      "text": "versus",
+      "start": 238.3,
+      "end": 238.64,
+      "scene": "12"
+    },
+    {
+      "text": "a",
+      "start": 238.66,
+      "end": 238.68,
+      "scene": "12"
+    },
+    {
+      "text": "game",
+      "start": 238.86,
+      "end": 239.12,
+      "scene": "12"
+    },
+    {
+      "text": "you",
+      "start": 239.16,
+      "end": 239.3,
+      "scene": "12"
+    },
+    {
+      "text": "love.",
+      "start": 239.34,
+      "end": 239.621,
+      "scene": "12"
+    },
+    {
+      "text": "Same",
+      "start": 240.221,
+      "end": 240.441,
+      "scene": "12"
+    },
+    {
+      "text": "hour,",
+      "start": 240.461,
+      "end": 240.721,
+      "scene": "12"
+    },
+    {
+      "text": "same",
+      "start": 240.861,
+      "end": 241.081,
+      "scene": "12"
+    },
+    {
+      "text": "brain.",
+      "start": 241.121,
+      "end": 241.421,
+      "scene": "12"
+    },
+    {
+      "text": "One",
+      "start": 241.842,
+      "end": 241.962,
+      "scene": "12"
+    },
+    {
+      "text": "feels",
+      "start": 242.022,
+      "end": 242.262,
+      "scene": "12"
+    },
+    {
+      "text": "endless.",
+      "start": 242.462,
+      "end": 242.842,
+      "scene": "12"
+    },
+    {
+      "text": "The",
+      "start": 243.442,
+      "end": 243.522,
+      "scene": "12"
+    },
+    {
+      "text": "other",
+      "start": 243.562,
+      "end": 243.703,
+      "scene": "12"
+    },
+    {
+      "text": "flies",
+      "start": 243.763,
+      "end": 244.023,
+      "scene": "12"
+    },
+    {
+      "text": "by.",
+      "start": 244.083,
+      "end": 244.343,
+      "scene": "12"
+    },
+    {
+      "text": "This",
+      "start": 245.203,
+      "end": 245.363,
+      "scene": "12"
+    },
+    {
+      "text": "is",
+      "start": 245.423,
+      "end": 245.483,
+      "scene": "12"
+    },
+    {
+      "text": "still",
+      "start": 245.523,
+      "end": 245.744,
+      "scene": "12"
+    },
+    {
+      "text": "a",
+      "start": 245.764,
+      "end": 245.804,
+      "scene": "12"
+    },
+    {
+      "text": "hypothesis,",
+      "start": 245.824,
+      "end": 246.404,
+      "scene": "12"
+    },
+    {
+      "text": "and",
+      "start": 246.444,
+      "end": 246.524,
+      "scene": "12"
+    },
+    {
+      "text": "scientists",
+      "start": 246.584,
+      "end": 247.164,
+      "scene": "12"
+    },
+    {
+      "text": "debate",
+      "start": 247.284,
+      "end": 247.604,
+      "scene": "12"
+    },
+    {
+      "text": "it.",
+      "start": 247.624,
+      "end": 247.724,
+      "scene": "12"
+    },
+    {
+      "text": "But",
+      "start": 248.245,
+      "end": 248.385,
+      "scene": "12"
+    },
+    {
+      "text": "it",
+      "start": 248.445,
+      "end": 248.505,
+      "scene": "12"
+    },
+    {
+      "text": "explains",
+      "start": 248.565,
+      "end": 248.985,
+      "scene": "12"
+    },
+    {
+      "text": "a",
+      "start": 249.045,
+      "end": 249.065,
+      "scene": "12"
+    },
+    {
+      "text": "lot.",
+      "start": 249.105,
+      "end": 249.345,
+      "scene": "12"
+    },
+    {
+      "text": "Tiredness",
+      "start": 250.066,
+      "end": 250.526,
+      "scene": "12"
+    },
+    {
+      "text": "can",
+      "start": 250.566,
+      "end": 250.686,
+      "scene": "12"
+    },
+    {
+      "text": "be",
+      "start": 250.726,
+      "end": 250.826,
+      "scene": "12"
+    },
+    {
+      "text": "about",
+      "start": 250.866,
+      "end": 251.086,
+      "scene": "12"
+    },
+    {
+      "text": "value,",
+      "start": 251.226,
+      "end": 251.646,
+      "scene": "12"
+    },
+    {
+      "text": "not",
+      "start": 252.147,
+      "end": 252.287,
+      "scene": "12"
+    },
+    {
+      "text": "just",
+      "start": 252.307,
+      "end": 252.487,
+      "scene": "12"
+    },
+    {
+      "text": "fuel.",
+      "start": 252.587,
+      "end": 252.847,
+      "scene": "12"
+    },
+    {
+      "text": "Now",
+      "start": 253.467,
+      "end": 253.708,
+      "scene": "13"
+    },
+    {
+      "text": "add",
+      "start": 253.928,
+      "end": 254.088,
+      "scene": "13"
+    },
+    {
+      "text": "boredom.",
+      "start": 254.288,
+      "end": 254.709,
+      "scene": "13"
+    },
+    {
+      "text": "Psychologists",
+      "start": 255.49,
+      "end": 256.071,
+      "scene": "13"
+    },
+    {
+      "text": "describe",
+      "start": 256.111,
+      "end": 256.451,
+      "scene": "13"
+    },
+    {
+      "text": "boredom",
+      "start": 256.491,
+      "end": 256.772,
+      "scene": "13"
+    },
+    {
+      "text": "as",
+      "start": 256.812,
+      "end": 256.892,
+      "scene": "13"
+    },
+    {
+      "text": "a",
+      "start": 256.952,
+      "end": 256.992,
+      "scene": "13"
+    },
+    {
+      "text": "signal",
+      "start": 257.052,
+      "end": 257.352,
+      "scene": "13"
+    },
+    {
+      "text": "too.",
+      "start": 257.372,
+      "end": 257.613,
+      "scene": "13"
+    },
+    {
+      "text": "It",
+      "start": 258.334,
+      "end": 258.394,
+      "scene": "13"
+    },
+    {
+      "text": "appears",
+      "start": 258.434,
+      "end": 258.694,
+      "scene": "13"
+    },
+    {
+      "text": "when",
+      "start": 258.714,
+      "end": 258.794,
+      "scene": "13"
+    },
+    {
+      "text": "your",
+      "start": 258.834,
+      "end": 258.914,
+      "scene": "13"
+    },
+    {
+      "text": "attention",
+      "start": 258.935,
+      "end": 259.295,
+      "scene": "13"
+    },
+    {
+      "text": "can't",
+      "start": 259.335,
+      "end": 259.535,
+      "scene": "13"
+    },
+    {
+      "text": "really",
+      "start": 259.575,
+      "end": 259.776,
+      "scene": "13"
+    },
+    {
+      "text": "grab",
+      "start": 259.836,
+      "end": 260.096,
+      "scene": "13"
+    },
+    {
+      "text": "onto",
+      "start": 260.216,
+      "end": 260.396,
+      "scene": "13"
+    },
+    {
+      "text": "anything.",
+      "start": 260.457,
+      "end": 260.817,
+      "scene": "13"
+    },
+    {
+      "text": "That",
+      "start": 261.498,
+      "end": 261.618,
+      "scene": "13"
+    },
+    {
+      "text": "can",
+      "start": 261.658,
+      "end": 261.758,
+      "scene": "13"
+    },
+    {
+      "text": "happen",
+      "start": 261.798,
+      "end": 262.019,
+      "scene": "13"
+    },
+    {
+      "text": "when",
+      "start": 262.039,
+      "end": 262.119,
+      "scene": "13"
+    },
+    {
+      "text": "there's",
+      "start": 262.139,
+      "end": 262.339,
+      "scene": "13"
+    },
+    {
+      "text": "too",
+      "start": 262.479,
+      "end": 262.619,
+      "scene": "13"
+    },
+    {
+      "text": "little",
+      "start": 262.66,
+      "end": 262.84,
+      "scene": "13"
+    },
+    {
+      "text": "going",
+      "start": 262.88,
+      "end": 263.08,
+      "scene": "13"
+    },
+    {
+      "text": "on,",
+      "start": 263.24,
+      "end": 263.36,
+      "scene": "13"
+    },
+    {
+      "text": "or",
+      "start": 263.941,
+      "end": 264.061,
+      "scene": "13"
+    },
+    {
+      "text": "too",
+      "start": 264.141,
+      "end": 264.282,
+      "scene": "13"
+    },
+    {
+      "text": "much.",
+      "start": 264.302,
+      "end": 264.522,
+      "scene": "13"
+    },
+    {
+      "text": "It",
+      "start": 265.123,
+      "end": 265.183,
+      "scene": "13"
+    },
+    {
+      "text": "also",
+      "start": 265.223,
+      "end": 265.443,
+      "scene": "13"
+    },
+    {
+      "text": "appears",
+      "start": 265.483,
+      "end": 265.764,
+      "scene": "13"
+    },
+    {
+      "text": "when",
+      "start": 265.824,
+      "end": 265.984,
+      "scene": "13"
+    },
+    {
+      "text": "what",
+      "start": 266.064,
+      "end": 266.184,
+      "scene": "13"
+    },
+    {
+      "text": "you're",
+      "start": 266.204,
+      "end": 266.364,
+      "scene": "13"
+    },
+    {
+      "text": "doing",
+      "start": 266.384,
+      "end": 266.565,
+      "scene": "13"
+    },
+    {
+      "text": "doesn't",
+      "start": 266.605,
+      "end": 266.845,
+      "scene": "13"
+    },
+    {
+      "text": "feel",
+      "start": 266.865,
+      "end": 267.065,
+      "scene": "13"
+    },
+    {
+      "text": "meaningful",
+      "start": 267.146,
+      "end": 267.606,
+      "scene": "13"
+    },
+    {
+      "text": "to",
+      "start": 267.646,
+      "end": 267.706,
+      "scene": "13"
+    },
+    {
+      "text": "you.",
+      "start": 267.766,
+      "end": 267.887,
+      "scene": "13"
+    },
+    {
+      "text": "And",
+      "start": 268.507,
+      "end": 268.607,
+      "scene": "13"
+    },
+    {
+      "text": "boredom",
+      "start": 268.688,
+      "end": 269.008,
+      "scene": "13"
+    },
+    {
+      "text": "often",
+      "start": 269.048,
+      "end": 269.248,
+      "scene": "13"
+    },
+    {
+      "text": "feels",
+      "start": 269.288,
+      "end": 269.469,
+      "scene": "13"
+    },
+    {
+      "text": "a",
+      "start": 269.509,
+      "end": 269.529,
+      "scene": "13"
+    },
+    {
+      "text": "lot",
+      "start": 269.569,
+      "end": 269.689,
+      "scene": "13"
+    },
+    {
+      "text": "like",
+      "start": 269.709,
+      "end": 269.829,
+      "scene": "13"
+    },
+    {
+      "text": "being",
+      "start": 269.869,
+      "end": 270.029,
+      "scene": "13"
+    },
+    {
+      "text": "tired.",
+      "start": 270.089,
+      "end": 270.41,
+      "scene": "13"
+    },
+    {
+      "text": "Here's",
+      "start": 270.97,
+      "end": 271.17,
+      "scene": "14"
+    },
+    {
+      "text": "the",
+      "start": 271.21,
+      "end": 271.27,
+      "scene": "14"
+    },
+    {
+      "text": "sneaky",
+      "start": 271.31,
+      "end": 271.611,
+      "scene": "14"
+    },
+    {
+      "text": "part.",
+      "start": 271.651,
+      "end": 271.871,
+      "scene": "14"
+    },
+    {
+      "text": "A",
+      "start": 272.471,
+      "end": 272.511,
+      "scene": "14"
+    },
+    {
+      "text": "day",
+      "start": 272.551,
+      "end": 272.711,
+      "scene": "14"
+    },
+    {
+      "text": "on",
+      "start": 272.731,
+      "end": 272.771,
+      "scene": "14"
+    },
+    {
+      "text": "your",
+      "start": 272.812,
+      "end": 272.892,
+      "scene": "14"
+    },
+    {
+      "text": "phone",
+      "start": 272.932,
+      "end": 273.092,
+      "scene": "14"
+    },
+    {
+      "text": "doesn't",
+      "start": 273.132,
+      "end": 273.352,
+      "scene": "14"
+    },
+    {
+      "text": "feel",
+      "start": 273.392,
+      "end": 273.572,
+      "scene": "14"
+    },
+    {
+      "text": "empty.",
+      "start": 273.692,
+      "end": 273.992,
+      "scene": "14"
+    },
+    {
+      "text": "It's",
+      "start": 274.213,
+      "end": 274.333,
+      "scene": "14"
+    },
+    {
+      "text": "full",
+      "start": 274.413,
+      "end": 274.593,
+      "scene": "14"
+    },
+    {
+      "text": "of",
+      "start": 274.613,
+      "end": 274.673,
+      "scene": "14"
+    },
+    {
+      "text": "videos",
+      "start": 274.753,
+      "end": 275.153,
+      "scene": "14"
+    },
+    {
+      "text": "and",
+      "start": 275.213,
+      "end": 275.294,
+      "scene": "14"
+    },
+    {
+      "text": "noise.",
+      "start": 275.354,
+      "end": 275.674,
+      "scene": "14"
+    },
+    {
+      "text": "But",
+      "start": 276.254,
+      "end": 276.374,
+      "scene": "14"
+    },
+    {
+      "text": "lots",
+      "start": 276.414,
+      "end": 276.615,
+      "scene": "14"
+    },
+    {
+      "text": "of",
+      "start": 276.655,
+      "end": 276.715,
+      "scene": "14"
+    },
+    {
+      "text": "input",
+      "start": 276.755,
+      "end": 277.095,
+      "scene": "14"
+    },
+    {
+      "text": "isn't",
+      "start": 277.195,
+      "end": 277.395,
+      "scene": "14"
+    },
+    {
+      "text": "the",
+      "start": 277.435,
+      "end": 277.515,
+      "scene": "14"
+    },
+    {
+      "text": "same",
+      "start": 277.555,
+      "end": 277.755,
+      "scene": "14"
+    },
+    {
+      "text": "as",
+      "start": 277.795,
+      "end": 277.876,
+      "scene": "14"
+    },
+    {
+      "text": "being",
+      "start": 277.916,
+      "end": 278.096,
+      "scene": "14"
+    },
+    {
+      "text": "engaged.",
+      "start": 278.136,
+      "end": 278.656,
+      "scene": "14"
+    },
+    {
+      "text": "Clip",
+      "start": 279.457,
+      "end": 279.657,
+      "scene": "14"
+    },
+    {
+      "text": "after",
+      "start": 279.717,
+      "end": 279.897,
+      "scene": "14"
+    },
+    {
+      "text": "clip,",
+      "start": 279.957,
+      "end": 280.197,
+      "scene": "14"
+    },
+    {
+      "text": "your",
+      "start": 280.518,
+      "end": 280.638,
+      "scene": "14"
+    },
+    {
+      "text": "attention",
+      "start": 280.658,
+      "end": 281.038,
+      "scene": "14"
+    },
+    {
+      "text": "never",
+      "start": 281.118,
+      "end": 281.318,
+      "scene": "14"
+    },
+    {
+      "text": "really",
+      "start": 281.378,
+      "end": 281.578,
+      "scene": "14"
+    },
+    {
+      "text": "settles.",
+      "start": 281.639,
+      "end": 281.959,
+      "scene": "14"
+    },
+    {
+      "text": "And",
+      "start": 282.619,
+      "end": 282.719,
+      "scene": "14"
+    },
+    {
+      "text": "very",
+      "start": 282.819,
+      "end": 283.08,
+      "scene": "14"
+    },
+    {
+      "text": "little",
+      "start": 283.14,
+      "end": 283.36,
+      "scene": "14"
+    },
+    {
+      "text": "of",
+      "start": 283.38,
+      "end": 283.42,
+      "scene": "14"
+    },
+    {
+      "text": "it",
+      "start": 283.48,
+      "end": 283.54,
+      "scene": "14"
+    },
+    {
+      "text": "matters",
+      "start": 283.64,
+      "end": 283.98,
+      "scene": "14"
+    },
+    {
+      "text": "to",
+      "start": 284.02,
+      "end": 284.08,
+      "scene": "14"
+    },
+    {
+      "text": "you.",
+      "start": 284.121,
+      "end": 284.281,
+      "scene": "14"
+    },
+    {
+      "text": "So",
+      "start": 284.841,
+      "end": 284.941,
+      "scene": "14"
+    },
+    {
+      "text": "your",
+      "start": 284.961,
+      "end": 285.081,
+      "scene": "14"
+    },
+    {
+      "text": "brain",
+      "start": 285.121,
+      "end": 285.341,
+      "scene": "14"
+    },
+    {
+      "text": "lights",
+      "start": 285.362,
+      "end": 285.582,
+      "scene": "14"
+    },
+    {
+      "text": "up",
+      "start": 285.642,
+      "end": 285.742,
+      "scene": "14"
+    },
+    {
+      "text": "both",
+      "start": 285.902,
+      "end": 286.122,
+      "scene": "14"
+    },
+    {
+      "text": "warning",
+      "start": 286.202,
+      "end": 286.462,
+      "scene": "14"
+    },
+    {
+      "text": "lights",
+      "start": 286.482,
+      "end": 286.683,
+      "scene": "14"
+    },
+    {
+      "text": "at",
+      "start": 286.723,
+      "end": 286.783,
+      "scene": "14"
+    },
+    {
+      "text": "once.",
+      "start": 286.903,
+      "end": 287.063,
+      "scene": "14"
+    },
+    {
+      "text": "Remember",
+      "start": 287.783,
+      "end": 288.064,
+      "scene": "15"
+    },
+    {
+      "text": "the",
+      "start": 288.084,
+      "end": 288.184,
+      "scene": "15"
+    },
+    {
+      "text": "dull",
+      "start": 288.264,
+      "end": 288.524,
+      "scene": "15"
+    },
+    {
+      "text": "monitoring",
+      "start": 288.584,
+      "end": 289.065,
+      "scene": "15"
+    },
+    {
+      "text": "task?",
+      "start": 289.105,
+      "end": 289.485,
+      "scene": "15"
+    },
+    {
+      "text": "When",
+      "start": 290.266,
+      "end": 290.386,
+      "scene": "15"
+    },
+    {
+      "text": "nothing",
+      "start": 290.447,
+      "end": 290.727,
+      "scene": "15"
+    },
+    {
+      "text": "interesting",
+      "start": 290.787,
+      "end": 291.187,
+      "scene": "15"
+    },
+    {
+      "text": "happens,",
+      "start": 291.227,
+      "end": 291.588,
+      "scene": "15"
+    },
+    {
+      "text": "your",
+      "start": 291.988,
+      "end": 292.109,
+      "scene": "15"
+    },
+    {
+      "text": "body",
+      "start": 292.149,
+      "end": 292.409,
+      "scene": "15"
+    },
+    {
+      "text": "seems",
+      "start": 292.449,
+      "end": 292.669,
+      "scene": "15"
+    },
+    {
+      "text": "to",
+      "start": 292.729,
+      "end": 292.809,
+      "scene": "15"
+    },
+    {
+      "text": "power",
+      "start": 292.89,
+      "end": 293.21,
+      "scene": "15"
+    },
+    {
+      "text": "down.",
+      "start": 293.23,
+      "end": 293.53,
+      "scene": "15"
+    },
+    {
+      "text": "Your",
+      "start": 293.931,
+      "end": 294.091,
+      "scene": "15"
+    },
+    {
+      "text": "heart",
+      "start": 294.131,
+      "end": 294.351,
+      "scene": "15"
+    },
+    {
+      "text": "slows.",
+      "start": 294.411,
+      "end": 294.752,
+      "scene": "15"
+    },
+    {
+      "text": "You",
+      "start": 295.273,
+      "end": 295.393,
+      "scene": "15"
+    },
+    {
+      "text": "feel",
+      "start": 295.433,
+      "end": 295.613,
+      "scene": "15"
+    },
+    {
+      "text": "heavy",
+      "start": 295.693,
+      "end": 295.993,
+      "scene": "15"
+    },
+    {
+      "text": "and",
+      "start": 296.034,
+      "end": 296.114,
+      "scene": "15"
+    },
+    {
+      "text": "sleepy.",
+      "start": 296.214,
+      "end": 296.634,
+      "scene": "15"
+    },
+    {
+      "text": "Not",
+      "start": 297.255,
+      "end": 297.395,
+      "scene": "15"
+    },
+    {
+      "text": "because",
+      "start": 297.435,
+      "end": 297.656,
+      "scene": "15"
+    },
+    {
+      "text": "you",
+      "start": 297.696,
+      "end": 297.796,
+      "scene": "15"
+    },
+    {
+      "text": "worked",
+      "start": 297.836,
+      "end": 298.036,
+      "scene": "15"
+    },
+    {
+      "text": "hard.",
+      "start": 298.056,
+      "end": 298.296,
+      "scene": "15"
+    },
+    {
+      "text": "Because",
+      "start": 298.657,
+      "end": 298.957,
+      "scene": "15"
+    },
+    {
+      "text": "almost",
+      "start": 299.358,
+      "end": 299.638,
+      "scene": "15"
+    },
+    {
+      "text": "nothing",
+      "start": 299.858,
+      "end": 300.219,
+      "scene": "15"
+    },
+    {
+      "text": "asked",
+      "start": 300.379,
+      "end": 300.559,
+      "scene": "15"
+    },
+    {
+      "text": "you",
+      "start": 300.599,
+      "end": 300.679,
+      "scene": "15"
+    },
+    {
+      "text": "to",
+      "start": 300.699,
+      "end": 300.759,
+      "scene": "15"
+    },
+    {
+      "text": "wake",
+      "start": 300.799,
+      "end": 300.98,
+      "scene": "15"
+    },
+    {
+      "text": "up.",
+      "start": 301.08,
+      "end": 301.16,
+      "scene": "15"
+    },
+    {
+      "text": "And",
+      "start": 301.7,
+      "end": 301.78,
+      "scene": "16"
+    },
+    {
+      "text": "remember",
+      "start": 301.82,
+      "end": 302.1,
+      "scene": "16"
+    },
+    {
+      "text": "the",
+      "start": 302.14,
+      "end": 302.221,
+      "scene": "16"
+    },
+    {
+      "text": "people",
+      "start": 302.241,
+      "end": 302.461,
+      "scene": "16"
+    },
+    {
+      "text": "who",
+      "start": 302.501,
+      "end": 302.601,
+      "scene": "16"
+    },
+    {
+      "text": "couldn't",
+      "start": 302.641,
+      "end": 302.881,
+      "scene": "16"
+    },
+    {
+      "text": "sit",
+      "start": 302.921,
+      "end": 303.061,
+      "scene": "16"
+    },
+    {
+      "text": "still?",
+      "start": 303.121,
+      "end": 303.362,
+      "scene": "16"
+    },
+    {
+      "text": "The",
+      "start": 304.302,
+      "end": 304.403,
+      "scene": "16"
+    },
+    {
+      "text": "main",
+      "start": 304.423,
+      "end": 304.603,
+      "scene": "16"
+    },
+    {
+      "text": "finding",
+      "start": 304.643,
+      "end": 304.923,
+      "scene": "16"
+    },
+    {
+      "text": "was",
+      "start": 304.943,
+      "end": 305.083,
+      "scene": "16"
+    },
+    {
+      "text": "later",
+      "start": 305.123,
+      "end": 305.343,
+      "scene": "16"
+    },
+    {
+      "text": "tested",
+      "start": 305.383,
+      "end": 305.704,
+      "scene": "16"
+    },
+    {
+      "text": "with",
+      "start": 305.724,
+      "end": 305.844,
+      "scene": "16"
+    },
+    {
+      "text": "over",
+      "start": 305.904,
+      "end": 306.064,
+      "scene": "16"
+    },
+    {
+      "text": "two",
+      "start": 306.184,
+      "end": 306.424,
+      "scene": "16"
+    },
+    {
+      "text": "and",
+      "start": 306.464,
+      "end": 306.525,
+      "scene": "16"
+    },
+    {
+      "text": "a",
+      "start": 306.565,
+      "end": 306.605,
+      "scene": "16"
+    },
+    {
+      "text": "half",
+      "start": 306.645,
+      "end": 306.825,
+      "scene": "16"
+    },
+    {
+      "text": "thousand",
+      "start": 306.965,
+      "end": 307.385,
+      "scene": "16"
+    },
+    {
+      "text": "people",
+      "start": 307.425,
+      "end": 307.706,
+      "scene": "16"
+    },
+    {
+      "text": "in",
+      "start": 307.766,
+      "end": 307.826,
+      "scene": "16"
+    },
+    {
+      "text": "eleven",
+      "start": 307.886,
+      "end": 308.166,
+      "scene": "16"
+    },
+    {
+      "text": "countries.",
+      "start": 308.206,
+      "end": 308.566,
+      "scene": "16"
+    },
+    {
+      "text": "In",
+      "start": 309.287,
+      "end": 309.367,
+      "scene": "16"
+    },
+    {
+      "text": "every",
+      "start": 309.427,
+      "end": 309.607,
+      "scene": "16"
+    },
+    {
+      "text": "country,",
+      "start": 309.647,
+      "end": 309.928,
+      "scene": "16"
+    },
+    {
+      "text": "people",
+      "start": 309.988,
+      "end": 310.248,
+      "scene": "16"
+    },
+    {
+      "text": "enjoyed",
+      "start": 310.328,
+      "end": 310.728,
+      "scene": "16"
+    },
+    {
+      "text": "doing",
+      "start": 310.808,
+      "end": 311.009,
+      "scene": "16"
+    },
+    {
+      "text": "something",
+      "start": 311.049,
+      "end": 311.349,
+      "scene": "16"
+    },
+    {
+      "text": "more",
+      "start": 311.409,
+      "end": 311.569,
+      "scene": "16"
+    },
+    {
+      "text": "than",
+      "start": 311.609,
+      "end": 311.729,
+      "scene": "16"
+    },
+    {
+      "text": "just",
+      "start": 311.769,
+      "end": 311.969,
+      "scene": "16"
+    },
+    {
+      "text": "sitting",
+      "start": 312.21,
+      "end": 312.45,
+      "scene": "16"
+    },
+    {
+      "text": "with",
+      "start": 312.47,
+      "end": 312.57,
+      "scene": "16"
+    },
+    {
+      "text": "their",
+      "start": 312.61,
+      "end": 312.75,
+      "scene": "16"
+    },
+    {
+      "text": "thoughts.",
+      "start": 312.81,
+      "end": 313.171,
+      "scene": "16"
+    },
+    {
+      "text": "So",
+      "start": 314.051,
+      "end": 314.252,
+      "scene": "16"
+    },
+    {
+      "text": "doing",
+      "start": 314.372,
+      "end": 314.592,
+      "scene": "16"
+    },
+    {
+      "text": "nothing",
+      "start": 314.652,
+      "end": 314.952,
+      "scene": "16"
+    },
+    {
+      "text": "isn't",
+      "start": 315.032,
+      "end": 315.232,
+      "scene": "16"
+    },
+    {
+      "text": "automatically",
+      "start": 315.313,
+      "end": 315.833,
+      "scene": "16"
+    },
+    {
+      "text": "restful.",
+      "start": 315.913,
+      "end": 316.333,
+      "scene": "16"
+    },
+    {
+      "text": "For",
+      "start": 316.934,
+      "end": 317.054,
+      "scene": "16"
+    },
+    {
+      "text": "most",
+      "start": 317.094,
+      "end": 317.274,
+      "scene": "16"
+    },
+    {
+      "text": "of",
+      "start": 317.294,
+      "end": 317.354,
+      "scene": "16"
+    },
+    {
+      "text": "us,",
+      "start": 317.414,
+      "end": 317.515,
+      "scene": "16"
+    },
+    {
+      "text": "it's",
+      "start": 317.595,
+      "end": 317.735,
+      "scene": "16"
+    },
+    {
+      "text": "actually",
+      "start": 317.935,
+      "end": 318.195,
+      "scene": "16"
+    },
+    {
+      "text": "kind",
+      "start": 318.215,
+      "end": 318.375,
+      "scene": "16"
+    },
+    {
+      "text": "of",
+      "start": 318.395,
+      "end": 318.455,
+      "scene": "16"
+    },
+    {
+      "text": "unpleasant.",
+      "start": 318.495,
+      "end": 318.996,
+      "scene": "16"
+    },
+    {
+      "text": "Now",
+      "start": 319.576,
+      "end": 319.676,
+      "scene": "17"
+    },
+    {
+      "text": "the",
+      "start": 319.696,
+      "end": 319.756,
+      "scene": "17"
+    },
+    {
+      "text": "bike",
+      "start": 319.796,
+      "end": 319.956,
+      "scene": "17"
+    },
+    {
+      "text": "clue.",
+      "start": 320.016,
+      "end": 320.237,
+      "scene": "17"
+    },
+    {
+      "text": "One",
+      "start": 320.877,
+      "end": 320.997,
+      "scene": "17"
+    },
+    {
+      "text": "small",
+      "start": 321.057,
+      "end": 321.317,
+      "scene": "17"
+    },
+    {
+      "text": "study",
+      "start": 321.377,
+      "end": 321.638,
+      "scene": "17"
+    },
+    {
+      "text": "is",
+      "start": 321.698,
+      "end": 321.778,
+      "scene": "17"
+    },
+    {
+      "text": "easy",
+      "start": 321.898,
+      "end": 322.098,
+      "scene": "17"
+    },
+    {
+      "text": "to",
+      "start": 322.138,
+      "end": 322.198,
+      "scene": "17"
+    },
+    {
+      "text": "doubt.",
+      "start": 322.238,
+      "end": 322.478,
+      "scene": "17"
+    },
+    {
+      "text": "But",
+      "start": 322.558,
+      "end": 322.658,
+      "scene": "17"
+    },
+    {
+      "text": "it's",
+      "start": 322.678,
+      "end": 322.798,
+      "scene": "17"
+    },
+    {
+      "text": "not",
+      "start": 322.838,
+      "end": 322.958,
+      "scene": "17"
+    },
+    {
+      "text": "alone.",
+      "start": 323.019,
+      "end": 323.319,
+      "scene": "17"
+    },
+    {
+      "text": "In",
+      "start": 323.899,
+      "end": 323.979,
+      "scene": "17"
+    },
+    {
+      "text": "twenty",
+      "start": 324.039,
+      "end": 324.259,
+      "scene": "17"
+    },
+    {
+      "text": "oh",
+      "start": 324.299,
+      "end": 324.38,
+      "scene": "17"
+    },
+    {
+      "text": "six,",
+      "start": 324.4,
+      "end": 324.64,
+      "scene": "17"
+    },
+    {
+      "text": "researchers",
+      "start": 324.98,
+      "end": 325.44,
+      "scene": "17"
+    },
+    {
+      "text": "combined",
+      "start": 325.5,
+      "end": 325.881,
+      "scene": "17"
+    },
+    {
+      "text": "seventy",
+      "start": 326.041,
+      "end": 326.441,
+      "scene": "17"
+    },
+    {
+      "text": "trials",
+      "start": 326.521,
+      "end": 326.841,
+      "scene": "17"
+    },
+    {
+      "text": "with",
+      "start": 326.861,
+      "end": 326.981,
+      "scene": "17"
+    },
+    {
+      "text": "nearly",
+      "start": 327.021,
+      "end": 327.322,
+      "scene": "17"
+    },
+    {
+      "text": "seven",
+      "start": 327.562,
+      "end": 327.902,
+      "scene": "17"
+    },
+    {
+      "text": "thousand",
+      "start": 328.022,
+      "end": 328.462,
+      "scene": "17"
+    },
+    {
+      "text": "people.",
+      "start": 328.502,
+      "end": 328.823,
+      "scene": "17"
+    },
+    {
+      "text": "Regular",
+      "start": 329.663,
+      "end": 329.984,
+      "scene": "17"
+    },
+    {
+      "text": "exercise",
+      "start": 330.024,
+      "end": 330.404,
+      "scene": "17"
+    },
+    {
+      "text": "made",
+      "start": 330.444,
+      "end": 330.564,
+      "scene": "17"
+    },
+    {
+      "text": "people",
+      "start": 330.604,
+      "end": 330.824,
+      "scene": "17"
+    },
+    {
+      "text": "feel",
+      "start": 330.844,
+      "end": 331.004,
+      "scene": "17"
+    },
+    {
+      "text": "more",
+      "start": 331.044,
+      "end": 331.184,
+      "scene": "17"
+    },
+    {
+      "text": "energetic",
+      "start": 331.284,
+      "end": 331.825,
+      "scene": "17"
+    },
+    {
+      "text": "and",
+      "start": 331.885,
+      "end": 331.965,
+      "scene": "17"
+    },
+    {
+      "text": "less",
+      "start": 332.005,
+      "end": 332.185,
+      "scene": "17"
+    },
+    {
+      "text": "tired.",
+      "start": 332.265,
+      "end": 332.645,
+      "scene": "17"
+    },
+    {
+      "text": "A",
+      "start": 333.426,
+      "end": 333.446,
+      "scene": "17"
+    },
+    {
+      "text": "newer",
+      "start": 333.506,
+      "end": 333.766,
+      "scene": "17"
+    },
+    {
+      "text": "review",
+      "start": 333.806,
+      "end": 334.066,
+      "scene": "17"
+    },
+    {
+      "text": "in",
+      "start": 334.107,
+      "end": 334.187,
+      "scene": "17"
+    },
+    {
+      "text": "twenty",
+      "start": 334.247,
+      "end": 334.467,
+      "scene": "17"
+    },
+    {
+      "text": "twenty-two,",
+      "start": 334.527,
+      "end": 335.007,
+      "scene": "17"
+    },
+    {
+      "text": "with",
+      "start": 335.367,
+      "end": 335.528,
+      "scene": "17"
+    },
+    {
+      "text": "eighty-one",
+      "start": 335.648,
+      "end": 336.108,
+      "scene": "17"
+    },
+    {
+      "text": "studies,",
+      "start": 336.168,
+      "end": 336.528,
+      "scene": "17"
+    },
+    {
+      "text": "found",
+      "start": 336.828,
+      "end": 337.009,
+      "scene": "17"
+    },
+    {
+      "text": "the",
+      "start": 337.029,
+      "end": 337.129,
+      "scene": "17"
+    },
+    {
+      "text": "same",
+      "start": 337.189,
+      "end": 337.469,
+      "scene": "17"
+    },
+    {
+      "text": "pattern.",
+      "start": 337.569,
+      "end": 337.929,
+      "scene": "17"
+    },
+    {
+      "text": "The",
+      "start": 338.69,
+      "end": 338.77,
+      "scene": "17"
+    },
+    {
+      "text": "effect",
+      "start": 338.81,
+      "end": 339.07,
+      "scene": "17"
+    },
+    {
+      "text": "is",
+      "start": 339.13,
+      "end": 339.21,
+      "scene": "17"
+    },
+    {
+      "text": "small",
+      "start": 339.31,
+      "end": 339.63,
+      "scene": "17"
+    },
+    {
+      "text": "to",
+      "start": 339.65,
+      "end": 339.731,
+      "scene": "17"
+    },
+    {
+      "text": "moderate.",
+      "start": 339.791,
+      "end": 340.191,
+      "scene": "17"
+    },
+    {
+      "text": "It's",
+      "start": 340.311,
+      "end": 340.451,
+      "scene": "17"
+    },
+    {
+      "text": "not",
+      "start": 340.491,
+      "end": 340.671,
+      "scene": "17"
+    },
+    {
+      "text": "magic.",
+      "start": 340.751,
+      "end": 341.152,
+      "scene": "17"
+    },
+    {
+      "text": "But",
+      "start": 341.632,
+      "end": 341.752,
+      "scene": "17"
+    },
+    {
+      "text": "moving",
+      "start": 341.812,
+      "end": 342.052,
+      "scene": "17"
+    },
+    {
+      "text": "seems",
+      "start": 342.092,
+      "end": 342.252,
+      "scene": "17"
+    },
+    {
+      "text": "to",
+      "start": 342.292,
+      "end": 342.372,
+      "scene": "17"
+    },
+    {
+      "text": "tell",
+      "start": 342.412,
+      "end": 342.553,
+      "scene": "17"
+    },
+    {
+      "text": "your",
+      "start": 342.593,
+      "end": 342.693,
+      "scene": "17"
+    },
+    {
+      "text": "brain",
+      "start": 342.713,
+      "end": 342.913,
+      "scene": "17"
+    },
+    {
+      "text": "that",
+      "start": 342.933,
+      "end": 343.053,
+      "scene": "17"
+    },
+    {
+      "text": "the",
+      "start": 343.073,
+      "end": 343.173,
+      "scene": "17"
+    },
+    {
+      "text": "day",
+      "start": 343.213,
+      "end": 343.353,
+      "scene": "17"
+    },
+    {
+      "text": "is",
+      "start": 343.393,
+      "end": 343.473,
+      "scene": "17"
+    },
+    {
+      "text": "worth",
+      "start": 343.513,
+      "end": 343.733,
+      "scene": "17"
+    },
+    {
+      "text": "being",
+      "start": 343.773,
+      "end": 343.974,
+      "scene": "17"
+    },
+    {
+      "text": "awake",
+      "start": 344.014,
+      "end": 344.314,
+      "scene": "17"
+    },
+    {
+      "text": "for.",
+      "start": 344.354,
+      "end": 344.534,
+      "scene": "17"
+    },
+    {
+      "text": "There's",
+      "start": 345.114,
+      "end": 345.314,
+      "scene": "18"
+    },
+    {
+      "text": "one",
+      "start": 345.374,
+      "end": 345.454,
+      "scene": "18"
+    },
+    {
+      "text": "more",
+      "start": 345.494,
+      "end": 345.634,
+      "scene": "18"
+    },
+    {
+      "text": "piece.",
+      "start": 345.674,
+      "end": 345.934,
+      "scene": "18"
+    },
+    {
+      "text": "Your",
+      "start": 346.475,
+      "end": 346.655,
+      "scene": "18"
+    },
+    {
+      "text": "body",
+      "start": 346.735,
+      "end": 347.015,
+      "scene": "18"
+    },
+    {
+      "text": "clock.",
+      "start": 347.055,
+      "end": 347.335,
+      "scene": "18"
+    },
+    {
+      "text": "On",
+      "start": 347.975,
+      "end": 348.055,
+      "scene": "18"
+    },
+    {
+      "text": "school",
+      "start": 348.135,
+      "end": 348.355,
+      "scene": "18"
+    },
+    {
+      "text": "days,",
+      "start": 348.375,
+      "end": 348.595,
+      "scene": "18"
+    },
+    {
+      "text": "you",
+      "start": 348.635,
+      "end": 348.775,
+      "scene": "18"
+    },
+    {
+      "text": "sleep",
+      "start": 348.815,
+      "end": 349.015,
+      "scene": "18"
+    },
+    {
+      "text": "from",
+      "start": 349.035,
+      "end": 349.155,
+      "scene": "18"
+    },
+    {
+      "text": "eleven",
+      "start": 349.215,
+      "end": 349.596,
+      "scene": "18"
+    },
+    {
+      "text": "to",
+      "start": 349.656,
+      "end": 349.756,
+      "scene": "18"
+    },
+    {
+      "text": "seven.",
+      "start": 349.816,
+      "end": 350.096,
+      "scene": "18"
+    },
+    {
+      "text": "On",
+      "start": 350.516,
+      "end": 350.596,
+      "scene": "18"
+    },
+    {
+      "text": "Sunday,",
+      "start": 350.676,
+      "end": 351.056,
+      "scene": "18"
+    },
+    {
+      "text": "you",
+      "start": 351.476,
+      "end": 351.616,
+      "scene": "18"
+    },
+    {
+      "text": "sleep",
+      "start": 351.656,
+      "end": 351.856,
+      "scene": "18"
+    },
+    {
+      "text": "from",
+      "start": 351.896,
+      "end": 352.036,
+      "scene": "18"
+    },
+    {
+      "text": "two",
+      "start": 352.137,
+      "end": 352.297,
+      "scene": "18"
+    },
+    {
+      "text": "to",
+      "start": 352.337,
+      "end": 352.417,
+      "scene": "18"
+    },
+    {
+      "text": "eleven.",
+      "start": 352.477,
+      "end": 352.757,
+      "scene": "18"
+    },
+    {
+      "text": "That's",
+      "start": 353.477,
+      "end": 353.637,
+      "scene": "18"
+    },
+    {
+      "text": "like",
+      "start": 353.657,
+      "end": 353.797,
+      "scene": "18"
+    },
+    {
+      "text": "flying",
+      "start": 353.857,
+      "end": 354.117,
+      "scene": "18"
+    },
+    {
+      "text": "to",
+      "start": 354.157,
+      "end": 354.237,
+      "scene": "18"
+    },
+    {
+      "text": "another",
+      "start": 354.297,
+      "end": 354.557,
+      "scene": "18"
+    },
+    {
+      "text": "time",
+      "start": 354.597,
+      "end": 354.837,
+      "scene": "18"
+    },
+    {
+      "text": "zone",
+      "start": 354.877,
+      "end": 355.078,
+      "scene": "18"
+    },
+    {
+      "text": "for",
+      "start": 355.098,
+      "end": 355.178,
+      "scene": "18"
+    },
+    {
+      "text": "the",
+      "start": 355.198,
+      "end": 355.278,
+      "scene": "18"
+    },
+    {
+      "text": "weekend.",
+      "start": 355.318,
+      "end": 355.678,
+      "scene": "18"
+    },
+    {
+      "text": "Then",
+      "start": 356.398,
+      "end": 356.578,
+      "scene": "18"
+    },
+    {
+      "text": "on",
+      "start": 356.638,
+      "end": 356.718,
+      "scene": "18"
+    },
+    {
+      "text": "Monday",
+      "start": 356.758,
+      "end": 356.998,
+      "scene": "18"
+    },
+    {
+      "text": "morning,",
+      "start": 357.038,
+      "end": 357.338,
+      "scene": "18"
+    },
+    {
+      "text": "you",
+      "start": 357.798,
+      "end": 357.959,
+      "scene": "18"
+    },
+    {
+      "text": "fly",
+      "start": 358.019,
+      "end": 358.259,
+      "scene": "18"
+    },
+    {
+      "text": "right",
+      "start": 358.319,
+      "end": 358.499,
+      "scene": "18"
+    },
+    {
+      "text": "back.",
+      "start": 358.559,
+      "end": 358.819,
+      "scene": "18"
+    },
+    {
+      "text": "Scientists",
+      "start": 359.319,
+      "end": 359.759,
+      "scene": "18"
+    },
+    {
+      "text": "call",
+      "start": 359.799,
+      "end": 359.979,
+      "scene": "18"
+    },
+    {
+      "text": "it",
+      "start": 360.019,
+      "end": 360.079,
+      "scene": "18"
+    },
+    {
+      "text": "social",
+      "start": 360.239,
+      "end": 360.639,
+      "scene": "18"
+    },
+    {
+      "text": "jetlag.",
+      "start": 360.74,
+      "end": 361.26,
+      "scene": "18"
+    },
+    {
+      "text": "In",
+      "start": 361.82,
+      "end": 361.92,
+      "scene": "18"
+    },
+    {
+      "text": "surveys,",
+      "start": 361.98,
+      "end": 362.38,
+      "scene": "18"
+    },
+    {
+      "text": "people",
+      "start": 362.76,
+      "end": 363.0,
+      "scene": "18"
+    },
+    {
+      "text": "with",
+      "start": 363.04,
+      "end": 363.16,
+      "scene": "18"
+    },
+    {
+      "text": "more",
+      "start": 363.2,
+      "end": 363.34,
+      "scene": "18"
+    },
+    {
+      "text": "of",
+      "start": 363.36,
+      "end": 363.42,
+      "scene": "18"
+    },
+    {
+      "text": "it",
+      "start": 363.46,
+      "end": 363.52,
+      "scene": "18"
+    },
+    {
+      "text": "tend",
+      "start": 363.56,
+      "end": 363.721,
+      "scene": "18"
+    },
+    {
+      "text": "to",
+      "start": 363.761,
+      "end": 363.821,
+      "scene": "18"
+    },
+    {
+      "text": "sleep",
+      "start": 363.901,
+      "end": 364.161,
+      "scene": "18"
+    },
+    {
+      "text": "worse",
+      "start": 364.221,
+      "end": 364.501,
+      "scene": "18"
+    },
+    {
+      "text": "and",
+      "start": 364.961,
+      "end": 365.061,
+      "scene": "18"
+    },
+    {
+      "text": "feel",
+      "start": 365.161,
+      "end": 365.401,
+      "scene": "18"
+    },
+    {
+      "text": "worse.",
+      "start": 365.421,
+      "end": 365.681,
+      "scene": "18"
+    },
+    {
+      "text": "So",
+      "start": 366.502,
+      "end": 366.622,
+      "scene": "18"
+    },
+    {
+      "text": "the",
+      "start": 366.642,
+      "end": 366.742,
+      "scene": "18"
+    },
+    {
+      "text": "problem",
+      "start": 366.762,
+      "end": 367.002,
+      "scene": "18"
+    },
+    {
+      "text": "isn't",
+      "start": 367.042,
+      "end": 367.242,
+      "scene": "18"
+    },
+    {
+      "text": "sleeping",
+      "start": 367.282,
+      "end": 367.602,
+      "scene": "18"
+    },
+    {
+      "text": "too",
+      "start": 367.642,
+      "end": 367.762,
+      "scene": "18"
+    },
+    {
+      "text": "much.",
+      "start": 367.802,
+      "end": 368.002,
+      "scene": "18"
+    },
+    {
+      "text": "It's",
+      "start": 368.522,
+      "end": 368.622,
+      "scene": "18"
+    },
+    {
+      "text": "sleeping",
+      "start": 368.662,
+      "end": 368.982,
+      "scene": "18"
+    },
+    {
+      "text": "at",
+      "start": 369.002,
+      "end": 369.082,
+      "scene": "18"
+    },
+    {
+      "text": "the",
+      "start": 369.102,
+      "end": 369.202,
+      "scene": "18"
+    },
+    {
+      "text": "wrong",
+      "start": 369.282,
+      "end": 369.583,
+      "scene": "18"
+    },
+    {
+      "text": "time",
+      "start": 369.663,
+      "end": 370.063,
+      "scene": "18"
+    },
+    {
+      "text": "for",
+      "start": 370.163,
+      "end": 370.283,
+      "scene": "18"
+    },
+    {
+      "text": "your",
+      "start": 370.303,
+      "end": 370.443,
+      "scene": "18"
+    },
+    {
+      "text": "body.",
+      "start": 370.483,
+      "end": 370.743,
+      "scene": "18"
+    },
+    {
+      "text": "And",
+      "start": 371.303,
+      "end": 371.383,
+      "scene": "19"
+    },
+    {
+      "text": "while",
+      "start": 371.423,
+      "end": 371.604,
+      "scene": "19"
+    },
+    {
+      "text": "you",
+      "start": 371.644,
+      "end": 371.744,
+      "scene": "19"
+    },
+    {
+      "text": "lie",
+      "start": 371.784,
+      "end": 371.964,
+      "scene": "19"
+    },
+    {
+      "text": "around,",
+      "start": 372.004,
+      "end": 372.285,
+      "scene": "19"
+    },
+    {
+      "text": "something",
+      "start": 372.345,
+      "end": 372.625,
+      "scene": "19"
+    },
+    {
+      "text": "else",
+      "start": 372.645,
+      "end": 372.785,
+      "scene": "19"
+    },
+    {
+      "text": "keeps",
+      "start": 372.825,
+      "end": 373.026,
+      "scene": "19"
+    },
+    {
+      "text": "happening.",
+      "start": 373.066,
+      "end": 373.426,
+      "scene": "19"
+    },
+    {
+      "text": "From",
+      "start": 373.927,
+      "end": 374.047,
+      "scene": "19"
+    },
+    {
+      "text": "the",
+      "start": 374.087,
+      "end": 374.167,
+      "scene": "19"
+    },
+    {
+      "text": "moment",
+      "start": 374.207,
+      "end": 374.407,
+      "scene": "19"
+    },
+    {
+      "text": "you",
+      "start": 374.428,
+      "end": 374.548,
+      "scene": "19"
+    },
+    {
+      "text": "wake",
+      "start": 374.568,
+      "end": 374.748,
+      "scene": "19"
+    },
+    {
+      "text": "up,",
+      "start": 374.828,
+      "end": 374.908,
+      "scene": "19"
+    },
+    {
+      "text": "pressure",
+      "start": 375.429,
+      "end": 375.729,
+      "scene": "19"
+    },
+    {
+      "text": "to",
+      "start": 375.749,
+      "end": 375.829,
+      "scene": "19"
+    },
+    {
+      "text": "sleep",
+      "start": 375.89,
+      "end": 376.17,
+      "scene": "19"
+    },
+    {
+      "text": "slowly",
+      "start": 376.27,
+      "end": 376.691,
+      "scene": "19"
+    },
+    {
+      "text": "builds",
+      "start": 376.791,
+      "end": 377.131,
+      "scene": "19"
+    },
+    {
+      "text": "in",
+      "start": 377.171,
+      "end": 377.231,
+      "scene": "19"
+    },
+    {
+      "text": "your",
+      "start": 377.251,
+      "end": 377.392,
+      "scene": "19"
+    },
+    {
+      "text": "brain.",
+      "start": 377.412,
+      "end": 377.712,
+      "scene": "19"
+    },
+    {
+      "text": "It",
+      "start": 378.493,
+      "end": 378.573,
+      "scene": "19"
+    },
+    {
+      "text": "rises",
+      "start": 378.653,
+      "end": 379.094,
+      "scene": "19"
+    },
+    {
+      "text": "with",
+      "start": 379.134,
+      "end": 379.254,
+      "scene": "19"
+    },
+    {
+      "text": "time",
+      "start": 379.314,
+      "end": 379.535,
+      "scene": "19"
+    },
+    {
+      "text": "awake,",
+      "start": 379.595,
+      "end": 379.935,
+      "scene": "19"
+    },
+    {
+      "text": "whatever",
+      "start": 379.995,
+      "end": 380.296,
+      "scene": "19"
+    },
+    {
+      "text": "you",
+      "start": 380.336,
+      "end": 380.456,
+      "scene": "19"
+    },
+    {
+      "text": "do.",
+      "start": 380.476,
+      "end": 380.676,
+      "scene": "19"
+    },
+    {
+      "text": "A",
+      "start": 381.397,
+      "end": 381.437,
+      "scene": "19"
+    },
+    {
+      "text": "lazy",
+      "start": 381.517,
+      "end": 381.838,
+      "scene": "19"
+    },
+    {
+      "text": "day",
+      "start": 381.878,
+      "end": 382.058,
+      "scene": "19"
+    },
+    {
+      "text": "doesn't",
+      "start": 382.098,
+      "end": 382.338,
+      "scene": "19"
+    },
+    {
+      "text": "pause",
+      "start": 382.439,
+      "end": 382.759,
+      "scene": "19"
+    },
+    {
+      "text": "it.",
+      "start": 382.799,
+      "end": 382.859,
+      "scene": "19"
+    },
+    {
+      "text": "To",
+      "start": 383.96,
+      "end": 384.02,
+      "scene": "20"
+    },
+    {
+      "text": "be",
+      "start": 384.06,
+      "end": 384.14,
+      "scene": "20"
+    },
+    {
+      "text": "fair,",
+      "start": 384.2,
+      "end": 384.46,
+      "scene": "20"
+    },
+    {
+      "text": "not",
+      "start": 384.56,
+      "end": 384.66,
+      "scene": "20"
+    },
+    {
+      "text": "every",
+      "start": 384.7,
+      "end": 384.86,
+      "scene": "20"
+    },
+    {
+      "text": "tired",
+      "start": 384.9,
+      "end": 385.181,
+      "scene": "20"
+    },
+    {
+      "text": "Sunday",
+      "start": 385.221,
+      "end": 385.461,
+      "scene": "20"
+    },
+    {
+      "text": "is",
+      "start": 385.481,
+      "end": 385.541,
+      "scene": "20"
+    },
+    {
+      "text": "about",
+      "start": 385.561,
+      "end": 385.741,
+      "scene": "20"
+    },
+    {
+      "text": "boredom.",
+      "start": 385.821,
+      "end": 386.181,
+      "scene": "20"
+    },
+    {
+      "text": "If",
+      "start": 386.761,
+      "end": 386.821,
+      "scene": "20"
+    },
+    {
+      "text": "you",
+      "start": 386.841,
+      "end": 386.981,
+      "scene": "20"
+    },
+    {
+      "text": "slept",
+      "start": 387.001,
+      "end": 387.201,
+      "scene": "20"
+    },
+    {
+      "text": "badly",
+      "start": 387.241,
+      "end": 387.582,
+      "scene": "20"
+    },
+    {
+      "text": "all",
+      "start": 387.622,
+      "end": 387.742,
+      "scene": "20"
+    },
+    {
+      "text": "week,",
+      "start": 387.782,
+      "end": 387.942,
+      "scene": "20"
+    },
+    {
+      "text": "your",
+      "start": 388.282,
+      "end": 388.402,
+      "scene": "20"
+    },
+    {
+      "text": "body",
+      "start": 388.442,
+      "end": 388.682,
+      "scene": "20"
+    },
+    {
+      "text": "may",
+      "start": 388.702,
+      "end": 388.822,
+      "scene": "20"
+    },
+    {
+      "text": "simply",
+      "start": 388.882,
+      "end": 389.182,
+      "scene": "20"
+    },
+    {
+      "text": "need",
+      "start": 389.302,
+      "end": 389.562,
+      "scene": "20"
+    },
+    {
+      "text": "sleep.",
+      "start": 389.743,
+      "end": 390.063,
+      "scene": "20"
+    },
+    {
+      "text": "If",
+      "start": 390.763,
+      "end": 390.823,
+      "scene": "20"
+    },
+    {
+      "text": "you're",
+      "start": 390.843,
+      "end": 390.983,
+      "scene": "20"
+    },
+    {
+      "text": "getting",
+      "start": 391.003,
+      "end": 391.203,
+      "scene": "20"
+    },
+    {
+      "text": "sick,",
+      "start": 391.283,
+      "end": 391.523,
+      "scene": "20"
+    },
+    {
+      "text": "tiredness",
+      "start": 391.944,
+      "end": 392.384,
+      "scene": "20"
+    },
+    {
+      "text": "is",
+      "start": 392.444,
+      "end": 392.504,
+      "scene": "20"
+    },
+    {
+      "text": "one",
+      "start": 392.544,
+      "end": 392.624,
+      "scene": "20"
+    },
+    {
+      "text": "of",
+      "start": 392.664,
+      "end": 392.704,
+      "scene": "20"
+    },
+    {
+      "text": "the",
+      "start": 392.724,
+      "end": 392.824,
+      "scene": "20"
+    },
+    {
+      "text": "first",
+      "start": 392.924,
+      "end": 393.184,
+      "scene": "20"
+    },
+    {
+      "text": "signs.",
+      "start": 393.244,
+      "end": 393.624,
+      "scene": "20"
+    },
+    {
+      "text": "And",
+      "start": 394.245,
+      "end": 394.345,
+      "scene": "20"
+    },
+    {
+      "text": "feeling",
+      "start": 394.405,
+      "end": 394.705,
+      "scene": "20"
+    },
+    {
+      "text": "flat",
+      "start": 394.765,
+      "end": 395.005,
+      "scene": "20"
+    },
+    {
+      "text": "for",
+      "start": 395.045,
+      "end": 395.145,
+      "scene": "20"
+    },
+    {
+      "text": "a",
+      "start": 395.165,
+      "end": 395.185,
+      "scene": "20"
+    },
+    {
+      "text": "long",
+      "start": 395.225,
+      "end": 395.405,
+      "scene": "20"
+    },
+    {
+      "text": "time",
+      "start": 395.445,
+      "end": 395.625,
+      "scene": "20"
+    },
+    {
+      "text": "can",
+      "start": 395.665,
+      "end": 395.785,
+      "scene": "20"
+    },
+    {
+      "text": "be",
+      "start": 395.805,
+      "end": 395.905,
+      "scene": "20"
+    },
+    {
+      "text": "part",
+      "start": 395.965,
+      "end": 396.125,
+      "scene": "20"
+    },
+    {
+      "text": "of",
+      "start": 396.165,
+      "end": 396.225,
+      "scene": "20"
+    },
+    {
+      "text": "low",
+      "start": 396.305,
+      "end": 396.485,
+      "scene": "20"
+    },
+    {
+      "text": "mood.",
+      "start": 396.546,
+      "end": 396.846,
+      "scene": "20"
+    },
+    {
+      "text": "Those",
+      "start": 397.546,
+      "end": 397.726,
+      "scene": "20"
+    },
+    {
+      "text": "are",
+      "start": 397.766,
+      "end": 397.866,
+      "scene": "20"
+    },
+    {
+      "text": "real",
+      "start": 397.986,
+      "end": 398.206,
+      "scene": "20"
+    },
+    {
+      "text": "causes",
+      "start": 398.266,
+      "end": 398.686,
+      "scene": "20"
+    },
+    {
+      "text": "too.",
+      "start": 398.726,
+      "end": 398.967,
+      "scene": "20"
+    },
+    {
+      "text": "Rest",
+      "start": 399.787,
+      "end": 400.087,
+      "scene": "20"
+    },
+    {
+      "text": "and",
+      "start": 400.187,
+      "end": 400.287,
+      "scene": "20"
+    },
+    {
+      "text": "care",
+      "start": 400.367,
+      "end": 400.727,
+      "scene": "20"
+    },
+    {
+      "text": "are",
+      "start": 400.827,
+      "end": 400.927,
+      "scene": "20"
+    },
+    {
+      "text": "the",
+      "start": 400.947,
+      "end": 401.047,
+      "scene": "20"
+    },
+    {
+      "text": "right",
+      "start": 401.087,
+      "end": 401.268,
+      "scene": "20"
+    },
+    {
+      "text": "answer",
+      "start": 401.328,
+      "end": 401.608,
+      "scene": "20"
+    },
+    {
+      "text": "there.",
+      "start": 401.648,
+      "end": 401.828,
+      "scene": "20"
+    },
+    {
+      "text": "But",
+      "start": 402.588,
+      "end": 402.668,
+      "scene": "20"
+    },
+    {
+      "text": "if",
+      "start": 402.708,
+      "end": 402.748,
+      "scene": "20"
+    },
+    {
+      "text": "you",
+      "start": 402.768,
+      "end": 402.928,
+      "scene": "20"
+    },
+    {
+      "text": "slept",
+      "start": 402.948,
+      "end": 403.208,
+      "scene": "20"
+    },
+    {
+      "text": "fine,",
+      "start": 403.268,
+      "end": 403.589,
+      "scene": "20"
+    },
+    {
+      "text": "and",
+      "start": 404.089,
+      "end": 404.149,
+      "scene": "20"
+    },
+    {
+      "text": "you're",
+      "start": 404.169,
+      "end": 404.329,
+      "scene": "20"
+    },
+    {
+      "text": "healthy,",
+      "start": 404.349,
+      "end": 404.709,
+      "scene": "20"
+    },
+    {
+      "text": "and",
+      "start": 405.069,
+      "end": 405.149,
+      "scene": "20"
+    },
+    {
+      "text": "you",
+      "start": 405.169,
+      "end": 405.289,
+      "scene": "20"
+    },
+    {
+      "text": "still",
+      "start": 405.309,
+      "end": 405.469,
+      "scene": "20"
+    },
+    {
+      "text": "feel",
+      "start": 405.489,
+      "end": 405.669,
+      "scene": "20"
+    },
+    {
+      "text": "drained",
+      "start": 405.729,
+      "end": 406.03,
+      "scene": "20"
+    },
+    {
+      "text": "after",
+      "start": 406.07,
+      "end": 406.25,
+      "scene": "20"
+    },
+    {
+      "text": "doing",
+      "start": 406.29,
+      "end": 406.49,
+      "scene": "20"
+    },
+    {
+      "text": "nothing?",
+      "start": 406.53,
+      "end": 406.83,
+      "scene": "20"
+    },
+    {
+      "text": "That's",
+      "start": 407.65,
+      "end": 407.85,
+      "scene": "20"
+    },
+    {
+      "text": "usually",
+      "start": 407.97,
+      "end": 408.271,
+      "scene": "20"
+    },
+    {
+      "text": "the",
+      "start": 408.331,
+      "end": 408.411,
+      "scene": "20"
+    },
+    {
+      "text": "signal",
+      "start": 408.531,
+      "end": 408.851,
+      "scene": "20"
+    },
+    {
+      "text": "talking.",
+      "start": 408.891,
+      "end": 409.231,
+      "scene": "20"
+    },
+    {
+      "text": "So,",
+      "start": 409.871,
+      "end": 410.031,
+      "scene": "21"
+    },
+    {
+      "text": "the",
+      "start": 410.111,
+      "end": 410.191,
+      "scene": "21"
+    },
+    {
+      "text": "answer",
+      "start": 410.271,
+      "end": 410.592,
+      "scene": "21"
+    },
+    {
+      "text": "is",
+      "start": 410.692,
+      "end": 410.772,
+      "scene": "21"
+    },
+    {
+      "text": "B.",
+      "start": 410.852,
+      "end": 411.112,
+      "scene": "21"
+    },
+    {
+      "text": "Tiredness",
+      "start": 411.952,
+      "end": 412.433,
+      "scene": "21"
+    },
+    {
+      "text": "isn't",
+      "start": 412.533,
+      "end": 412.773,
+      "scene": "21"
+    },
+    {
+      "text": "a",
+      "start": 412.933,
+      "end": 412.953,
+      "scene": "21"
+    },
+    {
+      "text": "battery",
+      "start": 413.033,
+      "end": 413.393,
+      "scene": "21"
+    },
+    {
+      "text": "reading.",
+      "start": 413.433,
+      "end": 413.693,
+      "scene": "21"
+    },
+    {
+      "text": "It's",
+      "start": 413.753,
+      "end": 413.874,
+      "scene": "21"
+    },
+    {
+      "text": "a",
+      "start": 414.354,
+      "end": 414.374,
+      "scene": "21"
+    },
+    {
+      "text": "signal",
+      "start": 414.494,
+      "end": 414.814,
+      "scene": "21"
+    },
+    {
+      "text": "your",
+      "start": 414.834,
+      "end": 414.994,
+      "scene": "21"
+    },
+    {
+      "text": "brain",
+      "start": 415.034,
+      "end": 415.314,
+      "scene": "21"
+    },
+    {
+      "text": "creates.",
+      "start": 415.394,
+      "end": 415.775,
+      "scene": "21"
+    },
+    {
+      "text": "An",
+      "start": 416.535,
+      "end": 416.615,
+      "scene": "21"
+    },
+    {
+      "text": "empty",
+      "start": 416.675,
+      "end": 416.895,
+      "scene": "21"
+    },
+    {
+      "text": "day",
+      "start": 416.935,
+      "end": 417.116,
+      "scene": "21"
+    },
+    {
+      "text": "hits",
+      "start": 417.156,
+      "end": 417.336,
+      "scene": "21"
+    },
+    {
+      "text": "every",
+      "start": 417.436,
+      "end": 417.616,
+      "scene": "21"
+    },
+    {
+      "text": "switch",
+      "start": 417.676,
+      "end": 417.876,
+      "scene": "21"
+    },
+    {
+      "text": "at",
+      "start": 417.916,
+      "end": 417.976,
+      "scene": "21"
+    },
+    {
+      "text": "once.",
+      "start": 418.076,
+      "end": 418.236,
+      "scene": "21"
+    },
+    {
+      "text": "Boredom.",
+      "start": 418.857,
+      "end": 419.317,
+      "scene": "21"
+    },
+    {
+      "text": "Hardly",
+      "start": 419.577,
+      "end": 419.817,
+      "scene": "21"
+    },
+    {
+      "text": "any",
+      "start": 419.857,
+      "end": 419.997,
+      "scene": "21"
+    },
+    {
+      "text": "movement.",
+      "start": 420.057,
+      "end": 420.398,
+      "scene": "21"
+    },
+    {
+      "text": "And",
+      "start": 420.818,
+      "end": 420.898,
+      "scene": "21"
+    },
+    {
+      "text": "a",
+      "start": 420.938,
+      "end": 420.958,
+      "scene": "21"
+    },
+    {
+      "text": "body",
+      "start": 421.038,
+      "end": 421.298,
+      "scene": "21"
+    },
+    {
+      "text": "clock",
+      "start": 421.318,
+      "end": 421.558,
+      "scene": "21"
+    },
+    {
+      "text": "knocked",
+      "start": 421.678,
+      "end": 421.938,
+      "scene": "21"
+    },
+    {
+      "text": "off",
+      "start": 421.978,
+      "end": 422.099,
+      "scene": "21"
+    },
+    {
+      "text": "schedule.",
+      "start": 422.119,
+      "end": 422.479,
+      "scene": "21"
+    },
+    {
+      "text": "A",
+      "start": 423.399,
+      "end": 423.519,
+      "scene": "21"
+    },
+    {
+      "text": "is",
+      "start": 423.579,
+      "end": 423.68,
+      "scene": "21"
+    },
+    {
+      "text": "wrong,",
+      "start": 423.74,
+      "end": 424.04,
+      "scene": "21"
+    },
+    {
+      "text": "because",
+      "start": 424.1,
+      "end": 424.36,
+      "scene": "21"
+    },
+    {
+      "text": "lying",
+      "start": 424.78,
+      "end": 425.04,
+      "scene": "21"
+    },
+    {
+      "text": "still",
+      "start": 425.08,
+      "end": 425.28,
+      "scene": "21"
+    },
+    {
+      "text": "saves",
+      "start": 425.32,
+      "end": 425.581,
+      "scene": "21"
+    },
+    {
+      "text": "almost",
+      "start": 425.641,
+      "end": 425.901,
+      "scene": "21"
+    },
+    {
+      "text": "no",
+      "start": 426.101,
+      "end": 426.281,
+      "scene": "21"
+    },
+    {
+      "text": "energy.",
+      "start": 426.381,
+      "end": 426.761,
+      "scene": "21"
+    },
+    {
+      "text": "And",
+      "start": 427.362,
+      "end": 427.462,
+      "scene": "21"
+    },
+    {
+      "text": "C",
+      "start": 427.522,
+      "end": 427.662,
+      "scene": "21"
+    },
+    {
+      "text": "is",
+      "start": 427.702,
+      "end": 427.782,
+      "scene": "21"
+    },
+    {
+      "text": "only",
+      "start": 427.802,
+      "end": 427.982,
+      "scene": "21"
+    },
+    {
+      "text": "half",
+      "start": 428.022,
+      "end": 428.202,
+      "scene": "21"
+    },
+    {
+      "text": "right.",
+      "start": 428.262,
+      "end": 428.482,
+      "scene": "21"
+    },
+    {
+      "text": "It's",
+      "start": 428.983,
+      "end": 429.103,
+      "scene": "21"
+    },
+    {
+      "text": "not",
+      "start": 429.123,
+      "end": 429.263,
+      "scene": "21"
+    },
+    {
+      "text": "the",
+      "start": 429.303,
+      "end": 429.383,
+      "scene": "21"
+    },
+    {
+      "text": "amount",
+      "start": 429.443,
+      "end": 429.743,
+      "scene": "21"
+    },
+    {
+      "text": "of",
+      "start": 429.783,
+      "end": 429.843,
+      "scene": "21"
+    },
+    {
+      "text": "sleep.",
+      "start": 429.923,
+      "end": 430.183,
+      "scene": "21"
+    },
+    {
+      "text": "It's",
+      "start": 430.223,
+      "end": 430.364,
+      "scene": "21"
+    },
+    {
+      "text": "the",
+      "start": 430.564,
+      "end": 430.664,
+      "scene": "21"
+    },
+    {
+      "text": "timing.",
+      "start": 430.724,
+      "end": 431.104,
+      "scene": "21"
+    },
+    {
+      "text": "So",
+      "start": 431.704,
+      "end": 431.804,
+      "scene": "22"
+    },
+    {
+      "text": "how",
+      "start": 431.844,
+      "end": 431.904,
+      "scene": "22"
+    },
+    {
+      "text": "do",
+      "start": 431.924,
+      "end": 431.984,
+      "scene": "22"
+    },
+    {
+      "text": "you",
+      "start": 432.004,
+      "end": 432.084,
+      "scene": "22"
+    },
+    {
+      "text": "rest",
+      "start": 432.165,
+      "end": 432.365,
+      "scene": "22"
+    },
+    {
+      "text": "without",
+      "start": 432.385,
+      "end": 432.625,
+      "scene": "22"
+    },
+    {
+      "text": "feeling",
+      "start": 432.665,
+      "end": 432.945,
+      "scene": "22"
+    },
+    {
+      "text": "drained?",
+      "start": 432.985,
+      "end": 433.366,
+      "scene": "22"
+    },
+    {
+      "text": "First,",
+      "start": 434.226,
+      "end": 434.507,
+      "scene": "22"
+    },
+    {
+      "text": "think",
+      "start": 434.967,
+      "end": 435.147,
+      "scene": "22"
+    },
+    {
+      "text": "of",
+      "start": 435.187,
+      "end": 435.267,
+      "scene": "22"
+    },
+    {
+      "text": "rest",
+      "start": 435.367,
+      "end": 435.647,
+      "scene": "22"
+    },
+    {
+      "text": "as",
+      "start": 435.868,
+      "end": 435.968,
+      "scene": "22"
+    },
+    {
+      "text": "switching,",
+      "start": 436.288,
+      "end": 436.728,
+      "scene": "22"
+    },
+    {
+      "text": "not",
+      "start": 437.109,
+      "end": 437.289,
+      "scene": "22"
+    },
+    {
+      "text": "shutting",
+      "start": 437.629,
+      "end": 437.929,
+      "scene": "22"
+    },
+    {
+      "text": "down.",
+      "start": 437.969,
+      "end": 438.23,
+      "scene": "22"
+    },
+    {
+      "text": "Pick",
+      "start": 438.95,
+      "end": 439.09,
+      "scene": "22"
+    },
+    {
+      "text": "something",
+      "start": 439.13,
+      "end": 439.371,
+      "scene": "22"
+    },
+    {
+      "text": "that",
+      "start": 439.391,
+      "end": 439.511,
+      "scene": "22"
+    },
+    {
+      "text": "grabs",
+      "start": 439.551,
+      "end": 439.811,
+      "scene": "22"
+    },
+    {
+      "text": "your",
+      "start": 439.851,
+      "end": 439.951,
+      "scene": "22"
+    },
+    {
+      "text": "attention",
+      "start": 439.971,
+      "end": 440.351,
+      "scene": "22"
+    },
+    {
+      "text": "and",
+      "start": 440.391,
+      "end": 440.472,
+      "scene": "22"
+    },
+    {
+      "text": "means",
+      "start": 440.492,
+      "end": 440.672,
+      "scene": "22"
+    },
+    {
+      "text": "something",
+      "start": 440.712,
+      "end": 441.012,
+      "scene": "22"
+    },
+    {
+      "text": "to",
+      "start": 441.052,
+      "end": 441.112,
+      "scene": "22"
+    },
+    {
+      "text": "you.",
+      "start": 441.152,
+      "end": 441.292,
+      "scene": "22"
+    },
+    {
+      "text": "Drawing,",
+      "start": 441.973,
+      "end": 442.413,
+      "scene": "22"
+    },
+    {
+      "text": "cooking,",
+      "start": 442.513,
+      "end": 442.894,
+      "scene": "22"
+    },
+    {
+      "text": "a",
+      "start": 443.054,
+      "end": 443.074,
+      "scene": "22"
+    },
+    {
+      "text": "call",
+      "start": 443.114,
+      "end": 443.294,
+      "scene": "22"
+    },
+    {
+      "text": "with",
+      "start": 443.314,
+      "end": 443.414,
+      "scene": "22"
+    },
+    {
+      "text": "a",
+      "start": 443.454,
+      "end": 443.494,
+      "scene": "22"
+    },
+    {
+      "text": "friend.",
+      "start": 443.554,
+      "end": 443.874,
+      "scene": "22"
+    },
+    {
+      "text": "Not",
+      "start": 444.395,
+      "end": 444.535,
+      "scene": "22"
+    },
+    {
+      "text": "just",
+      "start": 444.555,
+      "end": 444.735,
+      "scene": "22"
+    },
+    {
+      "text": "more",
+      "start": 444.815,
+      "end": 445.035,
+      "scene": "22"
+    },
+    {
+      "text": "scrolling.",
+      "start": 445.095,
+      "end": 445.536,
+      "scene": "22"
+    },
+    {
+      "text": "Second,",
+      "start": 446.196,
+      "end": 446.497,
+      "scene": "22"
+    },
+    {
+      "text": "move",
+      "start": 446.717,
+      "end": 446.957,
+      "scene": "22"
+    },
+    {
+      "text": "a",
+      "start": 446.977,
+      "end": 447.017,
+      "scene": "22"
+    },
+    {
+      "text": "little.",
+      "start": 447.057,
+      "end": 447.257,
+      "scene": "22"
+    },
+    {
+      "text": "A",
+      "start": 448.038,
+      "end": 448.078,
+      "scene": "22"
+    },
+    {
+      "text": "walk",
+      "start": 448.118,
+      "end": 448.398,
+      "scene": "22"
+    },
+    {
+      "text": "or",
+      "start": 448.458,
+      "end": 448.538,
+      "scene": "22"
+    },
+    {
+      "text": "an",
+      "start": 448.558,
+      "end": 448.618,
+      "scene": "22"
+    },
+    {
+      "text": "easy",
+      "start": 448.719,
+      "end": 448.959,
+      "scene": "22"
+    },
+    {
+      "text": "bike",
+      "start": 449.039,
+      "end": 449.239,
+      "scene": "22"
+    },
+    {
+      "text": "ride",
+      "start": 449.279,
+      "end": 449.459,
+      "scene": "22"
+    },
+    {
+      "text": "counts.",
+      "start": 449.519,
+      "end": 449.819,
+      "scene": "22"
+    },
+    {
+      "text": "In",
+      "start": 450.66,
+      "end": 450.72,
+      "scene": "22"
+    },
+    {
+      "text": "that",
+      "start": 450.76,
+      "end": 450.9,
+      "scene": "22"
+    },
+    {
+      "text": "study,",
+      "start": 450.96,
+      "end": 451.261,
+      "scene": "22"
+    },
+    {
+      "text": "easy",
+      "start": 451.681,
+      "end": 451.981,
+      "scene": "22"
+    },
+    {
+      "text": "was",
+      "start": 452.041,
+      "end": 452.201,
+      "scene": "22"
+    },
+    {
+      "text": "enough.",
+      "start": 452.261,
+      "end": 452.482,
+      "scene": "22"
+    },
+    {
+      "text": "Third,",
+      "start": 453.122,
+      "end": 453.402,
+      "scene": "22"
+    },
+    {
+      "text": "try",
+      "start": 453.743,
+      "end": 453.903,
+      "scene": "22"
+    },
+    {
+      "text": "to",
+      "start": 453.923,
+      "end": 453.983,
+      "scene": "22"
+    },
+    {
+      "text": "wake",
+      "start": 454.023,
+      "end": 454.183,
+      "scene": "22"
+    },
+    {
+      "text": "up",
+      "start": 454.223,
+      "end": 454.283,
+      "scene": "22"
+    },
+    {
+      "text": "close",
+      "start": 454.343,
+      "end": 454.583,
+      "scene": "22"
+    },
+    {
+      "text": "to",
+      "start": 454.643,
+      "end": 454.704,
+      "scene": "22"
+    },
+    {
+      "text": "your",
+      "start": 454.744,
+      "end": 454.884,
+      "scene": "22"
+    },
+    {
+      "text": "usual",
+      "start": 454.964,
+      "end": 455.264,
+      "scene": "22"
+    },
+    {
+      "text": "time,",
+      "start": 455.304,
+      "end": 455.564,
+      "scene": "22"
+    },
+    {
+      "text": "even",
+      "start": 455.684,
+      "end": 455.824,
+      "scene": "22"
+    },
+    {
+      "text": "on",
+      "start": 455.885,
+      "end": 455.965,
+      "scene": "22"
+    },
+    {
+      "text": "weekends.",
+      "start": 455.985,
+      "end": 456.385,
+      "scene": "22"
+    },
+    {
+      "text": "Next",
+      "start": 456.945,
+      "end": 457.085,
+      "scene": "23"
+    },
+    {
+      "text": "Sunday,",
+      "start": 457.125,
+      "end": 457.365,
+      "scene": "23"
+    },
+    {
+      "text": "you",
+      "start": 457.385,
+      "end": 457.505,
+      "scene": "23"
+    },
+    {
+      "text": "wake",
+      "start": 457.525,
+      "end": 457.665,
+      "scene": "23"
+    },
+    {
+      "text": "up",
+      "start": 457.705,
+      "end": 457.785,
+      "scene": "23"
+    },
+    {
+      "text": "at",
+      "start": 457.826,
+      "end": 457.886,
+      "scene": "23"
+    },
+    {
+      "text": "nine,",
+      "start": 457.966,
+      "end": 458.266,
+      "scene": "23"
+    },
+    {
+      "text": "not",
+      "start": 458.546,
+      "end": 458.686,
+      "scene": "23"
+    },
+    {
+      "text": "eleven.",
+      "start": 458.726,
+      "end": 459.046,
+      "scene": "23"
+    },
+    {
+      "text": "You",
+      "start": 459.546,
+      "end": 459.666,
+      "scene": "23"
+    },
+    {
+      "text": "go",
+      "start": 459.686,
+      "end": 459.786,
+      "scene": "23"
+    },
+    {
+      "text": "for",
+      "start": 459.807,
+      "end": 459.907,
+      "scene": "23"
+    },
+    {
+      "text": "a",
+      "start": 459.947,
+      "end": 459.967,
+      "scene": "23"
+    },
+    {
+      "text": "short",
+      "start": 460.027,
+      "end": 460.227,
+      "scene": "23"
+    },
+    {
+      "text": "walk.",
+      "start": 460.267,
+      "end": 460.527,
+      "scene": "23"
+    },
+    {
+      "text": "You",
+      "start": 461.047,
+      "end": 461.167,
+      "scene": "23"
+    },
+    {
+      "text": "spend",
+      "start": 461.207,
+      "end": 461.387,
+      "scene": "23"
+    },
+    {
+      "text": "an",
+      "start": 461.427,
+      "end": 461.507,
+      "scene": "23"
+    },
+    {
+      "text": "hour",
+      "start": 461.547,
+      "end": 461.808,
+      "scene": "23"
+    },
+    {
+      "text": "building",
+      "start": 461.888,
+      "end": 462.168,
+      "scene": "23"
+    },
+    {
+      "text": "something",
+      "start": 462.208,
+      "end": 462.448,
+      "scene": "23"
+    },
+    {
+      "text": "you",
+      "start": 462.468,
+      "end": 462.588,
+      "scene": "23"
+    },
+    {
+      "text": "care",
+      "start": 462.628,
+      "end": 462.868,
+      "scene": "23"
+    },
+    {
+      "text": "about.",
+      "start": 462.908,
+      "end": 463.128,
+      "scene": "23"
+    },
+    {
+      "text": "You",
+      "start": 463.688,
+      "end": 463.809,
+      "scene": "23"
+    },
+    {
+      "text": "still",
+      "start": 463.829,
+      "end": 463.969,
+      "scene": "23"
+    },
+    {
+      "text": "watch",
+      "start": 464.009,
+      "end": 464.169,
+      "scene": "23"
+    },
+    {
+      "text": "a",
+      "start": 464.229,
+      "end": 464.269,
+      "scene": "23"
+    },
+    {
+      "text": "show.",
+      "start": 464.309,
+      "end": 464.549,
+      "scene": "23"
+    },
+    {
+      "text": "You",
+      "start": 464.729,
+      "end": 464.829,
+      "scene": "23"
+    },
+    {
+      "text": "still",
+      "start": 464.849,
+      "end": 465.009,
+      "scene": "23"
+    },
+    {
+      "text": "check",
+      "start": 465.049,
+      "end": 465.209,
+      "scene": "23"
+    },
+    {
+      "text": "your",
+      "start": 465.229,
+      "end": 465.349,
+      "scene": "23"
+    },
+    {
+      "text": "phone.",
+      "start": 465.369,
+      "end": 465.689,
+      "scene": "23"
+    },
+    {
+      "text": "But",
+      "start": 466.61,
+      "end": 466.75,
+      "scene": "23"
+    },
+    {
+      "text": "at",
+      "start": 466.81,
+      "end": 466.89,
+      "scene": "23"
+    },
+    {
+      "text": "six",
+      "start": 466.97,
+      "end": 467.19,
+      "scene": "23"
+    },
+    {
+      "text": "in",
+      "start": 467.21,
+      "end": 467.27,
+      "scene": "23"
+    },
+    {
+      "text": "the",
+      "start": 467.31,
+      "end": 467.39,
+      "scene": "23"
+    },
+    {
+      "text": "evening,",
+      "start": 467.47,
+      "end": 467.771,
+      "scene": "23"
+    },
+    {
+      "text": "you",
+      "start": 468.071,
+      "end": 468.191,
+      "scene": "23"
+    },
+    {
+      "text": "notice",
+      "start": 468.231,
+      "end": 468.491,
+      "scene": "23"
+    },
+    {
+      "text": "something.",
+      "start": 468.511,
+      "end": 468.811,
+      "scene": "23"
+    },
+    {
+      "text": "You're",
+      "start": 469.351,
+      "end": 469.531,
+      "scene": "23"
+    },
+    {
+      "text": "not",
+      "start": 469.551,
+      "end": 469.651,
+      "scene": "23"
+    },
+    {
+      "text": "exhausted.",
+      "start": 469.692,
+      "end": 470.172,
+      "scene": "23"
+    },
+    {
+      "text": "You",
+      "start": 470.192,
+      "end": 470.312,
+      "scene": "23"
+    },
+    {
+      "text": "actually",
+      "start": 470.352,
+      "end": 470.632,
+      "scene": "23"
+    },
+    {
+      "text": "feel",
+      "start": 470.692,
+      "end": 470.892,
+      "scene": "23"
+    },
+    {
+      "text": "awake.",
+      "start": 470.932,
+      "end": 471.232,
+      "scene": "23"
+    },
+    {
+      "text": "You",
+      "start": 471.833,
+      "end": 471.913,
+      "scene": "23"
+    },
+    {
+      "text": "didn't",
+      "start": 471.933,
+      "end": 472.153,
+      "scene": "23"
+    },
+    {
+      "text": "need",
+      "start": 472.193,
+      "end": 472.353,
+      "scene": "23"
+    },
+    {
+      "text": "more",
+      "start": 472.393,
+      "end": 472.573,
+      "scene": "23"
+    },
+    {
+      "text": "rest.",
+      "start": 472.633,
+      "end": 472.953,
+      "scene": "23"
+    },
+    {
+      "text": "You",
+      "start": 473.173,
+      "end": 473.293,
+      "scene": "23"
+    },
+    {
+      "text": "needed",
+      "start": 473.333,
+      "end": 473.573,
+      "scene": "23"
+    },
+    {
+      "text": "a",
+      "start": 473.593,
+      "end": 473.613,
+      "scene": "23"
+    },
+    {
+      "text": "better",
+      "start": 473.894,
+      "end": 474.174,
+      "scene": "23"
+    },
+    {
+      "text": "kind.",
+      "start": 474.214,
+      "end": 474.514,
+      "scene": "23"
+    },
+    {
+      "text": "If",
+      "start": 475.094,
+      "end": 475.154,
+      "scene": "24"
+    },
+    {
+      "text": "you",
+      "start": 475.174,
+      "end": 475.275,
+      "scene": "24"
+    },
+    {
+      "text": "feel",
+      "start": 475.315,
+      "end": 475.475,
+      "scene": "24"
+    },
+    {
+      "text": "tired",
+      "start": 475.535,
+      "end": 475.816,
+      "scene": "24"
+    },
+    {
+      "text": "for",
+      "start": 475.856,
+      "end": 475.976,
+      "scene": "24"
+    },
+    {
+      "text": "weeks,",
+      "start": 476.016,
+      "end": 476.256,
+      "scene": "24"
+    },
+    {
+      "text": "even",
+      "start": 476.477,
+      "end": 476.637,
+      "scene": "24"
+    },
+    {
+      "text": "with",
+      "start": 476.677,
+      "end": 476.777,
+      "scene": "24"
+    },
+    {
+      "text": "enough",
+      "start": 476.818,
+      "end": 477.018,
+      "scene": "24"
+    },
+    {
+      "text": "sleep",
+      "start": 477.098,
+      "end": 477.359,
+      "scene": "24"
+    },
+    {
+      "text": "and",
+      "start": 477.419,
+      "end": 477.499,
+      "scene": "24"
+    },
+    {
+      "text": "rest,",
+      "start": 477.539,
+      "end": 477.86,
+      "scene": "24"
+    },
+    {
+      "text": "it's",
+      "start": 478.481,
+      "end": 478.621,
+      "scene": "24"
+    },
+    {
+      "text": "worth",
+      "start": 478.661,
+      "end": 478.882,
+      "scene": "24"
+    },
+    {
+      "text": "talking",
+      "start": 478.942,
+      "end": 479.262,
+      "scene": "24"
+    },
+    {
+      "text": "to",
+      "start": 479.302,
+      "end": 479.363,
+      "scene": "24"
+    },
+    {
+      "text": "a",
+      "start": 479.403,
+      "end": 479.443,
+      "scene": "24"
+    },
+    {
+      "text": "doctor.",
+      "start": 479.483,
+      "end": 479.864,
+      "scene": "24"
+    },
+    {
+      "text": "Sometimes",
+      "start": 480.445,
+      "end": 480.785,
+      "scene": "24"
+    },
+    {
+      "text": "tiredness",
+      "start": 480.866,
+      "end": 481.286,
+      "scene": "24"
+    },
+    {
+      "text": "is",
+      "start": 481.326,
+      "end": 481.407,
+      "scene": "24"
+    },
+    {
+      "text": "your",
+      "start": 481.447,
+      "end": 481.567,
+      "scene": "24"
+    },
+    {
+      "text": "brain's",
+      "start": 481.607,
+      "end": 481.908,
+      "scene": "24"
+    },
+    {
+      "text": "message.",
+      "start": 481.948,
+      "end": 482.308,
+      "scene": "24"
+    },
+    {
+      "text": "Sometimes",
+      "start": 482.99,
+      "end": 483.35,
+      "scene": "24"
+    },
+    {
+      "text": "it's",
+      "start": 483.391,
+      "end": 483.491,
+      "scene": "24"
+    },
+    {
+      "text": "your",
+      "start": 483.511,
+      "end": 483.631,
+      "scene": "24"
+    },
+    {
+      "text": "body's.",
+      "start": 483.671,
+      "end": 484.012,
+      "scene": "24"
+    }
+  ],
+  "sentences": [
+    {
+      "text": "It's Sunday.",
+      "start": 4.5,
+      "end": 5.02,
+      "scene": "02"
+    },
+    {
+      "text": "You wake up at eleven.",
+      "start": 5.04,
+      "end": 5.84,
+      "scene": "02"
+    },
+    {
+      "text": "No plans.",
+      "start": 5.88,
+      "end": 6.481,
+      "scene": "02"
+    },
+    {
+      "text": "No homework due.",
+      "start": 6.941,
+      "end": 7.621,
+      "scene": "02"
+    },
+    {
+      "text": "Nobody needs you for anything.",
+      "start": 8.101,
+      "end": 9.181,
+      "scene": "02"
+    },
+    {
+      "text": "You move from the bed to the couch.",
+      "start": 10.242,
+      "end": 11.782,
+      "scene": "02"
+    },
+    {
+      "text": "A show.",
+      "start": 12.322,
+      "end": 12.722,
+      "scene": "02"
+    },
+    {
+      "text": "Your phone.",
+      "start": 13.182,
+      "end": 13.702,
+      "scene": "02"
+    },
+    {
+      "text": "Another show.",
+      "start": 14.123,
+      "end": 14.723,
+      "scene": "02"
+    },
+    {
+      "text": "A snack.",
+      "start": 15.023,
+      "end": 15.483,
+      "scene": "02"
+    },
+    {
+      "text": "You never even leave the house.",
+      "start": 16.123,
+      "end": 17.203,
+      "scene": "02"
+    },
+    {
+      "text": "By six in the evening, something strange happens.",
+      "start": 18.304,
+      "end": 20.584,
+      "scene": "02"
+    },
+    {
+      "text": "You feel exhausted.",
+      "start": 20.964,
+      "end": 21.945,
+      "scene": "02"
+    },
+    {
+      "text": "Heavy.",
+      "start": 22.065,
+      "end": 22.385,
+      "scene": "02"
+    },
+    {
+      "text": "Like you ran a marathon.",
+      "start": 22.925,
+      "end": 23.925,
+      "scene": "02"
+    },
+    {
+      "text": "But you didn't run anything.",
+      "start": 24.665,
+      "end": 25.586,
+      "scene": "02"
+    },
+    {
+      "text": "You barely stood up.",
+      "start": 25.626,
+      "end": 26.866,
+      "scene": "02"
+    },
+    {
+      "text": "Now think about Monday.",
+      "start": 27.926,
+      "end": 28.766,
+      "scene": "03"
+    },
+    {
+      "text": "School all day.",
+      "start": 29.347,
+      "end": 29.967,
+      "scene": "03"
+    },
+    {
+      "text": "Then football after class.",
+      "start": 30.387,
+      "end": 31.628,
+      "scene": "03"
+    },
+    {
+      "text": "You should be wrecked.",
+      "start": 31.888,
+      "end": 32.768,
+      "scene": "03"
+    },
+    {
+      "text": "And yet, that evening, you feel more awake.",
+      "start": 33.168,
+      "end": 36.15,
+      "scene": "03"
+    },
+    {
+      "text": "A busy day leaves you buzzing.",
+      "start": 37.19,
+      "end": 38.871,
+      "scene": "03"
+    },
+    {
+      "text": "An empty day leaves you drained.",
+      "start": 39.691,
+      "end": 41.212,
+      "scene": "03"
+    },
+    {
+      "text": "That's backwards, isn't it?",
+      "start": 42.012,
+      "end": 43.053,
+      "scene": "03"
+    },
+    {
+      "text": "If tiredness meant you used up your energy, resting should fill you up.",
+      "start": 43.593,
+      "end": 47.094,
+      "scene": "03"
+    },
+    {
+      "text": "So what's going on?",
+      "start": 47.815,
+      "end": 48.535,
+      "scene": "03"
+    },
+    {
+      "text": "Let's collect some clues.",
+      "start": 49.055,
+      "end": 50.015,
+      "scene": "04"
+    },
+    {
+      "text": "Clue one.",
+      "start": 50.676,
+      "end": 51.116,
+      "scene": "04"
+    },
+    {
+      "text": "Your brain is about two percent of your body weight.",
+      "start": 52.036,
+      "end": 53.957,
+      "scene": "04"
+    },
+    {
+      "text": "But it uses about twenty percent of your body's energy.",
+      "start": 54.557,
+      "end": 57.098,
+      "scene": "04"
+    },
+    {
+      "text": "Here's the surprise.",
+      "start": 57.579,
+      "end": 58.399,
+      "scene": "04"
+    },
+    {
+      "text": "It uses that energy all the time, even at rest.",
+      "start": 58.799,
+      "end": 61.46,
+      "scene": "04"
+    },
+    {
+      "text": "When you do a hard mental task, the change is small.",
+      "start": 62.321,
+      "end": 64.862,
+      "scene": "04"
+    },
+    {
+      "text": "Blood flow to the busy brain areas often rises by five percent or less.",
+      "start": 65.562,
+      "end": 69.483,
+      "scene": "04"
+    },
+    {
+      "text": "Lying on the couch doesn't switch your brain into power saving mode.",
+      "start": 70.344,
+      "end": 73.145,
+      "scene": "04"
+    },
+    {
+      "text": "Clue two.",
+      "start": 73.625,
+      "end": 74.105,
+      "scene": "05"
+    },
+    {
+      "text": "In one study, people did a long, dull monitoring task.",
+      "start": 74.846,
+      "end": 77.768,
+      "scene": "05"
+    },
+    {
+      "text": "They watched a screen and responded to targets for over an hour.",
+      "start": 78.148,
+      "end": 81.27,
+      "scene": "05"
+    },
+    {
+      "text": "As time went on, their reactions got slower.",
+      "start": 82.09,
+      "end": 83.971,
+      "scene": "05"
+    },
+    {
+      "text": "Their heart rate slowed down too.",
+      "start": 84.412,
+      "end": 85.733,
+      "scene": "05"
+    },
+    {
+      "text": "Their bodies were winding down, not working harder.",
+      "start": 86.333,
+      "end": 89.475,
+      "scene": "05"
+    },
+    {
+      "text": "And when the researchers asked how it felt?",
+      "start": 90.215,
+      "end": 91.956,
+      "scene": "05"
+    },
+    {
+      "text": "It sounded less like hard work, and more like boredom.",
+      "start": 92.757,
+      "end": 96.139,
+      "scene": "05"
+    },
+    {
+      "text": "Clue three.",
+      "start": 96.719,
+      "end": 97.279,
+      "scene": "06"
+    },
+    {
+      "text": "In twenty fourteen, psychologists asked people to do something very simple.",
+      "start": 98.12,
+      "end": 101.663,
+      "scene": "06"
+    },
+    {
+      "text": "Sit alone in a room for six to fifteen minutes.",
+      "start": 102.463,
+      "end": 104.705,
+      "scene": "06"
+    },
+    {
+      "text": "No phone.",
+      "start": 105.325,
+      "end": 105.826,
+      "scene": "06"
+    },
+    {
+      "text": "Just think.",
+      "start": 106.206,
+      "end": 107.027,
+      "scene": "06"
+    },
+    {
+      "text": "Most people did not enjoy it.",
+      "start": 108.067,
+      "end": 109.188,
+      "scene": "06"
+    },
+    {
+      "text": "In one version, people could press a button to give themselves a mild electric shock.",
+      "start": 109.969,
+      "end": 113.571,
+      "scene": "06"
+    },
+    {
+      "text": "Twelve out of eighteen men pressed it at least once.",
+      "start": 114.432,
+      "end": 116.593,
+      "scene": "06"
+    },
+    {
+      "text": "So did six out of twenty-four women.",
+      "start": 117.514,
+      "end": 119.195,
+      "scene": "06"
+    },
+    {
+      "text": "Some people chose pain over doing nothing at all.",
+      "start": 120.156,
+      "end": 122.818,
+      "scene": "06"
+    },
+    {
+      "text": "Clue four.",
+      "start": 123.378,
+      "end": 123.918,
+      "scene": "07"
+    },
+    {
+      "text": "Researchers found thirty-six young adults who felt tired all the time.",
+      "start": 124.619,
+      "end": 128.362,
+      "scene": "07"
+    },
+    {
+      "text": "They were healthy, but they barely exercised.",
+      "start": 129.022,
+      "end": 131.604,
+      "scene": "07"
+    },
+    {
+      "text": "Some rode an exercise bike for twenty minutes, three times a week, for six weeks.",
+      "start": 132.384,
+      "end": 136.227,
+      "scene": "07"
+    },
+    {
+      "text": "Some rode at a moderate pace.",
+      "start": 136.948,
+      "end": 138.148,
+      "scene": "07"
+    },
+    {
+      "text": "Some rode at a very easy pace.",
+      "start": 138.829,
+      "end": 140.47,
+      "scene": "07"
+    },
+    {
+      "text": "And some didn't exercise at all.",
+      "start": 141.151,
+      "end": 142.692,
+      "scene": "07"
+    },
+    {
+      "text": "Both groups who rode felt more energetic.",
+      "start": 143.432,
+      "end": 145.394,
+      "scene": "07"
+    },
+    {
+      "text": "The easy riders felt the biggest drop in fatigue.",
+      "start": 146.094,
+      "end": 148.576,
+      "scene": "07"
+    },
+    {
+      "text": "And it wasn't because they got fitter.",
+      "start": 149.356,
+      "end": 150.917,
+      "scene": "07"
+    },
+    {
+      "text": "Their fitness change didn't explain it.",
+      "start": 151.638,
+      "end": 153.94,
+      "scene": "07"
+    },
+    {
+      "text": "So here's the question.",
+      "start": 155.02,
+      "end": 155.781,
+      "scene": "08"
+    },
+    {
+      "text": "Why do you feel tired after a day of doing nothing?",
+      "start": 156.281,
+      "end": 158.544,
+      "scene": "08"
+    },
+    {
+      "text": "Is it A.",
+      "start": 159.204,
+      "end": 159.625,
+      "scene": "08"
+    },
+    {
+      "text": "Your body still burned through its energy, and your battery ran low?",
+      "start": 159.725,
+      "end": 163.068,
+      "scene": "08"
+    },
+    {
+      "text": "B.",
+      "start": 163.709,
+      "end": 163.949,
+      "scene": "08"
+    },
+    {
+      "text": "Tiredness isn't a battery.",
+      "start": 164.369,
+      "end": 165.791,
+      "scene": "08"
+    },
+    {
+      "text": "It's a signal your brain sends, and an empty day sets it off?",
+      "start": 166.291,
+      "end": 169.475,
+      "scene": "08"
+    },
+    {
+      "text": "Or C.",
+      "start": 170.536,
+      "end": 171.517,
+      "scene": "08"
+    },
+    {
+      "text": "You slept too much, and extra sleep makes you tired?",
+      "start": 172.037,
+      "end": 174.76,
+      "scene": "08"
+    },
+    {
+      "text": "Pause the video and take a guess.",
+      "start": 175.321,
+      "end": 176.608,
+      "scene": "09"
+    },
+    {
+      "text": "Here's the key idea.",
+      "start": 185.76,
+      "end": 186.581,
+      "scene": "10"
+    },
+    {
+      "text": "Think about hunger.",
+      "start": 187.142,
+      "end": 187.882,
+      "scene": "10"
+    },
+    {
+      "text": "You don't feel hungry only when your body runs out of fuel.",
+      "start": 188.443,
+      "end": 190.765,
+      "scene": "10"
+    },
+    {
+      "text": "You feel hungry when you smell pizza.",
+      "start": 191.346,
+      "end": 193.348,
+      "scene": "10"
+    },
+    {
+      "text": "Or when it's lunchtime.",
+      "start": 193.908,
+      "end": 194.789,
+      "scene": "10"
+    },
+    {
+      "text": "Hunger is a message your brain creates to steer what you do.",
+      "start": 195.61,
+      "end": 198.153,
+      "scene": "10"
+    },
+    {
+      "text": "Many researchers think tiredness works in a similar way.",
+      "start": 198.934,
+      "end": 201.616,
+      "scene": "10"
+    },
+    {
+      "text": "It's not a fuel gauge.",
+      "start": 202.217,
+      "end": 203.178,
+      "scene": "10"
+    },
+    {
+      "text": "It's a signal.",
+      "start": 203.558,
+      "end": 204.179,
+      "scene": "10"
+    },
+    {
+      "text": "Start with the battery idea.",
+      "start": 204.699,
+      "end": 205.78,
+      "scene": "11"
+    },
+    {
+      "text": "If your brain were a phone battery, a lazy day would charge it up.",
+      "start": 206.4,
+      "end": 209.863,
+      "scene": "11"
+    },
+    {
+      "text": "But your brain uses roughly the same energy whether you're solving puzzles or staring at a wall.",
+      "start": 210.563,
+      "end": 215.047,
+      "scene": "11"
+    },
+    {
+      "text": "So a day on the couch doesn't save much fuel.",
+      "start": 215.807,
+      "end": 217.689,
+      "scene": "11"
+    },
+    {
+      "text": "And a busy day doesn't drain much extra.",
+      "start": 218.329,
+      "end": 220.171,
+      "scene": "11"
+    },
+    {
+      "text": "The feeling of tiredness must be coming from somewhere else.",
+      "start": 220.851,
+      "end": 223.353,
+      "scene": "11"
+    },
+    {
+      "text": "One influential idea goes like this.",
+      "start": 224.013,
+      "end": 225.434,
+      "scene": "12"
+    },
+    {
+      "text": "Your brain keeps asking: is this the best use of my time right now?",
+      "start": 226.014,
+      "end": 229.396,
+      "scene": "12"
+    },
+    {
+      "text": "When the answer is no, you start to feel effort and fatigue.",
+      "start": 230.176,
+      "end": 233.418,
+      "scene": "12"
+    },
+    {
+      "text": "It's your brain nudging you to switch to something else.",
+      "start": 234.018,
+      "end": 236.339,
+      "scene": "12"
+    },
+    {
+      "text": "Think of a boring class versus a game you love.",
+      "start": 237.099,
+      "end": 239.621,
+      "scene": "12"
+    },
+    {
+      "text": "Same hour, same brain.",
+      "start": 240.221,
+      "end": 241.421,
+      "scene": "12"
+    },
+    {
+      "text": "One feels endless.",
+      "start": 241.842,
+      "end": 242.842,
+      "scene": "12"
+    },
+    {
+      "text": "The other flies by.",
+      "start": 243.442,
+      "end": 244.343,
+      "scene": "12"
+    },
+    {
+      "text": "This is still a hypothesis, and scientists debate it.",
+      "start": 245.203,
+      "end": 247.724,
+      "scene": "12"
+    },
+    {
+      "text": "But it explains a lot.",
+      "start": 248.245,
+      "end": 249.345,
+      "scene": "12"
+    },
+    {
+      "text": "Tiredness can be about value, not just fuel.",
+      "start": 250.066,
+      "end": 252.847,
+      "scene": "12"
+    },
+    {
+      "text": "Now add boredom.",
+      "start": 253.467,
+      "end": 254.709,
+      "scene": "13"
+    },
+    {
+      "text": "Psychologists describe boredom as a signal too.",
+      "start": 255.49,
+      "end": 257.613,
+      "scene": "13"
+    },
+    {
+      "text": "It appears when your attention can't really grab onto anything.",
+      "start": 258.334,
+      "end": 260.817,
+      "scene": "13"
+    },
+    {
+      "text": "That can happen when there's too little going on, or too much.",
+      "start": 261.498,
+      "end": 264.522,
+      "scene": "13"
+    },
+    {
+      "text": "It also appears when what you're doing doesn't feel meaningful to you.",
+      "start": 265.123,
+      "end": 267.887,
+      "scene": "13"
+    },
+    {
+      "text": "And boredom often feels a lot like being tired.",
+      "start": 268.507,
+      "end": 270.41,
+      "scene": "13"
+    },
+    {
+      "text": "Here's the sneaky part.",
+      "start": 270.97,
+      "end": 271.871,
+      "scene": "14"
+    },
+    {
+      "text": "A day on your phone doesn't feel empty.",
+      "start": 272.471,
+      "end": 273.992,
+      "scene": "14"
+    },
+    {
+      "text": "It's full of videos and noise.",
+      "start": 274.213,
+      "end": 275.674,
+      "scene": "14"
+    },
+    {
+      "text": "But lots of input isn't the same as being engaged.",
+      "start": 276.254,
+      "end": 278.656,
+      "scene": "14"
+    },
+    {
+      "text": "Clip after clip, your attention never really settles.",
+      "start": 279.457,
+      "end": 281.959,
+      "scene": "14"
+    },
+    {
+      "text": "And very little of it matters to you.",
+      "start": 282.619,
+      "end": 284.281,
+      "scene": "14"
+    },
+    {
+      "text": "So your brain lights up both warning lights at once.",
+      "start": 284.841,
+      "end": 287.063,
+      "scene": "14"
+    },
+    {
+      "text": "Remember the dull monitoring task?",
+      "start": 287.783,
+      "end": 289.485,
+      "scene": "15"
+    },
+    {
+      "text": "When nothing interesting happens, your body seems to power down.",
+      "start": 290.266,
+      "end": 293.53,
+      "scene": "15"
+    },
+    {
+      "text": "Your heart slows.",
+      "start": 293.931,
+      "end": 294.752,
+      "scene": "15"
+    },
+    {
+      "text": "You feel heavy and sleepy.",
+      "start": 295.273,
+      "end": 296.634,
+      "scene": "15"
+    },
+    {
+      "text": "Not because you worked hard.",
+      "start": 297.255,
+      "end": 298.296,
+      "scene": "15"
+    },
+    {
+      "text": "Because almost nothing asked you to wake up.",
+      "start": 298.657,
+      "end": 301.16,
+      "scene": "15"
+    },
+    {
+      "text": "And remember the people who couldn't sit still?",
+      "start": 301.7,
+      "end": 303.362,
+      "scene": "16"
+    },
+    {
+      "text": "The main finding was later tested with over two and a half thousand people in eleven countries.",
+      "start": 304.302,
+      "end": 308.566,
+      "scene": "16"
+    },
+    {
+      "text": "In every country, people enjoyed doing something more than just sitting with their thoughts.",
+      "start": 309.287,
+      "end": 313.171,
+      "scene": "16"
+    },
+    {
+      "text": "So doing nothing isn't automatically restful.",
+      "start": 314.051,
+      "end": 316.333,
+      "scene": "16"
+    },
+    {
+      "text": "For most of us, it's actually kind of unpleasant.",
+      "start": 316.934,
+      "end": 318.996,
+      "scene": "16"
+    },
+    {
+      "text": "Now the bike clue.",
+      "start": 319.576,
+      "end": 320.237,
+      "scene": "17"
+    },
+    {
+      "text": "One small study is easy to doubt.",
+      "start": 320.877,
+      "end": 322.478,
+      "scene": "17"
+    },
+    {
+      "text": "But it's not alone.",
+      "start": 322.558,
+      "end": 323.319,
+      "scene": "17"
+    },
+    {
+      "text": "In twenty oh six, researchers combined seventy trials with nearly seven thousand people.",
+      "start": 323.899,
+      "end": 328.823,
+      "scene": "17"
+    },
+    {
+      "text": "Regular exercise made people feel more energetic and less tired.",
+      "start": 329.663,
+      "end": 332.645,
+      "scene": "17"
+    },
+    {
+      "text": "A newer review in twenty twenty-two, with eighty-one studies, found the same pattern.",
+      "start": 333.426,
+      "end": 337.929,
+      "scene": "17"
+    },
+    {
+      "text": "The effect is small to moderate.",
+      "start": 338.69,
+      "end": 340.191,
+      "scene": "17"
+    },
+    {
+      "text": "It's not magic.",
+      "start": 340.311,
+      "end": 341.152,
+      "scene": "17"
+    },
+    {
+      "text": "But moving seems to tell your brain that the day is worth being awake for.",
+      "start": 341.632,
+      "end": 344.534,
+      "scene": "17"
+    },
+    {
+      "text": "There's one more piece.",
+      "start": 345.114,
+      "end": 345.934,
+      "scene": "18"
+    },
+    {
+      "text": "Your body clock.",
+      "start": 346.475,
+      "end": 347.335,
+      "scene": "18"
+    },
+    {
+      "text": "On school days, you sleep from eleven to seven.",
+      "start": 347.975,
+      "end": 350.096,
+      "scene": "18"
+    },
+    {
+      "text": "On Sunday, you sleep from two to eleven.",
+      "start": 350.516,
+      "end": 352.757,
+      "scene": "18"
+    },
+    {
+      "text": "That's like flying to another time zone for the weekend.",
+      "start": 353.477,
+      "end": 355.678,
+      "scene": "18"
+    },
+    {
+      "text": "Then on Monday morning, you fly right back.",
+      "start": 356.398,
+      "end": 358.819,
+      "scene": "18"
+    },
+    {
+      "text": "Scientists call it social jetlag.",
+      "start": 359.319,
+      "end": 361.26,
+      "scene": "18"
+    },
+    {
+      "text": "In surveys, people with more of it tend to sleep worse and feel worse.",
+      "start": 361.82,
+      "end": 365.681,
+      "scene": "18"
+    },
+    {
+      "text": "So the problem isn't sleeping too much.",
+      "start": 366.502,
+      "end": 368.002,
+      "scene": "18"
+    },
+    {
+      "text": "It's sleeping at the wrong time for your body.",
+      "start": 368.522,
+      "end": 370.743,
+      "scene": "18"
+    },
+    {
+      "text": "And while you lie around, something else keeps happening.",
+      "start": 371.303,
+      "end": 373.426,
+      "scene": "19"
+    },
+    {
+      "text": "From the moment you wake up, pressure to sleep slowly builds in your brain.",
+      "start": 373.927,
+      "end": 377.712,
+      "scene": "19"
+    },
+    {
+      "text": "It rises with time awake, whatever you do.",
+      "start": 378.493,
+      "end": 380.676,
+      "scene": "19"
+    },
+    {
+      "text": "A lazy day doesn't pause it.",
+      "start": 381.397,
+      "end": 382.859,
+      "scene": "19"
+    },
+    {
+      "text": "To be fair, not every tired Sunday is about boredom.",
+      "start": 383.96,
+      "end": 386.181,
+      "scene": "20"
+    },
+    {
+      "text": "If you slept badly all week, your body may simply need sleep.",
+      "start": 386.761,
+      "end": 390.063,
+      "scene": "20"
+    },
+    {
+      "text": "If you're getting sick, tiredness is one of the first signs.",
+      "start": 390.763,
+      "end": 393.624,
+      "scene": "20"
+    },
+    {
+      "text": "And feeling flat for a long time can be part of low mood.",
+      "start": 394.245,
+      "end": 396.846,
+      "scene": "20"
+    },
+    {
+      "text": "Those are real causes too.",
+      "start": 397.546,
+      "end": 398.967,
+      "scene": "20"
+    },
+    {
+      "text": "Rest and care are the right answer there.",
+      "start": 399.787,
+      "end": 401.828,
+      "scene": "20"
+    },
+    {
+      "text": "But if you slept fine, and you're healthy, and you still feel drained after doing nothing?",
+      "start": 402.588,
+      "end": 406.83,
+      "scene": "20"
+    },
+    {
+      "text": "That's usually the signal talking.",
+      "start": 407.65,
+      "end": 409.231,
+      "scene": "20"
+    },
+    {
+      "text": "So, the answer is B.",
+      "start": 409.871,
+      "end": 411.112,
+      "scene": "21"
+    },
+    {
+      "text": "Tiredness isn't a battery reading.",
+      "start": 411.952,
+      "end": 413.693,
+      "scene": "21"
+    },
+    {
+      "text": "It's a signal your brain creates.",
+      "start": 413.753,
+      "end": 415.775,
+      "scene": "21"
+    },
+    {
+      "text": "An empty day hits every switch at once.",
+      "start": 416.535,
+      "end": 418.236,
+      "scene": "21"
+    },
+    {
+      "text": "Boredom.",
+      "start": 418.857,
+      "end": 419.317,
+      "scene": "21"
+    },
+    {
+      "text": "Hardly any movement.",
+      "start": 419.577,
+      "end": 420.398,
+      "scene": "21"
+    },
+    {
+      "text": "And a body clock knocked off schedule.",
+      "start": 420.818,
+      "end": 422.479,
+      "scene": "21"
+    },
+    {
+      "text": "A is wrong, because lying still saves almost no energy.",
+      "start": 423.399,
+      "end": 426.761,
+      "scene": "21"
+    },
+    {
+      "text": "And C is only half right.",
+      "start": 427.362,
+      "end": 428.482,
+      "scene": "21"
+    },
+    {
+      "text": "It's not the amount of sleep.",
+      "start": 428.983,
+      "end": 430.183,
+      "scene": "21"
+    },
+    {
+      "text": "It's the timing.",
+      "start": 430.223,
+      "end": 431.104,
+      "scene": "21"
+    },
+    {
+      "text": "So how do you rest without feeling drained?",
+      "start": 431.704,
+      "end": 433.366,
+      "scene": "22"
+    },
+    {
+      "text": "First, think of rest as switching, not shutting down.",
+      "start": 434.226,
+      "end": 438.23,
+      "scene": "22"
+    },
+    {
+      "text": "Pick something that grabs your attention and means something to you.",
+      "start": 438.95,
+      "end": 441.292,
+      "scene": "22"
+    },
+    {
+      "text": "Drawing, cooking, a call with a friend.",
+      "start": 441.973,
+      "end": 443.874,
+      "scene": "22"
+    },
+    {
+      "text": "Not just more scrolling.",
+      "start": 444.395,
+      "end": 445.536,
+      "scene": "22"
+    },
+    {
+      "text": "Second, move a little.",
+      "start": 446.196,
+      "end": 447.257,
+      "scene": "22"
+    },
+    {
+      "text": "A walk or an easy bike ride counts.",
+      "start": 448.038,
+      "end": 449.819,
+      "scene": "22"
+    },
+    {
+      "text": "In that study, easy was enough.",
+      "start": 450.66,
+      "end": 452.482,
+      "scene": "22"
+    },
+    {
+      "text": "Third, try to wake up close to your usual time, even on weekends.",
+      "start": 453.122,
+      "end": 456.385,
+      "scene": "22"
+    },
+    {
+      "text": "Next Sunday, you wake up at nine, not eleven.",
+      "start": 456.945,
+      "end": 459.046,
+      "scene": "23"
+    },
+    {
+      "text": "You go for a short walk.",
+      "start": 459.546,
+      "end": 460.527,
+      "scene": "23"
+    },
+    {
+      "text": "You spend an hour building something you care about.",
+      "start": 461.047,
+      "end": 463.128,
+      "scene": "23"
+    },
+    {
+      "text": "You still watch a show.",
+      "start": 463.688,
+      "end": 464.549,
+      "scene": "23"
+    },
+    {
+      "text": "You still check your phone.",
+      "start": 464.729,
+      "end": 465.689,
+      "scene": "23"
+    },
+    {
+      "text": "But at six in the evening, you notice something.",
+      "start": 466.61,
+      "end": 468.811,
+      "scene": "23"
+    },
+    {
+      "text": "You're not exhausted.",
+      "start": 469.351,
+      "end": 470.172,
+      "scene": "23"
+    },
+    {
+      "text": "You actually feel awake.",
+      "start": 470.192,
+      "end": 471.232,
+      "scene": "23"
+    },
+    {
+      "text": "You didn't need more rest.",
+      "start": 471.833,
+      "end": 472.953,
+      "scene": "23"
+    },
+    {
+      "text": "You needed a better kind.",
+      "start": 473.173,
+      "end": 474.514,
+      "scene": "23"
+    },
+    {
+      "text": "If you feel tired for weeks, even with enough sleep and rest, it's worth talking to a doctor.",
+      "start": 475.094,
+      "end": 479.864,
+      "scene": "24"
+    },
+    {
+      "text": "Sometimes tiredness is your brain's message.",
+      "start": 480.445,
+      "end": 482.308,
+      "scene": "24"
+    },
+    {
+      "text": "Sometimes it's your body's.",
+      "start": 482.99,
+      "end": 484.012,
+      "scene": "24"
+    }
+  ]
+}

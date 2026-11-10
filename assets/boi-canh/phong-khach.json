@@ -1,0 +1,23 @@
+{
+  "nguon": "OpenAI Images API (gpt-image-2) — ảnh do AI tạo, ghi 'Ảnh minh họa' khi dùng",
+  "ngay": "2026-11-09",
+  "prompt": "Background for a 16:9 explainer video, wide landscape. Keep the right third mostly empty floor space where a character will stand. No people, no characters. a cozy living room on a bright sunny weekend morning: a soft sofa with cushions and a blanket, a TV on a low cabinet, a coffee table with snacks, a big window with daylight and blue sky, plants, a rug Style: clean modern children's book illustration, soft flat colors with gentle shading, clean warm-brown outlines, warm and friendly. Palette: off-white #F5F1E8, slate blue #13304A, mustard yellow #FFC145, water blue #4FB3E8, coral red #E8604C used sparingly, light wood. No text, no logo, no watermark.",
+  "ref": [
+    "assets/boi-canh/phong-ngu.png"
+  ],
+  "size": "1536x1024",
+  "quality": "high",
+  "usage": {
+    "input_tokens": 1676,
+    "input_tokens_details": {
+      "image_tokens": 1508,
+      "text_tokens": 168
+    },
+    "output_tokens": 5488,
+    "output_tokens_details": {
+      "image_tokens": 5488,
+      "text_tokens": 0
+    },
+    "total_tokens": 7164
+  }
+}

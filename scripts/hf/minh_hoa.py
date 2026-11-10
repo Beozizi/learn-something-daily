@@ -158,6 +158,7 @@ def music_plan(plan, lifts, lo=0.14, hi=0.35, xf=1.2):
     return build
 
 
-def run(builders, music_fn=None, subs=True):
-    """subs=True: in cứng phụ đề tiếng Anh (audio/phu-de.srt) lên trên mọi cảnh."""
-    core.run(builders, music_fn, subs=subs)
+def run(builders, music_fn=None, subs=True, mau=False):
+    """subs=True: in cứng phụ đề tiếng Anh (audio/phu-de.srt) lên trên mọi cảnh.
+    mau=True: nền tối hơn, dải màu rộng hơn (day_mau) — nhớ chạy day_mau.py cho ảnh."""
+    core.run(builders, music_fn, subs=subs, mau=mau)

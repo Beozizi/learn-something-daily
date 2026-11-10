@@ -49,7 +49,15 @@ Sound effect: "knife_chop.wav" by deleted_user_877451 (Freesound), CC BY 3.0 —
 |-----|------------------------------------------|------|
 | 1 | "YOUR BRAIN'S NIGHT SHIFT" · ngủ say · bộ não đội mũ bảo hộ quét dọn, xếp thẻ nhớ · đêm xanh, trăng | |
 | 2 | "WHY DO WE SLEEP?" · ngáp, ôm gối · trăng khuyết + Zzz · tím | |
-| 3 | "ALL-NIGHTER? BAD IDEA" · kiệt sức, quầng thâm · bàn học, cà phê, đồng hồ 3 giờ · phòng tối | |
+| 3 | "ALL-NIGHTER? BAD IDEA" · kiệt sức, quầng thâm · bàn học, cà phê, đồng hồ 3 giờ · phòng tối | ✅ |
 
 - [x] Chữ đúng chính tả, đọc được ở 320×180 (`xuat\thumbnail-nho.jpg`)
 - [x] Đã ghi vào `hinh\giay-phep.md`
+
+## Đã đăng
+
+SEO áp dụng 09/11/2026 theo `tap\seo-youtube-2026-11-09.md` (kênh @LearnSomethingDaily98, category Science & Technology, ngôn ngữ English, playlist "The Science of Everyday Life").
+
+| Nền tảng | Ngày | Link | Lượt xem 24h | Lượt xem 7 ngày |
+|----------|------|------|--------------|-----------------|
+| YouTube | lên lịch 09/11/2026 | https://youtu.be/vBlRZdA5V3Q | | |
